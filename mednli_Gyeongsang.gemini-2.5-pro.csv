@@ -1,1373 +1,1373 @@
 gold_label,sentence1_Gyeongsang,sentence2_Gyeongsang
-entailment,"ÀÀ±Þ½Ç¿¡¼­ ¸Ç Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â Ã¼¿ÂÀÌ 98.9µµ, ½É¹Ú¼ö 73È¸, Ç÷¾Ð 121/90, È£Èí¼ö 15È¸, ½Ç³» °ø±â¿¡¼­ »ê¼Ò Æ÷È­µµ´Â 98%·Î ³ª¿Ô½É´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ´Â ¾ÈÁ¤ÀûÀÔ´Ï´õ.
-contradiction,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â Ã¼¿ÂÀÌ 98.9µµ, ½É¹Ú¼ö 73È¸, Ç÷¾Ð 121/90, È£Èí¼ö 15È¸, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼Ò Æ÷È­µµ°¡ 98%¿´½É´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
-neutral,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â Ã¼¿ÂÀÌ 98.9µµ, ½É¹Ú¼ö´Â 73È¸, Ç÷¾ÐÀº 121/90, È£Èí¼ö´Â 15È¸, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼Ò Æ÷È­µµ´Â 98%¿´½É´õ.",È¯ÀÚ°¡ ¾ÆÇÁ´ÙÄ°´Ï´õ.
-entailment,"63¼¼ ¿©ÀÚ È¯ÀÚÀÎµ¥, ¸î ³â Àü¿¡ À§Àå ¿ìÈ¸ ¼ö¼úµµ ¹Þ¾Ò°í °íÁöÇ÷ÁõÀÌ¶û À§±Ë¾çµµ ¾Î¾Ò´Âµ¥, ÀÌ¹ø¿¡ ¼Óµµ ¾ó¸¶ ¾È ³ª´Â Â÷ »ç°í¸¦ ´çÇß½É´õ.",È¯ÀÚ´Â ±³Åë»ç°í¸¦ ´çÇß¾ú½É´õ.
-contradiction,"63¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, °íÄÝ·¹½ºÅ×·ÑÇ÷ÁõÇÏ°í À§±Ë¾ç ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸î ³â Àü¿¡ À§Àå ¿ìÈ¸ ¼ö¼úµµ ¹Þ¾Ò½É´õ. ÃÖ±Ù¿¡ ¼Óµµ ¾ó¸¶ ¾È ³ª´Â Â÷ »ç°í¸¦ ´çÇß³×¿¹.",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
-neutral,"63¼¼ ¿©ÀÚ È¯ÀÚÀÎµ¥, °íÄÝ·¹½ºÅ×·ÑÇ÷ÁõÇÏ°í À§±Ë¾ç º´·ÂÀÌ ÀÖ°í ¸î ³â Àü¿¡ À§Àå ¿ìÈ¸ ¼ö¼úµµ ¹Þ¾Ò½É´õ. ÃÖ±Ù¿¡ ¼Óµµ ¾ó¸¶ ¾È ³ª´Â Â÷ »ç°í¸¦ ´çÇß³×¿¹.",È¯ÀÚ´Â Å©°Ô ´ÙÄ£ µ¥´Â ¾ø½É´õ.
-entailment,"ÇöÀç ¾Î°í ÀÖ´Â º´: È¯ÀÚ´Â ½®³× »ì ³²ÀÚºÐÀÎµ¥, 1Çü ´ç´¢ ¶«¿¡ ¸»±â ½ÅÀå ÁúÈ¯À» ¾Î°í ÀÖ½É´õ. ÀÌ¹ø¿¡ ¸¶´©¶óÇÑÅ× ½ÅÀå ÀÌ½Ä ¹ÞÀ»¶ó²¿ º´¿ø¿¡ ¿Ô³×¿¹.",È¯ÀÚ´Â ÀÎ½¶¸° Ä¡·á ¹Þ°í ÀÖ½É´õ.
-contradiction,"ÇöÀç ¾Î°í ÀÖ´Â º´: È¯ÀÚ´Â ½®³× »ì ³²ÀÚºÐÀÎµ¥, 1Çü ´ç´¢ ¶«¿¡ ¸»±â ½ÅÀå ÁúÈ¯À» ¾Î°í ÀÖ½É´õ. È¯ÀÚ´Â ¸¶´©¶óÇÑÅ× ½ÅÀå ÀÌ½Ä ¹ÞÀ»¶ó²¿ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ ½ÅÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"ÇöÀç ¾Î°í ÀÖ´Â º´: È¯ÀÚ´Â 1Çü ´ç´¢ ¶«¿¡ ¸»±â ½ÅÀå ÁúÈ¯À» ¾Î°í ÀÖ´Â ½®³× »ì ³²ÀÚºÐÀÎµ¥, ¸¶´©¶óÇÑÅ× ½ÅÀå ÀÌ½Ä ¹ÞÀ»¶ó²¿ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ´ç´¢º´¼º ½Å°æº´ÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,"º´·Â: [**È¯ÀÚ ¼º**]Àº 33ÁÖ 6ÀÏ µÈ ³²ÀÚ ¾Æ·Î, ½ÖµÕÀÌ Áß µÑÂ°°í, 2749³â 6¿ù 23ÀÏ ¿ÀÈÄ 3½Ã 7ºÐ¿¡ ÀüÀÚ°£Áõ ¶«¿¡ Á¦¿ÕÀý°³·Î ÅÂ¾î³µ½É´õ. ¾ö¸¶´Â 34¼¼, ÀÓ½Å 1¹ø¿¡ Ãâ»ê 0¹ø, ÇöÀç ¾Æ µÑ ÀÖ´Â ¾ö¸¶°í, [**Name (NI) 2016**]Àº [**2749-8-5**]ÀÔ´Ï´õ.",È¯ÀÚ´Â ÀÏÂï ÅÂ¾î³­ ½ÖµÕÀÌ Áß¿¡ ÇÑ ¸íÀÔ´Ï´õ.
-contradiction,"º´·Â: [**È¯ÀÚÀÇ ¼º**]Àº 33ÁÖ 6ÀÏ µÈ ³²ÀÚ ¾Æ·Î, ½ÖµÕÀÌ Áß¿¡ µÑÂ°°í, [**2749-6-23**] ¿ÀÈÄ 3½Ã 7ºÐ¿¡ ÅÂ¾î³µ½É´õ. ¾ö¸¶°¡ ÀÓ½ÅÁßµ¶Áõ ¶«¿¡ Á¦¿ÕÀý°³·Î ³º¾Ò°í, ¾ö¸¶´Â 34¼¼, G1, ÆÄ¶ó 0, ÇöÀç ¾Æ µÑ ÀÖ½É´õ. ¾ö¸¶ [**ÀÌ¸§ (NI) 2016**]Àº [**2749-8-5**]ÀÔ´Ï´õ.",È¯ÀÚ´Â ¸¸»èÀÔ´Ï´õ.
-neutral,"º´·Â: [**È¯ÀÚ ¼º**]Àº 33ÁÖ 6ÀÏ µÈ ³²ÀÚ ¾Æ·Î, ½ÖµÕÀÌ Áß¿¡ µÑÂ°°í, [**2749-6-23**] ¿ÀÈÄ 3½Ã 7ºÐ¿¡ ÀüÀÚ°£Áõ(ÀÓ½ÅÁßµ¶Áõ) ¶«¿¡ Á¦¿ÕÀý°³·Î ÅÂ¾î³µ½É´õ. ¾ö¸¶´Â 34¼¼, ÀÓ½Å 1¹ø¿¡ Ãâ»ê 0¹ø, ÇöÀç ¾Æ µÑ ÀÖ´Â ¾ö¸¶°í, [**Name (NI) 2016**]Àº [**2749-8-5**]ÀÔ´Ï´õ.",È¯ÀÚ´Â ÀúÃ¼ÁßÀ¸·Î ÅÂ¾î³µ½É´õ.
-entailment,"±× »ç¶÷Àº ¸Ó¸® ¾ÆÇÁ°Å³ª, ÅäÇÏ°Å³ª, ¼Ó ¹Ì½»°Å¸®´Â °Ç ¾ø´Ù Äº½É´õ.",±× »ç¶÷Àº ¸Ó¸® ¾È ¾ÆÇÁ´ÙÄ°´Ï´õ.
-contradiction,±× »ç¶÷Àº ¸Ó¸® ¾ÆÇÁ°Å³ª ÅäÇÏ°Å³ª ¼Ó ¹Ì½»°Å¸° Àû ¾ø´Ù Äº½É´õ.,±× »ç¶÷Àº ÇÇ¸¦ ÅäÇÏ°í ÀÖ½É´õ.
-neutral,"±× »ç¶÷Àº ¸Ó¸® ¾ÆÇÁ°Å³ª, ÅäÇÏ°Å³ª, ¼Ó ¹Ì½»°Å¸° ÀûÀº ¾ø´Ù Äº½É´õ.",±× »ç¶÷Àº ¿­Àº ¾ø½É´õ.
-entailment,"Áö³­ º´·Â: ÀÎ½¶¸°À¸·Î Ä¡·á¹ÞÀº 2Çü ´ç´¢, À§½Äµµ ¿ª·ù ÁúÈ¯, »þÃ÷Å° ¸µ, [**2948**]³â¿¡ ³úÇ÷°ü »ç°í ¿Í¼­ ¿ÞÂÊÀ¸·Î ¹Ý½Å¸¶ºñ ¿Â °Å Äí¸¶µòÀ¸·Î Ä¡·á ÁßÀÌ°í, ÀÚ±Ã/³­¼Ò ÀüÃ¼ ÀýÁ¦¼ú, ¸»ÃÊ Ç÷°ü ÁúÈ¯, ¸ÍÀå ¶¾ Àû ÀÖ°í, [**9-/2953**]³â¿¡ °ü»óµ¿¸Æ ÁúÈ¯ ¶«¿¡ °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼ú ¹Þ¾Ò½É´õ. ÀÌ½ÄÀº ¿ÞÂÊ ³»Èäµ¿¸Æ¿¡¼­ ¿ÞÂÊ Àü¹æÇÏ°­µ¿¸ÆÀ¸·Î, ¿À¸¥ÂÊ Á¤¸Æ¿¡¼­ obtuse marginal number oneÀ¸·Î, ±Û°í ¹æ»çµ¿¸Æ¿¡¼­ µÚ·Î ³»·Á°¡´Â µ¿¸ÆÀ¸·Î ÀÌ½ÄµÇ¾ú½É´õ.",È¯ÀÚ´Â ¾Î°í ÀÖ´Â º´ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
-contradiction,"Áö³­ º´·Â: ÀÎ½¶¸°À¸·Î Ä¡·á¹ÞÀº 2Çü ´ç´¢, À§½Äµµ ¿ª·ùÁúÈ¯, »þÃ÷Å° ¸µ, [**2948**]³â¿¡ ³úÇ÷°ü »ç°í·Î ³²Àº ¿ÞÂÊ ¹Ý½Å¸¶ºñ Áõ»óÀº Äí¸¶µòÀ¸·Î Ä¡·áÇß¾ú°í, ÀÚ±ÃÀÌ¶û ¾çÂÊ ³­¼Ò Á¦°Å ¼ö¼ú(TAH/BSO), ¸»ÃÊÇ÷°ü ÁúÈ¯, ¸ÍÀå ¼ö¼ú ÀÚ±¹ ÀÖ°í, [**9-/2953**]³â¿¡ °ü»óµ¿¸Æ ÁúÈ¯À¸·Î ½ÉÀåµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä¼úÀ» ¹Þ¾Ò´Âµ¥, ¿ÞÂÊ ³»Èäµ¿¸Æ¿¡¼­ ¿ÞÂÊ Àü¹æÇÏ°­µ¿¸ÆÀ¸·Î, ¿À¸¥ÂÊ ´ëÅðÁ¤¸Æ ÀÌ½ÄºÎ¿¡¼­ obtuse marginal number one·Î, ±Û°í ¹æ»çµ¿¸Æ¿¡¼­ ÈÄ¹æÇÏ°­µ¿¸ÆÀ¸·Î ÀÌ½ÄÇß½É´õ.",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
-neutral,"°ú°Å º´·Â: ÀÎ½¶¸°À¸·Î Ä¡·áÇÑ 2Çü ´ç´¢, À§½Äµµ ¿ª·ù ÁúÈ¯, »þÃ÷Å° ¸µ, [**2948**]³â¿¡ ³úÇ÷°ü »ç°í ¶«¿¡ ³²Àº ¿ÞÂÊ ¹Ý½Å¸¶ºñ(Äí¸¶µòÀ¸·Î Ä¡·á), ÀÚ±Ã/³­¼Ò ÀüÃ¼ ÀýÁ¦¼ú(TAH/BSO), ¸»ÃÊ Ç÷°ü ÁúÈ¯, ¸ÍÀå ¶¾ Àû ÀÖ°í, [**9-/2953**]³â¿¡ °ü»ó µ¿¸Æ ÁúÈ¯À» ½ÉÀå °ü»ó µ¿¸Æ ¿ìÈ¸ ÀÌ½ÄÀ¸·Î Ä¡·áÇß´Âµ¥, ¿ÞÂÊ ³»Èäµ¿¸Æ¿¡¼­ ¿ÞÂÊ Àü¹æ ÇÏÇà µ¿¸ÆÀ¸·Î, ¿À¸¥ÂÊ ´ëÅð Á¤¸Æ ÀÌ½ÄÀ¸·Î obtuse marginal number oneÀ¸·Î, ±Û°í ¹æ»ç µ¿¸Æ¿¡¼­ µÚ·Î ³»·Á°¡´Â µ¿¸ÆÀ¸·Î ÀÌ½ÄµÇ¾ú½É´õ.",È¯ÀÚ´Â ºñ¸¸ÀÔ´Ï´õ.
-entailment,"º¸°í¼­ º¸ÀÌ±î ¸Ç Ã·¿¡ QTc´Â 410ÀÌ¾ú´Âµ¥ Áö±ÝÀº 475°í¿¹. ¸Ç Ã·¿¡ QRS´Â 82¿´´Âµ¥ Áö±ÝÀº 86ÀÌ°í, ½É¹Ú¼ö´Â 95ÀÔ´Ï´õ.",È¯ÀÚ EKG °á°ú°¡ ¾ÆÁÖ ÁÁ°Ô ³ª¿Ô½É´õ.
-contradiction,"º¸°í¼­ º¸ÀÌ±î ¸Ç Ã·¿¡ QTc´Â 410ÀÌ¾ú´Âµ¥ Áö±ÝÀº 475°í¿¹. ¸Ç Ã·¿¡ QRS´Â 82¿´´Âµ¥ Áö±ÝÀº 86ÀÌ°í, ½É¹Ú¼ö´Â 95ÀÔ´Ï´õ.",È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"º¸°í¼­¿¡ µû¸£¸ð, Ã·¿¡ QTc°¡ 410ÀÌ´ø ECG°¡ Áö±ÝÀº 475ÀÔ´Ï´õ. Ã·¿¡ QRS´Â 82¿´´Âµ¥, Áö±ÝÀº 86À¸·Î ÀçÁ³°í, ½É¹Ú¼ö´Â 95¶ó¿¹.",È¯ÀÚ´Â Çù½ÉÁõÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"ÀÀ±Þ½Ç¿¡ µµÂøÇßÀ» ¶§ T97 È¯ÀÚ Ç÷¾ÐÀÌ 184/94, ½É¹Ú¼ö 92, È£Èí¼ö 24¿´°í, ½Ç³» °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 88%¿´´Âµ¥ NRB ¾²´Ï±î 98%·Î ¿Ã¶ú½Ê´Ï´õ.",È¯ÀÚ´Â ÀÀ±Þ½Ç¿¡¼­ °íÇ÷¾ÐÀÌ ÀÖ¾ú½Ê´Ï´õ.
-contradiction,"ED¿¡ µµÂøÇßÀ» ¶§ T97 BP´Â 184/94, HRÀº 92, RRÀº 24°í, RA »óÅÂ¿¡¼­ 88%¿´´Âµ¥ NRB ¾²´Ï±î 98%·Î ¿Ã¶ú½Ê´Ï´õ.",È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â ÀÀ±Þ½Ç¿¡¼­ Á¤»óÀÌ¾ú½Ê´Ï´õ.
-neutral,ED µµÂøÇßÀ» ¶§ T97 BP 184/94 HR 92 RR 24 RA¿¡¼­ 88% -> NRB¿¡¼­ 98%ÀÔ´Ï´õ.,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"ºñÈ°¼ºÈ­µÈ ºÎºñµ¿¿°ÇÏ°í Ãµ½Ä, ´Ü¼øÇì¸£Æä½º¹ÙÀÌ·¯½º-1 [**2572**]",È¯ÀÚ´Â Çì¸£Æä½º ¹ÙÀÌ·¯½º¿¡ °É·È½Ê´Ï´õ.
-contradiction,"ºñÈ°¼ºÈ­µÈ ºÎºñµ¿¿°, Ãµ½Ä, ´Ü¼øÇì¸£Æä½º¹ÙÀÌ·¯½º 1Çü [**2572**]",È¯ÀÚ´Â ¹ÙÀÌ·¯½º °¨¿°µÈ ÀûÀÌ ¾ø½Ê´Ï´õ.
-neutral,"ºñÈ°¼ºÈ­µÈ ºÎºñµ¿¿°ÇÏ°í Ãµ½Ä, ´Ü¼øÇì¸£Æä½º¹ÙÀÌ·¯½º 1Çü [**2572**]",È¯ÀÚ´Â ÀÔ ÁÖµð¿¡ ±¸¼ø Çì¸£Æä½º ¹ßÁøÀÌ ³µ½Ê´Ï´õ.
-entailment,°ú°Å º´·Â: 2Çü ´ç´¢º´.,È¯ÀÚ´Â 2Çü ´ç´¢º´ÀÌ ÀÖ´Ù.
-contradiction,°ú°Å º´·Â: 2Çü ´ç´¢º´.,È¯ÀÚ´Â 1Çü ´ç´¢º´ÀÌ ÀÖ½Ê´Ï´õ.
-neutral,°ú°Å º´·Â: 2Çü ´ç´¢º´.,È¯ÀÚ´Â ÀÎ½¶¸° Ä¡·á¸¦ ¹Þ°í ÀÖ½Ê´Ï´õ.
-entailment,"±× ¾ç¹Ý Ã·¿¡´Â ¼ö¼ú ¾È ÇÒ¶ó Äº´Âµ¥, °¡½¿ ¾ÆÇÂ ±â ÀÚ²Ù ´Ã¾î³ª°í ÀÖ½Ê´Ï´õ.",±× »ç¶÷ °¡½¿ ¾ÆÇÂ ±â Á¡Á¡ ´õ ½ÉÇØÁö°í ÀÖ´Ù.
-contradiction,"±× ¾ç¹Ý Ã·¿¡´Â ¼ö¼ú ¾È ÇÒ¶ó Äº´Âµ¥, °¡½¿ ¾ÆÇÂ ±â ÀÚ²Ù ´Ã¾î³ª°í ÀÖ½Ê´Ï´õ.",±× »ç¶÷Àº °¡½¿Àº ¾È ¾ÆÇÁ´ÙÄ°´Ï´õ.
-neutral,"±× ¾ç¹Ý Ã·¿¡´Â ¼ö¼ú ¾È ÇÒ¶ó Äº´Âµ¥, °¡½¿ ¾ÆÇÂ ±â ÀÚ²Ù ´Ã¾î³ª°í ÀÖ½Ê´Ï´õ.",±× »ç¶÷Àº °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"ÀÌ È¯ÀÚ´Â 68¼¼ ¿©ÀÚºÐÀÎµ¥, ¿¾³¯¿¡ ¸¸¼º ´Ù¿äÀÎ¼º ÆóÁúÈ¯À¸·Î Áý¿¡¼­ 2¸®ÅÍ »ê¼Ò¸¦ ½è°í¿¹, ¼±Ãµ¼º ½ÉÀåº´À¸·Î Å« ASD¸¦ ¼ö¼ú·Î Ä¡·á¹Þ¾Ò½Ê´Ï´õ. ¶Ç ÆóÀÇ Æó¼â/Á¦ÇÑ¼º ÁúÈ¯, ¸¸¼º Æó»öÀüÁõ, ½ÉÇÑ Æó°íÇ÷¾Ðµµ ¾Î°í ÀÖ¾î¼­, ±×°Å Ä¡·áÇÒ¶ó°í ½Çµ¥³ªÇÊÀ» ¹¬°í ÀÖ½Ê´Ï´õ. ¿ä»õ´Â ¼ûÀÌ Á¡Á¡ ´õ Â÷Áø´ÙÄ°´Ï´õ.",È¯ÀÚ Æó±â´É °Ë»ç °á°ú°¡ ¾È ÁÁ½Ê´Ï´õ.
-contradiction,"ÀÌ È¯ÀÚ´Â 68¼¼ ¿©ÀÚºÐÀ¸·Î, ¸¸¼º ´Ù¿äÀÎ ÆóÁúÈ¯ º´·ÂÀÌ ±æ°í, Áý¿¡¼­ 2L »ê¼Ò¸¦ ¾²°í ÀÖ½Ê´Ï´õ. ¼±Ãµ¼º ½ÉÀåº´À¸·Î Å« ASD(½É¹æ Áß°Ý °á¼ÕÁõ)°¡ ÀÖ¾ú´Âµ¥ ¼ö¼ú·Î Ä¡·áµÆ½Ê´Ï´õ. ¶Ç ÆóÀÇ Æó¼â¼º/Á¦ÇÑ¼º ÁúÈ¯, ¸¸¼º Æó»öÀüÁõ, ½ÉÇÑ Æó°íÇ÷¾ÐÀ» ¾Î°í ÀÖ¾î¼­, Á¡Á¡ ¼ûÀÌ Â÷Áö°í ÀÖ½Ê´Ï´õ. Æó°íÇ÷¾Ð Ä¡·á ¶«¿¡ ½Çµ¥³ªÇÊµµ ¹¬°í ÀÖ¾î¿¹.",È¯ÀÚ´Â ¼û Âù °Ç ¾ø½Ê´Ï´õ.
-neutral,"ÀÌ È¯ÀÚ´Â 68¼¼ ¿©ÀÚºÐÀÎµ¥, ¸¸¼º ´ÙÀÎÀÚ¼º ÆóÁúÈ¯ º´·ÂÀÌ ±æ°í Áý¿¡¼­ 2L »ê¼Ò¸¦ ¾²°í ÀÖ½Ê´Ï´õ. ¼±Ãµ¼º ½ÉÀåº´À¸·Î Å« ASD°¡ ÀÖ¾ú´Âµ¥ ¼ö¼ú·Î Ä¡·áµÆ°í, ÆóÀÇ Æó¼â ¹× Á¦ÇÑ¼º ÁúÈ¯, ¸¸¼º Æó»öÀüÁõ, ½ÉÇÑ Æó°íÇ÷¾ÐÀÌ ÀÖ¾î°¡ ½Çµ¥³ªÇÊÀ» ¹¬°í ÀÖ½Ê´Ï´õ. Á¡Á¡ ¼ûÀÌ Â÷Áö°í ÀÖ¾î¿¹.",È¯ÀÚ FEV1 ¼öÄ¡°¡ ³·½Ê´Ï´õ.
-entailment,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â ´ç´¢, °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±×¸®°í ±âÀýÇÑ ÀûÀÌ ÀÖ´Â 86¼¼ ÇÒ¸ÅÀÎµ¥¿¹, [**2777-5-24**]¿¡ ÀÔ¿øÇß½Ê´Ï´õ. ¿ä ÀÌÆ² µ¿¾È ¸»À» ´õµë°í, ¿À¸¥¼ÕÀ¸·Î ¹» Àß ¸ø Àâ°í, Á¤½Åµµ ¿À¶ô°¡¶ôÇß½Ê´Ï´õ.",°íÇ÷¾ÐÇÏ°í °íÄÝ·¹½ºÅ×·Ñ º´·Â.
-contradiction,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â ´ç´¢, °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±Û°í ±âÀýÇÑ ÀûÀÌ ÀÖ´Â 86¼¼ ÇÒ¸ÅÀÎµ¥¿¹, [**2777-5-24**]¿¡ ÀÔ¿øÇß½Ê´Ï´õ. Áö³­ ÀÌÆ² µ¿¾È ¸»ÀÌ ¾î´­ÇØÁö°í, ¿À¸¥¼ÕÀ¸·Î Àâ´Â °É Èûµé¾îÇß°í, Á¤½Åµµ ¿À¶ô°¡¶ôÇß¾î¿¹.",±× ÇÒ¸Å´Â ½Å°æ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"ÇöÀç º´·Â: ÀÌ È¯ÀÚ´Â 86¼¼ ÇÒ¸ÅÀÎµ¥, ¿¾³¯¿¡ ´ç´¢, °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±Û°í ±âÀýÇÑ º´·ÂÀÌ ÀÖ½Ê´Ï´õ. [**2777-5-24**]¿¡ ÀÔ¿øÇß°í, ¿ä ÀÌÆ² µ¿¾ÈÀº ¸»À» ´õµë°í, ¿À¸¥¼ÕÀ¸·Î Àâ±â Èûµé¾îÇÏ°í, Á¤½Åµµ ¿À¶ô°¡¶ôÇß½Ê´Ï´õ.",±× ÇÒ¸Å´Â ³ú°æ»ö º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"±× ÇÒ¸Å´Â °¡·¡ ¼¯ÀÎ ±âÄ§À» ÇÏ°í¿¹, °¡²û ÇÇ°¡ ¼¯¿© ³ª¿À´Âµ¥ ÇÇ°¡ ¸¹ÀÌ ³ª¿ÀÁø ¾Ê½Ê´Ï´õ.",È¯ÀÚ´Â Æó ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"±× ¿©ÀÚ´Â °¡·¡ ¼¯ÀÎ ±âÄ§À» ÇÏ´Âµ¥, °¡²û ÇÇ°¡ ¼¯¿© ³ª¿ÀÁö¸¸ ÇÇ°¡ ¸¶ÀÌ ³ª¿ÀÁö´Â ¾Ê½É´õ.",È¯ÀÚ Æó´Â Á¤»óÀÔ´Ï´õ.
-neutral,"±× ¿©ÀÚ´Â °¡·¡¶û °°ÀÌ ±âÄ§À» ÇÏ´Âµ¥, °¡²û¾¿ ÇÇ°¡ ¼¯¿©µµ ÇÇ´Â ¸¶ÀÌ ¾È ³ª¿É´Ï´õ.",È¯ÀÚ´Â °áÇÙ¿¡ °É›½É´õ.
-entailment,"±× ³²ÀÚ´Â Áö°¡ ¸»ÇÏ°í ½ÍÀº °Å´Â »ý°¢ÀÌ ³ª´Âµ¥, ±× ¸»À» ¹ñ´Â °É Èûµé¾îÇß½É´õ.",È¯ÀÚ°¡ ¸»ÇÏ´Â °É Èûµé¾îÇÕ´Ï´õ.
-contradiction,"±× ³²ÀÚ´Â Áö°¡ ¸»ÇÏ°í ½ÍÀº °Å´Â »ý°¢ÀÌ ³ª´Âµ¥, ±× ¸»À» Á¦´ë·Î ÇÏ´Â °É Èûµé¾îÇß½É´õ.",±× »ç¶÷Àº ¸ÖÂÄÇÏ°Ô ¸» Àß ÇÕ´Ï´õ.
-neutral,"±× ³²ÀÚ´Â Áö°¡ ¸»ÇÏ°í ½ÍÀº °Å´Â »ý°¢ÀÌ ³ª´Âµ¥, ±× ¸»À» Á¦´ë·Î ÇÏ´Â °É Èûµé¾îÇß½É´õ.",È¯ÀÚ´Â ¾ð¾îÀå¾Ö°¡ ÀÖ½É´õ.
-entailment,"¿©µç³× »ì ¿©ÀÚ È¯ÀÜµ¥, [**8-27**]¿¡ ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú(CABG)À» ¹Þ¾Ò°í (LIMA-LAD, SVG-OM1), ½ÉºÎÀü(CHF), ¸»±â ½ÅºÎÀü(ESRD)À¸·Î Åõ¼® ¹Þ°í ÀÖÀ¸¸ç, Á¦2Çü ´ç´¢º´(DMII), »ó½Ç¼º ½É¹æ¼¼µ¿(PAF)À» ¾Î°í ÀÖ½É´õ. ´Ù¸¥ º´¿ø¿¡¼­ ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ ÀÌ¼ÛµÇ¾ú½É´õ.",È¯ÀÚ´Â ¾Î´Â º´ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
-contradiction,"¿©µç³× »ì ¿©ÀÚ È¯ÀÚ·Î, [**8-27**]¿¡ ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú(CABG, LIMA-LAD, SVG-OM1)À» ¹ÞÀº °ü»óµ¿¸ÆÁúÈ¯(CAD) È¯ÀÚ°í, ½ÉºÎÀü(CHF), ¸»±â ½ÅºÎÀü(ESRD)À¸·Î Åõ¼® ¹Þ°í ÀÖÀ¸¸ç, Á¦2Çü ´ç´¢º´(DMII), ¸·¹ß¼º ½É¹æ¼¼µ¿(PAF)À» ¾Î°í ÀÖ½É´õ. ´Ù¸¥ º´¿ø¿¡¼­ ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ ÀÌ¼ÛµÇ¾ú½É´õ.",±× ¿©ÀÚ´Â ÄáÆÏ ±â´ÉÀÌ Á¤»óÀÔ´Ï´õ.
-neutral,"¿©µç³× »ì ¿©ÀÚ È¯ÀÚ·Î, [**8-27**]¿¡ ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú(CABG)À» ¹Þ¾Ò°í(¿ÞÂÊ ³»Èäµ¿¸Æ-Àü¹æÇÏÇàÁö, ´ëµ¿¸Æ±Ã-¿ÜÃøÇÑ°èµ¿¸Æ), ½ÉºÎÀüÁõ, ¸»±â ½ÅºÎÀüÁõÀ¸·Î Åõ¼® ¹Þ°í ÀÖÀ¸¸ç, 2Çü ´ç´¢º´, »ó½Ç¼º ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ½É´õ. ´Ù¸¥ º´¿ø¿¡¼­ ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ ÀÌ¼ÛµÇ¾ú½É´õ.",±× ¿©ÀÚ´Â ´ã¹è ÇÉ ÀûÀÌ ÀÖ½É´õ.
-entailment,"-³× »ì ¶§ (½º¹°´Ù¼¸ ÇØ Àü) ´ã³¶ ±âÇü ¼ö¼úÇÏ°í °£ÀÌ½Ä [**¿ù/³â (2) **] -°ü¸®°¡ Àß µÇ´Â Ãµ½Ä -¿À¸¥ÂÊ °í°üÀý ¹«Ç÷¼º ±«»ç, Á¤Çü¿Ü°ú ¼Ò°ß»ó ÀÎ°ø °í°üÀý ¼ö¼úÀÌ ÇÊ¿äÇÒ ¼ö ÀÖÀ½ -°¨¿° ÈÄ »ç±¸Ã¼½Å¿°À¸·Î ½Å»ý°Ë [**2629-8-4**] °á°ú IgG Áö¹è¼º ÃâÇ÷¼º Áõ½Ä¼º GNÀÌ ³ª¿Í, °¨¿° ÈÄ »ç±¸Ã¼½Å¿°À» ÀÇ¹ÌÇÔ -½ÅÁõÈÄ±º (´Ü¹é´¢ 4.1g), Àú¾ËºÎ¹ÎÇ÷Áõ -¼ÒÀå ÀýÁ¦ ¼ö¼ú",È¯ÀÚ´Â ¸ö¿¡ º´ÀÌ ¿©·¯ °³ ÀÖ½É´õ.
-contradiction,"-³× »ì ¶§ (½º¹°´Ù¼¸ ÇØ Àü) ´ã³¶ ±âÇü ¼ö¼ú ÀÌ·Â ÀÖ´Â ´ã³¶ Æó¼âÁõ -°ü¸® Àß µÇ°í ÀÖ´Â Ãµ½Ä -Á¤Çü¿Ü°ú ¼Ò°ß¿¡ µû¸£¸é, ¿À¸¥ÂÊ °í°üÀý ¹«Ç÷°ü¼º ±«»ç·Î ÀÎ°ø °í°üÀý ¼ö¼úÀÌ ÇÊ¿äÇÒ ¼ö ÀÖÀ½ -°¨¿° ÈÄ »ç±¸Ã¼½Å¿°À¸·Î ½ÅÀå »ý°Ë ÀÌ·Â ÀÖÀ½ [**2629-8-4**]. IgG Áö¹èÀûÀÎ ÃâÇ÷¼º Áõ½Ä¼º »ç±¸Ã¼½Å¿°ÀÌ ¹ß°ßµÆ´Âµ¥, ÀÌ´Â °¨¿° ÈÄ »ç±¸Ã¼½Å¿°°ú ÀÏÄ¡ÇÔ -´Ü¹é´¢Áõ(4.1g ´Ü¹é´¢)°ú Àú¾ËºÎ¹ÎÇ÷ÁõÀÌ ÀÖ´Â ½ÅÁõÈÄ±º -¼ÒÀå ÀýÁ¦ ¼ö¼ú ÀÌ·Â ÀÖÀ½",È¯ÀÚ´Â °Ç°­ÇÑ ¾ÆÀÔ´Ï´õ.
-neutral,"-³× »ì ¶§ (½º¹°´Ù¼¸ ÇØ Àü) ´ã³¶ ±âÇü ¼ö¼ú ÀÌ·Â ÀÖ´Â È¯ÀÚ -°ü¸® Àß µÇ°í ÀÖ´Â Ãµ½Ä -¿À¸¥ÂÊ °í°üÀý ¹«Ç÷°ü¼º ±«»ç, Á¤Çü¿Ü°ú ¼Ò°ß»ó ÀÎ°ø °í°üÀý ¼ö¼úÀÌ ÇÊ¿äÇÒ ¼ö ÀÖÀ½ -°¨¿° ÈÄ »ç±¸Ã¼½Å¿°, ½ÅÀå »ý°Ë °á°ú IgG ¿ì¼¼¼º Ãà³ó¼º Áõ½Ä¼º »ç±¸Ã¼½Å¿°À¸·Î, °¨¿° ÈÄ »ç±¸Ã¼½Å¿°°ú ÀÏÄ¡ -½ÅÁõÈÄ±º (´Ü¹é´¢ 4.1g), Àú¾ËºÎ¹ÎÇ÷Áõ -¼ÒÀå ÀýÁ¦ ¼ö¼ú ÀÌ·Â ÀÖÀ½",È¯ÀÚ´Â ÅÂ¾î³¯ ¶§ºÎÅÍ ÁõÈÄ±ºÀÌ ÀÖ½É´õ.
-entailment,"°£ºÎÀü - ³úº´Áõ·Â ÀÖÀ½, ±â·Ï¿¡ Á¶Á÷°Ë»ç °á°ú´Â ¾øÀ½ ´ç´¢º´ 2Çü - ÀÎ½¶¸° ºñÀÇÁ¸Çü ½ÉºÎÀüÁõ PSA ¼öÄ¡ »ó½Â ÃéÀå¿° PPD ¾ç¼º ¾ËÄÚ¿Ã¼º ½É±Ùº´Áõ",È¯ÀÚ´Â ¾Î¾Ò´ø º´ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
-contradiction,"°£ºÎÀü - ³úº´Áõ·Â, ±â·Ï¿¡ »ý°Ë °á°ú ¾øÀ½ 2Çü ´ç´¢º´ - ÀÎ½¶¸° ºñÀÇÁ¸¼º ½ÉºÎÀüÁõ PSA ¼öÄ¡ »ó½Â ÃéÀå¿° PPD ¾ç¼º ¾ËÄÚ¿Ã¼º ½É±Ùº´Áõ",È¯ÀÚ °£ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"°£ºÎÀü - ³úº´Áõ·ÂÀÌ ÀÖÀ¸¸ç, ±â·Ï¿¡¼± Á¶Á÷°Ë»ç °á°ú¸¦ Ã£À» ¼ö ¾øÀ½ ´ç´¢º´ 2Çü - ÀÎ½¶¸° ºñÀÇÁ¸¼º ½ÉºÎÀüÁõ PSA ¼öÄ¡ »ó½Â ÃéÀå¿° PPD ¾ç¼º ¾ËÄÚ¿Ã¼º ½É±Ùº´Áõ",È¯ÀÚ´Â ¾ËÄÚ¿Ã Áßµ¶Àâ´Ï´õ.
-entailment,"¾îÁ¦ ±× »ç¶÷ÀÌ HD ¶«¿¡ °Ë»ç¸¦ ¹Þ¾Ò°í, ÇÇ°Ë»ç¸¦ Çß½É´õ. º¸°í¼­¸¦ º¸ÀÌ±î Hgb ¼öÄ¡°¡ 7.2·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº ºóÇ÷ÀÔ´Ï´õ.
-contradiction,"¾îÁ¦ ±× »ç¶÷ÀÌ HD ¶«¿¡ °Ë»ç¸¦ ¹Þ¾Ò°í, °Ë»ç½Ç¿¡¼­ ÇÇ¸¦ »Ì¾Ò½É´õ. º¸°í¼­¸¦ º¸ÀÌ±î Hgb ¼öÄ¡°¡ 7.2·Î ³ª¿Ô½É´õ.",±× »ç¶÷ Çì¸ð±Û·Îºó ¼öÄ¡´Â Á¤»ó ¹üÀ§ ¾È¿¡ ÀÖ½É´õ.
-neutral,"¾îÁ¦ ±× »ç¶÷ÀÌ HD °Ë»ç ¶«¿¡ º´¿ø¿¡ ¿Ô¾ú°í, ÇÇ°Ë»ç¸¦ Çß½É´õ. º¸°í¼­ º¸´Ï±î Hgb ¼öÄ¡°¡ 7.2·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº ÇÇ°ïÇØÇÕ´Ï´õ.
-entailment,È¯ÀÚ°¡ ¿ä»õ »ìÀÌ ºüÁø °É·Î È®ÀÎµÇ¾ú½É´õ.,È¯ÀÚ°¡ »ìÀÌ ºüÁö°í ÀÖ½É´õ.
-contradiction,È¯ÀÚ°¡ ¿ä»õ »ìÀÌ ºüÁø °É·Î È®ÀÎµÇ¾ú½É´õ.,È¯ÀÚ°¡ »ìÀÌ Âî°í ÀÖ½É´õ.
-neutral,È¯ÀÚ°¡ ¿ä»õ »ìÀÌ ºüÁø °É·Î È®ÀÎµÇ¾ú½É´õ.,È¯ÀÚ°¡ ¾Ï Áø´ÜÀ» ¹Þ¾Ò½É´õ.
-entailment,"±× »ç¶÷Àº ¿­, ¼³»ç, °¡½¿ ÅëÁõ, ±âÄ§, ¼û½¬±â ¾È ÁÁÀº °Å, ¿ÀÁÜ ´­ ¶§ ¾ÆÇÂ °Å °°Àº Áõ»óÀº ÇÏ³ªµµ ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚ´Â °¨¿° Áõ»óÀÌ ¾ø½É´õ.
-contradiction,"±× »ç¶÷Àº ¿­ ³ª°Å³ª, ¼³»çÇÏ°Å³ª, °¡½¿ ¾ÆÇÁ°Å³ª, ±âÄ§, ¸ñ°¨±â Áõ»ó, ¿ÀÁÜ ´­ ¶§ ¾ÆÇÂ °Å °°Àº °Ç ÀüÇô °ÞÀº Àû ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚ´Â »ó±âµµ °¨¿°À» ¾Î°í ÀÖ½É´õ.
-neutral,"±× »ç¶÷Àº ¿­ ³ª°Å³ª, ¼³»çÇÏ°Å³ª, °¡½¿ ¾ÆÇÁ°Å³ª, ±âÄ§, ¼û½¬±â ¾È ÁÁÀº Áõ»ó, ¿ÀÁÜ ´­ ¶§ ¾ÆÇÂ °Å °°Àº °Ç ÀüÇô °ÞÀº Àû ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Æó·ÅÀº ¾ø½É´õ.
-entailment,"È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ ÈûÀÌ ºüÁö°í ¸»ÀÌ ÀÚ²Ù ¸·È÷´Â °Ô Èûµé´ÙÄ«°í, ÀÌ·± Áõ»óÀÌ ¿ä ÀÌ»ïÀÏ »çÀÌ¿¡ »õ·Î »ýƒ…´Ù Ä°´Ï´õ.",È¯ÀÚÇÑÅ× ±Þ¼º ½Å°æÇÐÀû ¼Ò°ßÀÌ ÀÖ½É´õ.
-contradiction,"È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ Èû ºüÁö°í ¸»ÀÌ Àß ¾È ³ª¿À´Â °Í ¶«¿¡ Èûµé´ÙÄ«´Âµ¥, ±×°Ô ÀÌ»ïÀÏ Àü¿¡ »õ·Î »ý±ä Áõ»óÀÌ¶ó²¿ ÀÚ²Ù ÀÌ¾ß±âÇÕ´Ï´õ.",È¯ÀÚ ½Å°æÇÐÀû °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ ÈûÀÌ ¾ø°í ¸»ÀÌ ÀÚ²Ù ¸·Èù´Ù²¿ °è¼Ó Ä«´Âµ¥, ±×±â ¿ä ÀÌ»ïÀÏ »çÀÌ¿¡ »õ·Î »ý±ä Áõ»óÀÌ¶ó Ä°´Ï´õ.",È¯ÀÚ´Â ³úÁ¹ÁßÀ» ¾Î°í ÀÖ½É´õ.
-entailment,"È¯ÀÚ´Â ÀÔ¿øÇÏ±â ÀÏÁÖÀÏ Àü±îÁö´Â ¸ÖÂÄÇß´Âµ¥, ÇÇ°ïÇÏ°í ¾îÁö·´±â ½ÃÀÛÇØ¼­ ´Ù´Ï´ø º´¿ø¿¡ °¡ºÃ´Ù Ä°´Ï´õ.",È¯ÀÚÇÑÅ× »õ·Î Èû ºüÁö´Â Áõ»óÀÌ ³ªÅ¸³µ½É´õ.
-contradiction,"È¯ÀÚ´Â ÀÔ¿ø ÀÏÁÖÀÏ Àü±îÁø °Ç°­ÇÏ°Ô Àß Áö³»´Ù°¡, ÇÇ°ïÇÏ°í ¾îÁö·¯¿ö¼­ ´Ù´Ï´ø º´¿ø¿¡ °¬´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ¸¸¼º Áõ»óÀÌ ÀÖ½É´õ.
-neutral,"È¯ÀÚ´Â ÀÔ¿ø ÀÏÁÖÀÏ Àü±îÁö´Â °Ç°­ÇÏ°Ô Àß ÀÖ´Ù°¡, ÇÇ°ïÇÏ°í ¾îÁö·¯¿ö¼­ ´Ù´Ï´ø º´¿ø¿¡ Ã£¾Æ°¬´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀüÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,¿­ ³ª°í Ãä°í °¡½¿ ¾ÆÇÁ°í ¼³»çÇÏ´Â °Ç ¾ø´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¿­°¨Àº ¾ø½É´õ.
-contradiction,¿­ ³ª°í Ãä°í °¡½¿ ¾ÆÇÁ°í ¼³»çÇÏ´Â °Ç ¾ø´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¿­ÀÌ ³ª°í ÀÖ½É´õ.
-neutral,¿­ ³ª°í Ãä°í °¡½¿ ¾ÆÇÁ°í ¼³»çÇÏ´Â °Ç ¾ø´Ù Ä°´Ï´õ.,È¯ÀÚ´Â °¨¿° Áõ»óÀÌ ¾ø½É´õ.
-entailment,"¿¾³¯¿¡ °íÇ÷¾Ð, °íÁöÇ÷ÁõÀÌ ÀÖ¾ú°í, ÀÏ°ú¼º ³úÇãÇ÷ ¹ßÀÛ(TIA)µµ ÀÖ¾ú´ø °Í °°½É´õ. ÀÏÁÖÀÏ Àü¿¡´Â ½É¹æ¼¼µ¿(Afib)µµ »õ·Î »ý°å½É´õ.",È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ¿©·¯ °³ ÀÖ½É´õ.
-contradiction,"¿¾³¯¿¡ °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±Û°í ÀÏ½ÃÀû ³úÇãÇ÷ ¹ßÀÛÀÌ ÀÖ¾úÀ» ¼ö ÀÖ°í, ÃÖ±Ù¿¡(ÀÏÁÖÀÏ Àü¿¡) ½É¹æ¼¼µ¿ÀÌ »õ·Î »ý°å½É´õ.",È¯ÀÚ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
-neutral,"¿¾³¯¿¡ °íÇ÷¾Ð, °íÁöÇ÷Áõ, ÀÏ½ÃÀû ³úÇãÇ÷¹ßÀÛÀÌ ÀÖ¾úÀ» ¼ö ÀÖ°í, ÃÖ±Ù¿¡(ÀÏÁÖÀÏ Àü¿¡) ½É¹æ¼¼µ¿ÀÌ »õ·Î »ý°å½É´õ.",È¯ÀÚ´Â ¿¥º¼¸¯ ³úÁ¹Áß À§ÇèÀÌ ÀÖ½É´õ.
-entailment,"ÅÂ¾Æ ¼±º° °Ë»ç: [**¿ù/ÀÏ (4) **] OÇü À½¼º, Ç×Ã¼ À½¼º, Ç³Áø ¸é¿ª, ¸Åµ¶ ºñ¹ÝÀÀ¼º, BÇü °£¿° Ç¥¸é Ç×¿ø À½¼º, GBS(±×·ì º£Å¸ ¿¬¼â±¸±Õ) »óÅÂ´Â È®ÀÎ ¾È µÊ.",È¯ÀÚ ÅÂ¾Æ ¼±º° °Ë»ç °á°ú´Â À½¼ºÀÔ´Ï´õ.
-contradiction,"ÅÂ¾Æ ¼±º° °Ë»ç: [**¿ù/ÀÏ (4) **] OÇü À½¼º, Ç×Ã¼ À½¼º, Ç³Áø ¸é¿ª, ¸Åµ¶ ºñ¹ÝÀÀ¼º, BÇü °£¿° Ç¥¸é Ç×¿ø À½¼º, GBS(±×·ì º£Å¸ ¿¬¼â±¸±Õ) »óÅÂ´Â È®ÀÎ ¾È µÊ.",»ê¸ð°¡ ¸Åµ¶¿¡ °É›½É´õ.
-neutral,"»êÀü °Ë»ç °á°ú: [**¿ù/ÀÏ (4) **] OÇü À½¼º, Ç×Ã¼ ¾øÀ½, Ç³Áø ¸é¿ª, ¸Åµ¶ ¹ÝÀÀ ¾øÀ½, BÇü °£¿° Ç¥¸é Ç×¿ø ¾øÀ½, GBS(±×·ì º£Å¸ ¿¬¼â±¸±Õ) »óÅÂ´Â È®ÀÎ ¾È µÊ.",ÀÓ½ÅÀÌ ¸¸»èÀÌ µÆ½É´õ.
-entailment,±× ¿¬±¸ÇÏ´Â Áß¿¡ È¯ÀÚÇÑÅ× °©ÀÚ±â ÆóºÎÁ¾ÀÌ »ý±â¼­ ¸ð¸£ÇÉÇÏ°í ¶ó½Ä½º·Î Ä¡·á¸¦ ÇØ¾ß Çß½É´õ.,±× È¯ÀÚ´Â ÀÌ´¢Á¦·Î Ä¡·á¹Þ¾Ò½É´õ.
-contradiction,±× ¿¬±¸ÇÏ´Â Áß¿¡ È¯ÀÚÇÑÅ× °©ÀÚ±â ÆóºÎÁ¾ÀÌ »ý±â¼­ ¸ð¸£ÇÉÇÏ°í ¶ó½Ä½º·Î Ä¡·á¸¦ ÇØ¾ß¸¸ Çß½É´õ.,È¯ÀÚ´Â ¼û½¬´Â µ¥ ºÒÆíÇÑ Áõ»óÀº ÀüÇô ¾ø¾ú½É´õ.
-neutral,±× ¿¬±¸ ÇÏ´Ù°¡ È¯ÀÚ°¡ °©ÀÚ±â ÆóºÎÁ¾ÀÌ ¿Í°¡²¿ ¸ð¸£ÇÉÇÏ°í ¶ó½Ä½º·Î Ä¡·á°¡ ÇÊ¿äÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ¼ûÀÌ Â÷±â ½ÃÀÛÇß½É´õ.
-entailment,"ÇöÀå¿¡¼­´Â È¯ÀÚ ´«µ¿ÀÚ°¡ 2-3mm·Î ´À¸®°Ô ¿òÁ÷ÀÌ±â´Â ÇØµµ ¹ÝÀÀÀº Çß°í¿¹, ½É¹Ú¼ö´Â 100, ¼ûÀº 4¹ø ½¬°í, Ç÷¾ÐÀº ¾È ÀçÁ³½Ê´Ï´õ. È¯ÀÚ´Â ¾ó±¼ÀÌ Çã¿¸°í ¸öÀº Â÷°¡ºìµ¥ ¶¡Àº ¸¹ÀÌ Èê›½Ê´Ï´õ.",È¯ÀÚ ¼û ½¬´Â °Ô ´À¸²´Ï´õ.
-contradiction,"ÇöÀå¿¡¼­´Â È¯ÀÚ µ¿°øÀÌ ´À¸®±ä ÇØµµ ¹ÝÀÀÀº ÀÖ¾ú°í Å©±â´Â 2-3mm¿´½É´õ. ½É¹Ú¼ö´Â 100¹ø, È£Èí¼ö´Â 4¹øÀÌ¾ú°í, Ã»Áø±â·Î´Â Ç÷¾ÐÀ» µéÀ» ¼ö°¡ ¾ø¾ú½É´õ. È¯ÀÚ´Â ¾ó±¼ÀÌ Çã¿¸°í, ¸öÀº Â÷°¡¿ì¸ç, ¶¡À» ¸¹ÀÌ Èê›½Ê´Ï´õ.",È¯ÀÚ ½ÅÃ¼ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"ÇöÀå¿¡¼­´Â, È¯ÀÚ µ¿°øÀº 2-3mm·Î ´À¸®°Ô ¿òÁ÷ÀÌÁö¸¸ ¹ÝÀÀÀº Çß°í¿¹, ½É¹Ú¼ö´Â 100, È£Èí¼ö´Â 4, Ç÷¾ÐÀº ¾È ÀçÁ³½Ê´Ï´õ. È¯ÀÚ´Â ¾ó±¼ÀÌ Çã¿¸°í, Â÷°©°í, ¶¡À» ¸¹ÀÌ Èê¸®°í ÀÖ¾ú½É´õ.",È¯ÀÚ°¡ ¾àÀ» ³Ê¹« ¸¹ÀÌ ¹¬¾ú½É´õ.
-entailment,"¾Æ ³ºÀ» ¶§ ½Å»ý¾Æ°ú Àü¹®ÀÇ°¡ ¾ø¾î°¡Áö°í, »ê¸ð¶û Ãâ»ê °£È£»çµéÀÌ È¸º¹¼úÀ» ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ±âº» »ý¸í À¯Áö Áö¿øÀÌ ÇÊ¿äÇß½Ê´Ï´õ.
-contradiction,"¾Æ ³ºÀ» ¶§ ½Å»ý¾Æ°ú Àü¹®ÀÇ°¡ ¾ø¾î°¡Áö°í, »ê¸ð¶û Ãâ»ê °£È£»çµéÀÌ È¸º¹¼úÀ» ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ¾Æ ³º°í ³ª¼­ º°´Ù¸¥ µµ¿òÀÌ ÇÊ¿ä ¾ø¾ú½É´õ.
-neutral,"¾Æ ³ºÀ» ¶§ ½Å»ý¾Æ°ú Àü¹®ÀÇ°¡ ¾ø¾î°¡Áö°í, »ê¸ð¶û Ãâ»ê °£È£»çµéÀÌ È¸º¹¼úÀ» ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â Á¶»êÇß½Ê´Ï´õ.
-entailment,±× »ç¶÷Àº ¶Ç ¶ó½Ä½º 80mg Á¤¸ÆÁÖ»ç ÇÑ ´ë ¸Â°í ¿ÀÁÜÀ» 1800cc ´³½Ê´Ï´õ.,±× »ç¶÷Àº ÀÌ´¢Á¦ Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.
-contradiction,±× »ç¶÷Àº ¶Ç ¶ó½Ä½º 80mg Á¤¸ÆÁÖ»ç ÇÑ ´ë ¸Â°í ¿ÀÁÜÀ» 1800cc ´³½Ê´Ï´õ.,±× »ç¶÷Àº ¸ö¿¡ ¹°ÀÌ ºÎÁ·ÇÑ »óÅÂ¿´½É´õ.
-neutral,±× »ç¶÷Àº ¶Ç ¶ó½Ä½º 80mg Á¤¸ÆÁÖ»ç ÇÑ ´ë ¸Â°í ¿ÀÁÜÀ» 1800cc ´³½Ê´Ï´õ.,±× »ç¶÷Àº ½ÉºÎÀüÁõÀÌ ÀÖ½É´õ.
-entailment,"2Çü ´ç´¢(ÀÎ½¶¸° ÀÇÁ¸Çü), °íÇ÷¾Ð, ¿ì¿ïÁõ, °ü»óµ¿¸Æ ¿ìÈ¸¼ú([**3234**] [**Hospital1 251**]) ÀÌ·Â. ÃÖ±Ù ¿À¸¥ÂÊ ´Ù¼¸ ¹øÂ° ÁßÁ·°ñ°üÀý ±Ë¾ç ¶«¿¡ ÇÇºÎ ÀÌ½ÄÇß°í, ÃÖ±Ù MRSA·Î ÀÎÇÑ ¹ß ±Ë¾çÀÌ¶û °ñ¿° ¾ÎÀº Àû ÀÖ½É´õ.",È¯ÀÚ Ç÷´ç ¼öÄ¡°¡ ³ô½É´õ.
-contradiction,"2Çü ´ç´¢(ÀÎ½¶¸° ÀÇÁ¸Çü), °íÇ÷¾Ð, ¿ì¿ïÁõ, ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú([**3234**] [**Hospital1 251**]) ÀÌ·Â. ÃÖ±Ù ¿À¸¥ÂÊ ´Ù¼¸ ¹øÂ° ÁßÁ·°ñ°üÀý ±Ë¾ç ¶«¿¡ ÇÇºÎ ÀÌ½ÄÇß°í, ÃÖ±Ù MRSA¶û °ñ¿°À¸·Î ¹ß ±Ë¾ç ¾ÎÀº Àû ÀÖ½É´õ.",È¯ÀÚ´Â °ñ°¨¿° ¾ÎÀº ÀûÀº ¾ø½É´õ.
-neutral,"2Çü ´ç´¢(ÀÎ½¶¸° ÀÇÁ¸Çü), °íÇ÷¾Ð, ¿ì¿ïÁõ, °ü»óµ¿¸Æ ¿ìÈ¸¼ú([**3234**] [**Hospital1 251**]) ÀÌ·Â. ÃÖ±Ù ¿À¸¥ÂÊ ´Ù¼¸ ¹øÂ° ÁßÁ·°ñ°üÀý ±Ë¾ç ¶«¿¡ ÇÇºÎ ÀÌ½ÄÇß°í, MRSA °¨¿°ÇÏ°í °°ÀÌ °ñ¿° ¾ÎÀº Àû ÀÖ½É´õ.",È¯ÀÚ´Â ´ç´¢¼º ½Å°æº´ÁõÀÌ ÀÖ½É´õ.
-entailment,³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.,È¯ÀÚ´Â ³úÁ¹Áß ¾Î¾Ò´ø ÀûÀÌ ÀÖ½É´õ.
-contradiction,³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.,È¯ÀÚ ³ú MRI °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.,È¯ÀÚ´Â Æí¸¶ºñ°¡ ÀÖ½É´õ.
-entailment,±× ¿©ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸® ¿òÁ÷ÀÌ´Â ±â Èûµê´Ï´õ.,È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ ¹®Á¦°¡ ÀÖ½É´õ.
-contradiction,±× ¿©ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸® ¿òÁ÷ÀÌ´Â µ¥ ¾î·Á¿òÀ» °Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ¾çÂÊ ´Ù¸® ÈûÀÌ ´Ù 5/5¿´½É´õ.
-neutral,±× ¿©ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸® ¿òÁ÷ÀÌ´Â µ¥ ¾î·Á¿òÀ» °Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ¿ÞÂÊ Áß³úµ¿¸Æ°æ»öÁõÀ» ¾Î¾Ò½É´õ.
-entailment,È¯ÀÚ°¡ ¿­ÀÌ °è¼Ó ³ª°í Æò¼Òº¸´Ù ´õ ÇÇ°ïÇÏ´Ù°í ÇÔ´Ï´õ.,È¯ÀÚ°¡ °è¼Ó ¸öÀÌ ¾È ÁÁ´Ù°í Çß½É´õ.
-contradiction,È¯ÀÚ´Â ¿­ÀÌ °è¼Ó ³ª°í Æò¼Òº¸´Ù ´õ ¾ï¼ö·Î ÇÇ°ïÅ¸ Ä°´Ï´õ.,È¯ÀÚ´Â ¾Æ¹« Áõ»ó ¾ø½Ê´Ï´õ.
-neutral,È¯ÀÚ´Â ¿­ÀÌ °è¼Ó ³ª°í Æò¼Òº¸´Ù ´õ ¸¶ÀÌ ÇÇ°ïÅ¸ Ä°´Ï´õ.,È¯ÀÚ´Â µ¶°¨¿¡ °É›½Ê´Ï´õ.
-entailment,"±× µÚ¿¡, ±× »ç¶÷Àº [**Hospital3 **]·Î ¿Å°ÜÁ®°¡ Ãß°¡·Î °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.",±× »ç¶÷Àº Ä¡·á¸¦ ´õ ¹Þ¾Æ¾ß Çß½Ê´Ï´õ.
-contradiction,"±× µÚ¿¡, ±× »ç¶÷Àº [**Hospital3 **]·Î ¿Å°ÜÁ®°¡ Ãß°¡·Î °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.",±× »ç¶÷Àº ÁýÀ¸·Î Åð¿øÇß½Ê´Ï´õ.
-neutral,±× µÚ¿¡ ±× »ç¶÷Àº [**Hospital3 **]·Î ¿Å°ÜÁ®°¡ Ãß°¡·Î °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.,±× »ç¶÷Àº ¹è ¾ÆÇÁ´Ù Ä°´Ï´õ.
-entailment,µý º´¿ø¿¡¼­´Â ½Å°æÇÐÀûÀ¸·Î ¹Ù²ï °Ç ±â·ÏµÈ °Ô ¾ø¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ ½Å°æ °Ë»ç °á°ú´Â ¾ÈÁ¤ÀûÀÔ´Ï´õ.
-contradiction,µý º´¿ø¿¡¼­´Â ½Å°æÇÐÀûÀ¸·Î ¹Ù²ï °Ç ±â·ÏµÈ °Ô ¾ø¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ½Å°æ °Ë»ç °á°ú°¡ ¿Ô´Ù°¬´Ù ÇÕ´Ï´õ.
-neutral,µý º´¿ø¿¡¼­´Â ½Å°æÇÐÀûÀ¸·Î ¹Ù²ï °Ç ±â·ÏµÈ °Ô ¾ø¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ ½Å°æ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-entailment,È¯ÀÚºÐÀº ¿À´Ã ¾ÆÄ§¿¡ ±â°ü »ð°ü Æ©ºê¸¦ »°½Ê´Ï´õ.,È¯ÀÚºÐ Æ©ºê¸¦ »°½Ê´Ï´õ.
-contradiction,È¯ÀÚºÐÀº ¿À´Ã ¾ÆÄ§¿¡ ±â°ü »ð°ü Æ©ºê¸¦ »°½Ê´Ï´õ.,È¯ÀÚºÐÀÌ Æ©ºê¸¦ ²¼½Ê´Ï´õ.
-neutral,È¯ÀÚºÐÀº ¿À´Ã ¾ÆÄ§¿¡ Æ©ºê¸¦ »°½Ê´Ï´õ.,È¯ÀÚ´Â ÄÚ¿¡ »ê¼ÒÁÙ ³¢°í ÀÖ½Ê´Ï´õ.
-entailment,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó°í Ç÷¾Ð ¿Ã¸®´Â ¾àÀ» ¿©·¯ °³ ½á¾ß Çß½Ê´Ï´õ.,È¯ÀÚ´Â ÀúÇ÷¾ÐÀÔ´Ï´õ.
-contradiction,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó°í ÇÁ·¹¼­¸¦ ¿©·¯ °³ ½á¾ß Çß½Ê´Ï´õ.,È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½Ê´Ï´õ.
-neutral,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó°í Ç÷¾Ð ¿Ã¸®´Â ¾àÀ» ¿©·¯ °³ ½á¾ß Çß½Ê´Ï´õ.,È¯ÀÚ´Â ÆÐÇ÷Áõ ¼îÅ© »óÅÂÀÔ´Ï´õ.
-entailment,"±× ¿©ÀÚºÐÀº º¸Åë È£Èí±â Ä¡·á´Â ¾È ÇÏ´Âµ¥ Áö³­ [**1-25**]ÀÏ µ¿¾ÈÀº °è¼Ó ÇÏ°í ÀÖ½Ê´Ï´õ. ¹ä ¸Ô´Â ¾çµµ ÁÙ¾ú°í, ¹ä ¹¬À» ¶§ ¾Æ·§¹èµµ ¾ÆÆÍ´Ù Ä°´Ï´õ. ¿ÀÁÜ ´©´Â Áõ»óÀº ¾ø´Âµð ¼³»ç´Â ´õ ÀÚÁÖ ÇÕ´Ï´õ.",È¯ÀÚºÐÀÌ ¼û ½¬´Â °É Èûµé¾îÇÕ´Ï´õ.
-contradiction,"±× ¿©ÀÚºÐÀº º¸Åë È£Èí±â Ä¡·á´Â ¾È ÇÏ´Âµ¥ Áö³­ [**1-25**]ÀÏ µ¿¾ÈÀº °è¼Ó ÇÏ°í ÀÖ½Ê´Ï´õ. ¹ä ¸Ô´Â ¾çµµ ÁÙ°í ¾Æ·§¹èµµ ¾ÆÇÂµ¥, ¸Ô´Â ¾à ¹¬À» ¶§ ±×·¸´Ù Ä°´Ï´õ. ¿ÀÁÜ ´©´Â Áõ»óÀº ¾ø´Âµð ¼³»ç´Â ´õ ÀÚÁÖ ÇÕ´Ï´õ.",È¯ÀÚ´Â ¾ÆÇÂ µ¥ ¾ø´Ù Ä°´Ï´õ.
-neutral,"±× ¿©ÀÚºÐÀº º¸Åë È£Èí±â Ä¡·á´Â ¾È ÇÏ´Âµ¥ Áö³­ [**1-25**]ÀÏ µ¿¾ÈÀº °è¼Ó ÇÏ°í ÀÖ½Ê´Ï´õ. ¹ä ¸Ô´Â ¾çµµ ÁÙ°í ¾Æ·§¹èµµ ¾ÆÇÂµ¥, ¹¹ ¹¬°í ³ª¸é ¾ÆÇÁ´Ù Ä°´Ï´õ. ¿ÀÁÜ ´©´Â µ¥´Â ÀÌ»ó ¾ø´Âµð ¼³»ç´Â ´õ ÀÚÁÖ ÇÕ´Ï´õ.",È¯ÀÚ´Â Ãµ½ÄÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"±× ¿©ÀÚºÐÀº ·¹º¸ÇÃ·Ï»ç½ÅÀ» 6ÀÏ°£ ¹¬¾ú°í, Áö±ÝÀº ½ºÅ×·ÎÀÌµå¸¦ ÁÙ¿©°¡¸é¼­ ¹¬°í ÀÖ½Ê´Ï´õ; ³»ÀÏÀÌ ¸¶Áö¸· ³¯ÀÔ´Ï´õ.",È¯ÀÚºÐÀº Ç×»ýÁ¦¸¦ ¹¬°í ÀÖ¾ú½Ê´Ï´õ.
-contradiction,"±× ¿©ÀÚºÐÀº ·¹º¸ÇÃ·Ï»ç½ÅÀ» 6ÀÏ°£ ¹¬¾ú°í, Áö±ÝÀº ½ºÅ×·ÎÀÌµå¸¦ ÁÙ¿©°¡¸é¼­ ¹¬°í ÀÖ½Ê´Ï´õ; ³»ÀÏÀÌ ¸¶Áö¸· ³¯ÀÔ´Ï´õ.",È¯ÀÚºÐÀº Ç×»ýÁ¦ ¾È ¹¬¾ú½Ê´Ï´õ.
-neutral,"±× ¿©ÀÚºÐÀº ·¹º¸ÇÃ·Ï»ç½ÅÀ» 6ÀÏ°£ ¹¬¾ú°í, Áö±ÝÀº ½ºÅ×·ÎÀÌµå¸¦ ÁÙ¿©°¡¸é¼­ ¹¬°í ÀÖ½Ê´Ï´õ; ³»ÀÏÀÌ ¸¶Áö¸· ³¯ÀÔ´Ï´õ.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÇÏ°í Æó·ÅÀÌ ÀÖ½Ê´Ï´õ.
-entailment,±×³à´Â ºÐ¸¸ ÁøÇàÀ» À§ÇØ Á¦¿ÕÀý°³ ¼ö¼ú·Î ÀÌ¼ÛµÇ¾ú½À´Ï´Ù.,È¯ÀÚ´Â Áú °æÀ¯ ºÐ¸¸À» ÇÒ ¼ö ¾ø¾ú½À´Ï´Ù.
-contradiction,±×³à´Â ºÐ¸¸ ÁøÇàÀ» À§ÇØ Á¦¿ÕÀý°³ ¼ö¼ú·Î ÀÌ¼ÛµÇ¾ú½À´Ï´Ù.,È¯ÀÚ´Â Áú °æÀ¯·Î ºÐ¸¸ÇÏ¿´½À´Ï´Ù.
-neutral,±×³à´Â ºÐ¸¸ ÁøÇàÀ» À§ÇØ Á¦¿ÕÀý°³ ¼ö¼ú·Î ÀÌ¼ÛµÇ¾ú½À´Ï´Ù.,È¯ÀÚ´Â ÅÂ¾ÆÀÇ ¹ß´Þ ±â°£¿¡ ºñÇØ Å« ¾Æ±â¸¦ °¡Áö°í ÀÖ½À´Ï´Ù.
-entailment,"±×³à´Â ±× ÈÄ¿¡ ÀÀ´äÇÏÁö ¾Ê°Ô µÇ¾ú°í, Áý¾ÈÀ» ¸ñÀû ¾øÀÌ µ¹¾Æ´Ù´Ï¸ç ´Ù½Ã Àá¿¡ µé¾ú½À´Ï´Ù.",È¯ÀÚ´Â ½Å°æ½É¸®ÇÐÀû ÁúÈ¯À» °¡Áö°í ÀÖ½À´Ï´Ù.
-contradiction,"±×³à´Â ±× ÈÄ¿¡ ¹ÝÀÀÀÌ ¾ø¾îÁö¸ç, Áý¾ÈÀ» ¸ñÀû ¾øÀÌ °É¾î´Ù´Ï¸ç ´Ù½Ã Àá¿¡ µé¾ú½À´Ï´Ù.",È¯ÀÚÀÇ Á¤½Å »óÅÂ´Â Á¤»óÀÔ´Ï´Ù.
-neutral,"±×³à´Â ±× ÈÄ¿¡ ¹«¹ÝÀÀ »óÅÂ°¡ µÇ¾ú°í, Áý ¾ÈÀ» ¸ñÀû ¾øÀÌ °È´Ù°¡ ´Ù½Ã Àá¿¡ µé¾ú½À´Ï´Ù.",È¯ÀÚ´Â ¼¶¸Á »óÅÂ¿¡ ÀÖ½À´Ï´Ù.
-entailment,"È¸Çâ °£ ¹ÝÀÀ, ´ã³¶°üÀº Á¤»ó ¹üÀ§ ³»¿¡ ÀÖ½À´Ï´Ù.",È¯ÀÚ´Â ºñÁ¤»óÀûÀÎ °£ ±â´ÉÀ» °¡Áö°í ÀÖ½À´Ï´Ù.
-contradiction,"È£µÎ °£ ¹ÝÀÀ, ´ã³¶°üÀº Á¤»ó ¹üÀ§ ³»¿¡ ÀÖ½À´Ï´Ù.",È¯ÀÚÀÇ °£ È¿¼Ò ¼öÄ¡´Â Á¤»óÀÔ´Ï´Ù.
-neutral,"È£ÇÇ°£ ¹ÝÀÀ, ´ã³¶°üÀº Á¤»ó ¹üÀ§ ³»¿¡ ÀÖ½À´Ï´Ù.",È¯ÀÚ´Â ºÎµå-Å°¾Æ¸® ÁõÈÄ±ºÀ» ¾Î°í ÀÖ½À´Ï´Ù.
-entailment,"ÀÌ ½ÖµÕÀÌ´Â ÀÚ¹ßÀûÀÎ ¿ïÀ½¼Ò¸®¸¦ ³»¸ç ÅÂ¾î³µ°í, ¼ö¼ú½Ç¿¡¼­´Â ÀÏ¹ÝÀûÀÎ °ü¸®¿Í ºÒ¾î³Ö´Â »ê¼Ò¸¸ÀÌ ÇÊ¿äÇß½À´Ï´Ù.",ÀÌ ½ÖµÕÀÌ´Â ¼ö¼ú½Ç¿¡¼­ Ç¥ÁØ Ä¡·á¸¦ ¹Þ¾Ò½À´Ï´Ù.
-contradiction,"ÀÌ ½ÖµÕÀÌ´Â ÀÚ¿¬½º·´°Ô ¿ïÀ½¼Ò¸®¸¦ ³»¸ç ÅÂ¾î³µ°í, ¼ö¼ú½Ç¿¡¼­´Â ÀÏ¹ÝÀûÀÎ °ü¸®¿Í ºí·Î¿ì¹ÙÀÌ »ê¼Ò¸¸ÀÌ ÇÊ¿äÇß½À´Ï´Ù.",ÀÌ ½ÖµÕÀÌ´Â ¼Ò»ý¼úÀÌ ÇÊ¿äÇß½À´Ï´Ù.
-neutral,"ÀÌ ½ÖµÕÀÌ´Â ÀÚ¹ßÀûÀ¸·Î ¿ïÀ½À» ÅÍ¶ß¸®¸ç, ¼ö¼ú½Ç¿¡¼­ ÀÏ¹ÝÀûÀÎ °ü¸®¿Í ºí·Î¿ì¹ÙÀÌ »ê¼Ò¸¸ÀÌ ÇÊ¿äÇß½À´Ï´Ù.",ÀÌ°ÍÀº Á¤»óÀûÀÎ Ãâ»ê±â°£¿¡ ÅÂ¾î³­ Ãâ»êÀÌ¾ú½À´Ï´Ù.
-entailment,"Áý¿¡¼­ ¹ßÀÛÀ» °ÞÀº ÈÄ, È¯ÀÚ´Â ÈïºÐÇÏ°í È¥¶õ½º·¯¿öÇÏ¸ç, ³²Æí¿¡ µû¸£¸é ÀÇ¹Ì ¾ø´Â ¿òÁ÷ÀÓ°ú ¸»¸¸À» ÇÏ°í ÀÖ¾ú½À´Ï´Ù.",È¯ÀÚ´Â ³úÁ¹ÁßÀÇ Áõ»óÀ» º¸ÀÌ°í ÀÖ½À´Ï´Ù.
-contradiction,"Áý¿¡¼­ ¹ßÀÛÀ» °ÞÀº ÈÄ, È¯ÀÚ´Â ÈïºÐ »óÅÂ¿¡ ºüÁ® È¥¶õ½º·¯¿öÇÏ¸ç, ³²Æí¿¡ µû¸£¸é ÀÇ¹Ì ¾ø´Â ¿òÁ÷ÀÓ°ú ¸»¸¸À» ÇÏ°í ÀÖ¾ú½À´Ï´Ù.",È¯ÀÚÀÇ MMSE °á°ú´Â Á¤»óÀÔ´Ï´Ù.
-neutral,"Áý¿¡¼­ ¹ßÀÛ ÀÌÈÄ, È¯ÀÚ´Â ÈïºÐ »óÅÂ¿¡ ºüÁ® È¥¶õ½º·¯¿öÇÏ¸ç, ³²Æí¿¡ µû¸£¸é ÀÇ¹Ì ¾ø´Â ¿òÁ÷ÀÓ°ú ¸»¸¸À» ÇÏ°í ÀÖ¾ú½À´Ï´Ù.",È¯ÀÚ´Â ÀÏ°ú¼º ³úÇãÇ÷¹ßÀÛ(TIA)À» °Þ¾ú½À´Ï´Ù.
-entailment,"±×³àÀÇ Æ®¸®°Å ¿äÀÎÀº ´ÙÀ½°ú °°½À´Ï´Ù: ÃßÀ§, »ó±âµµ °¨¿°, Á¤½ÅÀû ½ºÆ®·¹½º, °í¾çÀÌ, ²É°¡·ç, ²É, Çâ¼ö, ±×¸®°í ¾Æ¸¶µµ ¿îµ¿ÀÔ´Ï´Ù.",È¯ÀÚ´Â ´Ù¾çÇÑ ¾Ë·¹¸£°Õ¿¡ ÀÇÇØ À¯¹ßµÇ´Â »óÅÂ¸¦ °¡Áö°í ÀÖ½À´Ï´Ù.
-contradiction,"±×³àÀÇ Æ®¸®°Å ¿äÀÎÀº ´ÙÀ½°ú °°½À´Ï´Ù: ÃßÀ§, »ó±âµµ °¨¿°, Á¤½ÅÀû ½ºÆ®·¹½º, °í¾çÀÌ, ²É°¡·ç, ²É, Çâ¼ö, ±×¸®°í ¾Æ¸¶µµ ¿îµ¿.",È¯ÀÚ´Â ÇØ´ç Áõ»óÀÌ ¾ø½À´Ï´Ù.
-neutral,"±×³àÀÇ Æ®¸®°Å ¿äÀÎµéÀº ´ÙÀ½°ú °°½À´Ï´Ù: ÃßÀ§, »ó±âµµ °¨¿°, Á¤½ÅÀû ½ºÆ®·¹½º, °í¾çÀÌ, ²É°¡·ç, ²É, Çâ¼ö, ±×¸®°í ¾Æ¸¶µµ ¿îµ¿ÀÔ´Ï´Ù.",È¯ÀÚ´Â ´Ù¾çÇÑ ¿äÀÎ¿¡ ÀÇÇØ ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÇ ¾ÇÈ­°¡ À¯¹ßµÇ¾ú½À´Ï´Ù.
-entailment,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â 80¼¼ ³²¼ºÀ¸·Î, °ú°Å¿¡ ³ú°æ»öÀ¸·Î ÀÎÇÑ ³ú°æ»ö ÈÄÀ¯Áõ°ú ¿À¸¥ÂÊ ¹Ý½Å¸¶ºñ, °íÇ÷¾Ð, ½É¹æ¼¼µ¿(¿öÆÄ¸° º¹¿ë Áß, INRÀº 2.5)À» ¾Î¾Ò½À´Ï´Ù. [**3193-2-22**]¿¡ ¿À¸¥ÂÊ ½ÅÃ¼ÀÇ Èû ³ëµ¿ÀÌ Á¡Á¡ ¾ÇÈ­µÇ¾î º´¿ø¿¡ ³»¿øÇÏ¿´½À´Ï´Ù.",½ÉÀå ºÒ±ÔÄ¢ ÁøÇà·Â ÀÌ·Â
-contradiction,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â 80¼¼ ³²¼ºÀ¸·Î, °ú°Å¿¡ ³ú°æ»öÀ¸·Î ÀÎÇÑ ³ú°æ»ö ÈÄÀ¯Áõ°ú ¿À¸¥ÂÊ ¹Ý½Å¸¶ºñ, °íÇ÷¾Ð, ½É¹æ¼¼µ¿(¿öÆÄ¸° º¹¿ëÀ¸·Î INR 2.5)À» ¾Î¾Ò½À´Ï´Ù. [**3193-2-22**]¿¡ ¿À¸¥ÂÊ ½ÅÃ¼ ¾àÈ­ Áõ»óÀÌ Á¡Á¡ ½ÉÇØÁ® º´¿ø¿¡ ³»¿øÇÏ¿´½À´Ï´Ù.",½Å°æÇÐÀû Áõ»óÀÌ ¾øÀ½
-neutral,"ÇöÀç ÁúÈ¯ °ú°Å·Â: ÀÌ È¯ÀÚ´Â ¿©µç »ì ³²ÀÚ·Î, ¿¾³¯¿¡ ÇãÇ÷¼º ³ú°æ»öÀ» ¾Î¾Ò°í, ¿À¸¥ÂÊ ¹Ý¸¶ºñ°¡ ÂÍ ³²¾ÆÀÖ°í, °íÇ÷¾ÐÀÌ¶û ½É¹æ¼¼µ¿(¿ÍÆÄ¸° ¹¬°í ÀÖ°í, INRÀº 2.5)ÀÌ ÀÖ½É´õ. [**3193-2-22**]¿¡ ¿À¸¥ÂÊ ÈûÀÌ ÀÚ²Ù ºüÁ®°¡ º´¿ø¿¡ ¿Ô½É´õ.",°íÇ÷¾Ð ¾ÎÀº Àû ÀÖÀ½.
-entailment,¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD): ÇÏ·ç¿¡ ÇÑ °©¾¿ 40³âÀ» Æñ½É´õ.,È¯ÀÚ´Â 40°©³â ´ã¹è ÇÉ ÀÌ·ÂÀÌ ÀÖ½É´õ.
-contradiction,¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD): ÇÏ·ç ÇÑ °© / 40³â°£.,È¯ÀÚ Æó´Â Á¤»óÀÓ´õ.
-neutral,¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD): ÇÏ·ç ÇÑ °© / 40³â°£.,È¯ÀÚ´Â Æó±âÁ¾À» ¾Î°í ÀÖ½É´õ.
-entailment,[**¼º (¹Ì»ó) 3644**] ÁõÈÄ±º: [**6-30**]ÀÏ¿¡ ±× ¿©ÀÚ´Â Æ©ºê·Î ¹ä ¸ßÀÏ ¶§ °¡²û ÅäÇÏ¸é¼­ ¹è°¡ ºÒ·¯¿À°í ºÒÆíÇÑ °Ô ´õ ½ÉÇØÁ³½É´õ.,È¯ÀÚ´Â ¿µ¾çºÐÀ» ¼ÒÈ­±â¸¦ ÅëÇØ ¹¬°í ÀÖ½É´õ.
-contradiction,[**¼º (¹Ì»ó) 3644**] ÁõÈÄ±º: [**6-30**]¿¡ ±× ¿©ÀÚ´Â Æ©ºê·Î ¹ä ¸ßÀÏ ¶§ °¡²û ÅäÇÏ¸é¼­ ¹è ºÎ¸£°í ºÒÆíÇÑ °Ô ´õ ½ÉÇØÁ³½É´õ.,È¯ÀÚ´Â Áö°¡ Á÷Á¢ ¹¬¾î¼­ ¿µ¾ç º¸ÃæÀ» Çß½É´õ.
-neutral,"[**¼º (¹Ì»ó) 3644**] ÁõÈÄ±º: [**6-30**]¿¡ ±× ¿©ÀÚ´Â ¹è°¡ ´õ ºÒ·¯¿À°í ºÒÆíÇØÇÏ¸é¼­, Æ©ºê·Î ¹ä ¸ßÀÏ ¶§ °¡²û ÅäÇÏ°Ô µÆ½É´õ.",È¯ÀÚ »óÅÂ°¡ ¾ï¼ö·Î ¾È ÁÁ¾ÆÁ³½É´õ.
-entailment,±× ³²ÀÚ´Â ¼ö¼ú Àü¿¡ °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¹ÞÀ»¶ó°í º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
-contradiction,±× ³²ÀÚ´Â ¼ö¼ú Àü¿¡ °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¹ÞÀ»¶ó°í º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÓ´õ.
-neutral,±× ³²ÀÚ´Â ¼ö¼ú Àü¿¡ °ü»óµ¿¸Æ ¿ìÈ¸¼ú ¹ÞÀ»¶ó°í º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ´Â STEMI(±Þ¼º ST »ó½Â ½É±Ù°æ»ö)¸¦ °Þ¾ú½É´õ.
-entailment,"[**È®ÀÎµÈ È¯ÀÚ ¼º 40312**]Àº ´ç´¢º´(DM), ¸»±â ½ÅºÎÀü(ESRD)À¸·Î Åõ¼®(HD) ÁßÀÌ°í, [**Hospital1 577**]¿¡¼­ [**12-24**]°³¿ù Àü¿¡ Æó»öÀüÁõ(PE)À» °ÞÀº ½º¹°´Ù¼¸ »ì ³²ÀÚÀÓ´õ. ÀÌ È¯ÀÚ´Â Á¤±â °Ë»ç¿¡¼­ °íÄ®·ýÇ÷Áõ(hyperkalemia)ÀÌ ³ª¿Í°¡ º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.",È¯ÀÚ ½ÅÀåÀº ¸ö¼Ó Ä®·ý ¼öÄ¡¸¦ Á¶ÀýÇÏ´Â µ¥ ¾Ö¸¦ ¹¬°í ÀÖ½É´õ.
-contradiction,"[**È®ÀÎµÈ È¯ÀÚ ¼º 40312**]Àº ´ç´¢º´, ¸»±â ½ÅºÎÀüÁõÀ¸·Î Åõ¼® ÁßÀÌ°í, [**Hospital1 577**]¿¡¼­ [**12-24**]°³¿ù Àü¿¡ Æó»öÀüÁõÀ» °ÞÀº ½º¹°´Ù¼¸ »ì ³²ÀÚÀÓ´õ. ÃÖ±Ù¿¡ Á¤±â °Ë»ç¿¡¼­ °íÄ®·ýÇ÷ÁõÀÌ ³ª¿Í°¡ ÀÔ¿øÇÏ°Ô µÆ½É´õ.",È¯ÀÚ ½ÅÀåÀº Á¤»óÀÓ´õ.
-neutral,"[**È¯ÀÚ ¼º 40312**]Àº ´ç´¢º´(DM), ¸»±â ½ÅºÎÀüÁõ(ESRD)À¸·Î Åõ¼®(HD)À» ¹Þ°í ÀÖ°í, [**Hospital1 577**]¿¡¼­ [**12-24**]°³¿ù Àü¿¡ Æó»öÀüÁõ(PE)À» °Þ¾ú´ø ½º¹°´Ù¼¸ »ì ³²ÀÚÀÓ´õ. ÀÌ È¯ÀÚ´Â Á¤±â °Ë»ç¿¡¼­ °íÄ®·ýÇ÷Áõ(hyperkalemia)ÀÌ ³ª¿Í°¡ º´¿øÀ¸·Î º¸³»Á³½É´õ.",È¯ÀÚ°¡ ¸î ¹øÀÌ³ª Åõ¼® Ä¡·á¸¦ »©¹¬¾ú½É´õ.
-entailment,PDA¶û ÈÄ¿ÜÃø Ç÷°ü¿¡´Â ½ÃÀÛ ÁöÁ¡¿¡ 90% º´º¯ÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â ´ÙÁßÇ÷°ü ÁúÈ¯ÀÌ ÀÖ½É´õ.
-contradiction,PDA¶û ÈÄ¿ÜÃø Ç÷°ü¿¡´Â ½ÃÀÛ ÁöÁ¡¿¡ 90% º´º¯ÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ¾ø½É´õ.
-neutral,PDA¶û ÈÄ¿ÜÃø Ç÷°ü¿¡´Â ½ÃÀÛ ÁöÁ¡¿¡ 90% º´º¯ÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â CABG(½ÉÀåµ¿¸Æ¿ìÈ¸¼ú)°¡ ÇÊ¿äÇÒ ¼öµµ ÀÖ½É´õ.
-entailment,"EKG¿¡¼­´Â ¾Æ·§ÂÊ¿¡¼­ ST »ó½ÂÀÌ º¸¿´°í, ÇÙ½É MIBI´Â ¿·ÂÊ º®¿¡ °áÇÔÀÌ º¸¿´½É´õ.",È¯ÀÚ´Â ±Þ¼º STEMI¸¦ ¾Î°í ÀÖ½É´õ.
-contradiction,"EKG °á°ú¿¡¼­ ¾Æ·§ÂÊ ST »ó½ÂÀÌ º¸¿´°í, ÇÙ½É MIBI °Ë»ç¿¡¼­´Â ¿·ÂÊ º®¿¡ °á¼ÕÀÌ ³ªÅ¸³µ½É´õ.",È¯ÀÚ ½ÉÀåÀº Á¤»óÀÓ´õ.
-neutral,"EKG´Â ¾Æ·§ÂÊ¿¡¼­ ST »ó½ÂÀÌ º¸¿´°í, ÇÙ½É MIBI´Â ¿·ÂÊ º®¿¡ °áÇÔÀ» º¸¿´½É´õ.",È¯ÀÚ´Â °æÇÇÀû °³ÀÔ¼úÀ» ¹Þ¾Ò½É´õ.
-entailment,"º´·Â: ¿©·¯ ±ºµ¥ [** À§Ä¡ **] ÁÖ»ç ¸ÂÀº µÚ Â÷ »ç°í ¶«¿¡ ¾î±ú ¾ÆÇÂ °Å, ¾î±ú ´ÙÄ£ °Å Æò°¡.",Â÷ »ç°í ³ª°í ¾î±ú ¾ÆÇÄ.
-contradiction,"º´·Â: ¿©·¯ ±ºµ¥ µéÀÌ¹ÚÀº Â÷ »ç°í ¶«¿¡ ¾î±ú ¾ÆÆÄ°¡, ¾î±ú ´ÙÄ£ °Å Æò°¡.",È¯ÀÚ´Â ¾È ¾ÆÇÁ´Ù Ä­´Ù.
-neutral,"º´·Â: ¿© ±ºµ¥ µéÀÌ¹ÞÈ÷´Â Â÷ »ç°í ³ª°í ¾î±ú°¡ ¾ÆÆÄ°¡, ¾î±ú ´ÙÄ£ °Å Æò°¡ÇÒ¶ó ÇÔ.",È¯ÀÚ´Â »À°¡ ºÎ·¯Á³´Ù.
-entailment,"[**3311-12-15**]¿¡ ÂïÀº ÄÄÇ»ÅÍ ´ÜÃþ ÃÔ¿µ(CT) °á°ú, 6¼¾Ä¡ Å©±â·Î °øµ¿ÀÌ »ý±ä ¿ÞÂÊ À§ÂÊ Æó Á¾±«°¡ È®ÀÎµÆ°í, ¿À¸¥ÂÊ Èú¶ó¸£ ¸²ÇÁÀýµµ ¹®Á¦ ÀÖ´Â °Å ¾Æ´Ñ°¡ Ä­´Ù.",È¯ÀÚ´Â Æó¿¡ È¤ÀÌ ÀÖ´Ù.
-contradiction,"[**3311-12-15**]¿¡ ÂïÀº ÄÄÇ»ÅÍ ´ÜÃþ ÃÔ¿µ(CT) °á°ú, 6¼¾Ä¡ °øµ¿ÀÌ ÀÖ´Â ¿ÞÂÊ À§ÂÊ Æó Á¾¾çÀÌ È®ÀÎµÆ°í, ¿À¸¥ÂÊ Èú¶ó¸£ ¸²ÇÁÀýµµ ¹®Á¦ ÀÖ´Â °Å ¾Æ´Ñ°¡ Ä­´Ù.",È¯ÀÚ °¡½¿ÆÅ CT °á°ú´Â Á¤»óÀÌ´Ù.
-neutral,"[**3311-12-15**]¿¡ ÂïÀº ÄÄÇ»ÅÍ ´ÜÃþ ÃÔ¿µ(CT) °á°ú, 6¼¾Ä¡ Å©±â·Î °øµ¿ÀÌ »ý±ä ¿ÞÂÊ À§ÂÊ Æó Á¾¾çÀÌ È®ÀÎµÆ°í, ¿À¸¥ÂÊ ±â°üÁö Èú¶ó ºÎÀ§ ¸²ÇÁÀýµµ ¹®Á¦ ÀÖ´Â °Å ¾Æ´Ñ°¡ Ä­´Ù.",È¯ÀÚ´Â ÆíÆò¼¼Æ÷¾ÏÀÌ´Ù.
-entailment,Àü¿¡ º°·Î ¾ÆÇÂ Àû ¾ø´Â ¿¹¼ø »ì ÈæÀÎ ¿©ÀÚ°¡ [**9-6**] Àú³á¿¡ ¿­³ª°í ±â¿î ¾ø°í ÅäÇÏ°í ¼³»çÇÏ°í ¹è ¾ÆÇÂ °Ô ÀÌÆ² µÆ´Ù°í Çß´Ù.,±× »ç¶÷Àº À§Àå ÂÊÀ¸·Î Áõ¼¼°¡ ÀÖ´Ù.
-contradiction,Àü¿¡ º°·Î ¾ÆÇÂ Àû ¾ø´Â ¿¹¼ø »ì ÈæÀÎ ¿©ÀÚ°¡ [**9-6**] Àú³á¿¡ ¿­³ª°í ±â¿î ¾ø°í ÅäÇÏ°í ¼³»çÇÏ°í ¹è ¾ÆÇÂ Áõ¼¼°¡ ÀÌÆ²Â°¶ó°í Çß´Ù.,À§Àå ±â´É Á¤»ó.
-neutral,Àü¿¡ º°·Î ¾ÆÇÂ Àû ¾ø´Â ¿¹¼ø »ì ÈæÀÎ ¿©ÀÚ°¡ [**9-6**] Àú³á¿¡ ¿­³ª°í ±â¿î ¾ø°í ÅäÇÏ°í ¼³»çÇÏ°í ¹è ¾ÆÇÂ Áõ¼¼°¡ ÀÌÆ²Â°¶ó°í Çß´Ù.,±×´Â ½ÄÁßµ¶¿¡ °É›´Ù.
-entailment,±× ´ã ½º¹°³× ½Ã°£ µ¿¾È ±× ¿©ÀÚ´Â ³¿»õ °í¾àÇÑ Áú ºÐºñ¹°ÀÌ ³ª¿À°í ÀÚ±Ãµµ ¾ÆÆÍ´Ù.,È¯ÀÚ´Â ÀÚ±Ã³»¸·¿°À» ¾Î°í ÀÖ´Ù.
-contradiction,±× ´ã ½º¹°³× ½Ã°£ µ¿¾È ±× ¿©ÀÚ´Â ³¿»õ °í¾àÇÑ Áú ºÐºñ¹°ÀÌ ³ª¿À°í ÀÚ±Ãµµ ¾ÆÆÍ´Ù.,È¯ÀÚ´Â °¨¿° ¾È µÆ´Ù.
-neutral,"±× ´ã ½º¹°³× ½Ã°£ µ¿¾È, ±× ¿©ÀÚ´Â ³¿»õ °í¾àÇÑ Áú ºÐºñ¹°ÀÌ ³ª¿À°í ÀÚ±Ãµµ ¾ÆÆÍ´Ù.",È¯ÀÚ°¡ ÃÖ±Ù¿¡ ¾Æ¸¦ ³º¾Ò´Ù.
-entailment,"ÄÝ¸®, ¿ä»õ NSTEMI(ºñ ST »ó½Â ½É±Ù°æ»ö)·Î ÀÔ¿øÇß´ø È¯ÀÚ(2¿ù 8ÀÏ-9ÀÏ/[**2661**]), Æò¼Ò¿¡´Â °Ç°­Çß´Âµ¥ ¿À´Ã ¾ÆÄ§ 7½Ã¿¡ ¿ä¾ç¿ø([**Hospital3 2091**])¿¡¼­ ÀÇ½ÄÀÌ ¾ø´Â Ã¤·Î ¹ß°ßµÆ´Ù.",½É±Ù°æ»ö º´·Â ÀÖÀ½.
-contradiction,"ÄÝ¸®, ¿ä»õ NSTEMI(ºñ ST »ó½Â ½É±Ù°æ»ö)·Î ÀÔ¿øÇß´ø È¯ÀÚ(2/8-9/[**2661**]), ¾ÆÄ§ 7½Ã¿¡ ¿ä¾ç¿ø([**Hospital3 2091**])¿¡¼­ °£È£»ç°¡ º¸´Ï Æò¼Ò¶û ´Ù¸£°Ô ÀÇ½ÄÀÌ ¾ø´Â »óÅÂ·Î ¹ß°ßµÆ´Ù.",±× ¿©ÀÚ´Â ½ÉÀåº´ ¾ÎÀº Àû ¾ø´Ù.
-neutral,"ÄÝ¸®, ¿ä»õ NSTEMI(ºñ ST »ó½Â ½É±Ù°æ»ö)·Î ÀÔ¿øÇß´ø È¯ÀÚ(2¿ù 8ÀÏ-9ÀÏ/[**2661**])´Â Æò¼ÒÃ³·³ °Ç°­Çß´Âµ¥ ¿À´Ã ¾ÆÄ§ ÀÇ½Ä ¾ø´Â »óÅÂ·Î ¹ß°ßµÆ´Ù. ÀÌ È¯ÀÚ´Â ¾ÆÄ§ 7½Ã¿¡ °£È£»ç°¡ ÀÖ´Â º´¿ø([**Hospital3 2091**])¿¡¼­ ¹ß°ßµÆ´Ù.",±× ¿©ÀÚ´Â ½ÉÀå¸¶ºñ°¡ ¿Ô´Ù.
-entailment,"¹éÇ÷±¸ 21.7, Çì¸¶ÅäÅ©¸´ 42.4, Ç÷¼ÒÆÇ 493, Áß¼º±¸ 88, ¶ìÇü ¼¼Æ÷ 1.",È¯ÀÚ´Â ¹éÇ÷±¸ ¼öÄ¡°¡ ³ô´Ù.
-contradiction,"¹éÇ÷±¸ 21.7, Çì¸¶ÅäÅ©¸´ 42.4, Ç÷¼ÒÆÇ 493, Áß¼º±¸ 88, ¶ìÇü ¼¼Æ÷ 1.",È¯ÀÚ ¹éÇ÷±¸ ¼öÄ¡´Â Á¤»ó ¹üÀ§´Ù.
-neutral,"¹éÇ÷±¸ ¼öÄ¡ 21.7, Çì¸¶ÅäÅ©¸´ ¼öÄ¡ 42.4, Ç÷¼ÒÆÇ ¼öÄ¡ 493, Áß¼º±¸ ºñÀ² 88, ¶ì ¸ð¾ç ¼¼Æ÷ ¼öÄ¡ 1.",È¯ÀÚ´Â ¹ÚÅ×¸®¾ÆÇ÷ÁõÀÌ ÀÖ´Ù.
-entailment,"È¯ÀÚ´Â µý º´¿øÀ¸·Î ¿Å°ÜÁ³°í, ½ÉÀüµµ °Ë»ç¿¡¼­ »õ·Î¿î ³ÐÀº ÁÂÃø ¹øµéÆÄ Â÷´Ü ÇüÅÂ¸¦ º¸¿´´Ù.",È¯ÀÚ´Â ±Þ¼º ½É±Ù°æ»öÁõÀÌ¶û ÀÏÄ¡ÇÏ´Â ½ÉÀüµµ º¯È­¸¦ º¸ÀÌ°í ÀÖ´Ù.
-contradiction,"È¯ÀÚ´Â µý º´¿øÀ¸·Î ¿Å°ÜÁ³°í, ½ÉÀüµµ °Ë»ç¿¡¼­ »õ·Î¿î ¿ÞÂÊ ¹øµéÆÄ Â÷´Ü ÇüÅÂ¸¦ º¸ÀÌ´Â °É È®ÀÎÇß´Ù.",È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÌ´Ù.
-neutral,"È¯ÀÚ´Â µý º´¿øÀ¸·Î ¿Å°ÜÁ³°í, °Å±â¼­ ÇÑ ½ÉÀüµµ °Ë»ç¿¡¼­ »õ·Î¿î ¿ÞÂÊ ¹øµéÆÄÂ÷´Ü ÇüÅÂ¸¦ º¸ÀÌ´Â °É È®ÀÎÇß´Ù.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ º´·ÂÀÌ ÀÖ´Ù.
-entailment,±× »ç¶÷Àº 3ÁÖ µÚ¿¡ [**º´¿ø 8682**] Å¬¸®´ÐÀ¸·Î µ¹¾Æ¿Í°¡ Ç×»ýÁ¦¸¦ Ã³¹æ¹Þ¾Ò½É´õ.,È¯ÀÚÇÑÅ× °¨¿°ÀÌ »ý°å½É´õ.
-contradiction,±× »ç¶÷Àº 3ÁÖ µÚ¿¡ [**º´¿ø 8682**] Å¬¸®´ÐÀ¸·Î µ¹¾Æ¿Í°¡ Ç×»ýÁ¦¸¦ Ã³¹æ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â °¨¿° ¾È µÆ½É´õ.
-neutral,±× »ç¶÷Àº 3ÁÖ µÚ¿¡ [**º´¿ø 8682**] Å¬¸®´ÐÀ¸·Î µ¹¾Æ¿Í°¡ Ç×»ýÁ¦¸¦ Ã³¹æ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â ¼¿·ê¶óÀÌÆ¼½º¸¦ ¾Î°í ÀÖ½É´õ.
-entailment,"- ½ÉºÎÀü, ´ëµ¿¸Æ ÇùÂøÁõ, ½Â¸ðÆÇ ¿ª·ùÁõ - °íÇ÷¾Ð - 2Çü ´ç´¢º´ - Ã¶ °áÇÌ¼º ºóÇ÷ - Ç÷°ü ±âÇü º´·Â - °üÀý º¯¼º ÁúÈ¯ - ÀÎ°ø °í°üÀý Ä¡È¯¼ú ÈÄ - ¼Õ¸ñÅÍ³ÎÁõÈÄ±º ¼ö¼ú ÈÄ - Ãæ¼öÀýÁ¦¼ú ÈÄ - ÀÚ±ÃÁ¦°Å¼ú ÈÄ",È¯ÀÚ´Â ¿©·¯ ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
-contradiction,"- ½ÉºÎÀü, ´ëµ¿¸Æ ÇùÂøÁõ, ½Â¸ðÆÇ ¿ª·ùÁõ - °íÇ÷¾Ð - 2Çü ´ç´¢º´ - Ã¶°áÇÌ¼º ºóÇ÷ - AVMsÀÇ °ú°Å·Â - °üÀý º¯¼º ÁúÈ¯ - ÀÎ°ø °í°üÀý Ä¡È¯¼ú ÈÄ - ¼Õ¸ñÅÍ³Î ¼ö¼ú ÈÄ - Ãæ¼öÁ¦°Å¼ú ÈÄ - ÀÚ±ÃÁ¦°Å¼ú ÈÄ",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
-neutral,"- ½ÉºÎÀü, ´ëµ¿¸Æ ÇùÂøÁõ, ½Â¸ðÆÇ ¿ª·ùÁõ - °íÇ÷¾Ð - 2Çü ´ç´¢º´ - Ã¶ °áÇÌ¼º ºóÇ÷ - Ç÷°ü ±âÇü º´·Â - °üÀý º¯¼º ÁúÈ¯ - ÀÎ°ø °ñ¹Ý Ä¡È¯ ¼ö¼ú ÈÄ - ¼Õ¸ñÅÍ³ÎÁõÈÄ±º ¼ö¼ú ÈÄ - Ãæ¼öÀýÁ¦¼ú ÈÄ - ÀÚ±Ã Á¦°Å ¼ö¼ú ÈÄ",È¯ÀÚ´Â ³ë¾àÀÚÀÔ´Ï´õ.
-entailment,±× »ç¶÷Àº °¡½¿ ¾ÆÇÁ´Ü ¸»ÀÌ ¾ø½É´õ.,È¯ÀÚ´Â °¡½¿ ¾È ¾ÆÇÁ´ÙÄ¯´Ï´õ.
-contradiction,±× »ç¶÷Àº °¡½¿ ¾ÆÇÁ´Ü ¸»ÀÌ ¾ø½É´õ.,È¯ÀÚ°¡ °¡½¿ ¾ÆÇÁ´ÙÄ¯´Ï´õ.
-neutral,±× »ç¶÷Àº °¡½¿ÀÌ ºÒÆíÇÏ´Ü ¼Ò¸®¸¦ ¾È Çß½É´õ.,È¯ÀÚ´Â ¼û ¾È Â÷´ÙÄ¯´Ï´õ.
-entailment,±× ¿©ÀÚ´Â Àüº¸´Ù ¹è ¾ÆÇÂ ±â ³ª¾ÆÁ³´ÙÄº½É´õ.,È¯ÀÚ´Â ¹è°¡ ¾ÆÆÍ½É´õ.
-contradiction,±× ¿©ÀÚ´Â Àüº¸´Ù ¹è ¾ÆÇÂ ±â ³ª¾ÆÁ³´ÙÄº½É´õ.,È¯ÀÚ´Â ¹è ¾È ¾ÆÆÍ½É´õ.
-neutral,±× ¿©ÀÚ´Â Àüº¸´Ù ¹è ¾ÆÇÂ ±â ³ª¾ÆÁ³´ÙÄº½É´õ.,È¯ÀÚÇÑÅ× ÁøÅëÁ¦°¡ Ã³¹æµÆ½É´õ.
-entailment,"È¯ÀÚ°¡ º´µ¿¿¡ µµÂøÇßÀ» ¶§ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿ÂÀº 99.5µµ, Ç÷¾ÐÀº 129/74, ½É¹Ú¼ö´Â 112È¸, È£Èí¼ö´Â 16È¸, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 99%¿´½É´õ.",»ýÃ¼ ½ÅÈ£¿¡¼­ ½ÉÀåÀÌ »¡¸® ¶Ù´Â °É·Î ³ª¿Ô½É´õ.
-contradiction,"È¯ÀÚ°¡ º´µ¿¿¡ µµÂøÇßÀ» ¶§ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â - 99.5µµ, Ç÷¾Ð - 129/74, ½É¹Ú¼ö - 112, È£Èí¼ö - 16, RA¿¡¼­ »ê¼ÒÆ÷È­µµ - 99%¿´½É´õ.",»ýÃ¼ Â¡ÈÄ°¡ ºÒ¾ÈÁ¤Çß½É´õ.
-neutral,"È¯ÀÚ°¡ º´µ¿¿¡ µµÂøÇßÀ» ¶§ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â - 99.5µµ, Ç÷¾Ð - 129/74, ½É¹Ú¼ö - 112, È£Èí¼ö - 16, RA »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ - 99%¿´½É´õ.",Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-entailment,Ã¹ ¹øÂ° ½ÉÀå È¿¼Ò °Ë»ç °á°ú´Â À½¼ºÀÌ¾ú½É´õ.,È¯ÀÚ´Â ±Þ¼º °ü»óµ¿¸Æ ÁõÈÄ±ºÀº ¾Æ´Ñ °É·Î º¸°í ÀÖ½É´õ.
-contradiction,Ã¹ ¹øÂ° ½ÉÀå È¿¼Ò °Ë»ç °á°ú´Â À½¼ºÀÌ¾ú½É´õ.,È¯ÀÚ´Â ½ÉÀå È¿¼Ò °Ë»ç¿¡¼­ ¾ç¼ºÀ¸·Î ³ª¿Ô½É´õ.
-neutral,Ã¹ ¹øÂ° ½ÉÀå È¿¼Ò °Ë»ç °á°ú´Â À½¼ºÀÌ¾ú½É´õ.,È¯ÀÚ´Â ½É±Ù°æ»öÁõÀº ¾ÆÀÔ´Ï´õ.
-entailment,"ÀÌ ¿À¸¥¼Õ¿¡ Èû ¾ø´Â Áõ»óÀº ¸çÄ¥ µ¿¾È ³ª¾ÆÁö´õ¸¸, Áö±ÝÀº 100% ´Ù ³ª¾Ò½É´õ.",È¯ÀÚ´Â ¿À¸¥ÂÊ ÆÈ¿¡ ÈûÀÌ ºüÁ³½É´õ.
-contradiction,"ÀÌ ¿À¸¥¼Õ¿¡ Èû ¾ø´Â °Å´Â ¸çÄ¥ µ¿¾È Â÷Ãû ³ª¾ÆÁö´õ¸¸, Áö±ÝÀº 100% È¸º¹µÆ½É´õ.",È¯ÀÚ´Â Èû ¾²´Â µ¥´Â ¹®Á¦°¡ ¾ø¾ú½É´õ.
-neutral,"ÀÌ ¿À¸¥¼Õ¿¡ Èû ¾ø´Â °Å´Â ¸çÄ¥ µ¿¾È ±¦Âú¾ÆÁþ°í, ÀÎÀÚ´Â 100% ´Ù È¸º¹µÆ½É´õ.",È¯ÀÚ°¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
-entailment,ÀÌ·¡°¡ ÇÇ°¡ °ÅÁø ¸Ü¾ú½É´õ.,È¯ÀÚºÐÀº ÇÇ°¡ ³ª°¡²¿ º´¿ø¿¡ ¿Ô½É´õ.
-contradiction,ÀÌ·¡°¡ ÇÇ°¡ °ÅÁø ¸Ü¾ú½É´õ.,ÇÇ°¡ ¾È ¸Ü°í ÀÖ½É´õ.
-neutral,ÀÌ·¡°¡ ÇÇ°¡ °ÅÁø ¸Ü¾ú½É´õ.,È¯ÀÚºÐÀÌ ´Ù¯z½É´õ.
-entailment,"Áý¿¡¼­ 2L »ê¼Ò Ä¡·á¹Þ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), Æó°íÇ÷¾Ð, Ãµ½Ä, ´ëµ¿¸Æ ÇùÂøÁõ, ¿ÞÂÊ ¹«¸­ ÀÎ°ø°üÀý ¼ö¼ú, ³ì³»Àå, ³úÁ¹Áß ÈÄ »óÅÂ, À§½Äµµ¿ª·ùÁúÈ¯(GERD), ºÒ¾ÈÀå¾Ö, Çì¸£´Ï¾Æ, ¿À¸¥ÂÊ °í°üÀý °ñÀý ¹× °íÄ£ ÀÌ·ÂÀÌ ÀÖ½É´õ.",È¯ÀÚºÐÀÌ ¼û½¬±â Èûµé¾î ÇÏ½É´õ.
-contradiction,"Áý¿¡¼­ 2¸®ÅÍ »ê¼Ò Ä¡·á¹Þ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), Æó°íÇ÷¾Ð(Pulm HTN), Ãµ½Ä(Asthma), ´ëµ¿¸Æ ÇùÂøÁõ(Aortic stenosis), ¿ÞÂÊ ¹«¸­ ÀÎ°ø°üÀý ¼ö¼ú(L TKR), ³ì³»Àå(glaucoma), ³úÁ¹Áß ÈÄ »óÅÂ(s/p cva), À§½Äµµ¿ª·ùÁúÈ¯(gerd), ºÒ¾ÈÀå¾Ö(anxiety), Çì¸£´Ï¾Æ(hernia), ¿À¸¥ÂÊ °í°üÀý °ñÀý ÈÄ ¼ö¼ú(R hip fx w/ repair)ÀÔ´Ï´õ.",È¯ÀÚºÐ ÀüÃ¼ÀûÀ¸·Î °Ë»çÇÑ °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"Áý¿¡¼­ 2L »ê¼Ò Ä¡·á¹Þ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), Æó°íÇ÷¾Ð, Ãµ½Ä, ´ëµ¿¸Æ ÇùÂøÁõ, ¿ÞÂÊ ¹«¸­ ÀÎ°ø°üÀý ¼ö¼ú, ³ì³»Àå, ³úÁ¹Áß ÈÄ »óÅÂ, À§½Äµµ¿ª·ùÁúÈ¯(GERD), ºÒ¾ÈÀå¾Ö, Çì¸£´Ï¾Æ, ¿À¸¥ÂÊ °í°üÀý °ñÀý ¹× ¼ö¸®",È¯ÀÚºÐÀº ¿À¸¥ÂÊ ½ÉÀå¿¡ ºÎÇÏ°¡ ÀÖ½É´õ.
-entailment,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, Ä¡¸Å, ¿ì¿ïÁõ, ¼ºÀåºÎÁø, ÀÚ²Ù ³Ñ¾îÁü, Àü¸³¼±ºñ´ë, ¿ä/º¯ ºÒ continent",È¯ÀÚºÐÀº ½ÉÀå ºÎÁ¤¸ÆÀÌ ÀÖ½É´õ.
-contradiction,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, Ä¡¸Å, ¿ì¿ïÁõ, ¼ºÀåºÎÁø, ÀÚ²Ù ³Ñ¾îÁü, Àü¸³¼±ºñ´ë, ¿ä/º¯ ºÒ continent",È¯ÀÚºÐ Ã¼Áú·®Áö¼ö(BMI)´Â Á¤»ó ¹üÀ§ÀÔ´Ï´õ.
-neutral,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, Ä¡¸Å, ¿ì¿ïÁõ, ¼ºÀåºÎÁø, ÀÚ²Ù ³Ñ¾îÁü, Àü¸³¼±ºñ´ë, ¿ä/º¯ ºÒ continent",È¯ÀÚºÐ Ç÷¾ÐÀÌ ¿Ã¶ó°¡°í ÀÖ½É´õ.
-entailment,"±× ¿©ÀÚºÐ º´·ÂÀº ·çÇª½º °ü·Ã ½ÅºÎÀüÁõÀ¸·Î º¹ÀâÇÑµ¥, ½ÅÀå ÀÌ½ÄÀ» µÎ ¹ø ÇÑ µÚ¿¡ ÃÖ±Ù¿¡ ½ÅÀå ±â´ÉÀÌ ³ªºüÁö°¡ ÀÌ½Ä ½ÇÆÐ°¡ °ÆÁ¤µÆ¾ú½É´õ.",È¯ÀÚºÐÀº ÀÚ°¡¸é¿ªÁúÈ¯ÀÌ ÀÖ½É´õ.
-contradiction,"±× ¿©ÀÚºÐ ÀÇ·á ÀÌ·ÂÀº ·çÇª½º °ü·Ã ½ÅºÎÀüÁõÀ¸·Î º¹ÀâÇØÁö´Âµ¥, ½ÅÀå ÀÌ½ÄÀ» µÎ ¹ø ÇÑ µÚ¿¡ ÃÖ±Ù¿¡ ½ÅÀå ±â´ÉÀÌ ³ªºüÁö°¡ ÀÌ½Ä ½ÇÆÐ°¡ °ÆÁ¤µË´Ï´õ.",È¯ÀÚºÐ ½ÅÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"±× ¿©ÀÚºÐ º´·ÂÀº ·çÇª½º °ü·Ã ½ÅºÎÀüÁõÀ¸·Î º¹ÀâÇÑµ¥, ½ÅÀå ÀÌ½ÄÀ» µÎ ¹ø ÇÑ µÚ¿¡ ÃÖ±Ù¿¡ ½ÅÀå ±â´ÉÀÌ ³ªºüÁö°¡ ÀÌ½Ä ½ÇÆÐ¸¦ °ÆÁ¤ÇÏ°í ÀÖ½É´õ.",È¯ÀÚºÐÀÌ ¸é¿ª¾ïÁ¦Á¦¸¦ ¹¬°í ÀÖ½É´õ.
-entailment,±× ³²ÀÚ´Â ¿À¸¥ÂÊ °¡½¿ÀÌ ¾ÆÇÁ°í ¿ø·¡º¸´Ù Ç÷¾ÐÀÌ ´õ ¸¶ÀÌ ¶³¾îÁö°¡²¿ [**³¯Â¥ ¹üÀ§ (3) 29336**]¿¡ ´Ù½Ã ÀÔ¿øÇß½É´õ.,È¯ÀÚºÐÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä¯´õ.
-contradiction,±× ³²ÀÚ´Â ¿À¸¥ÂÊ °¡½¿ÀÌ ¾ÆÇÁ°í ¿ø·¡º¸´Ù Ç÷¾ÐÀÌ ´õ ¸¶ÀÌ ¶³¾îÁö°¡²¿ [**³¯Â¥ ¹üÀ§ (3) 29336**]¿¡ ´Ù½Ã ÀÔ¿øÇß½É´õ.,È¯ÀÚºÐÀº °¡½¿Àº ¾È ¾ÆÇÁ´Ù Ä¯´õ.
-neutral,±× ³²ÀÚ´Â ¿À¸¥ÂÊ °¡½¿ÀÌ ¾ÆÇÁ°í ¿ø·¡º¸´Ù Ç÷¾ÐÀÌ ´õ ¸¶ÀÌ ¶³¾îÁö°¡²¿ [**³¯Â¥ ¹üÀ§ (3) 29336**]¿¡ ´Ù½Ã ÀÔ¿øÇß½É´õ.,È¯ÀÚºÐÀÌ ½É±Ù°æ»öÀÌ ¿Ô½É´õ.
-entailment,"È¯ÀÚºÐÀº ´Ù¸¥ º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, ±× À§Àå°ü ÃâÇ÷ÀÌ ½Äµµ Á¤¸Æ·ù³ª À§±Ë¾ç ÁúÈ¯ ¶«ÀÎÁö´Â È®½ÇÇÏÁö ¾Ê½É´õ.",È¯ÀÚºÐÀº À§ÂÊ¿¡¼­ ÇÇ°¡ ³ª°í ÀÖ½É´õ.
-contradiction,"È¯ÀÚºÐÀº ´Ù¸¥ º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, ±× À§Àå°ü ÃâÇ÷ÀÌ ½Äµµ Á¤¸Æ·ù ¶«ÀÎÁö ¾Æ´Ô À§±Ë¾ç ÁúÈ¯ ¶«ÀÎÁö´Â È®½ÇÇÏÁö°¡ ¾Ê½É´õ.",È¯ÀÚºÐÀº ÇÇ ³ª´Â Áõ»óÀº ¾ø½É´õ.
-neutral,"È¯ÀÚºÐÀº ´Ù¸¥ º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, ±× À§Àå°ü ÃâÇ÷ÀÌ ½Äµµ Á¤¸Æ·ùÀÎÁö À§±Ë¾ç ÁúÈ¯ ¶«ÀÎÁö´Â È®½ÇÇÏÁö°¡ ¾Ê½É´õ.",È¯ÀÚºÐÀº Á¤¸Æ·ù°¡ ÀÖ½É´õ.
-entailment,"±× ¿©ÀÚºÐÀº ³×ºê¶û ¹¬´Â ÇÁ·¹µå´Ï¼ÕÀ¸·Î Ä¡·á¹Þ¾Ò´Âµ¥, °Ñº¸±â¿£ ±¦Âú¾Æ º¸¿´½É´õ.",±× ¿©ÀÚºÐÀº ½ºÅ×·ÎÀÌµå·Î Ä¡·á¹Þ¾Ò½É´õ.
-contradiction,"±× ¿©ÀÚ´Â ³×ºê¶û ¹¬´Â ÇÁ·¹µå´Ï¼ÕÀ¸·Î Ä¡·á¹Þ¾Ò°í, º¸±â¿¡µµ ¸ÖÂÄÇØ º¸¿´½É´õ.",±× ¿©ÀÚ´Â ¾Æ¹« Ä¡·áµµ ¾È ¹Þ¾Ò½É´õ.
-neutral,"±× ¿©ÀÚ´Â ³×ºêÇÏ°í ¹¬´Â ÇÁ·¹µå´Ï¼ÕÀ¸·Î Ä¡·á¹Þ¾Ò´Âµ¥, °Ñº¸±â¿¡´Â ¸ÖÂÄÇØ º¸¿´¾î¿¹.",±× ¿©ÀÚ´Â ¼ûµµ Â÷°í ±âÄ§µµ Çß½É´õ.
-entailment,[**2568-7-15**]¿¡ CABG ¼ö¼úÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ½ÉÇÕ´Ï´õ.
-contradiction,[**2568-7-15**]¿¡ CABG ¼ö¼úÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÔ´Ï´õ.
-neutral,[**2568-7-15**]¿¡ CABG ¼ö¼úÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â ¸»ÃÊÇ÷°üÁúÈ¯ÀÌ ÀÖ½É´õ.
-entailment,"±× ¿©ÀÚ´Â ½Å°æ¿Ü°ú¿¡¼­ ÁøÂû¹Þ¾Ò´Âµ¥, ½Å°æ ÂÊÀ¸·Î´Â ÀÌ»ó ¾ø´Ù°í Çß½É´õ.",±× ¿©ÀÚ ½Å°æ °Ë»ç °á°ú´Â Á¤»óÀÌ¾ú¾î¿¹.
-contradiction,"±× ¿©ÀÚ´Â ½Å°æ¿Ü°ú¿¡¼­ ÁøÂû¹Þ¾Ò´Âµ¥, ½Å°æ ÂÊÀ¸·Î´Â ÀÌ»ó ¾ø´Ù°í Çß½É´õ.",±× ¿©ÀÚ´Â ½Å°æ ÂÊ¿¡ ¹®Á¦°¡ ÀÖ¾ú¾î¿¹.
-neutral,"±× ¿©ÀÚ´Â ½Å°æ¿Ü°ú¿¡¼­ ÁøÂû¹Þ¾Ò´Âµ¥, ½Å°æ ÂÊÀ¸·Î´Â ¾Æ¹« ¹®Á¦¾ø´Ù°í Çß½É´õ.",³úÇ÷°ü »ç°í °ÞÀº Àû ¾ø½É´õ.
-entailment,"[**2525-12-10**]¿¡ ÇÑ TTE(½ÉÀå ÃÊÀ½ÆÄ) °á°ú, ½É¹ÚÃâ·®Àº 55% ÀÌ»ó ³ª¿Ô°í, 1+ ¹Ì¸¸ ÆÇ¸· ¿ª·ù¶û º®¿îµ¿ ÀÌ»óÀº ¾ø¾ú½É´õ.",¹æÃâ°è¼ö´Â Á¤»óÀÔ´Ï´õ.
-contradiction,"[**2525-12-10**]¿¡ ÇÑ Åõ°ú¼º ½ÉÀå ÃÊÀ½ÆÄ(TTE) °á°ú, ½É¹æ¼öÃà·üÀº 55% ÀÌ»óÀ¸·Î ³ª¿Ô°í, 1+ ¹Ì¸¸ ÆÇ¸· ¿ª·ù¶û º® ¿îµ¿ ÀÌ»óÀº ¾ø¾ú½É´õ.",º®¿îµ¿¿¡ ÀÌ»óÀÌ ÀÖ½É´õ.
-neutral,"[**2525-12-10**]¿¡ ÇÑ TTE °á°ú, ÃßÃâ°è¼ö´Â 55% ÀÌ»óÀÌ°í, 1+ ½ÉÀåÆÇ¸· ¿ª·ùÁõÀÌ¶û º® ¿îµ¿ ÀÌ»óÀº ¾ø¾ú½É´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
-entailment,±× ¿©ÀÚ´Â ±× ¶§ ¸ÖÂÄÇÏ°Ô ¸»ÇÏ°í ÀÖ¾ú¾î¿¹.,È¯ÀÚ´Â ¾î´À ½ÃÁ¡±îÁø ¸ÖÂÄÇÏ°Ô ´ëÈ­°¡ µÆ´Ù°í ¾Ë·ÁÁ® ÀÖ¾ú½É´õ.
-contradiction,±× ¿©ÀÚ´Â ±× ¶§ ¸ÖÂÄÇÏ°Ô ¸»ÇÏ°í ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ¾ðÁ¦ ¸ÖÂÄÇÏ°Ô ¸»À» Çß´ÂÁö ¾Ë·ÁÁø °Ô ¾ø½É´õ.
-neutral,±× ¿©ÀÚ´Â ±× ¶§ ¸ÖÂÄÇÏ°Ô ¸»ÇÏ°í ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
-entailment,"±× ³²ÀÚ´Â ½ÉÀüµµ º¯È­´Â ¾ø¾ú°í, Ã·¿¡ Àé È¿¼Ò ¼öÄ¡´Â À½¼ºÀÌ¾ú¾î¿¹.",È¯ÀÚ´Â °¡½¿ÀÌ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
-contradiction,"±× ³²ÀÚ´Â ½ÉÀüµµ º¯È­´Â ¾ø¾ú°í, Ã·¿¡ Àé È¿¼Ò ¼öÄ¡´Â À½¼ºÀÌ¾ú¾î¿¹.",È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
-neutral,"±× ³²ÀÚ´Â ½ÉÀüµµ º¯È­´Â ¾ø¾ú°í, Ã·¿¡ Àé È¿¼Ò °ªÀº À½¼ºÀÌ¾ú¾î¿¹.",È¯ÀÚ È¿¼Ò °Ë»ç °á°ú°¡ À½¼ºÀÔ´Ï´õ.
-entailment,ÃÖ±Ù¿¡ »ý±ä ´ã¼® ÃéÀå¿° [**1-23**] 12.,È¯ÀÚ´Â ÃÖ±Ù¿¡ ±Þ¼º ÁúÈ¯À» ¾Î¾Ò½É´õ.
-contradiction,ÃÖ±Ù ÃéÀå¿° °£¼®Áõ [**1-23**] 12.,È¯ÀÚ´Â ÃÖ±Ù¿¡ º´¿ø ´Ù´Ñ ÀûÀÌ ¾ø½É´õ.
-neutral,ÃÖ±Ù ´ã¼® ÃéÀå¿° [**1-23**] 12.,È¯ÀÚ ¾ËÄ®¸® Æ÷½ºÆÄÅ¸Á¦ ¼öÄ¡°¡ ¿Ã¶ú½É´õ.
-entailment,±× ¾Æ´Â ¶Ç ¾Æ¹Ù·Ï½º 400mgÀ» Á¤¸ÆÁÖ»ç·Î ¸Â¾Ò½É´õ.,È¯ÀÚ´Â Ç×»ýÁ¦¸¦ ¸Â¾Ò½É´õ.
-contradiction,±× ¾Æ´Â ¶Ç ¾Æ¹Ù·Ï½º 400mgÀ» Á¤¸Æ ÁÖ»ç·Î ¸Â¾Ò½É´õ.,È¯ÀÚ´Â Ç×»ýÁ¦¸¦ ¾È ¸Â¾Ò½É´õ.
-neutral,±× ¾Æ´Â ¶Ç ¾Æ¹ß·Ï½º 400mgÀ» Á¤¸ÆÁÖ»ç·Î ¸Â¾Ò½É´õ.,È¯ÀÚ´Â Æó·Å¿¡ °É›½É´õ.
-entailment,"ÀÌ°Å´Â ÆÛ¶à ½É½Ç ¼¼µ¿À¸·Î ¹Ù²¼°í, ±× ¾Æ´Â 360J Àü±âÃæ°ÝÀ» ÇÑ ºÐ ¼º°øÀûÀ¸·Î ¸Â¾Ò½É´õ. ±×·¡°¡²¿ ½É¹ÚÇÏ°í ¼øÈ¯ ±â´ÉÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â ½ÉÀå ÀüÈ¯¼ú ÈÄ¿¡ ½É¹Úµ¿ÀÌ Á¤»óÀÔ´Ï´õ.
-contradiction,"ÀÌ°Å´Â ÆÛ¶à ½É½Ç¼¼µ¿À¸·Î ¹Ù²¼°í, ±× ¾Æ´Â ¼º°øÀûÀ¸·Î 360J Àü±âÃæ°ÝÀ» ÇÑ ºÐ ¸Â¾Ò½É´õ. ±×·¡°¡²¿ ¸®µëÇÏ°í ¼øÈ¯ÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½É´õ.
-neutral,"ÀÌ°Å´Â ÆÛ¶à ½É½Ç¼¼µ¿À¸·Î ¹Ù²¼°í, ±× ¾Æ´Â ¼º°øÀûÀ¸·Î 360J Àü±â Ãæ°ÝÀ» ÇÑ ºÐ ¸Â¾Æ ¸®µëÇÏ°í ¼øÈ¯À» È¸º¹Çß½É´õ.",È¯ÀÚ´Â ½ÉÀå Á¶µ¿À» Çß½É´õ.
-entailment,"ÀÏÈç¼¼ »ì ÇÒ¸Å È¯ÀÚ´Â ¾ï¼ö·Î ½ÉÇÑ µ¿¸Æ°æÈ­Áõ ¶§¹Ì ¼ö¼úÀ» ¿©·¯ ¹ø ¹ÞÀº ÀûÀÌ ÀÖ°í, Ã·¿¡´Â Áõ»óÀÌ Á» ³ª¾ÆÁ³´Âµ¥, ÀÎÀÚ´Â ¿ÞÂÊ ´ëÅðµ¿¸Æ¿¡ »õ º´ÀÌ »ý°å°í, ÇÏº¹ºÎ µ¿¸ÆÀº ¾ï¼ö·Î ÀÛ°í °ñ¹Ýµ¿¸ÆÀ¸·Î´Â ÇÇ°¡ ÂØ¸Å¹Û¿¡ ¾È ÅëÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â ½ÉÇÑ ¸»ÃÊµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½É´õ.
-contradiction,"ÀÏÈç¼¼ »ì ÇÒ¸ÅÀÎµ¥, ½ÉÇÑ µ¿¸Æ°æÈ­ÁõÀ» ¾Î°í ÀÖ°í, ´Ù¸®¸¦ ½ÉÇÏ°Ô Àý¾î½Õ¾î°¡ ¼ö¼úÀ» ¸î ¹ø ¹Þ¾Ò½É´õ. Ã·¿¡´Â Áõ»óÀÌ Á» ³ª¾ÆÁ³´Âµ¥, ÀÎÀÚ´Â ¿ÞÂÊ ´ëÅðµ¿¸Æ¿¡ »õ º´ÀÌ »ý°å°í, ÇÏº¹ºÎ ´ëµ¿¸Æ À§ÂÊÀº ¾ï¼ö·Î ÀÛ°í °ñ¹Ýµ¿¸ÆÀ¸·Î´Â ÇÇ°¡ ÂØ¸Å¹Û¿¡ ¾È Èå¸¨´Ï´õ.",È¯ÀÚ Ç÷°ü ±¸Á¶´Â Á¤»óÀÌ°í Àß ÅëÇÕ´Ï´õ.
-neutral,"ÀÏÈç¼¼ »ì ÇÒ¸Å È¯ÀÚ´Â ½ÉÇÑ µ¿¸Æ°æÈ­ÁõÀ» ¾Î°í ÀÖ°í, ½ÉÇÑ ÀýÁ¦Áõ ¶§¹Ì ¼ö¼úÀ» ¿©·¯ ¹ø ¹Þ¾Ò½É´õ. Ã·¿¡´Â Áõ»óÀÌ Á» ³ª¾ÆÁ³´Âµ¥, ÀÎÀÚ´Â ¿ÞÂÊ ´ëÅðµ¿¸Æ¿¡ »õ º´ÀÌ »ý°å°í, ÇÏº¹ºÎ ´ëµ¿¸Æ À§ÂÊÀ¸·Î ÇÇ°¡ ÂØ¸Å¹Û¿¡ ¾È Èå¸£´Â °Ô º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
-entailment,±× ¾ÆÇÑÅ× Á¤¸ÆÁÖ»ç·Î ¿¡Åä¹Ìµ¥ÀÌÆ® 20mgÇÏ°í ¼ö½Ã´ÒÄÝ¸° 150mgÀ» ³ù½É´õ.,È¯ÀÚÇÑÅ× Àü½Å¸¶ÃëÁ¦°¡ µé¾î°¬½É´õ.
-contradiction,±× ¾ÆÇÑÅ×´Â Á¤¸ÆÁÖ»ç·Î ¿¡Åä¹Ìµ¥ÀÌÆ® 20mgÇÏ°í ¼ö½Ã´ÒÄÝ¸° 150mgÀ» ³ù½É´õ.,±× ½Ã¼úÀº ±¹¼Ò ¸¶Ãë·Î Çß½É´õ.
-neutral,±× ¾ÆÇÑÅ×´Â Á¤¸ÆÁÖ»ç·Î ¿¡Åä¹Ìµ¥ÀÌÆ® 20mgÇÏ°í ¼ö½Ã´ÒÄÝ¸° 150mgÀ» ³ù½É´õ.,È¯ÀÚ°¡ ¼±ÅÃÀû ¼ö¼úÀ» ¹Þ°í ÀÖ½É´õ.
-entailment,"±× ¾Æ´Â ÇÑ 3ºÐ Âë ¿îµ¿À» Çß°í, ¿ÞÂÊ ¹øµéÆÄ Â÷´Ü ¶§¹Ì Áø´ÜÀÌ ¾È µÇ´Â ³ÐÀº ST-T ÆÄ ÀÌ»óÀ» º¸¿´½É´õ.",±× ¾Æ´Â ½ÉÀüµµ ÀÌ»óÀ» º¸ÀÌ°í ÀÖ½É´õ.
-contradiction,"±× ¾Æ´Â ÇÑ 3ºÐ Âë ¿îµ¿À» ÇÏ°í ³ª¼­, ¿ÞÂÊ ¹øµéÆÄÂ÷´Ü ¶§¹Ì Áø´ÜÀÌ ¾È µÇ´Â ³ÐÀº ST-T ÆÄ ÀÌ»óÀ» º¸¿´½É´õ.",EKG´Â Á¤»óÀÌ¾ú½É´õ.
-neutral,"±× ¾Æ´Â ÇÑ 3ºÐ Âë ¿îµ¿À» Çß°í, ¿ÞÂÊ ¹øµéÆÄÂ÷´Ü ¶§¹Ì Áø´ÜÀÌ ¾È µÇ´Â ÆÛÁö´Â ST-TÆÄ ÀÌ»óÀ» º¸¿´½É´õ.",±× ¾Æ´Â °ü»óµ¿¸Æ ÁúÈ¯ º´·ÂÀÌ ÀÖ½É´õ.
-entailment,¿ÀÀü 11½Ã ¹Ý¿¡ ½ºÆ®·ÎÅ© ÄÚµå¸¦ ºÒ·¶½É´õ.,È¯ÀÚÇÑÅ× ³úÁ¹ÁßÀÌ ¿Ô½É´õ.
-contradiction,¿ÀÀü 11½Ã ¹Ý¿¡ ½ºÆ®·ÎÅ© ÄÚµå¸¦ ºÒ·¶½É´õ.,È¯ÀÚ´Â ³úÇ÷°ü »ç°í Â¡ÈÄ³ª Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.
-neutral,¿ÀÀü 11½Ã ¹Ý¿¡ ½ºÆ®·ÎÅ© ÄÚµå¸¦ ºÒ·¶½É´õ.,È¯ÀÚ´Â ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ½É´õ.
-entailment,"±× ¾Æ´Â Á¤½ÅÀÌ ¶Ç·ÇÇß°í, ½Ã¼³ ¾È¿¡¼­ ¾Æ¹« ¹®Á¦ ¾øÀÌ Àß °É¾î´ó°å½É´õ.",È¯ÀÚ°¡ °È°í ÀÖ½É´õ.
-contradiction,"±× ¾Æ´Â Á¤½ÅÀÌ ¾ï¼ö·Î ¶Ç·ÇÇß°í, ½Ã¼³ ¾È¿¡¼­ ¾Æ¹« ¹®Á¦ ¾øÀÌ Àß °É¾ú½É´õ.",È¯ÀÚ´Â °È´Â °É Èûµé¾îÇß½É´õ.
-neutral,"±× »ç¶÷Àº Á¤½ÅÀÌ ¶Ç·ÇÇß°í, ½Ã¼³ ¾È¿¡¼­ ¾Æ¹« ¹®Á¦ ¾øÀÌ °É¾î´ó±æ ¼ö ÀÖ¾ú½É´õ.",È¯ÀÚ´Â Ä¡¸Å°¡ ÀÖ½É´õ.
-entailment,"Á¶¿µÁ¦ ¾È ¾´ ´ë°¡¸® CT¿¡¼­ Å« µ¿¸Æ·ù°¡ ³ª¿Ô°í, ±Û°í MRA¿¡¼­ È®ÀÎÇß½É´õ.",´ë°¡¸® CT¶û MRA °á°ú°¡ Á¤»óÀÌ ¾Æ´Ï¾ú½É´õ.
-contradiction,"Å« µ¿¸Æ·ù°¡ Á¶¿µÁ¦ ¾È ¾´ ´ë°¡¸® CT¿¡¼­ ³ª¿Ô°í, ±Û°í MRA¿¡¼­ È®ÀÎµÆ½É´õ.",´ë°¡¸® CT¶û MRA´Â º° ÀÌ»ó ¾ø¾ú½É´õ.
-neutral,"Á¶¿µÁ¦ ¾È ¾´ ´ë°¡¸® CT¿¡¼­ Å« µ¿¸Æ·ù°¡ ³ª¿Ô°í, ±Û°í MRA¿¡¼­ È®ÀÎÇß½É´õ.",È¯ÀÚ´Â ¹ßÀÛÀÌ¶û ¸Ó¸® ¾ÆÇÂ ÀûÀÌ ÀÖ½É´õ.
-entailment,"°¼´Â ¶Ç [**10-17**]¿¡ À§³»½Ã°æÀ» Çß´Âµ¥, °Å±â¼­ ½Äµµ ¾Æ·¡ÂÊ 3ºÐÀÇ 1¿¡ ±Ë¾çÀÌ ÀÖ°í ½ÊÀÌÁöÀå¿°µµ ÀÖ´Ù°í ³ª¿Ô½É´õ.",È¯ÀÚ´Â À§½Äµµ¿ª·ùÁúÈ¯(GERD)ÀÌ ÀÖ½É´õ.
-contradiction,"°¼´Â ¶Ç [**10-17**]¿¡ À§³»½Ã°æÀ» Çß´Âµ¥, °Å±â¼­ ½Äµµ ¾Æ·¡ÂÊ 3ºÐÀÇ 1¿¡ ±Ë¾çÀÌ ÀÖ°í, ½ÊÀÌÁöÀå¿°µµ °°ÀÌ ÀÖ´Â °É·Î È®ÀÎµÆ½É´õ.",È¯ÀÚ À§³»½Ã°æ °á°ú´Â ¾Æ¹« ÀÌ»ó ¾ø½É´õ.
-neutral,"°¼´Â ¶Ç [**10-17**]¿¡ À§³»½Ã°æÀ» Çß´Âµ¥, °Å±â¼­ ½Äµµ ¾Æ·¡ÂÊ 3ºÐÀÇ 1¿¡ ±Ë¾çÀÌ¶û ½ÊÀÌÁöÀå¿°ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ´Â ½Äµµ¾ÏÀÔ´Ï´õ.
-entailment,"°¼´Â ÀÌ½Ä ¼ö¼úÇØµµ µÈ´Ù°í ³ª¿Ô°í, ¿©µ¿»ýÇÑÅ× ÄáÆÏÀ» ¹ÞÀ» ³§´Ï´õ.",È¯ÀÚ´Â ½ÅºÎÀüÁõÀÌ ÀÖ½É´õ.
-contradiction,"°¼´Â ÀÌ½Ä ¼ö¼úÇØµµ µÈ´Ù°í ³ª¿Ô°í, ¿©µ¿»ýÇÑÅ× ÄáÆÏÀ» ¹ÞÀ» ³§´Ï´õ.",È¯ÀÚ ÄáÆÏ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"°¼´Â ÀÌ½Ä ¼ö¼úÇØµµ µÈ´Ù°í ³ª¿Ô°í, ÀÚ¸ÅÇÑÅ× ÄáÆÏÀ» ¹ÞÀ» ³§´Ï´õ.",È¯ÀÚ´Â ´ç´¢°¡ ÀÖ½É´õ.
-entailment,°¼´Â ¹ßÇ¥ÇÏ´Â ³¯±îÁö ¹ßÀÛÀÌ ¾ø¾ú½É´õ.,È¯ÀÚ°¡ ¹ßÀÛÀ» Çß½É´õ.
-contradiction,°¼´Â ¹ßÇ¥ÇÏ´Â ³¯±îÁö ±× µÚ·Î ¹ßÀÛÀÌ ¾ø¾ú½É´õ.,È¯ÀÚ´Â ¹ßÀÛÇÑ ÀûÀÌ ¾ø½É´õ.
-neutral,°¼´Â ¹ßÇ¥ÇÏ´Â ³¯±îÁö ¹ßÀÛÀÌ ¾ø¾ú½É´õ.,È¯ÀÚ´Â ÄÉÇÁ¶ó ¸Ô°í ÀÖ½É´õ.
-entailment,°¼´Â NB/NB Åä¸¦ ¼¼ ¹ø Çß½É´õ.,°¼´Â ÅäÇß½É´õ.
-contradiction,°¼´Â NB/NB Åä¸¦ ¼¼ ¹ø Çß½É´õ.,¿äÁò ÅäÇÏ°Å³ª ¼Ó ¹Ì½»°Å¸° Àû ¾ø½É´õ.
-neutral,°¼´Â NB/NB Åä¸¦ ¼¼ ¹ø Çß½É´õ.,°¼´Â ¹è°¡ ¾ÆÆÍ½É´õ.
-entailment,ÇÇÅä½ÅÀ¸·Î ºÐ¸¸ À¯µµÇß½É´õ.,È¯ÀÚ´Â À¯µµºÐ¸¸ Çß½É´õ.
-contradiction,PitocinÀ¸·Î ºÐ¸¸ À¯µµÇß½É´õ.,È¯ÀÚ´Â ÀÚ¿¬ºÐ¸¸ Çß½É´õ.
-neutral,PitocinÀ¸·Î ºÐ¸¸ À¯µµÇß½É´õ.,È¯ÀÚ´Â ÀÓ½Å±â°£ÀÌ ±æ¾ú½É´õ.
-entailment,- ´Ù±âÇü ±³¸ð¼¼Æ÷Á¾ (WHO IV) ¼ö¼ú([**3206-7-20**]) ¹Þ°í Ç×¾Ï¹æ»ç¼± Ä¡·á ¹ÞÀ½(³¡³­ ³¯: [**3206-9-28**]) - º¹ÇÕ ºÎºÐ ¹ßÀÛ - ÆíµÎÅë - °íÇ÷¾Ð,È¯ÀÚ´Â ¾ÏÀÔ´Ï´õ.
-contradiction,- ´Ù±âÇü ±³¸ð¼¼Æ÷Á¾ (WHO IV) ¼ö¼úÇÏ°í ³ª¼­ ([**3206-7-20**]) ±Û°í È­ÇÐ¹æ»ç¼± Ä¡·á (³¡³½ ³¯: [**3206-9-28**]). - º¹ÇÕ ºÎºÐ ¹ßÀÛ - ÆíµÎÅë - °íÇ÷¾Ð,È¯ÀÚ´Â ¼ö¼ú ¾È ¹Þ¾Ò½É´õ.
-neutral,- ´ÙÇü¼º ±³¸ð¼¼Æ÷Á¾ (WHO IV) ¼ö¼úÇÏ°í ³ª¼­ ([**3206-7-20**]) ±Û°í Ç×¾Ï¹æ»ç¼± Ä¡·á (³¡³½ ³¯: [**3206-9-28**]) - º¹ÇÕ ºÎºÐ ¹ßÀÛ - ÆíµÎÅë - °íÇ÷¾Ð,È¯ÀÚ ¿¹ÈÄ°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
-entailment,"½ÉÀüµµ °á°ú, ºÎÁ¤¸Æ ¾ø´Â ºü¸¥¸ÆÀÌ º¸ÀÌ°í, ±Þ¼º ST/ TÆÄ ¿ªÀüÀº ¾ø½É´õ.",È¯ÀÚ°¡ ½ÉÀåÀÌ »¡¸® ¶Ù°¡²¿ Èûµé¾îÇÕ´Ï´õ.
-contradiction,"½ÉÀüµµ °á°ú·Î ½Å½º Å¸Å°Ä«µð¾Æ¸¦ º¸ÀÌ°í, ±Þ¼º ST/ TWI´Â ¾ø½É´õ.",È¯ÀÚ Ç÷¾ÐÀº Á¤»óÀÔ´Ï´õ.
-neutral,"½ÉÀüµµ °á°ú ºü¸¥ ½ÉÀå¹Úµ¿À» º¸ÀÌ°í, ±Þ¼º ST/ TÆÄ ¿ªÀüÀº ¾ø½É´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÔ´Ï´õ.
-entailment,¶Ñ·ÇÇÑ ÀÜ¿© Áõ»óÀº ¾ø½É´õ.,È¯ÀÚÇÑÅ× Áõ»óÀÌ ³ªÅ¸³ª°í ÀÖ½É´õ.
-contradiction,¶Ñ·ÇÇÑ ÀÜ¿© Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ°¡ ¹è°¡ ¸¶ÀÌ ¾ÆÆÄÇÕ´Ï´õ.
-neutral,¶Ñ·ÇÇÑ ÀÜ¿© Áõ»ó ¾øÀ½.,È¯ÀÚ°¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
-entailment,"±× »ç¶÷Àº Ã¼¿ÂÀ» ¿Ã¸®°í, ¸öÀ» ¸»¸®°í, ÀÚ±ØÇß½É´õ.",È¯ÀÚ´Â Ã¼¿ÂÀ» ¿Ã›½É´õ.
-contradiction,"±× »ç¶÷Àº Ã¼¿Â ¿Ã¸®°í, ¸ö ¸»¸®°í, ÀÚ±ØÀ» ¹Þ¾Ò½É´õ.",È¯ÀÚ°¡ Ã¼¿Â ³»¸®´Â Á¶Ä¡¸¦ ¹Þ¾Ò½É´õ.
-neutral,"±× »ç¶÷Àº Ã¼¿ÂÀ» ¿Ã¸®°í, ¸öÀ» ¸»¸®°í, ÀÚ±ØÇß½É´õ.",È¯ÀÚ ÀÇ½ÄÀÌ Èñ¹ÌÇØÁ³½É´õ.
-entailment,"±× ¿©ÀÚ´Â ±¸¾ÆÀÌ¾Ç ¾ç¼ºÀÎ ¿¬°¥»ö ¶ËÀ» ´³°í, G-Æ©ºê¿¡¼± ³ì»ö ºÐºñ¹°ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ´Â À§Àå°ü ÃâÇ÷ ¼Ò°ßÀÌ ÀÖ½É´õ.
-contradiction,±× ¿©ÀÚ´Â ±¸¾ÆÀÌ¾Ç ¾ç¼ºÀÎ ¿¬°¥»ö ¶ËÇÏ°í G-Æ©ºê¿¡¼­ ³ª¿À´Â ³ì»ö ºÐºñ¹°À» º¸¿´½É´õ.,È¯ÀÚ´Â À§Àå ÃâÇ÷ÀÌ ¾ø½É´õ.
-neutral,"±× ¿©ÀÚ´Â ±¸¾ÆÀÌ¾Ç ¾ç¼ºÀÎ ¿¬°¥»ö ¶ËÀ» ´³°í, G-Æ©ºê¿¡¼­ ³ì»ö ºÐºñ¹°ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ´Â G-Æ©ºê ÀÖ´Â µ¥¼­ ÇÇ°¡ ³ª°í ÀÖ½É´õ.
-entailment,"±× »ç¶÷Àº ¾Æ¹Ì¿À´Ù·Ð 150mg ¸Â°í, Ãæ°Ý ÇÑ ¹ø ¹Þ°í, ½ÉÀå ¸Ü°í³ª¼­ 1ºÐ ¾È¿¡ ¸Æ¹ÚÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â Àü¿¡ ½ÉÀå¸¶ºñ ¿Â ÀûÀÌ ÀÖ½É´õ.
-contradiction,"±× »ç¶÷Àº ¾Æ¹Ì¿À´Ù·Ð 150mg ¸Â°í, ½ÉÀå Ãæ°Ý ÇÑ ¹ø ¹Þ°í, ½ÉÀå ¸Ü°í³ª¼­ 1ºÐ ¾È¿¡ ¸Æ¹ÚÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â ½ÉÆó¼Ò»ý¼ú ¹ÞÀº Àû ¾ø½É´õ.
-neutral,"±× »ç¶÷Àº ¾Æ¹Ì¿À´Ù·Ð 150mg ¸Â°í, Ãæ°Ý ÇÑ ¹ø ¹Þ°í, ½ÉÀå ¸Ü°í³ª¼­ 1ºÐ ¾È¿¡ ¸Æ¹ÚÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â ÇãÇ÷ÁõÀÌ ÀÖ½É´õ.
-entailment,"»ïÅ´Àå¾ÖÇÏ°í [** À§Ä¡ **] À§Àå°ü ÇÇ½ºÅä¹Ì Æ©ºê°¡ ÀÖ¾ú´Âµ¥, ¿äÁò »ïÅ´ °Ë»ç °á°ú°¡ ÁÁ°Ô ³ª¿Í°¡ Áö±ÝÀº ºÎµå·¯¿î À½½ÄÀ» ¹¬°í ÀÖ½É´õ.",È¯ÀÚ´Â »ïÅ°´Â °É Èûµé¾îÇÕ´Ï´õ.
-contradiction,"»ïÅ´Àå¾ÖÇÏ°í [** À§Ä¡ **] À§Àå°ü Àý°³°üÀÌ ÀÖ¾ú´Âµ¥, ¿äÁò ÇÑ »ïÅ´ °Ë»ç °á°ú°¡ ÁÁ°Ô ³ª¿Í°¡ Áö±ÝÀº ¹«¸¥ À½½ÄÀ» ¹¬°í ÀÖ½É´õ.",È¯ÀÚ »ïÅ°´Â ¹ÝÀÀÀº Á¤»óÀÔ´Ï´õ.
-neutral,"»ïÅ´Àå¾ÖÇÏ°í [** À§Ä¡ **] À§Àå°ü Æ©ºê°¡ ÀÖ¾ú´Âµ¥, ¿äÁò ÇÑ »ïÅ´ °Ë»ç °á°ú°¡ ±¦Âú´Ù ½Í¾î°¡ Áö±ÝÀº ¹«¸¥ À½½ÄÀ» ¹¬°í ÀÖ½É´õ.",È¯ÀÚ°¡ ÈíÀÎÇÏ°í ÀÖ¾ú½É´õ.
-entailment,"[**3350-5-12**]¿¡ ÇÑ ½ÉÀå Ä«Å×ÅÍ °Ë»ç¿¡¼­ °í¸³µÈ Æ®·ÎÆ÷´Ñ ´©ÃâÀÌ È®ÀÎµÆ½É´õ. ±×¶§ ½É¹ÚÃâ·üÀº 60%, ½ÉÀå ¹Ú¸· ¿îµ¿ ºÎÀü, ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·ÂÀº 14·Î ³ª¿Ô°í¿ä. ¿À¸¥ÂÊ °ü»óµ¿¸Æ¿¡´Â È®»ê¼º ÁúÈ¯ÀÌ º¸¿´°í, ÀÌ ÁÂÃø ¿ì¼¼ Ã¼°è¿¡¼­ ÁÂÃø °ü»óµ¿¸ÆÀº ±ÙÀ§ºÎ¿¡¼­ 80%, Áß°£ ÁÂÃø Àü¹æ ÇÏ°­µ¿¸Æ¿¡¼­ 60%, ¿øÀ§ºÎ¿¡¼­´Â 90% º´º¯ÀÌ º¸¿´½É´õ.",È¯ÀÚ´Â ´ÙÁßÇ÷°ü °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½É´õ.
-contradiction,"[**3350-5-12**]¿¡ ÇÑ ½ÉÀå Ä«Å×ÅÍ °Ë»ç¿¡¼­ °í¸³µÈ Æ®·ÎÆ÷´Ñ ´©ÃâÀ» È®ÀÎÇß°í, ½É¹ÚÃâ·üÀº 60%, ½ÉÀå ¹Ú¸·Àº ¾È ¿òÁ÷ÀÌ´Â »óÅÂ, ¿ÞÂÊ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·ÂÀº 14, ¿À¸¥ÂÊ °ü»óµ¿¸Æ¿¡¼­´Â È®»ê¼º ÁúÈ¯À» º¸¿´½É´õ. ÀÌ ¿ÞÂÊ ¿ì¼¼Çü ½Ã½ºÅÛ¿¡¼­ ¿ÞÂÊ °ü»óµ¿¸ÆÀº ±ÙÀ§ºÎ¿¡¼­ 80%, Áß°£ ¿ÞÂÊ Àü¹æÇÏ°­µ¿¸Æ¿¡¼­ 60%, ¿øÀ§ºÎ¿¡¼­ 90% º´º¯À» º¸¿´½É´õ.",È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÔ´Ï´õ.
-neutral,"[**3350-5-12**]¿¡ ÇÑ ½ÉÀå Ä«Å×ÅÍÈ­´Â °í¸³µÈ Æ®·ÎÆ÷´Ñ ´©Ãâ ¶«¿¡ Çß°í, ±×¶§ ½É¹ÚÃâ·üÀº 60%, ½ÉÀå ¹Ú¸·Àº ¾È ¿òÁ÷ÀÌ´Â »óÅÂ(apical akinesis), ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·ÂÀº 14¿´½É´õ. ¿ìÃø °ü»óµ¿¸ÆÀº Àü¹ÝÀûÀ¸·Î ÁúÈ¯ÀÌ ³ªÅ¸³µ°í, ÀÌ ÁÂÃø ¿ì¼¼ Ã¼°è¿¡¼­ ÁÂÃø °ü»óµ¿¸ÆÀº ±ÙÀ§ºÎ¿¡¼­ 80%, Áß°£ ÁÂÃø Àü¹æÇÏ°­µ¿¸Æ¿¡¼­ 60%, ¿øÀ§ºÎ¿¡¼­ 90% º´º¯À» º¸¿´½É´õ.",½ºÅÙÆ® ¹Ú¾Ò½É´õ.
-entailment,"(±âÁØ¼± 1.1), BNP [**¼ýÀÚ ½Äº°ÀÚ 23983**] ¹× Æ®·ÎÆ÷´Ñ ¼öÄ¡ .44 ¿À¸§(»õ·Î »ý±ä ¾ÆÆ®¸®¾ó ¼¼µ¿°ú ±Þ¼º ½ÅºÎÀüÁõ »óÈ²¿¡¼­).",È¯ÀÚ´Â ½ÉÀå È¿¼Ò°¡ ºñÁ¤»óÀÔ´Ï´õ.
-contradiction,"(±âÁØ¼± 1.1), BNP [**¼ýÀÚ ½Äº°ÀÚ 23983**] ¹× Æ®·ÎÆ÷´Ñ .44 ¿À¸§(»õ·Î »ý±ä ¾ÆÆ®¸®¾ó ¼¼µ¿ ¹× ±Þ¼º ½ÅºÎÀüÁõ »óÈ²¿¡¼­).",È¯ÀÚ ½ÉÀå °ü·Ã °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"(±âÁØ¼± 1.1), BNP [**¼ýÀÚ ½Äº°ÀÚ 23983**] ¹× Æ®·ÎÆ÷´Ñ .44 ¿À¸§(»õ·Î »ý±ä ½É¹æ¼¼µ¿°ú ±Þ¼º ½ÅºÎÀüÁõ »óÈ²¿¡¼­).",È¯ÀÚ´Â ¼ö¿ä¼º ÇãÇ÷À» ¾Î°í ÀÖ½É´õ.
-entailment,¿Ü°ú Å¬¸³ÀÌ ¸Õ ÂÊ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ¶Èµð º¸ÀÔ´Ï´õ.,¿¹Àü¿¡ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ½Ã¼úÇß¾ú½É´õ.
-contradiction,¿Ü°ú Å¬¸³ÀÌ ¸Õ ÂÊ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ¶Èµð º¸ÀÔ´Ï´õ.,¹è¿¡ ¿¹Àü¿¡ ¼ö¼úÀÌ³ª ½Ã¼úÇÑ Àû ¾ø¾ú½É´õ.
-neutral,¿Ü°ú¿ë Å¬¸³ÀÌ ¸Õ ÂÊ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ¶Èµð º¸ÀÔ´Ï´õ.,È¯ÀÚ´Â ¹è ¾Î¾Ò´ø ÀûÀÌ ÀÖ½É´õ.
-entailment,"(Á¥»êÀº 1.3¹Û¿¡ ¾ÈµÇ°í, È¯ÀÚ´Â ¿­Àº ¾ø½É´õ).",Ã¼¿ÂÀº Á¤»óÀÌ¾ú½É´õ.
-contradiction,"(Á¥»êÀº 1.3¹Û¿¡ ¾ÈµÇ°í, È¯ÀÚ´Â ¿­ ¾ø½É´õ).",¿­ÀÌ ¿À¸§
-neutral,"(Á¥»êÀº 1.3¹Û¿¡ ¾ÈµÇ°í, È¯ÀÚ´Â ¿­ ¾ø½É´õ).",È¯ÀÚ °Ç°­ »óÅÂ´Â ±¦Âú½É´õ.
-entailment,"ÃÊ±â Ç÷¾ÐÀÌ 190/110ÀÌ¶ó¼­, Á¤¸ÆÁÖ»ç¿ë ¶óº£Å»·Ñ ¸Â°í ½Å°æÇÐÀû °Ë»ç ÀÚÁÖ ÇÏ·Á°í ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß½É´õ.",Ç÷¾ÐÀÌ ³ô¾Ò½É´õ.
-contradiction,"ÃÊ±â Ç÷¾ÐÀÌ 190/110ÀÌ¶ó¼­, Á¤¸ÆÁÖ»ç·Î ¶óº£Å»·Ñ ¸Â°í ½Å°æÇÐÀû °Ë»ç ÀÚÁÖ ¹ÞÀ¸·Á°í ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß½É´õ.",ÀúÇ÷¾ÐÀÌ¾ú½É´õ.
-neutral,"ÃÊ±â Ç÷¾ÐÀÌ 190/110ÀÌ¶ó¼­, Á¤¸ÆÁÖ»ç¿ë ¶óº£Å»·Ñ ¸Â°í ½Å°æÇÐÀû °Ë»ç ÀÚÁÖ ÇÏ·Á°í ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇÏ°Ô µÆ½É´õ.",¸Ó¸® ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
-entailment,"»ê¸ð´Â ÀÔ¿øÇØ¼­ ¸¶±×³×½· ¸Â±â ½ÃÀÛÇß°í, ±×·¡¼­ ÀÚ±Ã ¼öÃàÀÌ ÁÙ¾ú½É´õ.",È¯ÀÚ ºÐ¸¸ ÁßÀÔ´Ï´õ.
-contradiction,"»ê¸ð´Â ÀÔ¿øÇØ¼­ ¸¶±×³×½· ¸Â±â ½ÃÀÛÇß°í, ±×·¡¼­ ÀÚ±Ã ¼öÃàÀÌ ÁÙ¾ú½É´õ.",È¯ÀÚ´Â ¾Æ¹« Áõ»óµµ ¾È º¸ÀÔ´Ï´õ.
-neutral,"»ê¸ð´Â ÀÔ¿øÇØ¼­ ¸¶±×³×½· ¸Â±â ½ÃÀÛÇß°í, ±×·¡¼­ ¼öÃàÀÌ ÁÙ¾ú½É´õ.",È¯ÀÚ´Â ÀÚ°£ÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,¼ö¼ú Àü °Ë»ç¿¡¼­ °£¾Ï ÀüÀÌ¸¦ º¸¿©ÁÖ´Â Áõ°Å´Â ¹ß°ß ¾È µÆ½É´õ.,°£¾Ï Ä¡·áÇÏ·Á°í ¼ö¼ú ¹Þ¾Ò½É´õ.
-contradiction,¼ö¼ú Àü °Ë»ç¿¡¼­´Â °£¾Ï¿¡¼­ ÀüÀÌµÆ´Ù´Â Áõ°Å°¡ ¹ß°ß ¾È µÆ½É´õ.,È¯ÀÚ ¾ÏÀÌ ÀüÀÌµÆ½É´õ.
-neutral,±× »ç¶÷ ¼ö¼ú Àü °Ë»ç¿¡¼± °£¾Ï¿¡¼­ ÀüÀÌµÆ´Ù´Â Áõ°Å°¡ ¹ß°ß ¾È µÆ½Ê´Ï´õ.,¼ú ¸¹ÀÌ ¸¶½Å °ú°Å·Â
-entailment,"¾Ö±â´Â Á¡Á¡ º¹¼ö°¡ ºüÁö°í, Áß³úµ¿¸Æ Ç÷·ù°¡ ÁÁ¾ÆÁö´Â±â È®ÀÎµÆ½Ê´Ï´õ.",¾Ö±âÇÑÅ×¼­ ÅÂ¾Æ¼º ¼öÁ¾ÇÏ°í ¸Â´Â ¼Ò°ßÀÌ º¸ÀÔ´Ï´õ.
-contradiction,"¾Ö±â´Â Á¡Á¡ º¹¼ö°¡ ºüÁö°í, Áß³úµ¿¸Æ Ç÷·ù°¡ ÁÁ¾ÆÁ³´Ù´Â±â È®ÀÎµÆ½Ê´Ï´õ.",¾Ö±â´Â ºñÁ¤»óÀûÀÎ º¹¸·¾×Àº ¾ø¾ú½Ê´Ï´õ.
-neutral,"¾Ö±â´Â Á¡Á¡ º¹¼ö°¡ ºüÁö°í, Áß³úµ¿¸Æ Ç÷·ù°¡ ÁÁ¾ÆÁö´Â±â È®ÀÎµÆ½Ê´Ï´õ.",¾Ö±â°¡ ½ÉºÎÀü¿¡ °É›½Ê´Ï´õ.
-entailment,"¸¶±×³×½· È²»ê¿° Åõ¿©¸¦ ¸Ø¯z°í, »ê¸ðÇÑÅ×¼­´Â ÇÇ°¡ ´õ ³ª°Å³ª ÅÂ¹ÝÁ¶±â¹Ú¸®°¡ µÉ±îºÁ °ÆÁ¤ÀÌ ÀÖ¾ú½Ê´Ï´õ.",ÀÓ½Å Áß¿¡ ÇÇ°¡ ³ª¼­ »óÈ²ÀÌ º¹ÀâÇØÁ³½Ê´Ï´õ.
-contradiction,"¸¶±×³×½· È²»ê¿° Åõ¿©¸¦ ¸Ø¯z°í, ¾î¸Å´Â ÇÇ°¡ ´õ ³ª°Å³ª ÅÂ¹ÝÁ¶±â¹Ú¸®°¡ µÉ±îºÁ °ÆÁ¤ÀÌ ÀÖ¾ú½Ê´Ï´õ.",ÀÓ½ÅÇÏ°í Ãâ»êÀº º° Å» ¾ø¾ú½Ê´Ï´õ.
-neutral,"¸¶±×³×½· È²»ê¿° Åõ¿©¸¦ ¸Ø¯z°í, »ê¸ðÇÑÅ×¼­´Â ÇÇ°¡ ´õ ³µÀ¸¸ç ÅÂ¹ÝÁ¶±â¹Ú¸®°¡ µÉ±îºÁ °ÆÁ¤ÀÌ ÀÖ¾ú½Ê´Ï´õ.",¾î¸Å´Â ÃÖ±Ù¿¡ ¹è¸¦ ´ÙÃÆ½Ê´Ï´õ.
-entailment,"CHF ½É±Ùº´Áõ, ½É¹æ¼¼µ¿, °ü»óµ¿¸ÆÁúÈ¯, ½É±Ù°æ»ö ÈÄ [**3441**], ³úÁ¹Áß [**3471**], °©»ó¼±Á¾ (Dr. [**Last Name (STitle) 6839**]), Ã¶°áÇÌ¼º ºóÇ÷, ´ë»óÆ÷Áø ÈÄ ½Å°æÅë, µð¹öÆ¼Å§¶óÁõ, °ñÀÇ ÆäÀÌÁöÆ®º´, ¸¸¼º ºÎºñµ¿¿°, À§Àå°ü ÃâÇ÷ [**3460**] + Çï¸®ÄÚ¹ÚÅÍ ÇÇ·Î¸®±Õ °¨¿°",È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ¿©·¯ °³ ÀÖ½Ê´Ï´õ.
-contradiction,"CHF ½É±Ùº´Áõ, ½É¹æ¼¼µ¿, °ü»óµ¿¸ÆÁúÈ¯, ½É±Ù°æ»ö ÈÄ [**3441**], ³úÁ¹Áß [**3471**], °©»ó¼±Á¾ (Dr. [**Last Name (STitle) 6839**]), Ã¶°áÇÌ¼º ºóÇ÷, ´ë»óÆ÷Áø ÈÄ ½Å°æÅë, µð¹öÆ¼Å§¶óÁõ, »ÀÀÇ ÆäÀÌÁöÆ®º´, ¸¸¼º ºÎºñµ¿¿°, À§Àå°ü ÃâÇ÷ [**3460**] + Çï¸®ÄÚ¹ÚÅÍ ÇÇ·Î¸®±Õ °¨¿°",È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½Ê´Ï´õ.
-neutral,"CHF ½É±Ùº´Áõ, ½É¹æ¼¼µ¿, °ü»óµ¿¸ÆÁúÈ¯, ½É±Ù°æ»ö ÈÄ [**3441**], ³úÁ¹Áß [**3471**], °©»ó¼±ºñ´ëÁõ (Dr. [**Last Name (STitle) 6839**]), Ã¶°áÇÌ¼º ºóÇ÷, ´ë»óÆ÷Áø ÈÄ ½Å°æÅë, ´ëÀå µð¹öÆ¼Å§·Î½ºÁõ, »ÀÀÇ ÆäÀÌÁöÆ®º´, ¸¸¼º ºÎºñµ¿¿°, À§Àå°üÃâÇ÷ [**3460**] + Çï¸®ÄÚ¹ÚÅÍ ÇÇ·Î¸®±Õ °¨¿°",È¯ÀÚ´Â ³ªÀÌ°¡ ¸¹½Ê´Ï´õ.
-entailment,"±× »ç¶÷Àº [**Hospital3 4254**] [**12-19**]¿¡ ÀÔ¿øÇÏ±â Àü¿¡ ºñ´¢±â°ú ÀÇ»çÇÑÅ× °¬¾ú°í, Æú¸® Ä«Å×ÅÍ¸¦ ²Å°í ³ªÀÌ±î ¼Òº¯¿¡¼­ ´ëº¯ ¼ººÐÀÌ ³ª¿Ô½Ê´Ï´õ.",±× »ç¶÷Àº ¼Òº¯ °Ë»ç °á°ú°¡ ºñÁ¤»óÀÌ¾ú½Ê´Ï´õ.
-contradiction,"±× »ç¶÷Àº [**Hospital3 4254**] [**12-19**]¿¡ ÀÔ¿øÇÏ±â Àü¿¡ ºñ´¢±â°ú ÀÇ»ç¸¦ ¸¸³µ°í, Æú¸® Ä«Å×ÅÍ¸¦ ²ÅÀº µÚ¿¡ ±× »ç¶÷ ¼Òº¯¿¡¼­ ´ëº¯ ¼ººÐÀÌ ³ª¿Ô½Ê´Ï´õ.",±× »ç¶÷ ¼Òº¯Àº Á¤»óÀ¸·Î º¸¿´½Ê´Ï´õ.
-neutral,"±× »ç¶÷Àº [**Hospital3 4254**] [**12-19**]¿¡ ÀÔ¿øÇÏ±â Àü¿¡ ºñ´¢±â°ú ÀÇ»çÇÑÅ× °¬¾ú°í, Æú¸® Ä«Å×ÅÍ¸¦ ²ÅÀº µÚ¿¡ ±× »ç¶÷ ¼Òº¯¿¡¼­ ´ëº¯¼º ¹°ÁúÀÌ ³ª¿Ô½Ê´Ï´õ.",±× »ç¶÷Àº ÃÖ±Ù¿¡ ¼ö¼úÇß½Ê´Ï´õ.
-entailment,"±× ¿©ÀÚ´Â °á±¹ ½É³¶ »ïÃâ, ½É³¶ Å½Æù, Èä¸· »ïÃâ ÂÉ¸Å¶û °üÀý »ïÃâÀÌ ÀÖ´Â º×Àº ¹«¸­, ±×¸®°í °üÀýÅë±îÁö ¿©·¯ ¹®Á¦°¡ ÀÖ´Â °É·Î ¹àÇôÁ³½Ê´Ï´õ.",±× ¿©ÀÚ °¡½¿ ¿¢½º·¹ÀÌ °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
-contradiction,"±× ¿©ÀÚ´Â °á±¹ ½É³¶ »ïÃâ, ½É³¶ ¾Ð¹Ú, Èä¸· »ïÃâ ÂÉ¸Å¶û °üÀý »ïÃâÀÌ ÀÖ´Â º×Àº ¹«¸­, ±×¸®°í °üÀýÅë±îÁö ¿©·¯ ¹®Á¦°¡ ÀÖ´Â °É·Î ÆÇ¸íµÆ½Ê´Ï´õ.",±× ¿©ÀÚ´Â ½ÉÀåÀÌ³ª Æó ÂÊÀ¸·Î º´·ÂÀÌ ¾ø½Ê´Ï´õ.
-neutral,"±× ¿©ÀÚ´Â °á±¹ ½É³¶ »ïÃâ, ½É³¶ ¾Ð¹Ú, Èä¸· »ïÃâ ÂÉ¸Å¶û °üÀý »ïÃâÀÌ ÀÖ´Â º×Àº ¹«¸­, ±×¸®°í °üÀýÅë±îÁö ¿©·¯ ¹®Á¦°¡ ÀÖ´Â °É·Î ¹àÇôÁ³½Ê´Ï´õ.",±× ¿©ÀÚ´Â °üÀý¿°ÀÌ ÀÖ½Ê´Ï´õ.
-entailment,±× ¿©ÀÚ´Â Àü³¯¿¡ ÇÑ ¹ø ÅäÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÃÖ±Ù¿¡ ÅäÇß½Ê´Ï´õ.
-contradiction,±× ¿©ÀÚ´Â PTA ÀÖ´ø ³¯¿¡ ÇÑ ¹ø ÅäÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÃÖ±Ù¿¡ ÅäÇÑ Àû ¾ø´Ù°í ÇÕ´Ï´õ.
-neutral,±× ¿©ÀÚ´Â PTA ÀÖ´ø ³¯¿¡ ÇÑ ¹ø ÅäÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÈûÀÌ ºüÁø´Ù°í ÇÕ´Ï´õ.
-entailment,"°ú°Å º´·Â: [**09**]³â Àü¿¡ »ý±ä °ü»óµ¿¸Æ ÁúÈ¯À¸·Î ½É±Ù°æ»ö ¾Î°í ³­ µÚ »óÅÂ, Ç÷°ü¼ºÇü¼ú ÇÑ µÚ »óÅÂ.",½ÉÀå¸¶ºñ °ÞÀº °ú°Å·Â
-contradiction,"°ú°Å º´·Â: [**09**]³â Àü¿¡ »ý±ä °ü»óµ¿¸Æ ÁúÈ¯À¸·Î ½É±Ù°æ»ö ¾Î°í ³­ µÚ°í, Ç÷°ü¼ºÇü¼ú ÇÏ°í ³­ »óÅÇ´Ï´õ.",½ÉÀåº´ ¾ÎÀº Àû ¾ø½É´õ.
-neutral,"°ú°Å º´·Â: [**09**]³â Àü¿¡ ½É±Ù°æ»ö ¾Î°í ³ª¼­ °ü»óµ¿¸Æ ÁúÈ¯ ÀÖ¾ú°í, Ç÷°ü¼ºÇü¼ú ÇÏ°í ³­ »óÅÇ´Ï´õ.",°íÁöÇ÷Áõ ¾ÎÀº Àû ÀÖ½É´õ.
-entailment,"½ÉÀüµµ(ECG) °á°ú¿¡¼­ V4-V6¿¡ ST ÇÏ°­ÀÌ º¸¿´´Âµ¥¿¹, [**4-15**]¿¡ Âï¾ú´ø ¿¾³¯ ½ÉÀüµµ¿¡¼­µµ ¶È°°ÀÌ ³ª¿Ô½É´õ(ÁøÂ¥ ½ÉÀüµµ´Â ¸ø ±¸Çß¾î¿¹).",È¯ÀÚºÐ ½ÉÀüµµ °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
-contradiction,"½ÉÀüµµ(ECG) °á°ú¿¡¼­ V4-V6¿¡ ST ÇÏ°­ÀÌ º¸¿´´Âµ¥, [**4-15**]¿¡ Âï¾ú´ø ¿¾³¯ ½ÉÀüµµ¿¡¼­µµ ¶È°°ÀÌ ÆÇ´ÜÇß½É´õ (ÁøÂ¥ ½ÉÀüµµ´Â ¸ø ±¸Çß¾î¿¹).",È¯ÀÚºÐ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"½ÉÀüµµ(ECG) °á°ú¿¡¼­ V4-V6¿¡ ST ÇÏ°­ÀÌ º¸¿´´Âµ¥¿¹, [**4-15**]¿¡ Âï¾ú´ø ¿¾³¯ ½ÉÀüµµ¿¡¼­µµ ¶È°°ÀÌ ÆÇ´ÜµÆ½É´õ (ÁøÂ¥ ½ÉÀüµµ´Â ¸ø ±¸Çß¾î¿¹).",È¯ÀÚºÐÀÌ ½É±Ù°æ»öÀÌ ¿Ô½É´õ.
-entailment,"¹è´Â ¸»¶ûÇÏ°í, ´­·¯µµ ¾È ¾ÆÇÁ°í, »§»§ÇÏÁöµµ ¾Ê¾Ò¾î¿¹.",¹è °Ë»çÇØº¸ÀÌ±î º°´Ù¸¥ °Ç ¾ø¾ú½É´õ.
-contradiction,"¹è´Â ¸»¶ûÇÏ°í, ´­·¯µµ ¾È ¾ÆÇÁ°í, »§»§ÇÏÁöµµ ¾Ê¾Ò¾î¿¹.",¹è¸¦ ¸¸ÁöÀÌ±î ¾ÆÆÄÇß¾î¿¹.
-neutral,"¹è´Â ¸»¶ûÇÏ°í, ´­·¯µµ ¾È ¾ÆÇÁ°í, »§»§ÇÏÁöµµ ¾Ê¾Ò¾î¿¹.",È¯ÀÚºÐÀÌ ¿ÞÂÊ ¾Æ·§¹è°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-entailment,"Áö±Ý È¯ÀÚºÐ Æó·ÅÀÌ ¸¶ÀÌ ÁÁ¾ÆÁ³°í¿¹, ¿À·§µ¿¾È ¼ûÅë °ü¸®ÇÒ¶ó°í º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚºÐÇÑÅ× °¨¿°ÀÌ µÆ½É´õ.
-contradiction,"Áö±Ý È¯ÀÚºÐ Æó·ÅÀÌ ¸¶ÀÌ ÁÁ¾ÆÁ³°í¿¹, ¿À·§µ¿¾È ¼ûÅë °ü¸®ÇÒ¶ó°í º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚºÐ °¡½¿ ¿¢½º·¹ÀÌ ÂïÀº °Å´Â Á¤»óÀÔ´Ï´õ.
-neutral,"Áö±Ý È¯ÀÚºÐ Æó·ÅÀÌ ¸¶ÀÌ ÁÁ¾ÆÁ³°í¿¹, ¿À·§µ¿¾È È£Èí±â °ü¸®ÇÒ¶ó°í º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚºÐÀÌ ¼û ½¬´Â °É Èûµé¾îÇÕ´Ï´õ.
-entailment,"¿ÞÂÊ °øÅë °æµ¿¸ÆÀÌ 100% ´Ù ¸·Çû°í, ¿À¸¥ÂÊ ³»°æµ¿¸ÆÀº 90% ³Ñ°Ô ¸·Çû½É´õ.",È¯ÀÚºÐÀº °æµ¿¸Æ ÇùÂøÁõÀÌ ÀÖ½É´õ.
-contradiction,"¿ÞÂÊ °øÅë °æµ¿¸ÆÀÌ 100% ´Ù ¸·Çû°í, ¿À¸¥ÂÊ ³»°æµ¿¸ÆÀº 90% ³Ñ°Ô ¸·Çû½É´õ.",È¯ÀÚºÐ °æµ¿¸ÆÀº Á¤»óÀÔ´Ï´õ.
-neutral,"¿ÞÂÊ °øÅë °æµ¿¸ÆÀÌ 100% ´Ù ¸·Çû°í, ¿À¸¥ÂÊ ³»°æµ¿¸ÆÀº 90% ³Ñ°Ô ¸·Çû½É´õ.",È¯ÀÚºÐÀº ¿¾³¯¿¡ ³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.
-entailment,"Åð¿øÇÏ±â Àü¿¡ ÂïÀº ÀÚ±â°ø¸íÇ÷°üÁ¶¿µ¼ú(MRA) °á°ú¸¦ º¸ÀÌ±î, T3-4 ÀÖ´Âµ¥¼­ °üÀý¸éÇÏ°í ¿À¸¥ÂÊ Çã¸®±Ù °¡±îÀÌ¿¡ ´Üµ¶ ¹× Àç±¸¼ºµÈ Ã´Ãß ±ÙÀ°ÀÌ ´Ã¾î³­±â º¸¿´½É´õ.",È¯ÀÚºÐÀº Ã´Ãß¿¡ ÅðÇà¼º º¯È­°¡ ¿À°í ÀÖ½É´õ.
-contradiction,"Åð¿øÇÏ±â Àü¿¡ ÂïÀº ÀÚ±â°ø¸íÇ÷°üÁ¶¿µ¼ú(MRA) °á°ú¸¦ º¸ÀÌ±î, T3-4 ÀÖ´Âµ¥¼­ °üÀý¸éÇÏ°í ¿À¸¥ÂÊ Çã¸®±ÙÀ° ¾ÕÂÊ¿¡ °¡±î¿î ´Üµ¶ ¹× ÀçÁ¶Á¤µÈ Ã´Ãß ±ÙÀ°ÀÌ ´Ã¾î³­±â º¸¿´½É´õ.",È¯ÀÚºÐ Ã´Ãß´Â Á¤»óÀÔ´Ï´õ.
-neutral,"Åð¿øÇÏ±â Àü¿¡ ÂïÀº ÀÚ±â°ø¸íÇ÷°üÁ¶¿µ¼ú(MRA) °á°ú¸¦ º¸ÀÌ±î, T3-4 ÀÖ´Âµ¥ ÀÎÁ¢ÇÑ °üÀý¸éÇÏ°í ¿À¸¥ÂÊ È¾Çà±Ù ¾È¿¡ ÀÖ´Â ´Üµ¶ ¹× ÀçÁ¶Á¤ Ã´Ãß ±ÙÀ°ÀÇ ........ÀÌ ´Ã¾î³­ °É·Î ³ª¿Ô½É´õ.",È¯ÀÚºÐÀº Çã¸®°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-entailment,"È¯ÀÚºÐ ½ÉºÎÀüÁõÀÌ ±¦Âú¾ÆÁö°í ³ª¼­, [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ´õ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.",È¯ÀÚºÐ »ê¼ÒÆ÷È­µµ°¡ ³·½É´õ.
-contradiction,"È¯ÀÚºÐ ½ÉºÎÀüÁõÀÌ ±¦Âú¾ÆÁö°í ³ª¼­, [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ´õ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.",È¯ÀÚºÐ ½É¹ÚÃâ·®Àº Á¤»óÀÔ´Ï´õ.
-neutral,"È¯ÀÚºÐ ½ÉºÎÀüÁõÀÌ ±¦Âú¾ÆÁö°í ³ª¼­, [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ´õ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.",È¯ÀÚºÐÀº °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº¸ÀÌ±î ºÎÁ¾ÀÌ º¸¿´½É´õ.
-entailment,"È¯ÀÚ´Â ¾ÆÇÂ °Í ¶«¿¡ Á¡Á¡ ¼ûÀÌ Â÷´Âµ¥, ÀÌ°Å´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ ¾ÇÈ­µÈ °ÅÇÏ°í´Â ¾È ¸Â½À´Ï´Ù.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) º´·ÂÀÌ ÀÖ½É´õ.
-contradiction,"È¯ÀÚ´Â ¾ÆÇÂ °Í ¶«¿¡ Á¡Á¡ ¼ûÀÌ Â÷´Âµ¥, ÀÌ°Å´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ ¾ÇÈ­µÈ °ÅÇÏ°í´Â ¾È ¸Â½À´Ï´Ù.",È¯ÀÚ ROS(Review of Systems) °á°ú´Â ÀÌ»ó ¾ø½É´õ.
-neutral,"È¯ÀÚ´Â ¾ÆÇÂ °Í ¶«¿¡ Á¡Á¡ ¼ûÀÌ Â÷´Âµ¥, ÀÌ°Å´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ ¾ÇÈ­µÈ °ÅÇÏ°í´Â ¾È ¸Â½À´Ï´Ù.",È¯ÀÚÇÑÅ× ST »ó½ÂÀÌ º¸ÀÔ´Ï´õ.
-entailment,"""¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å '¹Ì´Ï ³úÁ¹Áß'""",È¯ÀÚ´Â Ä¡¸Å°¡ ÀÖ½É´õ.
-contradiction,"""¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å '¹Ì´Ï ³úÁ¹Áß'""",È¯ÀÚ Á¤½Å »óÅÂ´Â ¸ÖÂÄÇÕ´Ï´õ.
-neutral,"""¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å '¹Ì´Ï ³úÁ¹Áß'""",È¯ÀÚ´Â µµ¿òÀÌ ÇÊ¿äÇÑ È¯°æ¿¡¼­ »ì°í ÀÖ½É´õ.
-entailment,"¾Æ´Â [**3-26**]ÇÏ°í 17ÀÏ¿¡ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥, ÀÌ °Ë»ç¿¡¼­ µ¹Ãâµ¿¸Æ µ¿¸Æ°üÀÌ³ª µ¹Ãâµ¿¸Æ ±¸¸ÛÀº ¾È º¸¿´°í, ½É¹æ ±â´ÉÀº ±¦ÂúÀº °É·Î È®ÀÎµÆ½É´õ.","½ÉÀå ÃÊÀ½ÆÄ °Ë»ç °á°ú, ½É¹æ ±â´ÉÀÌ ±¦ÂúÀº °É·Î È®ÀÎµÆ½É´õ."
-contradiction,"¾Æ´Â [**3-26**]ÇÏ°í 17ÀÏ¿¡ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥, ÀÌ °Ë»ç¿¡¼­ µ¿¸Æ°ü °³¹æÁõÀÌ³ª ½É¹æÁß°Ý°á¼ÕÁõÀº ¾È ³ªÅ¸³µ°í ½É¹æ ±â´ÉÀÌ ±¦ÂúÀº °É È®ÀÎÇß½É´õ.","¿¡ÄÚ°Ë»ç °á°ú, µ¿¸Æ°ü °³¹æÁõÀÌ È®ÀÎµÆ½É´õ."
-neutral,"¾Æ´Â [**3-26**]ÇÏ°í 17ÀÏ¿¡ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥, ÀÌ °Ë»ç¿¡¼­ µ¿¸Æ°ü °³¹æÁõÀÌ³ª µ¿¸Æ¿ø°³±¸ °³¹æÁõÀº ¾ø°í ½É¹æ ±â´ÉÀº ±¦ÂúÀº °É·Î È®ÀÎµÆ½É´õ.",ÀÌ ¾Æ´Â ÅÂ¾î³¯ ¶§ºÎÅÍ ÀÖ´ø °áÇÔÀº ¾ø½É´õ.
-entailment,(2) °£¼¼Æ÷¼º ´ã¼®ÁõÇÏ°í °°ÀÌ ¿Â À¯µÎºÎÀÇ ¸¸¼º ¿°ÁõÇÏ°í ±«»ç.,È¯ÀÚ´Â °£ »ý°Ë ¹Þ¾Ò½É´õ.
-contradiction,(2) °£¼¼Æ÷¼º ´ã¼®ÁõÇÏ°í °°ÀÌ »ý±ä À¯³¶¼º ¸¸¼º ¿°ÁõÇÏ°í ±«»ç.,°£ »ý°Ë Á¤»ó ¼Ò°ß.
-neutral,(2) °£¼¼Æ÷¼º ´ã¼®ÁõÇÏ°í °°ÀÌ »ý±ä À¯µÎ»ó ¸¸¼º ¿°Áõ ¹× ±«»ç.,È¯ÀÚ´Â °£°æº¯ÁõÀÌ ÀÖ½É´õ.
-entailment,"[**Hospital1 18**]¿¡¼­ ±× È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â Ã¼¿Â 97.3, ½É¹Ú¼ö 90, Ç÷¾Ð 99/49, È£Èí¼ö 24, »ê¼ÒÆ÷È­µµ 95% NRB¿´½É´õ.",È¯ÀÚ°¡ ¼ûÀ» »¡¸® ½¬°í ÀÖ½É´õ.
-contradiction,"[**Hospital1 18**]¿¡¼­ ±× È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â Ã¼¿Â 97.3, ½É¹Ú¼ö 90, Ç÷¾Ð 99/49, È£Èí¼ö 24, »ê¼Ò Æ÷È­µµ 95% NRB·Î ³ª¿Ô½É´õ.",È¯ÀÚ ¼û½¬´Â ¼Óµµ´Â Á¤»óÀÔ´Ï´õ.
-neutral,"[**Hospital1 18**]¿¡¼­ ±× È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â Ã¼¿Â 97.3, ½É¹Ú¼ö 90, Ç÷¾Ð 99/49, È£Èí¼ö 24, »ê¼ÒÆ÷È­µµ 95% NRB¿´½É´õ.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾îÇÕ´Ï´õ.
-entailment,"»êºÎÀÎ°ú ÀÌ·Â: ÀÓ½Å 5È¸, Ãâ»ê 1È¸-0-4-1.",È¯ÀÚ´Â À¯»êÇÑ ÀûÀÌ ÀÖ½É´õ.
-contradiction,"»êºÎÀÎ°ú·Â: ÀÓ½Å 5È¸, Ãâ»ê 1È¸-0-4-1.",È¯ÀÚ´Â Á¶»ê¾Æ¸¦ ³ºÀº ÀûÀÌ ÀÖ½É´õ.
-neutral,"»êºÎÀÎ°ú·Â: G5, P1-0-4-1.",È¯ÀÚ°¡ ½º½º·Î ¾Ö ¶¾ °Å.
-entailment,¿©·¯ ¹ø »ó´ãÀ» Çß½É´õ.,È¯ÀÚ´Â ¿©·¯ Àü¹®ÀÇ¸¦ Ã£¾Æ°¡ º» ÀûÀÌ ÀÖ½É´õ.
-contradiction,¿©·¯ ¹ø »ó´ãÀ» Çß½É´õ.,È¯ÀÚ´Â ÀÇ·áÀûÀ¸·Î ¾î¶² ºÒ¸¸µµ ¸»ÇÑ ÀûÀÌ ¾ø½É´õ.
-neutral,»ó´ã ¿©·¯ °Ç ÁøÇàµÆ½É´õ.,È¯ÀÚ´Â ÁúÈ¯ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
-entailment,±× ¿©ÀÚºÐ Ç÷ÀåºñÁßÀº ¾ÈÁ¤µÆ°í ÃâÇ÷Àº °ÅÀÇ ´Ù ÇØ°áµÆ½É´õ.,È¯ÀÚ Ç÷¾×ÇÐÀû ÁöÇ¥ÀÎ Çì¸¶ÅäÅ©¸´ ¼öÄ¡°¡ ÁÙ°í ÀÖ¾ú½É´õ.
-contradiction,±× ¿©ÀÚºÐ Ç÷ÀåºñÁßÀÌ ¾ÈÁ¤µÆ°í ÃâÇ÷Àº °ÅÀÇ ´Ù ÇØ°áµÆ½É´õ.,È¯ÀÚ Ç÷¾×¿ëÀû·üÀÌ ¿Ã¶ó°¬½É´õ.
-neutral,±× ¿©ÀÚºÐ Ç÷¾× ¿ëÀû·üÀº ¾ÈÁ¤µÆ°í ÃâÇ÷Àº °ÅÀÇ ´Ù ÇØ°áµÆ½É´õ.,È¯ÀÚ´Â ÃâÇ÷ Àå¾Ö°¡ ÀÖ½É´õ.
-entailment,"½Ã¼úÇÏ°í ¹Ù·Î, È¯ÀÚ »ê¼ÒÆ÷È­µµ°¡ 66%·Î ¶³¾îÁ³´Âµ¥, ºñÀç¼øÈ¯ ¸¶½ºÅ© ½á°¡ 100% FIO2ÀÇ 90%±îÁö ¿Ã¶ú½É´õ.",È¯ÀÚ´Â »ê¼Ò °ø±ÞÀ» ´õ ÇØ¾ß µÆ½É´õ.
-contradiction,"½Ã¼úÇÏ°í ¹Ù·Î, È¯ÀÚ »ê¼ÒÆ÷È­µµ°¡ 66%·Î ¶³¾îÁ³´Âµ¥, ºñÀç¼ú¿ë ¸¶½ºÅ© ½á°¡ 100% FIO2ÀÇ 90%±îÁö ¿Ã¶ú½É´õ.",È¯ÀÚ Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"½Ã¼úÇÏ°í ¹Ù·Î, È¯ÀÚ »ê¼Ò Æ÷È­µµ°¡ 66%·Î ¶³¾îÁ³´Ù°¡ ºñÀç¼ú¿ë ¸¶½ºÅ© ½á°¡ 100% FIO2ÀÇ 90%·Î ¿Ã¶ú½É´õ.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ½É´õ.
-entailment,¼±ÅÃÀû ¿ÞÂÊ ³»°æµ¿¸Æ Ä«Å×ÅÍ »ðÀÔ.,°ü»óµ¿¸Æ ºÐ¼®ÇÏ´Â ÀýÂ÷.
-contradiction,¼±ÅÃÀû ¿ÞÂÊ ³»°æµ¿¸Æ Ä«Å×ÅÍ »ðÀÔ.,ºñÄ§½ÀÀû °Ë»ç.
-neutral,¼±ÅÃÀû ¿ÞÂÊ ³»°æµ¿¸Æ Ä«Å×ÅÍÈ­.,ÀÌ ¿¬±¸´Â Ç×»ó °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ´ÂÁö ¾ø´ÂÁö º¸¿©ÁÝ´Ï´õ.
-entailment,"ÀÏÈç¾ÆÈ© »ì ³²ÀÚ È¯ÀÚºÐÀº [**±¹°¡ **] Ãâ½ÅÀÌ°í, °íÇ÷¾Ð, ´ç´¢º´, °íÁöÇ÷Áõ, Áßµîµµ ´ëµ¿¸Æ·ù¶û ´ëµ¿¸ÆÆÇ¸· ¿ª·ùÁõÀÌ ÀÖ½É´õ. °¡·¡ ³¢°í ¼ûÀÌ Â÷°¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â Áß¿äÇÑ °ú°Å º´·ÂÀÌ ÀÖ½É´õ.
-contradiction,"ÀÏÈç¾ÆÈ© »ì ³²ÀÚ È¯ÀÚºÐÀº [**±¹°¡ **]¿¡¼­ ¿À¼Ì°í, °íÇ÷¾Ð, ´ç´¢º´, °íÁöÇ÷Áõ, Áßµîµµ ´ëµ¿¸Æ·ù¶û ´ëµ¿¸ÆÆÇ¸· ¿ª·ùÁõÀ» °®°í ÀÖ½É´õ. ±âÄ§ÇÏ°í °¡·¡ ³¢°í, ¼û½¬±â Èûµç Áõ»óÀ» º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â ¾Æ¹«·± º´ÀÌ ¾ø½É´õ.
-neutral,"ÀÏÈç¾ÆÈ© »ì ³²ÀÚ È¯ÀÚ°í [**±¹°¡ **] Ãâ½ÅÀÎµ¥, °íÇ÷¾Ð, ´ç´¢º´, °íÁöÇ÷Áõ, Áßµîµµ ´ëµ¿¸Æ·ù¶û ´ëµ¿¸Æ ÆÇ¸· ¿ª·ù Áõ»óÀÌ ÀÖ½É´õ. ±âÄ§ÇÏ°í °¡·¡ ³¢°í ¼û½¬±â Èûµé´Ù²¿ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ±àÁ¤ÀûÀÎ »çÈ¸·ÂÀÌ ÀÖ½É´õ.
-entailment,"½É¹æ¼¼µ¿ÀÎµ¥, ¸¸¼ºÀÎÁö ¹ßÀÛ¼ºÀÎÁö´Â ¾Ë·ÁÁ® ÀÖÁö ¾Ê½É´õ.",È¯ÀÚ´Â ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ½É´õ.
-contradiction,"½É¹æ¼¼µ¿ÀÎµ¥, ¸¸¼ºÀÎÁö ¹ßÀÛ¼ºÀÎÁö´Â ¾Ë·ÁÁ® ÀÖÁö ¾Ê½É´õ.",È¯ÀÚ ½ÉÀå ¸®µëÀº Á¤»óÀÔ´Ï´õ.
-neutral,"½É¹æ¼¼µ¿ÀÎµ¥, ¸¸¼ºÀÎÁö ¹ßÀÛ¼ºÀÎÁö´Â ¾Ë·ÁÁ® ÀÖÁö ¾Ê½É´õ.",È¯ÀÚ´Â Ç×ÀÀ°í Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.
-entailment,"µÎ ¹øÂ° ÀÔ¿øÇßÀ» ¶§, °¡²û¾¿ ¿ÞÂÊ ÆÈÀÌ Âõ¾îÁöµíÀÌ ¾ÆÇÂ °Å¶û, ¿À¸¥ÂÊ ´« Ä§Ä§ÇÑ °Å, ±×¸®°í Áý¿¡¼­ ³Ñ¾îÁø °Å¸¦ ¾ê±âÇß½É´õ.",È¯ÀÚ´Â °£ÇæÀûÀ¸·Î ÆÈ ÅëÁõÀ» °Þ°í ÀÖ½É´õ.
-contradiction,"µÎ ¹øÂ° ÀÔ¿øÇßÀ» ¶§, °¡²û¾¿ ¿ÞÂÊ ÆÈÀÌ Âõ¾îÁöµíÀÌ ¾ÆÇÂ °Å¶û, ¿À¸¥ÂÊ ´« Ä§Ä§ÇÑ °Å, ±×¸®°í Áý¿¡¼­ ³Ñ¾îÁø °Å¸¦ ¾ê±âÇß½É´õ.",È¯ÀÚ´Â ºÒÆíÇÑ °Å ¾ø´Ù°í ÇÕ´Ï´õ.
-neutral,"µÎ ¹øÂ° ÀÔ¿øÇßÀ» ¶§, °¡²û¾¿ ¿ÞÆÈÀÌ Âõ¾îÁöµíÀÌ ¾ÆÇÂ °Å¶û, ¿À¸¥ÂÊ ´« Ä§Ä§ÇÑ °Å, ±×¸®°í Áý¿¡¼­ ³Ñ¾îÁø °Å¸¦ ¾ê±âÇß½É´õ.",È¯ÀÚ´Â Çù½ÉÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹éÇ÷±¸ ¼öÄ¡°¡ 16.8 K°í, ¿ÞÂÊ ÀÌµ¿ÀÌ 92P 2B·Î ³ª¿Ô½É´õ. ±× ¿Ü »ýÈ­ÇÐ °Ë»ç, °£ ±â´É °Ë»ç, ½ÉÀüµµ´Â ´Ù Á¤»óÀÔ´Ï´õ.",È¯ÀÚÇÑÅ× °¨¿° Áõ°Å°¡ ³ªÅ¸³µ½É´õ.
-contradiction,"°Ë»ç½Ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹éÇ÷±¸ ¼öÄ¡°¡ 16.8K°í, ¿ÞÂÊÀ¸·Î ½ò¸° ±â 92P 2B·Î ³ª¿Ô½É´õ. ±× ¸»°í´Â È­ÇÐ °Ë»ç, °£ ±â´É °Ë»ç, ½ÉÀüµµ´Â ´Ù Á¤»óÀÔ´Ï´õ.",È¯ÀÚ ½ÉÀüµµ¿¡¼­ ST ¿Ã¶ó°£ ±â º¸¿´½É´õ.
-neutral,"°Ë»ç½Ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹éÇ÷±¸ ¼öÄ¡°¡ 16.8K°í, ¿ÞÂÊÀ¸·Î ½ò¸° ±â 92P 2B·Î º¸ÀÎ´Ù´Â °Ì´Ï´õ. ±× ¸»°í´Â È­ÇÐ °Ë»ç, °£ ±â´É °Ë»ç, ½ÉÀüµµ´Â ´Ù Á¤»óÀÔ´Ï´õ.",È¯ÀÚ´Â °£°æº¯ ¾ø½É´õ.
-entailment,"Áý¿¡¼­ 3L »ê¼Ò ÇÏ°í ÀÖ´Âµ¥, PFTs [**2949**]´Â Á¦ÇÑÀû ÆÐÅÏÀ» º¸ÀÌ°í, Æó °íÇ÷¾ÐÀº 15·Î ³ª¿Ô½É´õ.",È¯ÀÚ´Â Áý¿¡¼­ »ê¼Ò Ä¡·á ¹ÞÀ¸¸é¼­ Æó°íÇ÷¾ÐÀ» ¾Î°í ÀÖ½É´õ.
-contradiction,"Áý¿¡¼­ 3L »ê¼Ò ÇÏ°í ÀÖ´Âµ¥, PFTs [**2949**]¿¡¼­ Á¦ÇÑ ÆÐÅÏÀÌ º¸¿´°í, Æó °íÇ÷¾Ð 15¸¦ º¸¿´½É´õ.",È¯ÀÚ Æó´Â Á¤»óÀÔ´Ï´õ.
-neutral,"Áý¿¡¼­ 3L »ê¼Ò ÇÏ°í ÀÖ´Âµ¥, PFTs [**2949**]¿¡¼­ Á¦ÇÑ ÆÐÅÏÀ» º¸ÀÌ°í, Æó°íÇ÷¾Ð 15·Î ³ª¿É´Ï´õ.",È¯ÀÚ´Â ´ã¹è ÇÌ´Ï´õ.
-entailment,ÀÔ¿øÇÏ´Â ³¯ ¼ÅÆ²¿¡¼­ [**Hospital6 1900**]À¸·Î °É¾î°¡´Âµ¥ ¶Ç °¡½¿ÀÌ ¾ÆÆÄ¿Ô½É´õ.,¿òÁ÷ÀÏ ¶§ °¡½¿ÀÌ ¾ÆÆÍ½É´õ.
-contradiction,ÀÔ¿øÇÏ´Â ³¯ ¼ÅÆ²¿¡¼­ [**Hospital6 1900**]À¸·Î °É¾î°¡´Âµ¥ ¶Ç °¡½¿ÀÌ ¾ÆÆÄ¿Ô½É´õ.,Àü¿¡´Â ½ÉÀå ¾ÆÇÂ Àû ¾ø¾ú½É´õ.
-neutral,ÀÔ¿øÇÏ´Â ³¯ ¼ÅÆ²¿¡¼­ [**Hospital6 1900**]À¸·Î °É¾î°¡´Âµ¥ ¶Ç °¡½¿ÀÌ ¾ÆÆÄ¿Ô½É´õ.,°ü»óµ¿¸Æ ÁúÈ¯ ¾ÎÀº Àû ÀÖ½É.
-entailment,"½ÉÀå Ä«Å×ÅÍ ½Ã¼úÀ» Çß´Âµ¥, ±×°É·Î ´ÜÀÏ Ç÷°ü LAD ÁúÈ¯ÇÏ°í 60% ISR, ±×¸®°í Áø´Ü ½ºÅÙÆ®ÇÏ°í 95% ISRÀÌ È®ÀÎµÆ½É´õ.",°ü»óµ¿¸ÆÀÌ ¸·ÇûÀ½.
-contradiction,"½ÉÀå Ä«Å×ÅÍ ½Ã¼úÀ» ¹Þ¾Ò´Âµ¥, ´ÜÀÏ °ü»óµ¿¸Æ LAD ÁúÈ¯¿¡ 60% ³»ºÎ ÀçÇùÂø(ISR)ÀÌ ÀÖ°í Áø´Ü¿ë ½ºÅÙÆ®¿¡ 95% ³»ºÎ ÀçÇùÂø(ISR)ÀÌ ÀÖ´Â °É·Î ³ª¿Ô½É´õ.",½ÉÀå ±â´É Á¤»ó.
-neutral,"½ÉÀå Ä«Å×ÅÍ ½Ã¼úÀ» ¹Þ¾Ò´Âµ¥, ´ÜÀÏ Ç÷°ü LAD ÁúÈ¯¿¡ 60% ISR, Áø´Ü ½ºÅÙÆ®¿¡ 95% ISRÀÌ ÀÖ´Â °É·Î ³ª¿Ô½É´õ.",°íÁöÇ÷Áõ ¾ÎÀº Àû ÀÖ½É.
-entailment,"ÀÌ ¾ç¹ÝÀÌ 20´ë ¶§ HCV Áø´ÜÀ» ¹Þ¾Ò°í, HCV 2°¡ Àç¹ßÇÏ´Â °£°æº¯Áõ ¶«¿¡ [**3116-1-25**]¿¡ Á¤À§ °£ ÀÌ½Ä ¼ö¼úÀ» ¹Þ¾Ò½É´õ.",ÀÌ ¾ç¹ÝÀº °£ ÁúÈ¯ÀÌ ÀÖ½É´õ.
-contradiction,"ÀÌ ¾ç¹ÝÀÌ 20´ë ¶§ HCV Áø´ÜÀ» ¹Þ¾Ò°í, HCV 2°¡ Àç¹ßÇÏ´Â °£°æº¯Áõ È¯ÀÚ¶ó¼­ [**3116-1-25**]¿¡ Á¤À§Ä¡ °£ ÀÌ½ÄÀ» ¹Þ¾Ò½É´õ.",ÀÌ ¾ç¹ÝÀº °£ ÁúÈ¯ ¾ÎÀº Àû ¾ø½É´õ.
-neutral,"ÀÌ ¾ç¹ÝÀÌ 20´ë ¶§ HCV Áø´ÜÀ» ¹Þ¾Ò°í, HCV 2°¡ ÀÚ²Ù Àç¹ßÇÏ´Â °£°æº¯Áõ ¾Î°í ³ª¼­ [**3116-1-25**]¿¡ Á¤À§Ä¡ °£ ÀÌ½ÄÀ» ¹Þ¾Ò½É´õ.",ÀÌ ¾ç¹Ý È²´Þ ¿Ô½É´õ.
-entailment,"[**6-28**]¿¡ È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾à ¾øÀÌµµ ÀÇÇÐÀûÀ¸·Î ¾ÈÁ¤µÆ°í, ÆÐÇ÷Áõ Áõ»óµµ ÀÌ¹Ì ¾ø¾îÁ®°¡ ÀÏ¹Ý OMED º´µ¿À¸·Î ¿Åƒ…½É´õ.",È¯ÀÚ »óÅÂ°¡ ÁÁ¾ÆÁ®°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Åƒ…½É´õ.
-contradiction,"[**6-28**]¿¡ È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾à ¾øÀÌµµ ¾ÈÁ¤ÀûÀÌ¾ú°í, ÆÐÇ÷Áõ Áõ»óµµ ´õ´Â ¾ø¾ú½É´õ. ±×·¡°¡ ÀÏ¹Ý OMED º´µ¿À¸·Î ¿Åƒ…½É´õ.",È¯ÀÚ´Â ÁýÀ¸·Î Åð¿øÇß½É´õ.
-neutral,"[**6-28**]¿¡ È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾à ¾øÀÌµµ ¾ÈÁ¤ÀûÀÌ¾ú°í, ÆÐÇ÷Áõ Áõ»óµµ ÀÌ¹Ì ´õ´Â ¾È º¸¿©¼­ ÀÏ¹Ý OMED º´µ¿À¸·Î ¿Åƒ…½É´õ.",È¯ÀÚ´Â ÆÐÇ÷Áõ ¼îÅ© ¶«¿¡ ÁßÈ¯ÀÚ½Ç¿¡¼­ Ä¡·á¹Þ¾Ò½É´õ.
-entailment,Á÷Àå °Ë»ç¿¡¼­ BRBPR(¼±È«»ö Ç÷º¯)ÀÌ º¸¿´½É´õ.,È¯ÀÚ°¡ ¶Ë²¿¿¡¼­ »õ»¡°£ ÇÇ°¡ ³ª¿Ô´Ù Ä°´Ï´õ.
-contradiction,Á÷Àå °Ë»ç¿¡¼­ BRBPR(¼±È«»ö Ç÷º¯)ÀÌ º¸¿´½É´õ.,È¯ÀÚ´Â À§Àå ÃâÇ÷ Áõ°Å´Â ¾ø½É´õ.
-neutral,Á÷Àå °Ë»ç¿¡¼­ BRBPR(¼±È«»ö Ç÷º¯)ÀÌ º¸¿´½É´õ.,È¯ÀÚ´Â Ä¡ÁúÀÌ ÀÖ½É´õ.
-entailment,"°á±¹, ±× ¾ÆÁö¸Å Ç÷¾ÐÀº ¼öÃà±â 140-160 ¼±¿¡¼­ ¾ÈÁ¤µÆ°í, 70% ÆäÀÌ½º ¸¶½ºÅ© ³¢°í ÀÖÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 90%¿´½É´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
-contradiction,"°á±¹, ±× ¾ÆÁö¸Å Ç÷¾ÐÀº ¼öÃà±â 140´ë-160´ë¿¡¼­ ¾ÈÁ¤µÆ°í, 70% ÆäÀÌ½º ¸¶½ºÅ© ³¢°í ÀÖÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 90%¿´½É´õ.",È¯ÀÚ »ýÃ¼½ÅÈ£´Â Á¤»óÀÔ´Ï´õ.
-neutral,"°á±¹, ±× ¾ÆÁö¸Å Ç÷¾ÐÀº ¼öÃà±â 140´ë-160´ë¿¡¼­ ¾ÈÁ¤µÆ°í, 70% ÆäÀÌ½º ¸¶½ºÅ© ³¢°í ÀÖÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 90%¿´½É´õ.",È¯ÀÚ´Â ¸Ç °ø±â¸¸À¸·Î´Â »ê¼Ò °ø±ÞÀÌ Àß ¾È µË´Ï´õ.
-entailment,"ÀÌ¿Ï±â ½ÉºÎÀü, ÁÂ½É½Ç ¹æÃâ°è¼ö >70% 2006³â 2¿ù 10ÀÏ.",È¯ÀÚ ÀÌ¿Ï±â ÃæÀüÀÌ °¨¼ÒÇß½É´õ.
-contradiction,"ÀÌ¿Ï±â ½ÉºÎÀü, ÁÂ½É½Ç ¹èÃâ°è¼ö >70% 2006³â 2¿ù 10ÀÏ.",È¯ÀÚ´Â Çù½ÉÁõÀÌ ÀÖ½É´õ.
-neutral,"ÀÌ¿Ï±â ½ÉºÎÀü, 2006³â 2¿ù 10ÀÏ ÁÂ½É½Ç ¹ÚÃâ°è¼ö >70%.",È¯ÀÚ ¿¡ÄÚ(ÃÊÀ½ÆÄ) °á°ú°¡ ÀÌ»óÇÏ°Ô ³ª¿Ô½É´õ.
-entailment,"È¯ÀÚ´Â ½É±Ù°æ»öÀº ¾Æ´Ï¶óÄ«´Âµ¥, ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ [**Hospital1 58**]·Î º¸³Â½É´õ.",È¯ÀÚ´Â ±Þ¼º ½ºÅÛÀÌ´Â ¾ø¾ú½É´õ.
-contradiction,"È¯ÀÚ´Â ½É±Ù°æ»ö ÆÇÁ¤Àº ¾È ¹Þ¾Ò´Âµ¥, ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ [**Hospital1 58**]·Î º¸³Â½É´õ.",È¯ÀÚ´Â °¡½¿ ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,"È¯ÀÚ´Â ½É±Ù°æ»ö ÆÇÁ¤Àº ¾È ¹Þ¾Ò´Âµ¥, ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ [**º´¿ø1 58**]·Î º¸³Â½É´õ.",È¯ÀÚ´Â Çù½ÉÁõÀÌ ÀÖ½É´õ.
-entailment,¸Ó¸® CT °Ë»ç¿¡¼­´Â ±Þ¼º µÎ°³³» °úÁ¤Àº ¹ß°ß ¾È µÆ½É´õ.,"¸Ó¸® CT °á°ú, ±ÞÇÑ º´ Áõ»óÀº ¾È º¸¿´½É´õ."
-contradiction,¸Ó¸® CT °Ë»ç¿¡¼­´Â ±Þ¼º µÎ°³³» °úÁ¤Àº ¹ß°ß ¾È µÆ½É´õ.,"¸Ó¸® CT °á°ú, ÇÇ ³ª´Â °Ô º¸¿´½É´õ."
-neutral,¸Ó¸® CT °Ë»ç¿¡¼­´Â ±Þ¼º µÎ°³³» °úÁ¤Àº ¹ß°ß ¾È µÆ½É´õ.,È¯ÀÚ°¡ Á¤½ÅÀ» ¸ø Â÷¸³´Ï´õ.
-entailment,"[**10/2802**]¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ È¤ ¶«¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò´Âµ¥, ±×±â ¾ç¼º °áÀý 4·Î ³ª¿Ô½É´õ.",È¯ÀÚÇÑÅ× È¤ÀÌ ÀÖ½É´õ.
-contradiction,"[**10/2802**]¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ È¤ ¶«¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò´Âµ¥, ±×±â ¾ç¼º °áÀý 4·Î È®ÀÎµÆ½É´õ.",È¯ÀÚ °¡½¿ CT °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"[**10/2802**]¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ È¤ ¶«¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò´Âµ¥, ±×±â ¾ç¼º °áÀý 4·Î ³ª¿Ô½É´õ.",È¯ÀÚÇÑÅ× º´ÀÌ ´Ù¸¥ µ¥·Î ÆÛÁ³½É´õ.
-entailment,"¾ÆÆÍ´ø °Å´Â È¯ÀÚÇÏ°í ¼Õ³àµþÀÌ ¾ê±âÇØÁá´Âµ¥, ±× ÀÏ ÀÖÀ» ¶§ ¼Õ³àµþµµ °°ÀÌ ÀÖ¾ú´Ù Ä°´Ï´õ.",È¯ÀÚ°¡ ¾ÆÆÍ´ø °Å ¾ê±â¸¦ ¾È Çß½É´õ.
-contradiction,"¾ÆÆÍ´ø °Å´Â È¯ÀÚÇÏ°í ¼Õ³àµþÀÌ ¾ê±âÇØÁá´Âµ¥, ±× ÀÏ ÀÖÀ» ¶§ °°ÀÌ ÀÖ¾ú´Ù Ä°´Ï´õ.",È¯ÀÚ°¡ ¾ÆÆÍ´ø °Å ¾ê±âÇß½É´õ.
-neutral,º´·ÂÀº È¯ÀÚÇÏ°í ±× ¼Õ³àµþÀÌ ±× ÀÏ ÀÖÀ» ¶§ ºÃ´ø ´ë·Î ÀûÇô ÀÖ½É´õ.,È¯ÀÚ°¡ ¾ÆÆÍ´ø °Å ¾ê±â¸¦ ¸ø ÇÕ´Ï´õ.
-entailment,¸î ´Þ Àü¿¡ ¸¶Èç¾ÆÈ© »ì ¹¬Àº ³²ÀÚ°¡ ½ÉÀå¿¡ ÀâÀ½ÀÌ ÀÖ´Ù´Â °É ¾Ë°Ô µÆ½É´õ.,È¯ÀÚ´Â ½ÉÀå¿¡ ÀâÀ½ÀÌ ÀÖ½É´õ.
-contradiction,¸î ´Þ Àü¿¡ ¸¶Èç¾ÆÈ© »ì ¹¬Àº ³²ÀÚ°¡ ½ÉÀå¿¡ ÀâÀ½ÀÌ ÀÖ´Ù´Â °É ¾Ë°Ô µÆ½É´õ.,±× »ç¶÷Àº ½ÉÀå ¼Ò¸®°¡ Á¤»óÀÔ´Ï´õ.
-neutral,¸î ´Þ Àü¿¡ ½ÉÀå ÀâÀ½ÀÌ ¹ß°ßµÈ ¸¶Èç¾ÆÈ© »ì ³²ÀÚÀÔ´Ï´õ.,±× »ç¶÷Àº ½ÉÀå¿¡ ¹æ°ø°³ÁõÀÌ ÀÖ½À´Ï´õ.
-entailment,½ÉºÎÀüÁõ,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯À» °®°í ÀÖ½À´Ï´õ.
-contradiction,½ÉºÎÀüÁõ,È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½É´õ.
-neutral,½ÉºÎÀüÁõ,È¯ÀÚ´Â ÀÌÃâ·üÀÌ ³·½É´õ.
-entailment,½ÉºÎÀüÁõ,È¯ÀÚ´Â ÀÌ»óÇÑ ½É¹æÃàÃâ°è¼ö¸¦ °®°í ÀÖ½À´Ï´õ.
-contradiction,½ÉºÎÀüÁõ,È¯ÀÚ ¿¡ÄÚ°Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,½ÉºÎÀüÁõ,È¯ÀÚ´Â ÆóºÎÁ¾À» ¾Î°í ÀÖ½À´Ï´õ.
-entailment,½ÉºÎÀüÁõ,½ÉÀå ÁúÈ¯
-contradiction,½ÉºÎÀüÁõ,Á¤»óÀûÀÎ ½ÉÀå ±â´É
-neutral,½ÉºÎÀüÁõ,ºÎÁ¾°ú ±âÄ§
-entailment,"È¯ÀÚ´Â ¹ßÀÛ »çÀÌ¿¡ Àá±ñ 'Á¶´Â' °Í °°¾Ò´Âµ¥, ±×·¯°í ³ª¼­´Â Æò¼Ò´ë·Î µ¹¾Æ¿Â °Í °°¾Ò½É´õ.",È¯ÀÚ°¡ ¹ßÀÛÀ» ÇÏ°í ÀÖ½É´õ.
-contradiction,"È¯ÀÚ´Â ±× µÚ¿¡ 'Á¶´Â' °Í °°¾Ò´Âµ¥, ¹ßÀÛÇÏ´Â »çÀÌ¿¡´Â ´Ù½Ã Æò¼Ò´ë·Î µ¹¾Æ¿Â °Í °°¾Ò½É´õ.",È¯ÀÚ´Â ¹ßÀÛÇß´ø ÀûÀÌ ¾ø½É´õ.
-neutral,"È¯ÀÚ´Â ±× µÚ¿¡ 'Á¶´Â' °Í °°¾Ò´Âµ¥, ¹ßÀÛÇÏ´Â »çÀÌ¿¡´Â ´Ù½Ã Æò¼Ò´ë·Î µ¹¾Æ¿Â °Í °°¾Ò½É´õ.",È¯ÀÚ´Â ³ú¿¡ Á¾¾çÀÌ ÀÖ½É´õ.
-entailment,½Å°æ¼º ¹æ±¤ÀÌ ÇÕº´µÅ¼­ ÀÏ·¹¾Ë ·çÇÁ ¹è¼³·Î°¡ ÇÊ¿äÇÕ´Ï´õ '[**74**].,È¯ÀÚ´Â ¹è ¼ö¼úÀ» ¹Þ¾Ò½É´õ.
-contradiction,½Å°æ¼º ¹æ±¤ ÇÕº´Áõ ¶«¿¡ ÀÏ·¹¾Ë ·çÇÁ ¿ìÈ¸¼úÀÌ ÇÊ¿äÇß½É´õ '[**74**].,È¯ÀÚ´Â ¾Æ¹« ¼ö¼úµµ ¾È ¹Þ¾Ò½É´õ.
-neutral,'[**74**] ½Å°æ¼º ¹æ±¤ ¶«¿¡ ÀÏ·¹¾Ë ·çÇÁ ¿ìÈ¸¼úÀÌ ÇÊ¿äÇÑ º¹ÀâÇÑ »óÈ²ÀÔ´Ï´õ.,È¯ÀÚ´Â ½ºÅä¸¶°¡ ÀÖ½É´õ.
-entailment,º¹ºÎ CT °á°ú´Â ±Þ¼º ºñÇÕº´¼º µð¹öÆ¼Å§¶óÀÌÆ¼½º¸¦ È®ÀÎÇß½É´õ.,¹è CT ÂïÀº °á°ú°¡ ÀÌ»óÇß½É´õ.
-contradiction,º¹ºÎ CT °á°ú´Â ±Þ¼º ºñÇÕº´¼º µð¹öÆ¼Å§¶ó¿°À» È®ÀÎÇß½É´õ.,¹è CT ÂïÀº °á°ú´Â Æ¯ÀÌ»çÇ×ÀÌ ¾ø¾ú½É´õ.
-neutral,º¹ºÎ CT °á°ú´Â ±Þ¼º ºñÇÕº´¼º µð¹öÆ¼Å§¶óÀÌÆ¼½º¸¦ È®ÀÎÇß½É´õ.,È¯ÀÚ´Â ¹èµµ ¾ÆÇÁ°í ÅäÇß½É´õ.
-entailment,"ÆÈ´Ù¸®´Â ´Ù ¿òÁ÷ÀÌ°í, °¡½¿»À¸¦ ¹®Áö¸£ÀÌ±î ¹ÝÀÀÇÕ´Ï´õ.",È¯ÀÚ´Â ÀÚ±ØÀ» ÁÖÀÌ±î Á¤»óÀûÀ¸·Î ¹ÝÀÀÇß½É´õ.
-contradiction,"¿Â ÆÈ´Ù¸®¸¦ ´Ù ¿òÁ÷ÀÌ°í, °¡½É»À¸¦ ¹®¶§´Ï±î ¹ÝÀÀÇÕ´Ï´õ.",È¯ÀÚ°¡ ¹ÝÀÀÀÌ ¾ø½É´õ.
-neutral,"¿Â ÆÈ´Ù¸®¸¦ ´Ù ¿òÁ÷ÀÌ°í, Èä°ñ ¸¶Âû¿¡ ¹ÝÀÀÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
-entailment,»ê¸ð´Â [**9-13**]ÀÏ ¿ÀÀü 9½Ã¿¡ ¾Ö ³º´Ù°¡ ¾ç¼ö°¡ ÅÍÁø Ã¤·Î º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ´Â ÀÚ¹ßÀûÀ¸·Î °üÀý ¿îµ¿ ¹üÀ§¸¦ º¸¿´½É´õ.
-contradiction,"»ê¸ð´Â [**9-13**]ÀÏ ¿ÀÀü 9½Ã¿¡ ¾Ö ³ºÀ»¶ó°í º´¿ø¿¡ ¿Ô´Âµ¥, ¾ç¼ö°¡ ÅÍÁ³½É´õ.",È¯ÀÚ´Â ¾ç¸·À» ÅÍ¶ß·Á¾ß ÇÕ´Ï´õ.
-neutral,»ê¸ð´Â [**9-13**] ¿ÀÀü 9½Ã¿¡ ¾ç¼ö°¡ ÅÍÁø Ã¤·Î ¾Ö ³ºÀ» Â¡Á¶¸¦ º¸¿´½É´õ.,È¯ÀÚ´Â °¨¿°ÁõÀÌ ¾ø½É´õ.
-entailment,ÀÌ ÀçÈ° ÀÔ¿ø ÈÄ¿¡ È¯ÀÚ´Â [**2725-10-26**]¿¡ ±Þ¼º ½ÉºÎÀü(CHF)ÇÏ°í ÃÖ¼Ò ÇÑ ¹øÀÇ ½ÉÁ¤Áö(PEA)·Î ´Ù¸¥ º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â ½ÉÀå ±â´ÉÀÌ ¾È ÁÁ½É´õ.
-contradiction,ÀÌ ÀçÈ° ÀÔ¿ø ÈÄ¿¡ È¯ÀÚ´Â [**2725-10-26**]¿¡ ±Þ¼º ½ÉºÎÀü(CHF)ÇÏ°í Àû¾îµµ ÇÑ ¹øÀÇ ½ÉÁ¤Áö(PEA)·Î ´Ù¸¥ º´¿ø(OSH)À¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ ½ÉÀåÀº Á¤»óÀÔ´Ï´õ.
-neutral,ÀÌ ÀçÈ° ÀÔ¿ø ÈÄ¿¡ È¯ÀÚ´Â [**2725-10-26**]¿¡ ±Þ¼º ½ÉºÎÀü(CHF)ÇÏ°í ÃÖ¼Ò ÇÑ ¹øÀÇ ½ÉÁ¤Áö(PEA)·Î ´Ù¸¥ º´¿ø(OSH)À¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯À» ÇÑ 3³â Àü¿¡ Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚ Æó¿¡ ÀÌ»óÀÌ ÀÖ½É´õ.
-contradiction,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯À» ÇÑ 3³â Àü¿¡ Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚ Æó´Â Á¤»óÀÔ´Ï´õ.
-neutral,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯À» ÇÑ 3³â Àü¿¡ Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚ´Â ¸¸¼º Èí¿¬ÀÚÀÔ´Ï´õ.
-entailment,"[**1-13**] Àü¿¡ À§Àå°ü ÃâÇ÷·Î ÀÔ¿øÇß¾úÀ½: À§³»½Ã°æ¿¡¼­ À§¿°, ½Äµµ¿°ÀÌ È®ÀÎµÆ°í, Á÷Àå¿°À¸·Î »¡°²°Ô µÇ°í ÀÛÀº ±Ë¾çÀÌ ÀÖ¾ú½É´õ. ´ëÀå³»½Ã°æ¿¡¼­´Â µð¹öÆ¼Å§·Î½ºÁõÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â À§Àå ÃâÇ÷ÀÌ ÀÖ¾ú½É´õ.
-contradiction,"[**1-13**] Àü¿¡ ÀÔ¿øÇß´ø À§Àå ÃâÇ÷: À§³»½Ã°æ¿¡¼­ º¸ÀÎ À§¿°, ½Äµµ¿°, Á÷Àå¿° ¶«¿¡ »¡°³Áø °Å¶û ÀÛÀº ±Ë¾ç, ´ëÀå³»½Ã°æ¿¡¼­ ¹ß°ßµÈ µð¹öÆ¼Å§·Î½º.",È¯ÀÚ´Â À§Àå ÃâÇ÷ °ÞÀº ÀûÀÌ ¾ø¾ú½É´õ.
-neutral,"[**1-13**] Àü¿¡ À§Àå ÃâÇ÷·Î ÀÔ¿øÇß¾úÀ½: À§³»½Ã°æ¿¡¼­ À§¿°ÇÏ°í ½Äµµ¿°ÀÌ ¹ß°ßµÆ°í, Á÷Àå¿°À¸·Î »¡°³Áø °Å¶û ÀÛÀº ±Ë¾çÀÌ ÀÖ¾ú½É´õ. ´ëÀå³»½Ã°æ¿¡¼­´Â µð¹öÆ¼Å§·Î½ºÁõÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â Ç÷¾ÐÀÌ ³·¾Ò½É´õ.
-entailment,"ÇöÀç º´·Â: È¯ÀÚ´Â 66¼¼ ³²ÀÚ·Î, [**3327-9-26**]¿¡ °¡½¿ ¾ÆÇÂ °Å¶û ¼û Âù Áõ»óÀ¸·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
-contradiction,"ÇöÀç º´·Â: È¯ÀÚ´Â 66¼¼ ³²ÀÚ·Î, [**3327-9-26**]¿¡ Çù½ÉÁõÇÏ°í ¼ûÀÌ Â÷¼­ ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
-neutral,"ÇöÀç º´·Â: È¯ÀÚ´Â 66¼¼ ³²ÀÚ·Î, [**3327-9-26**]¿¡ Çù½ÉÁõÇÏ°í ¼ûÀÌ Â÷¼­ ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â ±Þ¼º ½É±Ù°æ»öÁõÀÌ ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ¸Ô´Â Æä³ì½Ãº¥ÀÚ¹ÎÇÏ°í ´ÏÆäµðÇÉÀ» ¹¬°í ³ª¼­ ½ÉÀå ¹Úµ¿¼öÇÏ°í µÎÅëÀÌ Á» ³ª¾ÆÁ³½É´õ.,È¯ÀÚ´Â ½ë Ç÷¾Ð¾àÀ» ¹¬¾ú½É´õ.
-contradiction,È¯ÀÚ´Â ¸Ô´Â Æä³ì½Ãº¥ÀÚ¹ÎÇÏ°í ´ÏÆäµðÇÉÀ» ¹¬°í ³ª¼­ ½ÉÀå ¹Úµ¿¼öÇÏ°í µÎÅëÀÌ Á» ³ª¾ÆÁ³½É´õ.,È¯ÀÚ Áõ»óÀÌ ¾à Åõ¿© ÈÄ¿¡ ´õ ½ÉÇØÁ³½É´õ.
-neutral,È¯ÀÚ´Â ¸Ô´Â Æä³ì½Ãº¥ÀÚ¹ÎÇÏ°í ´ÏÆäµðÇÉÀ» ¹¬°í ³ª¼­ ½ÉÀå ¹Úµ¿¼öÇÏ°í µÎÅëÀÌ Á¶±Ý ³ª¾ÆÁ³½É´õ.,È¯ÀÚ´Â Æä¿ÀÅ©·Î¸ð½ÃÅä¸¶°¡ ÀÖ½É´õ.
-entailment,»ìÂ¦ ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ùÁõ.,½ÉÀå ÆÇ¸· ±â´É Àå¾Ö
-contradiction,»ìÂ¦ ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ùÁõ.,Á¤»ó ½ÉÀå ±â´É
-neutral,ÂÉ¸Å ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ùÁõ.,½ÉÀå ÀâÀ½
-entailment,"±× »ç¶÷Àº ±ÞÇÏ°Ô Æ©ºê ²Å°í, ¿À¸¥ÂÊ ´ëÅðºÎ¿¡ ÄÚ¸£µð½º¸¦ ¹Ú¾Ò½Ê´Ï´õ.",È¯ÀÚÇÑÅ× ±â°ü »ð°üÀÌ µÅ ÀÖ½Ê´Ï´õ.
-contradiction,"±× »ç¶÷Àº ±ÞÇÏ°Ô Æ©ºê ²Å°í, ¿À¸¥ÂÊ ´ëÅðºÎ¿¡ ÄÚ¸£µð½º¸¦ ¹Ú¾Ò½Ê´Ï´õ.",È¯ÀÚÇÑÅ×´Â ±â°ü ³» Æ©ºê°¡ ¾ø½Ê´Ï´õ.
-neutral,"±× »ç¶÷Àº ±ÞÇÏ°Ô Æ©ºê ²Å°í, ¿À¸¥ÂÊ ´ëÅðºÎ¿¡ ÄÚ¸£µð½º¸¦ ¹Ú¾Ò½Ê´Ï´õ.",È¯ÀÚÇÑÅ× Áß½ÉÁ¤¸Æ Ä«Å×ÅÍ°¡ µå°¡ ÀÖ½Ê´Ï´õ.
-entailment,±× ¿©ÀÚ´Â Á¤½Å ÀÒ´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ´Ã Á¤½ÅÀÌ ¸ÖÂÄÇß½Ê´Ï´õ.
-contradiction,±× ¿©ÀÚ´Â ÀÇ½Ä Àå¾Ö´Â ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ Á¤½ÅÀ» ÀÒ¾ú½Ê´Ï´õ.
-neutral,±× ¿©ÀÚ´Â Á¤½Å ÀÒÀº Àû ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¸Ó¸® ´ÙÄ£ µ¥´Â ¾ø¾ú½Ê´Ï´õ.
-entailment,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÀÀÚ ¸»ÀÚ ¹Ù·Î Á¤½Å Â÷›½Ê´Ï´õ.,±× ¿©ÀÚ´Â Àü¿¡ Á¤½ÅÀ» ÀÒÀº ÀûÀÌ ÀÖ¾ú½Ê´Ï´õ.
-contradiction,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÀÀÚ ¸»ÀÚ ¹Ù·Î Á¤½Å Â÷›½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÔÀ» ¶§µµ °è¼Ó Á¤½ÅÀ» ÀÒ°í ÀÖ¾ú½Ê´Ï´õ.
-neutral,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÀÀÚ ¸»ÀÚ ¹Ù·Î Á¤½Å Â÷›½Ê´Ï´õ.,±× ¿©ÀÚ´Â ¿Ü»óÀ» ÀÔ¾ú½Ê´Ï´õ.
-entailment,20³âÂ° ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,20³âÂ° ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ A1c ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
-neutral,20³âÂ° ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ Ç÷´ç ¼öÄ¡°¡ ¿Ã¶ú½Ê´Ï´õ.
-entailment,Ç÷´ç 626.,È¯ÀÚ´Â °íÇ÷´çÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,Ç÷´ç 626.,È¯ÀÚ A1c ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
-neutral,Ç÷´ç 626.,È¯ÀÚ´Â 1Çü ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,±× ¿©ÀÚ´Â ±× µÚ¿¡ [**Hospital1 18**]·Î ¿Å°Ü°¡ ´õ Àü¹®ÀûÀÎ Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.,È¯ÀÚ°¡ ÀÔ¿øÇß½Ê´Ï´õ.
-contradiction,±× ¿©ÀÚ´Â ±× µÚ¿¡ ´õ Á¦´ë·Î Ä¡·á ¹ÞÀ»¶ó°í [**Hospital1 18**]·Î ¿Å°å½Ê´Ï´õ.,È¯ÀÚ´Â ¿Ü·¡·Î Ä¡·á ´ó±é´Ï´õ.
-neutral,±× ¿©ÀÚ´Â ±× µÚ¿¡ [**Hospital1 18**]·Î ¿Å°ÜÁ®°¡ ´õ Àü¹®ÀûÀÎ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â Å« º´ÀÌ ÀÖ½É´õ.
-entailment,È®Àå ¹× ¼ÒÆÄ¼ú ÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â ¿ä»õ ¾Ö °¡Á³¾ú½É´õ.
-contradiction,È®Àå ¹× ¼ÒÆÄ¼ú ÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â °¨¿°µÉ À§ÇèÀº ¾ø½É´õ.
-neutral,È®Àå ¹× ¼ÒÆÄ¼ú ÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â Ä§½ÀÀû ½Ã¼úÀ» ¹Þ¾Ò½É´õ.
-entailment,"È¯ÀÚ´Â ¸Ó¸® ¾ÆÇÁ°Å³ª, ¸¶ºñ ¿À°Å³ª, µû²û°Å¸®°Å³ª, °ãÃÄ º¸ÀÌ´Â °Ç ¾ø´Ù Äº½É´õ.",È¯ÀÚ´Â °ãÃÄ º¸ÀÌ´Â °Ç ¾Æ´Ï¶ó Äº½É´õ.
-contradiction,"È¯ÀÚ´Â ¸Ó¸® ¾ÆÇÁ°Å³ª, ¸¶ºñ ¿À°Å³ª, Àú¸®°Å³ª, °ãÃÄ º¸ÀÌ´Â °Ç ¾ø´Ù Äº½É´õ.",È¯ÀÚ´Â ÆÈ´Ù¸®¿¡ °¨°¢ÀÌ ¾ø¾îÁ³½É´õ.
-neutral,"È¯ÀÚ´Â ¸Ó¸® ¾ÆÇÁ°Å³ª, ¸¶ºñ ¿À°Å³ª, Àú¸®°Å³ª, °ãÃÄ º¸ÀÌ´Â °Ç ¾ø´Ù Äº½É´õ.",È¯ÀÚ´Â ³úÁ¹Áß ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,"¿¹¼øµÎ »ì ³²ÀÜµ¥, Áö³­ ÇÑ ÀÏ ³â ¹Ý µ¿¾È ¼û Â÷´Â °Å¶û ÇÇ°ïÇÑ ±â ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â ¸Ç³¯ ¼ûÀÌ Â÷´Ù Ä°´Ï´õ.
-contradiction,"¿¹¼øµÎ »ì ³²ÀÜµ¥, Áö³­ ÇÑ ÀÏ ³â ¹Ý µ¿¾È ¼û Â÷´Â °Å¶û ÇÇ°ïÇÑ ±â ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â ¼û Â÷´Â °Ç ¾Æ´Ï¶ó Ä°´Ï´õ.
-neutral,"¿¹¼øµÎ »ì ³²ÀÜµ¥, Áö³­ ÇÑ ÀÏ ³â ¹Ý µ¿¾È ¼û Â÷´Â °Å¶û ÇÇ°ïÇÑ ±â ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â °£Áú¼º ÆóÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
-entailment,"[**8-23**]¿¡ ´Ù½Ã ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ¿ä¹ø¿¡´Â ¹° Âù ±â ´õ ´Ã¾î³­ °Ô º¸¿´°í¿¹, ÀÌ°Å´Â Áß°£¿¡¼­ Å« Á¤µµ·Î ÆÇ´ÜµÆ½É´õ.",È¯ÀÚ´Â ½É³¶¿¡ ¹°ÀÌ Ã¡½É´õ.
-contradiction,"[**8-23**]¿¡ ´Ù½Ã ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ¿ä¹ø¿¡´Â ¹° Âù ±â ´õ ´Ã¾î³­ °Ô º¸¿´°í¿¹, ÀÎÀÚ´Â Áß°£¿¡¼­ Å« Á¤µµ·Î ÆÇ´ÜµÆ½É´õ.",½ÉÀå ¸ð¾çÀº Á¤»óÀÔ´Ï´õ.
-neutral,"[**8-23**]¿¡ ´Ù½Ã ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ¹°ÀÌ ´õ Â÷¿À¸£´Â °Ô º¸¿´°í¿¹, Áö±ÝÀº Áß°£¿¡¼­ Å« Á¤µµ·Î ÆÇ´ÜµÆ½É´õ.",È¯ÀÚ´Â ½É³¶¿°À» ¾Î°í ÀÖ½É´õ.
-entailment,25. ¸¸¼º ½É¹æ¼¼µ¿ - È¯ÀÚ´Â ÀÌ°Å ¶«¿¡ ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ¾Ò½É´õ.
-contradiction,25. ¸¸¼º ½É¹æ¼¼µ¿ - È¯ÀÚ´Â ÀÌ°Å ¶«¿¡ ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.,È¯ÀÚÇÑÅ× ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á¸¦ Çß½É´õ.
-neutral,25. ¸¸¼º ½É¹æ¼¼µ¿ - È¯ÀÚ´Â ÀÌ°Å ¶«¿¡ ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ³Ñ¾îÁú À§ÇèÀÌ ÀÖ½É´õ.
-entailment,±× ¶§´Â ½Äµµ À§ ³»½Ã°æÀº ¾È Çß½É´õ.,È¯ÀÚ´Â À§ ³»½Ã°æ °Ë»ç´Â ¾È ¹Þ¾Ò½É´õ.
-contradiction,±× ¶§´Â À§ ³»½Ã°æ(EGD)Àº ¾È Çß½É´õ.,È¯ÀÚ´Â À§ ³»½Ã°æ °Ë»ç¸¦ ¹Þ¾Ò½É´õ.
-neutral,±× ¶§´Â À§ ³»½Ã°æ(EGD)Àº ¾È Çß½É´õ.,È¯ÀÚ´Â À§»êÀÌ ³Ñ¾î¿À´Â Áõ»óÀÌ ÀÖ½É´õ.
-entailment,±× ¿©ÀÚ´Â °Å±â ÀÖÀ» ¶§ µÎ ¹ø ÅäÇß½É´õ.,È¯ÀÚ°¡ ÅäÇÏ°í ÀÖ½É´õ.
-contradiction,°¼´Â °Å±â ÀÖÀ» ¶§ µÎ ¹ø ÅäÇß½É´õ.,È¯ÀÚ´Â Åä ¾È Çß´Ù°í ÇÕ´Ï´õ.
-neutral,°¼´Â °Å±â ÀÖÀ» ¶§ µÎ ¹ø ÅäÇß½É´õ.,È¯ÀÚ°¡ ¸Ó¸® ¾ÆÇÁ´ÙÄ°´Ï´õ.
-entailment,"»ê¼ÒÆ÷È­µµ°¡ Àá±ñ 90´ë·Î ¿Ã¶ó°¬´Ù°¡, ´Ù½Ã 80´ë·Î ¶³¾îÁö°¡²¿ °¼ÇÑÅ× ¿Å±â±â Àü¿¡ º¤·ç·Î´½ 10mgÀ» ³ù½É´õ.",È¯ÀÚ´Â Æó¿¡ º´ÀÌ ÀÖ½É´õ.
-contradiction,"Æ÷È­µµ°¡ Àá±ñ 90´ë·Î ¿Ã¶ó°¬´Ù°¡, ´Ù½Ã 80´ë·Î ¶³¾îÁö°¡²¿ °¼´Â ¿Å±â±â Àü¿¡ º¤·ç·Î´½ 10mg ¸Â¾Ò½É´õ.",È¯ÀÚ Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"Æ÷È­µµ°¡ Àá±ñ 90´ë·Î ¿Ã¶ó°¬´Ù°¡, ´Ù½Ã 80´ë·Î ¶³¾îÁö°¡²¿ °¼´Â ¿Å±â±â Àü¿¡ º¤·ç·Î´½ 10mg ¸Â¾Ò½É´õ.",È¯ÀÚ°¡ Æ©ºê »ð°üÀ» Çß½É´õ.
-entailment,°¼´Â ±× µÚ·Î »õ»¡°£ ÇÇ ¼¯ÀÎ °ËºÓÀº ¶ËÀ» ¿­ ¹ø ´õ ½Õ½É´õ.,°¼´Â ÇÇ¶ËÀ» ½Õ½É´õ.
-contradiction,°¼´Â ±× µÚ·Î »õ»¡°£ ÇÇ ¼¯ÀÎ °ËºÓÀº ¶ËÀ» ¿­ ¹ø ´õ ½Õ½É´õ.,¶Ë ¸ð¾çÀº ±¦Âú¾Ò½É´õ.
-neutral,°¼´Â ±× µÚ·Î »õ»¡°£ ÇÇ ¼¯ÀÎ ¹ã»ö ¶ËÀ» ¿­ ¹ø ´õ ½Õ½É´õ.,°¼´Â Ä¡ÁúÀÌ ÀÖ½É´õ.
-entailment,"È¯ÀÚ´Â À¯µÎ»ó °©»ó¼±¾ÏÀ¸·Î °©»ó¼± ¶¼³»´Â ¼ö¼úÀ» ¹ÞÀº ÀûÀÌ ÀÖ°í, ÄÝ·¹½ºÅ×·Ñ ¼öÄ¡µµ ³ô°í, °íÇ÷¾Ð, ¿¾³¯¿¡ ´ã¹èµµ Æñ°í, 2Çü ´ç´¢¶û »ç¸£ÄÚÀÌµåÁõµµ ¾Î¾Ò½É´õ.",È¯ÀÚ´Â ¿© ¿©·¯ ±ºµ¥ ¾ÆÇÂ µ¥°¡ ÀÖ½É´õ.
-contradiction,"È¯ÀÚ´Â Àü¿¡ À¯µÎ»ó °©»ó¼±¾ÏÀ» ¾Î¾Æ°¡ °©»ó¼± ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò½Ê´Ï´õ. ¶Ç ÄÝ·¹½ºÅ×·Ñ ¼öÄ¡µµ ³ô°í, °íÇ÷¾Ð, ¿¾³¯¿¡ ´ã¹èµµ Æñ°í, 2Çü ´ç´¢¶û »ç¸£ÄÚÀÌµåÁõµµ ¾Î¾Ò½É´õ.",È¯ÀÚ´Â Àü¿¡ ¾ÆÇÂ ÀûÀÌ ¾ø½É´õ.
-neutral,"È¯ÀÚ´Â Àü¿¡ À¯µÎ»ó °©»ó¼±¾ÏÀ» ¾Î¾Æ°¡ °©»ó¼± ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò½Ê´Ï´õ. ¶Ç ÄÝ·¹½ºÅ×·Ñ ¼öÄ¡µµ ³ô°í, °íÇ÷¾Ð, ¿¾³¯¿¡ ´ã¹è ÇÇ¿ì´Â ¹ö¸©µµ ÀÖ¾ú°í, 2Çü ´ç´¢¶û »ç¸£ÄÚÀÌµåÁõµµ ¾Î¾Ò½É´õ.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½É´õ.
-entailment,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â ASA 325mg, ¶ó½Ä½º 80mg Á¤¸Æ ÁÖ»ç, »ê¼Ò, NTG ÁÖÀÔ Ä¡·á¸¦ ¹Þ¾Ò°í, ºñÄ§½ÀÀû ÀÎ°øÈ£ÈíÀ» ½ÃÀÛÇß½É´õ. ±×·¡¼­ ÅëÁõÀÌ ´úÇØÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀü ¾ÇÈ­ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.
-contradiction,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â ASA 325mg, ¶ó½Ä½º 80mg Á¤¸Æ ÁÖ»ç, »ê¼Ò, NTG ÁÖÀÔ Ä¡·á¸¦ ¹Þ¾Ò°í, ºñÄ§½ÀÀû ÀÎ°øÈ£ÈíÀ» ½ÃÀÛÇß½É´õ. ±× °á°ú·Î ¾ÆÇÂ °Ô ¾ø¾îÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀ¸·Î Ä¡·á¹Þ¾Ò½É´õ.
-neutral,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â ASA 325mg, ¶ó½Ä½º 80mg Á¤¸Æ ÁÖ»ç, »ê¼Ò, NTG ÁÖÀÔ Ä¡·á¸¦ ¹Þ°í ºñÄ§½ÀÀû ÀÎ°øÈ£ÈíÀ» ½ÃÀÛÇß°í, ¾ÆÇÂ °Ô ¾ø¾îÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀüÁõÀÌ ÀÖ½É´õ.
-entailment,"Áö±Ý [**Location 4245**]¿¡¼­ [**First Name5 (NamePattern1) 4246**] [**Last Name (NamePattern1) 4247**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]13, ±Û°í [**First Name8 (NamePattern2) 694**] [**Last Name (NamePattern1) 4249**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]32ÇÑÅ× Áø·á¸¦ ¹Þ°í ÀÖ°í, [**Hospital3 4243**] º´¿ø¿¡¼­ Åð¿øÇÑ µÚ¿¡ The Center¿¡¼­ ³· Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.",È¯ÀÚ°¡ ÀÔ¿øÇß½É´õ.
-contradiction,"Áö±Ý [**Location 4245**]¿¡¼­ [**First Name5 (NamePattern1) 4246**] [**Last Name (NamePattern1) 4247**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]13, ±Û°í [**First Name8 (NamePattern2) 694**] [**Last Name (NamePattern1) 4249**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]32ÇÑÅ× Ä¡·á¸¦ ¹Þ°í ÀÖ°í, [**Hospital3 4243**] º´¿ø¿¡¼­ Åð¿øÇÑ µÚ¿¡ The Center¿¡¼­ ³· ½Ã°£ Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.",È¯ÀÚ´Â ÀÔ¿ø ¾È Çß½É´õ.
-neutral,"Áö±Ý [**Location 4245**]¿¡¼­ [**First Name5 (NamePattern1) 4246**] [**Last Name (NamePattern1) 4247**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]13, ±Û°í [**First Name8 (NamePattern2) 694**] [**Last Name (NamePattern1) 4249**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]32ÇÑÅ× Ä¡·á¸¦ ¹Þ°í ÀÖ°í, [**Hospital3 4243**] º´¿ø¿¡¼­ Åð¿øÇÑ µÚ¿¡ The Center¿¡¼­ ³· Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.",È¯ÀÚ´Â »óÅÂ°¡ ¸¶ÀÌ ¾È ÁÁ¾Ò½É´õ.
-entailment,ÀÀ±Þ½Ç¿¡ °¡¼­ ½É±Ù°æ»öÁõ Áø´ÜÀ» ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â ½ÉÀå ±ÙÀ°À¸·Î ÇÇ°¡ Àß ¾È °¬½É´õ.
-contradiction,ÀÀ±Þ½Ç¿¡ °¡¼­ ½É±Ù°æ»öÁõ Áø´ÜÀ» ¹Þ¾Ò½É´õ.,È¯ÀÚ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
-neutral,"ÀÀ±Þ½Ç¿¡ °¬°í, ½É±Ù°æ»öÁõÀ¸·Î Áø´ÜµÆ½É´õ.",È¯ÀÚ ½ÉÀüµµ °Ë»ç °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
-entailment,"È¯ÀÚ´Â ±× µÚ¿¡ ¾à 3¹ÌÅÍ ¶³¾î£°í, ÀÇ½ÄÀ» ÀÒ¾ú´ÂÁö´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ. ±× µÚ·Î È­¸¦ ³»¹È¼­ Á¡Â÷ Á¤½Å »óÅÂ º¯È­°¡ ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚ´Â ¿Ü»óÀ» ÀÔ¾ú½Ê´Ï´õ.
-contradiction,"È¯ÀÚ´Â ±× µÚ¿¡ ¾à 3¹ÌÅÍ ¶³¾î£°í, ÀÇ½Ä ÀÒ¾ú´ÂÁö´Â ¾Ë ¼ö ¾ø¾ú½Ê´Ï´õ. ±× µÚ·Î, È¯ÀÚ´Â °ø°ÝÀûÀÎ Çàµ¿À» º¸ÀÌ¹È¼­ Á¡Â÷ Á¤½Å »óÅÂ º¯È­°¡ ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"È¯ÀÚ´Â ±× µÚ¿¡ ¾à 3¹ÌÅÍ ¶³¾î£°í, Á¤½Å ÀÒ¾ú´ÂÁö´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ. ±× µÚ·Î, Â÷Ãû Á¤½Å »óÅÂ º¯È­°¡ ³ªÅ¸³ª¹È¼­ °ø°ÝÀûÀÎ Çàµ¿À» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ½Ç½ÅÇß½Ê´Ï´õ.
-entailment,ÀÌ ¾ÆÀÇ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡ÀÌ¶û 9Á¡ÀÌ¾ú½Ê´Ï´õ.,È¯ÀÚ È£ÈíÀº Á¤»óÀÌ¾ú½Ê´Ï´õ.
-contradiction,ÀÌ ¾ÆÀÇ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡ÀÌ¶û 9Á¡ÀÌ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¸¶ÀÌ ¾ÆÆÄÇÏ°í ÀÖ¾ú½Ê´Ï´õ.
-neutral,ÀÌ ¾ÆÀÇ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8ÇÏ°í 9¿´½Ê´Ï´õ.,ºÐ¸¸Àº Á¤»óÀûÀ¸·Î µÆ½Ê´Ï´õ.
-entailment,Åä¸¦ ³Ñ ½ÉÇÏ°Ô ÇØ¼­ TPN(ÀüÃ¼ ºÎÀ§ ¿µ¾ç)ÀÌ ÇÊ¿äÇÕ´Ï´õ.,È¯ÀÚ´Â ¿µ¾ç½ÇÁ¶ÀÔ´Ï´õ.
-contradiction,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPN(ÀüÃ¼ ºÎÀ§ ¿µ¾ç °ø±Þ)ÀÌ ÇÊ¿äÇÔ.,È¯ÀÚÇÑÅ× Áö±Ý Á¤¸ÆÁÖ»ç ¾È ³õ°í ÀÖ½Ê´Ï´õ.
-neutral,½ÉÇÑ ±¸Åä ¶«¿¡ TPN(ÀüÃ¼ ºÎÀ§ ¿µ¾ç)ÀÌ ÇÊ¿äÇÔ.,È¯ÀÚ´Â ÀÓ½Å ÁßÀÔ´Ï´õ.
-entailment,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPNÀÌ ÇÊ¿äÇÔ.,È¯ÀÚ´Â ±¸Åä Áõ»ó ¶«¿¡ ¿µ¾ç Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.
-contradiction,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPNÀÌ ÇÊ¿äÇÔ.,»ìÂ¦ ÅäÇÏ´Â Áõ»óÀº ¸Ô´Â ¾àÀ¸·Î Ä¡·áÇß½Ê´Ï´õ.
-neutral,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPNÀÌ ÇÊ¿äÇÕ´Ï´õ.,È¯ÀÚ Ã¼ÁßÀÌ ÁÙ¾ú½Ê´Ï´õ.
-entailment,±×³à°¡ ´ëµ¿¸Æ ½Äµµ ´©°øÀÌ °ÆÁ¤µÅ°¡²¿ ±ÞÇÏ°Ô [**Hospital1 1499**]·Î ¿Å°ÜÁ®¼­ Ãß°¡ Æò°¡¸¦ ¹Þ°Ô µÆ½Ê´Ï´õ.,È¯ÀÚ°¡ ´ëµ¿¸ÆÇÏ°í Àå »çÀÌ¿¡ ¿¬°áÀÌ ÀÖ´Â °É·Î ¿ì·ÁµÇ°í ÀÖ½Ê´Ï´õ.
-contradiction,±×³à´Â ´ëµ¿¸Æ-Àå·çÁõÀÌ °ÆÁ¤µÅ°¡²¿ ±ÞÇÏ°Ô [**Hospital1 1499**]·Î ¿Å°ÜÁ®¼­ Ãß°¡ Æò°¡¸¦ ¹Þ°Ô µÆ½Ê´Ï´õ.,È¯ÀÚ ´ëµ¿¸ÆÀº Á¤»óÀ¸·Î º¸ÀÔ´Ï´õ.
-neutral,±×³à°¡ ´ëµ¿¸Æ-Àå·çÁõÀÌ °ÆÁ¤µÅ°¡²¿ ±ÞÇÏ°Ô [**Hospital1 1499**]·Î ¿Å°ÜÁ®¼­ Ãß°¡ Æò°¡¸¦ ¹Þ°Ô µÆ½Ê´Ï´õ.,È¯ÀÚ´Â º¹ºÎ ¿Ü»óÀ» ÀÔ¾ú½Ê´Ï´õ.
-entailment,"¾çÂÊ ´«µ¿ÀÚ°¡ ¶È°°ÀÌ µ¿±×¶þ°í, ºûÀ» ºñÃßÀÌ 5mm¿¡¼­ 3mm·Î ÁÙ¾îµì´Ï´õ.",È¯ÀÚ ´«µ¿ÀÚ Å©±â°¡ ¶È°°´Ù.
-contradiction,"¾çÂÊ ´«µ¿ÀÚ°¡ ¶È°°ÀÌ µ¿±×¶þ°í, ºû¿¡ ¹ÝÀÀÇØ¼­ 5mm¿¡¼­ 3mm·Î ÁÙ¾îµì´Ï´õ.",È¯ÀÚ µ¿°ø ¹ÝÀÀÀÌ ¾ø½Ê´Ï´õ.
-neutral,"¾çÂÊ ´«µ¿ÀÚ´Â ¶È°°°í µ¿±×¶ó¸ç, ºû¿¡ ¹ÝÀÀÇØ¼­ 5mm¿¡¼­ 3mm·Î ÁÙ¾îµì´Ï´õ.",È¯ÀÚ°¡ È¥¼ö »óÅÂÀÔ´Ï´õ.
-entailment,"±×³à´Â ¿À´Ã ¿ÀÈÄ¿¡ ±â°üÀý°³°üÀ» ¹Ù±÷°í, ±×¶ó¹È¼­ ±â°üÀý°³°ü Å©±â¸¦ 6 »çÀÌÁî ¹«¸·ÇüÀ¸·Î ´Ù½Ã ÁÙ¿´½Ê´Ï´õ.",È¯ÀÚ´Â ±â°üÀý°³¼úÀ» ¹Þ¾Ò½Ê´Ï´õ.
-contradiction,"±×³à´Â ¿À´Ã ¿ÀÈÄ¿¡ ±â°üÀý°³°üÀ» ±³Ã¼Çß°í, ±× °úÁ¤¿¡¼­ ±â°üÀý°³°üÀ» 6 uncuffed·Î ´Ù½Ã ÁÙ¿´½Ê´Ï´õ.",È¯ÀÚ È£ÈíÀº Á¤»óÀÔ´Ï´õ.
-neutral,"±× ¾Æ(¿©ÀÚ)´Â ¿À´Ã ¿ÀÈÄ¿¡ Æ®¶óÅ°¾î½ºÅä¹Ì¸¦ °¥¾Ò°í, °í °úÁ¤¿¡¼­ Æ®¶óÅ°¾î½ºÅä¹Ì °üÀ» 6 uncuffed·Î ´Ù½Ã ÁÙ¿´½É´õ.",È¯ÀÚ´Â ÈÄµÎ¾Ï º´·ÂÀÌ ÀÖ½É´õ.
-entailment,"´ç´¢ Áø´Ü ¹Þ°í ½Ê ³â Áö³µ°í, ½ÄÀÌ °ü¸®°¡ ¾ÈµÅ°¡ ±Û¸®³ªÁ¦·Î Á¶ÀýÇß½É´õ.",È¯ÀÚ´Â 2Çü ´ç´¢¸¦ ¾Î°í ÀÖ½É´õ.
-contradiction,"´ç´¢ Áø´Ü ¹Þ°í ½Ê ³âÀÌ Áö³ª°í, ½ÄÀÌ °ü¸®°¡ ¾ÈµÈ µÚ¿¡´Â ±Û¸®³ªÁ¦·Î Á¶ÀýÇß½É´õ.",È¯ÀÚ´Â ¸Ç³¯ Á¤»ó Ç÷´ç ¼öÄ¡¸¦ À¯ÁöÇÕ´Ï´õ.
-neutral,"´ç´¢ Áø´Ü ¹Þ°í ½Ê ³â Áö³µ°í¿¹, ½ÄÀÌ¿ä¹ý ¾ÈµÅ°¡ ±Û¸®³ªÁ¦·Î °ü¸®ÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â °úÃ¼ÁßÀÔ´Ï´õ.
-entailment,"±× ¾Æ(³²ÀÚ)´Â ¿À¸¥ÂÊ ±â°üÁö µ¿¸Æ ¿¥º¼¸®Á¦ÀÌ¼Ç(330-550 ¸¶ÀÌÅ©·Ð)À» ¹Þ¾Ò°í, °í °úÁ¤¿¡¼­ º¹ÀâÇÑ ¹®Á¦´Â ¾ø¾ú½É´õ.",È¯ÀÚ´Â ±â°üÁö µ¿¸Æ »öÀü¼úÀ» ¹Þ¾Ò½É´õ.
-contradiction,"±× ¾Æ(³²ÀÚ)´Â ¿À¸¥ÂÊ ±â°üÁö µ¿¸Æ ¿¥º¼¸®Á¦ÀÌ¼Ç(330-550 ¸¶ÀÌÅ©·Ð)À» ¹Þ¾Ò°í, °í °úÁ¤¿¡¼­ º¹ÀâÇÑ ¹®Á¦´Â ¾È »ý°å½É´õ.",È¯ÀÚ ÈäºÎ CT °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"±× ¾Æ(³²ÀÚ)´Â ¿À¸¥ÂÊ ±â°üÁö µ¿¸Æ ¿¥º¼¸®Á¦ÀÌ¼Ç(330-550 ¸¶ÀÌÅ©·Ð)À» ¹Þ¾Ò°í, °í °úÁ¤¿¡¼­ º¹ÀâÇÑ ¹®Á¦´Â ¾ø¾ú½É´õ.",È¯ÀÚ´Â Æó¾ÏÀ» ¾Î°í ÀÖ½É´õ.
-entailment,ºñÀÎ½¶¸° ÀÇÁ¸¼º ´ç´¢º´.,Ç÷´ç ³ô¾Ò´ø °ú°Å·Â.
-contradiction,ºñÀÎ½¶¸° ÀÇÁ¸¼º ´ç´¢º´.,´ç´¢ º´·ÂÀº ¾ø½É´õ.
-neutral,ºñÀÎ½¶¸° ÀÇÁ¸¼º ´ç´¢º´.,ºñ¸¸ ÀÌ·Â.
-entailment,Å»¶ó¹«½º ³úÁ¹Áß ([**3339-11-18**] - ±× ¾Æ(¿©ÀÚ) ¿À¸¥ÂÊ Å»¶ó¹«½º °ü·Ã ³ú°æ»ö ¶«¿¡ ¸ö ¿ÞÂÊ¿¡ ¸¶ºñ Áõ»óÀÌ »ý°åÀ½) 9.,È¯ÀÚ´Â ³úÁ¹Áß ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-contradiction,Å»¶ó¹«½º ³úÁ¹Áß ([**3339-11-18**] - ±× ¾Æ(¿©ÀÚ) ¿À¸¥ÂÊ Å»¶ó¹«½º¸¦ Ä§¹üÇÏ´Â ³ú°æ»ö ¶«¿¡ ¸ö ¿ÞÂÊ¿¡ ¸¶ºñ Áõ»óÀÌ »ý°åÀ½) 9.,È¯ÀÚ ½Å°æÇÐÀû ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,Å»¶ó¹«½º ³úÁ¹Áß ([**3339-11-18**] - ±× ¾Æ(¿©ÀÚ) ¿À¸¥ÂÊ Å»¶ó¹«½º °ü·Ã ³ú°æ»ö ¶«¿¡ ¸ö ¿ÞÂÊ¿¡ ¸¶ºñ Áõ»óÀÌ ³ªÅ¸³µÀ½) 9.,È¯ÀÚ´Â ÈÙÃ¼¾î¿¡ ÀÇÁ¸ÇÏ°í ÀÖ½É´õ.
-entailment,"È¯ÀÚ´Â Áö±Ý ¿À¸¥ÂÊ ¾Æ·¡ÅÎ»À ÆíÆò¼¼Æ÷¾ÏÀÌ ÀüÀÌµÅ°¡ Àç¹ßÀ» º¸ÀÌ°í, ¸²ÇÁÀý Ä§½Àµµ ±¤¹üÀ§ÇÏ°Ô ÀÖ½É´õ.",È¯ÀÚ´Â ÀÎµÎ¾ÏÀ» ¾Î°í ÀÖ½É´õ.
-contradiction,È¯ÀÚ´Â Áö±Ý ¿À¸¥ÂÊ ¾Æ·¡ÅÎ»À ÆíÆò¼¼Æ÷¾ÏÀÌ ±¤¹üÀ§ÇÑ ¸²ÇÁÀý Ä§½ÀÀ» µ¿¹ÝÇØ°¡ ÀüÀÌ¼º Àç¹ßÀ» º¸ÀÌ°í ÀÖ½É´õ.,È¯ÀÚ´Â ¾Ç¼º Á¾¾ç ¾ÎÀº ÀûÀº ¾ø½É´õ.
-neutral,È¯ÀÚ´Â Áö±Ý ¿À¸¥ÂÊ ¾Æ·¡ÅÎ»À ÆíÆò¼¼Æ÷¾ÏÀÌ ±¤¹üÀ§ÇÑ ¸²ÇÁÀý Ä§½ÀÀ» µ¿¹ÝÇØ°¡ ÀüÀÌ¼º Àç¹ßÀ» º¸ÀÌ°í ÀÖ½É´õ.,È¯ÀÚ´Â ´ã¹è ÇÉ Àû ÀÖ½É´õ.
-entailment,"±× ¾Æ(¿©ÀÚ)´Â µü ºÁµµ ¿À¸¥ÂÊÀ¸·Î ¸öÀ» ±â¿ïÀÌ°í ÀÖ¾ú°í, ÀÔ¿¡ °ÅÇ° ¹°°í ÅÎÀ» ²Ë ±ú¹°°í ÀÖ¾ú½É´õ.",±× ¾Æ(¿©ÀÚ) ÀÔÀÌ¶û ÅÎÀÌ ÀÌ»óÇØ º¸¿´½É´õ.
-contradiction,"±× ¾Æ(¿©ÀÚ)´Â µü ºÁµµ ¿À¸¥ÂÊÀ¸·Î ±â¿ï¾îÁ® ÀÖ¾ú°í, ÀÔ¿¡¼­ °ÅÇ°ÀÌ ³ª¿À¸é¼­ ÅÎÀ» ²Ë ±ú¹°°í ÀÖ¾ú½É´õ.",±× ¾Æ(¿©ÀÚ) ÀÔÀÌ¶û ÅÎÀº Á¤»óÀ¸·Î º¸¿´½É´õ.
-neutral,"±× ¾Æ(¿©ÀÚ)´Â ºÐ¸íÈ÷ ¿À¸¥ÂÊÀ¸·Î ±â¿ï¾îÁ® ÀÖ¾ú°í, ÀÔ¿¡¼­ °ÅÇ°ÀÌ ³ª¿À¸é¼­ ÅÎÀ» ²Ë ±ú¹°°í ÀÖ¾ú½É´õ.",±× ¾Æ(¿©ÀÚ)´Â ¹ßÀÛÇÑ ÀûÀÌ ÀÖ½É´õ.
-entailment,"´ÙÀ½ º´¿ø ¿Â ³¯¿¡ ÇÑ ±â°ü°æ°Ë»ç¿¡¼­ ºÐºñ¹°ÀÌ ÂØ¸Å ³ª¿Ô°í, Æó·ÅÀÌ Àç¹ßÇÑ °É·Î ÃßÁ¤µÅ°¡ È¯ÀÚÇÑÅ× ¸Þ·ÎÆä³ÛÀÌ¶û ¹Ù³ªÄÚ¸¶ÀÌ½ÅÀ» Ã³¹æÇÏ±â ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â Æó·ÅÀ» °ÆÁ¤ÇÏ°í ÀÖ½É´õ.
-contradiction,"´ã º´¿ø ³¯¿¡ ÇÑ ±â°ü°æ °Ë»ç¿¡¼± ºÐºñ¹°ÀÌ ÂØ¸Å ³ª¿Ô°í, Àç¹ß¼º Æó·ÅÀÌ¶ó ÃßÁ¤µÅ°¡ È¯ÀÚÇÑÅ× ¸Þ·ÎÆä³ÛÇÏ°í ¹Ù³ªÄÚ¸¶ÀÌ½ÅÀ» Ã³¹æÇÏ±â ½ÃÀÛÇß½Ê´Ï´õ.",È¯ÀÚ Æó´Â ±ú²ýÇÕ´Ï´õ.
-neutral,"´ã º´¿ø ³¯¿¡ ÇÑ ±â°ü°æ°Ë»ç¿¡¼± ºÐºñ¹°ÀÌ ÂØ¸Å ³ª¿Ô°í, È¯ÀÚ´Â Àç¹ß¼º Æó·ÅÀÌ¶ó º¸°í ¸Þ·ÎÆä³ÛÇÏ°í ¹Ù³ªÄÚ¸¶ÀÌ½ÅÀ» Ã³¹æ¹Þ±â ½ÃÀÛÇß½Ê´Ï´õ.",È¯ÀÚ´Â º´¿ø¼º Æó·ÅÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,"±Û°í °£Æó ÁõÈÄ±º ¾ÎÀº ÀûÀÌ ÀÖ°í, MELD Á¡¼ö´Â 27ÀÔ´Ï´õ.",È¯ÀÚ´Â °£ ±â´ÉÀÌ ¾È ÁÁ½Ê´Ï´õ.
-contradiction,"±Û°í, °£Æó ÁõÈÄ±º ¾Î¾Ò´ø °Å¶û MELD Á¡¼ö°¡ 27ÀÎ ±â È®ÀÎµÆ½Ê´Ï´õ.",È¯ÀÚ °£ ±â´É °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,±Û°í °£Æó ÁõÈÄ±º ¾ÎÀº Àû ÀÖ°í MELD Á¡¼ö´Â 27ÀÔ´Ï´õ.,È¯ÀÚ´Â ¾ËÄÚ¿Ã¼º °£°æº¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,¼ú Áßµ¶ ¶«¿¡ »ý±â´Â [** À§Ä¡ **]ÀÇ ¼¶¸ÁÀÌ¶û °æ·Ã (µÎ ´Þ Àü¿¡ Å©°Ô °æ±âÇßÀ½),È¯ÀÚ´Â »çÈ¸·ÂÀÌ º¹ÀâÇÕ´Ï´õ.
-contradiction,¼ú Áßµ¶À¸·Î ¿À´Â [** À§Ä¡ **]ÀÇ ¼¶¸ÁÀÌ¶û °æ·Ã (µÎ ´Þ Àü¿¡ ½ÉÇÏ°Ô »»»»ÇØÁö´Â ¹ßÀÛ ÀÖ¾úÀ½),È¯ÀÚ´Â °ú°Å¿¡ ¾ÎÀº º´Àº ¾ø½Ê´Ï´õ.
-neutral,¼ú Áßµ¶À¸·Î ¿À´Â [** À§Ä¡ **] ¼¶¸ÁÀÌ¶û °æ·Ã (µÎ ´Þ Àü¿¡ Å©°Ô °æ±âÇßÀ½),È¯ÀÚ´Â °£°æº¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,"È¯ÀÚ ¸¶´©¶ó ¸»·Î´Â, ¹ã»õ È¯ÀÚ°¡ ÀÏ¾î³ª°¡ ¼ÒÆÄ¿¡¼­ Àä´ÙÄ°´Ï´õ(¹ã¿¡ ´õ¿ì¸é ÀÚÁÖ ±×¶õ´Ù³×¿¹).",È¯ÀÚ´Â °áÈ¥Çß½Ê´Ï´õ.
-contradiction,"È¯ÀÚ ¸¶´©¶ó ¸»·Î´Â, ¹ã»õ È¯ÀÚ°¡ ÀÏ¾î³ª°¡ Ä§´ë¿¡¼­ ³ª¿Í°¡ ¼ÒÆÄ¿¡¼­ Àä´ÙÄ°´Ï´õ(¹ã¿¡ ´õ¿ì¸é ÀÚÁÖ ±×¶õ´Ù³×¿¹).",°áÈ¥ ¾È Çß½Ê´Ï´õ.
-neutral,"È¯ÀÚ ¸¶´©¶ó ¸»·Î´Â, ¹ã»õ È¯ÀÚ°¡ ÀÏ¾î³ª°¡ Ä§´ë¿¡¼­ ¾È ÀÚ°í ¼ÒÆÄ¿¡¼­ Àä´ÙÄ°´Ï´õ(¹ã¿¡ ´õ¿öÁö¸é ÀÚÁÖ ±×·´´Ï´õ).",È¯ÀÚ´Â Ä¡¸Å¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,"È¯ÀÚ ³²Æí ¸»·Î´Â, ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®°Å³ª, ¹ã¿¡ Ãä°Å³ª, ¹ã¿¡ ¶¡³ª°Å³ª, °¡½¿ ¾ÆÇÂ °Å´Â ÀüÇô ¾ø¾ú´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â °¡½¿ ¾ÆÇÂ µ¥´Â ¾ø½Ê´Ï´õ.
-contradiction,"È¯ÀÚ ³²Æí ¸»·Î´Â, ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®°Å³ª, ¹ã¿¡ Ãä°Å³ª, ¹ã¿¡ ¶¡³ª°Å³ª, °¡½¿ ¾ÆÇÂ ÀûÀº ¾ø¾ú´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´ÙÄ°´Ï´õ.
-neutral,"È¯ÀÚ ³²Æí ¸»·Î´Â, ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®°Å³ª, ¹ã¿¡ Ãä°Å³ª, ¹ã¿¡ ¶¡³ª°Å³ª, °¡½¿ ¾ÆÇÂ °Å´Â ¾ø¾ú´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ¿­Àº ¾ø½Ê´Ï´õ.
-entailment,ÀÌ ¾ç¹ÝÀÌ [**¿ù**] ÃÊºÎÅÍ ¸öÀÌ ÇÇ°ïÇÏ´ÙÄ«±â ½ÃÀÛÇß½Ê´Ï´õ.,È¯ÀÚ°¡ ÇÇ°ïÇØ ÇÕ´Ï´õ.
-contradiction,ÀÌ ¾ç¹ÝÀÌ [**¿ù**] ÃÊºÎÅÍ ÇÇ°ïÇØÇÏ±â ½ÃÀÛÇß½Ê´Ï´õ.,È¯ÀÚ´Â Æò¼Ò¶û ¶È°°ÀÌ °Ç°­ÇÕ´Ï´õ.
-neutral,ÀÌ ¾ç¹ÝÀÌ [**¿ù**] ÃÊºÎÅÍ ÇÇ°ïÇÏ´ÙÄ«±â ½ÃÀÛÇß½Ê´Ï´õ.,È¯ÀÚ°¡ ¾Ï Áø´ÜÀ» ¹Þ¾Ò½Ê´Ï´õ.
-entailment,"ÀÌ ¾ç¹ÝÀº ¼Òº¯ ¾çÀº È®ÀÎ ¾È µÆ´Âµ¥(°£È£»çµéÀÌ Ã¼Å© ¾È ÇÔ) ¶ó½Ä½º¸¦ ¸Â¾Ò°í, ·¹º¸/ÇÃ¶óÁú ÇÑ ¹ø ¸Ô°í, 100% NRB·Î ¾ÈÁ¤Àº µÆ´Âµ¥ ´õ ³ª¾ÆÁöÁø ¾Ê¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀüÀÌ ´õ ³ªºüÁ³½Ê´Ï´õ.
-contradiction,"ÀÌ ¾ç¹ÝÀº ¼Òº¯ ¾çÀº È®ÀÎ ¾È µÆ´Âµ¥(°£È£»çµéÀÌ Ã¼Å© ¾È ÇÔ) ¶ó½Ä½º¸¦ ¸Â¾Ò°í, ·¹º¸/ÇÃ¶óÁúµµ ÇÑ ¹ø ¸Â¾Ò½Ê´Ï´õ. 100% NRB·Î ¾ÈÁ¤Àº µÆÁö¸¸ ´õ ³ª¾ÆÁöÁø ¾Ê¾Ò½Ê´Ï´õ.",È¯ÀÚ °¡½¿ ÅëÁõ ¾øÀ½.
-neutral,"ÀÌ ¾ç¹ÝÀº °£È£»çµéÀÌ Ã¼Å©¸¦ ¾È ÇØ°¡ ¼Òº¯ ¾çÀº ¸ð¸£´Âµ¥ ¶ó½Ä½º¸¦ ¸Â¾Ò°í, ·¹º¸/ÇÃ¶óÁúµµ ÇÑ ¹ø ¸Â¾Ò½Ê´Ï´õ. ±Û°í »óÅÂ´Â 100% NRB·Î ¾ÈÁ¤Àº µÆÁö¸¸ ´õ ³ª¾ÆÁöÁø ¾Ê¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â »ó±âµµ °¨¿°À» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,"[**º´¿ø**] º´¿ø¿¡¼­ ÂïÀº MRI ½ºÄµ °á°ú, C3-C4 ÀÖ´Âµ¥¼­ ¿À¸¥ÂÊ Ã´Ãß ¹Ù±ùÂÊ¿¡ ½ÉÇÏ°Ô Ã´¼ö ¾Ð¹ÚÇÏ´Â Ã´Ãß¿Ü Ç÷Á¾À¸·Î ÀÇ½ÉµÇ´Â µ¢¾î¸®°¡ ¹ß°ßµÆ½Ê´Ï´õ.",È¯ÀÚ´Â ±Þ¼º Ã´¼ö ÁõÈÄ±ºÀ» ¾Î°í ÀÖ½É´õ.
-contradiction,"[**º´¿ø**] º´¿ø¿¡¼­ ÂïÀº MRI ½ºÄµ °á°ú, C3-C4 ÀÖ´Âµ¥¼­ ¿À¸¥ÂÊ Ã´Ãß ¹Ù±ùÂÊ¿¡ ÀÖ´Â ¾ï¼ö·Î Å« Ç÷Á¾À¸·Î º¸ÀÌ´Â Ã´Ãß¿Ü °ø°£ Á¾¾çÀÌ È®ÀÎµÆ°í, ÀÌ°Í ¶«¿¡ Ã´¼ö ¾Ð¹ÚÀÌ ½É°¢ÇÏ°Ô ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚ ½Å°æÇÐÀû °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"[**º´¿ø**] º´¿ø¿¡¼­ ÂïÀº MRI ½ºÄµ °á°ú, C3-C4 ÀÖ´Âµ¥¼­ ¿À¸¥ÂÊ Ã´Ãß ¹Ù±ùÂÊ¿¡ Å« µ¢¾î¸®°¡ ¹ß°ßµÆ´Âµ¥, ÀÌ°Å´Â Ã´¼ö¸¦ ½ÉÇÏ°Ô ´©¸£´Â Ã´Ãß¿Ü Ç÷Á¾ÇÏ°í Áõ»óÀÌ ¶È°°¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â Ä¡·á°¡ ÇÊ¿äÇÕ´Ï´õ.
-entailment,"±¸±ÞÂ÷¿¡¼­ ½ÉÀå°ú Àü¹®ÀÇ º¸°í¸¦ º¸ÀÌ, ÃÊ±â ¸®µë ½ºÆ®¸³Àº Á¤»óÀûÀÎ »çÀÎ ¸®µëÀ» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ºÎÁ¤¸ÆÀÌ ¾ø¾ú½Ê´Ï´õ.
-contradiction,"±¸±ÞÂ÷¿¡¼­ ½ÉÀå°ú Àü¹®ÀÇ º¸°í¸¦ º¸ÀÌ, ÃÊ±â ¸®µë ½ºÆ®¸³Àº Á¤»óÀûÀÎ ½ÅÈ£ ¸®µëÀ» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ½É½Ç ¼¼µ¿À» °Þ¾ú½Ê´Ï´õ.
-neutral,"±¸±ÞÂ÷ ¾È¿¡¼­ ½ÉÀå°ú Àü¹®ÀÇ º¸°í¸¦ º¸ÀÌ, ÃÊ±â ¸®µë ½ºÆ®¸³Àº Á¤»óÀûÀÎ ½ÅÈ£ ¸®µëÀ» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ½É±Ù°æ»öÁõÀ» ¾È °Þ¾ú½Ê´Ï´õ.
-entailment,"È¯ÀÚ°¡ ÀÚ±â º´·ÂÀ» Á¦´ë·Î ¼³¸íÀ» ¸óÇÏ°í, ¾ÈÅ¸±õ°Ôµµ ±× ¾ç¹Ý ÀÇ·á ±â·ÏÀ» È®ÀÎÇÒ ¼ö ÀÖ´Â ±â·ÏÀÌ °ÅÀÇ ¾ø½É´õ.",È¯ÀÚ´Â ÀÎÁö ±â´É Àå¾Ö°¡ ÀÖ½É´õ.
-contradiction,"È¯ÀÚ°¡ ÀÚ±â º´·ÂÀ» Á¦´ë·Î ¼³¸íÀ» ¸óÇÏ°í, ¾ÈÅ¸±õ°Ôµµ ±× ¾ç¹Ý ÀÇ·á ±â·ÏÀ» È®ÀÎÇÒ ¼ö ÀÖ´Â ±â·ÏÀÌ °ÅÀÇ ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â º´¿ø¿¡¼­ ¿©·µ Â÷·Ê ÀÇ·áÁøÇÏ°í »ó´ãÀ» ¹Þ¾Ò½Ê´Ï´õ.
-neutral,"È¯ÀÚ°¡ ÀÚ±â º´·ÂÀ» ¶Èµð ±â¾ï ¸óÇÏ°í, ¾ÈÅ¸±õ°Ôµµ ±× ¾ç¹Ý ÀÇ·á ±â·ÏÀ» È®ÀÎÇÒ ¼ö ÀÖ´Â ±â·ÏÀÌ °ÅÀÇ ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â Ä¡¸Å¸¦ ¾Î°í ÀÖ½É´õ.
-entailment,±× ¾ç¹ÝÀÌ ¿ÀÀü¿¡ ¸¶ÀÏ¶õÅ¸¸¦ ¹¬¾îºÃÁö¸¸ È¿°ú¸¦ ¸ø ºÃ½É´õ.,È¯ÀÚ°¡ °¡½¿ÀÌ ºÒÆíÇÏ´Ù²¿ ÇÕ´Ï´õ.
-contradiction,±× ¾ç¹ÝÀÌ ¿ÀÀü¿¡ ¸¶ÀÏ¶õÅ¸¸¦ ¹¬¾îºÃÁö¸¸ È¿°ú¸¦ ¸ø ºÃ½É´õ.,È¯ÀÚ´Â ¾È ¾ÆÇÁ´Ù²¿ ÇÕ´Ï´õ.
-neutral,±× ¾ç¹ÝÀÌ ¿ÀÀü¿¡ ¸¶ÀÏ¶õÅ¸¸¦ ¹¬¾îºÃÁö¸¸ È¿°ú¸¦ ¸ø ºÃ½É´õ.,È¯ÀÚ´Â À§½Äµµ¿ª·ùÁúÈ¯(GERD)À» ¾Î°í ÀÖ½É´õ.
-entailment,"È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü¿¡ º´µ¿¿¡¼­ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¸½Ê´Ï´õ: Ç÷¾Ð 130/70, ½É¹Ú¼ö´Â Ä§´ë¿¡ ´© ÀÖÀ» ¶§ 90 (¼­ ÀÖÀ» ¶§´Â 120s-160s).",È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü¿¡ ÁÖ¿ä »ýÃ¼ ½ÅÈ£¸¦ Àî½Ê´Ï´õ.
-contradiction,"È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü¿¡ º´µ¿¿¡¼­ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¸½Ê´Ï´õ: Ç÷¾Ð 130/70, ½É¹Ú¼ö´Â ½¯ ¶§ 90 (¼­ ÀÖÀ» ¶§´Â 120-160).",È¯ÀÚ »ýÃ¼ ½ÅÈ£°¡ ºÒ¾ÈÁ¤Çß½Ê´Ï´õ.
-neutral,"È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü »ýÃ¼ ½ÅÈ£´Â ÀÌ·¸½Ê´Ï´õ: Ç÷¾Ð 130/70, ½É¹Ú¼ö´Â Ä§´ë¿¡ ´© ÀÖÀ» ¶§ 90 (¼­ ÀÖÀ» ¶§´Â 120s-160s).",È¯ÀÚ È£Èí ¼Óµµ´Â Á¤»ó ¹üÀ§ ¾È¿¡ ÀÖ¾ú½Ê´Ï´õ.
-entailment,Æó´Â ´Ù¸¥ µ¥´Â Á¤»óÀÔ´Ï´õ.,È¯ÀÚ´Â °¡½¿ ¿µ»ó Áø´ÜÀ» ¹Þ¾Ò½Ê´Ï´õ.
-contradiction,Æó´Â ´Ù¸¥ µ¥´Â Á¤»óÀÔ´Ï´õ.,È¯ÀÚ Æó´Â ÈäºÎ X-¼±¿¡¼­ ¿ÏÀüÈ÷ »Ñ¿¸°Ô º¸ÀÔ´Ï´õ.
-neutral,Æó´Â ´Ù¸¥ µ¥´Â Á¤»óÀÔ´Ï´õ.,È¯ÀÚ´Â Æó·ÅÀÌ ¾ø½É´õ.
-entailment,"±× ¾ÆÁö¸Å´Â ÃÖ±Ù¿¡ ¾ÎÀº ÀûÀÌ ¾ø°í, ±× ¾ÆÁö¸Å [** À§Ä¡ **]¹Ì±¹ ÀÇ·á ±â·ÏÀº º°´Ù¸¥ ±â ¾ø½É´õ.",È¯ÀÚ´Â Æò¼Ò °Ç°­ »óÅÂ ±×´ë·ÎÀÔ´Ï´õ.
-contradiction,"±× ¾ÆÁö¸Å´Â ÃÖ±Ù¿¡ ¾ÎÀº ÀûÀÌ ¾ø°í, ±× ¾ÆÁö¸Å [** À§Ä¡ **]¹Ì±¹ ÀÇ·á ±â·ÏÀº º°´Ù¸¥ ±â ¾ø½É´õ.",È¯ÀÚ´Â Àü¿¡ ´ç´¢º´À» ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-neutral,"±× ¿©ÀÚ´Â ÃÖ±Ù¿¡ ¾ÎÀº Àû ¾ø°í, ±× ¿©ÀÚ [** À§Ä¡ **]¹Ì±¹ ÀÇ·á ±â·ÏÀº ±âº»ÀûÀ¸·Î º° °Å ¾ø½¿´Ï´õ.",±× ¿©ÀÚ´Â ¼ö¼úÇÑ Àû ¾ø½¿´Ï´õ.
-entailment,°¡½ÉÆÅ ¾ÆÇÁ°Å³ª ¹è ¾ÆÇÂ °Å ¾Æ´Ï¶ó Ä°´Ï´õ.,È¯ÀÚ´Â °¡½ÉÆÅÀÌ ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
-contradiction,°¡½ÉÆÅ ¾ÆÇÁ°Å³ª ¹è ¾ÆÇÂ °Å ¾Æ´Ï¶ó Ä°´Ï´õ.,È¯ÀÚ°¡ °¡½ÉÆÅ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,°¡½ÉÆÅÀÌ³ª ¹è´Â ¾È ¾ÆÇÁ´Ù ÇÔ.,È¯ÀÚ´Â ½É±Ù°æ»ö ¾ÆÀÓ´Ï´õ.
-entailment,"¾Ö ³º´Â ¹æ¿¡¼­, ¾Æ´Â ¿ì··Â÷°Ô ¿ï¸é¼­ ÅÂ¾î³µ°í, »¡¾Æ³»°í ¸öµµ ¸»¸®°í, »ê¼Òµµ °ø±Þ¹Þ¾Ò½É´õ.",¾Æ°¡ ¼û ½¬¸é¼­ ÅÂ¾î³µ½É´õ.
-contradiction,"¾Ö ³º´Â ¹æ¿¡¼­, ¾Æ´Â ¿ì··Â÷°Ô ¿ï¸é¼­ ÅÂ¾î³µ°í, »¡¾Æ³Â½É´õ. ±Û°í ¾Æ ¸öµµ ¸»¸®ÁÖ°í, »ê¼Òµµ °£Á¢ÀûÀ¸·Î °ø±Þ¹Þ¾Ò½É´õ.",±× ¾Æ´Â ºñ¸®ÇÏ°Ô ¿ï¸é¼­ ÅÂ¾î³µ½É´õ.
-neutral,"¾Ö ³º´Â ¹æ¿¡¼­, ¾Æ´Â Àß ¿ï¸é¼­ ÅÂ¾î³µ°í, »¡¾Æ³»°í ºÎµå·´°Ô ´Û¾ÆÁá½É´õ. ±Û°í »ê¼Òµµ °£Á¢ÀûÀ¸·Î °ø±Þ¹Þ¾Ò½É´õ.",¾ÆÇÁ°¡¸£ Á¡¼ö´Â Á¤»óÀÌ¾ú½É´õ.
-entailment,¾ö¸¶´Â [**3148**]³â¿¡ º¸°íµÈ ´Ü¼øÆ÷Áø(HSV) ¾ÎÀº Àû ÀÖ½É´õ.,¾ö¸¶´Â ´Ü¼øÆ÷Áø ¾ÎÀº Àû ÀÖ½É´õ.
-contradiction,¾ö¸¶´Â [**3148**]³â¿¡ º¸°íµÈ ´Ü¼øÆ÷Áø(HSV) ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.,´Ü¼øÆ÷Áø ¾ÎÀº Àû ¾ø½É´õ.
-neutral,¾ö¸¶´Â [**3148**]³â¿¡ º¸°íµÈ ´Ü¼øÆ÷Áø(HSV) ¾ÎÀº Àû ÀÖ½É´õ.,¾ö¸¶´Â Ç×¹ÙÀÌ·¯½ºÁ¦ ¹¬Àº Àû ÀÖ½É´õ.
-entailment,"ÀÀ±Þ½Ç¿¡¼­, È¯ÀÚ´Â ¿­ÀÌ È­¾¾ 103.0µµ±îÁö ¿Ã¶ú°í, °¡½ÉÆÅ ÅëÁõ, ÅäÇÏ´Â °Å, ¸Ó¸® ¾ÆÇÂ °Å, ¼³»çÇÑ´Ù°í Äº½É´õ.",È¯ÀÚ°¡
-contradiction,"ÀÀ±Þ½Ç¿¡¼­, È¯ÀÚ´Â ¿­ÀÌ È­¾¾ 103.0µµ±îÁö ¿Ã¶ú°í, °¡½ÉÆÅ ÅëÁõ, ÅäÇÏ´Â °Å, ¸Ó¸® ¾ÆÇÂ °Å, ¼³»çÇÑ´Ù°í Äº½É´õ.",È¯ÀÚ´Â ¿­ ¾ø½É´õ.
-neutral,"ÀÀ±Þ½Ç¿¡¼­, È¯ÀÚ´Â Ã¼¿ÂÀÌ È­¾¾ 103.0µµ±îÁö ¿Ã¶ú°í, °¡½ÉÆÅ ÅëÁõ, ÅäÇÏ´Â °Å, ¸Ó¸® ¾ÆÇÂ °Å, ¼³»çÇÑ´Ù°í Äº½É´õ.",È¯ÀÚ´Â ¼¼±Õ¼º Æó·ÅÀÔ´Ï´õ.
-entailment,"È¯ÀÚ´Â ¿ù, ¼ö, ±Ý¿¡ Ç÷¾×Åõ¼®À» ¹Þ¾Æ¾ß ÇÏ°í, º´¿ø¿¡ ÀÔ¿øÇØ ÀÖ´Â µ¿¾È¿¡´Â °è¼Ó ÇØ¾ß µË´Ï´õ.",È¯ÀÚ´Â ¸»±â ½ÅºÎÀüÁõÀÔ´Ï´õ.
-contradiction,"È¯ÀÚ´Â ¿ù, ¼ö, ±Ý¿¡ Ç÷¾×Åõ¼®À» ¹Þ¾Æ¾ß ÇÏ°í, º´¿ø¿¡ ÀÔ¿øÇØ ÀÖ´Â µ¿¾È °è¼Ó ÇØ¾ß µË´Ï´õ.",È¯ÀÚ ÄáÆÏ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"È¯ÀÚ´Â ¿ù, ¼ö, ±Ý¿¡ Ç÷¾×Åõ¼®À» ¹Þ¾Æ¾ß ÇÏ°í, º´¿ø¿¡ ÀÔ¿øÇØ ÀÖ´Â µ¿¾È¿¡´Â °è¼Ó ÇØ¾ß µË´Ï´õ.",È¯ÀÚ´Â °íÄ®·ýÇ÷ÁõÀÔ´Ï´õ.
-entailment,°¡½ÉÆÅ ÅëÁõ ¾øÀ½.,È¯ÀÚ´Â °¡½ÉÆÅ ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
-contradiction,°¡½ÉÆÅ ÅëÁõ ¾øÀ½.,È¯ÀÚ°¡ °¡½ÉÆÅ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,°¡½ÉÆÅ ÅëÁõ ¾øÀ½.,½ÉÀüµµ´Â Á¤»óÀÔ´Ï´õ.
-entailment,Àü¿¡ ¹¹ ¾Î¾Ò´ÂÁö ¸ð¸£´Â 37»ì ³²ÀÚ°¡ ´Ù¸¥ º´¿ø¿¡¼­ ¾Æ¼¼Æ®¾Æ¹Ì³ëÆæ/µðÆæÈ÷µå¶ó¹Î ¸¹ÀÌ ¹¬°í ½Ç·Á¿Ô½É´õ.,È¯ÀÚ´Â °£ ¼Õ»óÀÌ ÀÖ½É´õ.
-contradiction,µüÈ÷ ¾ÎÀº º´ ¾ø´Â ¼­¸¥ÀÏ°ö »ì ³²ÀÚ°¡ ¾Æ¼¼Æ®¾Æ¹Ì³ëÆæ/µðÆä´Ïµå¶ó¹Î °ú´Ùº¹¿ëÀ¸·Î µý º´¿ø¿¡¼­ ÀÌ¼ÛµÅ ¿Ô½Ê´Ï´õ.,È¯ÀÚ °£ ±â´É °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,µüÈ÷ ¾ÎÀº º´ ¾ø´Â ¼­¸¥ÀÏ°ö »ì ³²ÀÚ°¡ µý º´¿ø¿¡¼­ ¾Æ¼¼Æ®¾Æ¹Ì³ëÆæ/µðÆä´Ïµå¶ó¹Î °ú´Ùº¹¿ë ¶«¿¡ ÀÌ¼ÛµÅ ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â Á¤½Å°ú º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-entailment,ÀÚ²Ù ¾îÁö·´°í À­¹è°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â À­¹è°¡ ¾ÆÇÁ´ÙÄ°´Ï´õ.
-contradiction,ÀÚ²Ù ¾îÁö·´°í À­¹è°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â ¹è´Â ¾È ¾ÆÇÁ´ÙÄ°´Ï´õ.
-neutral,ÀÚ²Ù ¾îÁö·´°í À­¹è°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â À§±Ë¾çÀÌ ÀÖ½Ê´Ï´õ.
-entailment,¸¶ÃëÁ¦ ÇÁ·ÎÆ÷Æú ¸Â°í ¸¶ºñµÈ Ã¤·Î [**º´¿ø1 68**]·Î ÀÌ¼ÛµÆ½Ê´Ï´õ.,È¯ÀÚ »óÅÂ°¡ ¸¶ÀÌ ¾È ÁÁ½Ê´Ï´õ.
-contradiction,¸¶ÃëÁ¦ ÇÁ·ÎÆ÷Æú ¸Â°í ¸¶ºñµÈ Ã¤·Î [**º´¿ø1 68**]·Î ÀÌ¼ÛµÆ½Ê´Ï´õ.,"È¯ÀÚ´Â ¸»µµ ÇÒ ¼ö ÀÖ°í, º´·ÂÀ» ÀüºÎ ´Ù ¸»ÇÒ ¼ö ÀÖ½Ê´Ï´õ."
-neutral,¸¶ÃëÁ¦ ÇÁ·ÎÆ÷Æú ¸Â°í ¸¶ºñµÈ Ã¤·Î [**º´¿ø1 68**]·Î ÀÌ¼ÛµÆ½Ê´Ï´õ.,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó²¿ ½Â¾ÐÁ¦°¡ ÇÊ¿äÇÕ´Ï´õ.
-entailment,"¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡, 8Á¡ÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â Á¤»óÀÔ´Ï´õ.
-contradiction,"¾ÆÇÁ°¡ Á¡¼ö´Â 8Á¡, 8Á¡ÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ ¾ÆÇÁ°¡¸£ Á¡¼ö°¡ ³·½Ê´Ï´õ.
-neutral,"¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡, 8Á¡ÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ´Â ¿©ÀÚ ¾ÆÀÔ´Ï´õ.
-entailment,À§³»½Ã°æ(EGD) ÇÏ±â Àü¿¡´Â ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â À§³»½Ã°æ °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.
-contradiction,À§³»½Ã°æ(EGD) ÇÏ±â Àü¿¡´Â ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â À§³»½Ã°æ ÇÏ±â Àü¿¡ ÅäÇÒ¶ó Äº½Ê´Ï´õ.
-neutral,EGD ÇÏ±â Àü¿¡´Â ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¸¸¼º º¹ÅëÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹êµå ¾ø´Â WBC 10.5, Hct 32.2(¿¹Àü ±âÁØÄ¡´Â 20´ë ÁßÈÄ¹Ý), Cr 0.9, CE 1È¸ À½¼º, ±Û°í ¶ôÅ×ÀÌÆ® 1.5ÀÔ´Ï´õ.",È¯ÀÚ´Â ºóÇ÷Àº ¾ø½Ê´Ï´õ.
-contradiction,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å·Î´Â ¹êµå ¾ø´Â WBC 10.5, Hct 32.2(¿¹Àü ±âÁØÄ¡´Â 20´ë ÁßÈÄ¹Ý), Cr 0.9, CE ºÎÁ¤ X 1, ±Û°í ¶ôÅ×ÀÌÆ® 1.5°¡ ÀÖ½Ê´Ï´õ.",È¯ÀÚ´Â ½ÅºÎÀü »óÅÂÀÔ´Ï´õ.
-neutral,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å·Î´Â ¹êµå ¾ø´Â ¹éÇ÷±¸ ¼öÄ¡ 10.5, Çì¸¶ÅäÅ©¸´ ¼öÄ¡ 32.2(¿¹Àü ±âÁØÄ¡´Â 20´ë ÁßÈÄ¹Ý), Å©·¹¾ÆÆ¼´Ñ 0.9, CE 1È¸ À½¼º, ±Û°í ¶ôÅ×ÀÌÆ® 1.5°¡ ÀÖ½Ê´Ï´õ.",È¯ÀÚ´Â °¨¿°Àº ¾ø½Ê´Ï´õ.
-entailment,"¿À¸¥ÂÊ À¯¹æ¾Ï, °©»ó¼± ±â´É ÀúÇÏÁõ",¾Ï º´·Â
-contradiction,"¿À¸¥ÂÊ À¯¹æ¾Ï, °©»ó¼± ±â´É ÀúÇÏÁõ",¾Ï º´·Â ¾øÀ½
-neutral,"¿À¸¥ÂÊ À¯¹æ¾Ï, °©»ó¼± ±â´É ÀúÇÏÁõ",À¯¹æÀýÁ¦ ¼ö¼ú·Â
-entailment,"MICU·Î ¿Å±â±â Àü¿¡ È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: ¿­ ¾ø°í, ½É¹Ú¼ö 92, Ç÷¾Ð 123/74, 6¸®ÅÍ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ´Â ¿­ÀÌ ¾ø½É´õ.
-contradiction,"MICU·Î ¿Å±â±â Àü¿¡ È¯ÀÚ »óÅÂ´Â ÀÌ·¨½É´õ: ¿­³ª´Â Áõ»ó ¾ø°í, ½É¹Ú¼ö 92, Ç÷¾Ð 123/74, 6¸®ÅÍ »ê¼Ò °ø±ÞÇÒ ¶§ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ´Â ½Ç³» °ø±â·Î Á¤»óÀûÀ¸·Î »ê¼Ò °ø±Þ ¹Þ°í ÀÖ½É´õ.
-neutral,"MICU·Î ¿Å±â±â Àü¿¡ È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: ¿­ ¾ø°í, ½É¹Ú¼ö 92, Ç÷¾Ð 123/74, 6¸®ÅÍ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ´Â °¨¿°ÀÌ ¾ø½É´õ.
-entailment,±× ¿©ÀÚ°¡ ±× ³²ÀÚÇÑÅ× ´Ù½Ã »ê¼ÒÈ£Èí±â ´Þ¾Ò½É´õ.,È¯ÀÚ°¡ »ê¼Ò Ä¡·á ¹Þ°í ÀÖ½É´õ.
-contradiction,±× ¿©ÀÚ°¡ ±× ³²ÀÚÇÑÅ× ´Ù½Ã »ê¼ÒÈ£Èí±â ´Þ¾Ò½É´õ.,È¯ÀÚ´Â ½Ç³» °ø±â·Î ¼û ½¬°í ÀÖ½É´õ.
-neutral,±× ¿©ÀÚ°¡ ±× ³²ÀÚÇÑÅ× ´Ù½Ã »ê¼ÒÈ£Èí±â ´Þ¾Ò½É´õ.,È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-entailment,±× »ç¶÷ ¸¶´©¶ó°¡ ÇÑ 2-3ºÐ µ¿¾È ±× »ç¶÷ÀÌ ºÎµéºÎµé ¶³°í °ÅÇ° ¹«´Â °É ºÃ´Ù Ä°´Ï´õ.,È¯ÀÚ°¡ ¹ßÀÛ Áõ»óÀ» º¸¿´½É´õ.
-contradiction,±× »ç¶÷ ¸¶´©¶ó°¡ ÇÑ 2-3ºÐ µ¿¾È ±× »ç¶÷ÀÌ ¾ï¼ö·Î ¶³°í °ÅÇ° ¹«´Â °É ºÃ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ½Å°æÇÐÀû Áõ»óÀÌ ÇÏ³ªµµ ¾ø½É´õ.
-neutral,±× »ç¶÷ ¸¶´©¶ó°¡ ÇÑ 2-3ºÐ µ¿¾È ±× »ç¶÷ÀÌ ºÎµéºÎµé ¶³°í °ÅÇ° ¹«´Â °É ºÃ´Ù Ä°´Ï´õ.,È¯ÀÚ°¡ ¹ßÀÛÀ» Çß½É´õ.
-entailment,"±× ¿©ÀÚÇÑÅ× ¸ðµç Ä¡·á ¹æ¹ýÀ» ¾Ë·ÁÁá´Âµ¥, ¿ÞÂÊ ½ÅÀå ¿ÏÀü ÀýÁ¦¼úÇÏ°í ÁÖÀ§ ¸²ÇÁÀý Á¦°Å¼úÀ» ÇØ´Þ¶óÄº½É´õ.",È¯ÀÚ´Â ¿ÞÂÊ ÄáÆÏ¿¡ ¾Ç¼º Á¾¾çÀÌ ÀÖ½É´õ.
-contradiction,"±× ¿©ÀÚÇÑÅ× ¸ðµç Ä¡·á ¹æ¹ýÀ» ¾Ë·ÁÁá´Âµ¥, ¿ÞÂÊ ½ÅÀå ¿ÏÀü ÀýÁ¦¼úÇÏ°í ÁÖÀ§ ¸²ÇÁÀý Á¦°Å¼úÀ» ÇØ´Þ¶óÄº½É´õ.",È¯ÀÚ ¿ÞÂÊ ÄáÆÏÀº Á¤»óÀÔ´Ï´õ.
-neutral,"±× ¿©ÀÚÇÑÅ× ¸ðµç Ä¡·á ¹æ¹ýÀ» ¾Ë·ÁÁá´Âµ¥, ¿ÞÂÊ ½ÅÀå ¿ÏÀü ÀýÁ¦¼úÇÏ°í ÁÖÀ§ ¸²ÇÁÀý Á¦°Å¼úÀ» ÇØ´Þ¶óÄº½É´õ.",È¯ÀÚ ¿À¸¥ÂÊ ÄáÆÏÀº Á¤»óÀÔ´Ï´õ.
-entailment,"±× »ç¶÷ Ã¼¿ÂÀÌ 101.8±îÁö È® ¿Ã¶ó°¡ ¹ÝÄÚ¸¶ÀÌ½ÅÇÏ°í ·¹º¸ÇÃ·Ï»ç½ÅÀ» Ã³¹æÇß°í, ¸µ°Å·Î ¶ó½Ä½º 40mgÇÏ°í »ý¸®½Ä¿°¼ö 1¸®ÅÍ¸¦ ³ù½É´õ. ±×·¡¼­ ³ª¿Â ¿ÀÁÜ ¾çÀÌ 540ml¿´½É´õ.",È¯ÀÚ°¡ ¿­ÀÌ ³ª°í ÀÖ½É´õ.
-contradiction,"±× »ç¶÷ Ã¼¿ÂÀÌ 101.8±îÁö È® ¿Ã¶ó°¡ ¹ÝÄÚ¸¶ÀÌ½ÅÇÏ°í ·¹º¸ÇÃ·Ï»ç½ÅÀ» Ã³¹æ¹Þ¾Ò°í, ¸µ°Å·Î ¶ó½Ä½º 40mgÇÏ°í »ý¸®½Ä¿°¼ö 1¸®ÅÍ¸¦ ¸Â¾Ò½É´õ. ±× °á°ú·Î ¿ÀÁÜÀÌ 540ml ³ª¿Ô½É´õ.",È¯ÀÚ´Â °¨¿°ÀÌ ¾ø½É´õ.
-neutral,"±× »ç¶÷ Ã¼¿ÂÀÌ 101.8±îÁö È® ¿Ã¶ó°¡ ¹ÝÄÚ¸¶ÀÌ½ÅÇÏ°í ·¹º¸ÇÃ·Ï»ç½ÅÀ» Ã³¹æ¹Þ¾Ò°í, ¸µ°Å·Î ¶ó½Ä½º 40mgÇÏ°í »ý¸®½Ä¿°¼ö 1¸®ÅÍ¸¦ ¸Â¾Ò½É´õ. ±× °á°ú·Î ¿ÀÁÜÀÌ 540ml ³ª¿Ô½É´õ.",È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â ±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀ» ¹Þ¾Ò½É´õ.
-contradiction,±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀÌ ÁøÇàµÆ½É´õ.,È¯ÀÚ ÇÇ°Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀÌ ÁøÇàµÆ½É´õ.,È¯ÀÚ´Â ÇìÆÄ¸° À¯¹ß¼º Ç÷¼ÒÆÇ°¨¼ÒÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,±× »ç¶÷Àº Ä¡·á ´õ ¹ÞÀ»¶ó°í [**Hospital1 22**]·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â µý º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.
-contradiction,±× »ç¶÷Àº Ä¡·á ´õ ¹ÞÀ»¶ó°í [**Hospital1 22**]·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â º´¿ø¿¡¼­ Ä¡·á ¾È ¹Þ¾Ò½É´õ.
-neutral,±× ¾Æ´Â Ãß°¡ Ä¡·á¸¦ À§ÇØ¼­ [**Hospital1 22**]·Î ÀÌ¼ÛµÆ½É´õ.,È¯ÀÚ´Â ´õ ³ôÀº ¼öÁØÀÇ Ä¡·á°¡ ÇÊ¿äÇß½É´õ.
-entailment,±× ¾Æ´Â [**3354**]³âµµ¿¡ ¿À¸¥ÂÊ ¾î±ú Bankart º¹±¸ ¼ö¼úÀ» ¹Þ°í ³­ µÚÀÔ´Ï´õ.,±× ¾Æ´Â ¾î±ú°¡ ºüÁ³¾ú½É´õ.
-contradiction,±× ¾Æ´Â [**3354**]³âµµ¿¡ ¿À¸¥ÂÊ ¾î±ú Bankart º¹±¸ ¼ö¼úÀ» ¹Þ°í ³­ µÚÀÔ´Ï´õ.,±× ¾Æ´Â ¾î±ú ±â´É¿¡ ¹®Á¦ ÀÖ¾ú´ø ÀûÀÌ ¾ø½É´õ.
-neutral,±× ¾Æ´Â [**3354**]³âµµ¿¡ ¿À¸¥ÂÊ ¾î±ú Bankart º¹±¸ ¼ö¼úÀ» ¹Þ°í ³­ µÚÀÔ´Ï´õ.,±× ¾Æ´Â ÃÖ±Ù¿¡ ¾îµð¼­ ¶³¾îÁ³½É´õ.
-entailment,"¸Ó¸® µÑ·¹ 30.5cm, 25-50 ¹éºÐÀ§¼ö.",È¯ÀÚ ¸Ó¸® µÑ·¹´Â Á¤»óÀÔ´Ï´õ.
-contradiction,"¸Ó¸® µÑ·¹ 30.5cm, 25-50 ¹éºÐÀ§¼ö.",È¯ÀÚ´Â °Å´ëµÎÁõÀÌ ÀÖ½É´õ.
-neutral,"¸Ó¸® µÑ·¹ 30.5cm, 25-50 ¹éºÐÀ§¼ö.",È¯ÀÚ Ã¼ÁßÀº Á¤»ó ¹üÀ§ÀÔ´Ï´õ.
-entailment,"¿­´Ù¼¸ »ìÂ¥¸® ¾ÆµéÀÌ ±× ¾Æ¸¦ µµ¿ÍÁÖ°í ÀÖ´Âµ¥, ÀÌ°Ô È¯ÀÚÇÑÅ×´Â ¹®Á¦°¡ µÇ´Â °©½Ê´Ï´õ. È¯ÀÚ°¡ ¾Æµé µî °Ç°­À» °ÆÁ¤ÇÏµçÁö, ¾Æ´Ï¸é ¸Ç³¯ ÇÊ¿äÇÑ µµ¿òÀ» ´Ù ¸ø ¹Þ¾Æ¼­ ±×·² ¼öµµ ÀÖ°Ú³×¿¹. ÀÌ ºÎºÐÀº È®½ÇÄ¡°¡ ¾Ê½É´õ.",È¯ÀÚ°¡ µµ¿òÀÌ ÇÊ¿äÇÕ´Ï´õ.
-contradiction,"±× ¾Æ¸¦ µµ¿ÍÁÖ´Â ¿­´Ù¼¸ »ìÂ¥¸® ¾ÆµéÀÌ ÀÖ´Âµ¥, È¯ÀÚ°¡ ¾Æµé µî °Ç°­À» °ÆÁ¤ÇÏµçÁö, ¾Æ´Ï¸é ¸Ç³¯ ÇÊ¿äÇÑ µµ¿òÀ» ´Ù ¸ø ¹Þ¾Æ¼­ ±×°Ô È¯ÀÚÇÑÅ×´Â ¹®Á¦°¡ µÇ´Â °©½Ê´Ï´õ. ÀÌÀ¯´Â È®½ÇÄ¡°¡ ¾Ê³×¿¹.",È¯ÀÚ´Â ¾Æ¹« µµ¿òµµ ¸ø ¹Þ¾Ò½É´õ.
-neutral,"±× ¾Æ¸¦ µµ¿ÍÁÖ´Â ¿­´Ù¼¸ »ìÂ¥¸® ¾ÆµéÀÌ ÀÖ´Âµ¥, È¯ÀÚ°¡ ¾Æµé µî °Ç°­À» °ÆÁ¤ÇÏµçÁö, ¾Æ´Ï¸é ¸Ç³¯ ÇÊ¿äÇÑ µµ¿òÀ» ´Ù ¸ø ¹Þ¾Æ¼­ ±×°Ô È¯ÀÚÇÑÅ×´Â ¹®Á¦°¡ µÇ´Â °©½Ê´Ï´õ. Á¤È®ÇÑ ÀÌÀ¯´Â È®½ÇÄ¡°¡ ¾Ê½É´õ.",È¯ÀÚ ¿Å±â´Â µ¥ µµ¿òÀÌ ÇÊ¿äÇÕ´Ï´õ.
-entailment,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ½É¹Ú¼ö 77È¸, Ç÷¾Ð 145/82mmHg, È£Èí ¼ö 22È¸, ½Ç³» °ø±â »ê¼Ò Æ÷È­µµ 98%¿´°í, Ç÷´çÄ¡´Â À§ÇèÇÒ Á¤µµ·Î ³ô¾Ò½É´õ.",È¯ÀÚ´Â °íÇ÷´çÁõÀÌ ÀÖ½É´õ.
-contradiction,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ½É¹Ú¼ö 77È¸, Ç÷¾Ð 145/82mmHg, È£Èí¼ö 22È¸, ½Ç³» °ø±â »ê¼ÒÆ÷È­µµ 98%¿´°í, Ç÷´çÄ¡´Â ¾öÃ» ³ô¾Ò½É´õ.",È¯ÀÚ Ç÷´ç ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
-neutral,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ½É¹Ú¼ö 77È¸, Ç÷¾Ð 145/82mmHg, È£Èí¼ö 22È¸, ½Ç³» °ø±â »ê¼Ò Æ÷È­µµ 98%¿´°í, Ç÷´çÄ¡´Â À§ÇèÇÒ Á¤µµ·Î ³ô¾Ò½É´õ.",È¯ÀÚ´Â ´ç´¢º´ÀÌ ÀÖ½É´õ.
-entailment,½Ä±¸µéÀÌ »õº® 3½ÃÂë¿¡ ±× ¾Æ¸¦ ¹Ù´Ú¿¡¼­ ¹ß°ßÇß½É´õ.,È¯ÀÚ´Â ¹Ù´Ú¿¡¼­ ¹ß°ßµÆ½É´õ.
-contradiction,½Ä±¸µéÀÌ »õº® 3½ÃÂë¿¡ ±× ¾Æ¸¦ ¹Ù´Ú¿¡¼­ ¹ß°ßÇß½É´õ.,È¯ÀÚ´Â Æò¼Ò °Ç°­ »óÅÂ ±×´ë·ÎÀÔ´Ï´õ.
-neutral,½Ä±¸µéÀÌ »õº® 3½ÃÂë¿¡ ±× ¾Æ¸¦ ¹Ù´Ú¿¡¼­ ¹ß°ßÇß½É´õ.,È¯ÀÚ°¡ ½ÉÀå¸¶ºñ°¡ ¿Ô¾ú½É´õ.
-entailment,"# °£Áú¼º ÆóÁúÈ¯ # °ü»óµ¿¸ÆÁúÈ¯ # ¸¸¼º ½ÅÀå ÁúÈ¯, ±âÀú Å©·¹¾ÆÆ¼´Ñ 1.7 # ´ç´¢º´ 2Çü, ¾È°úÇÐÀû ÇÕº´Áõ # °íÄÝ·¹½ºÅ×·ÑÇ÷Áõ # °íÇ÷¾Ð # ½Äµµ ¿ª·ù # °ñ°üÀý¿° # Ã´Ãß ÇùÂøÁõ, ·¡¹Ì³ØÅä¹Ì ¼ö¼ú ÈÄ # °©»ó¼± °áÀý # ´ëÀå Æú¸³ # Àü¸³¼± ºñ´ë # ¹é³»Àå # ³ì³»Àå # À§ÀåÇì¸£´Ï¾Æ # ºñ¸¸ # ¹ß±âºÎÀü # ¹é³»Àå # ¸Á¸· Ç÷°ü Æó¼â # Ã»·Â ¼Õ½Ç # ¿ø¹ß¼º °³¹æ°¢ ³ì³»Àå # °ñ°üÀý¿° # Àü¸³¼± ºñ´ë # Ã¶ °áÇÌ¼º ºóÇ÷",È¯ÀÚ´Â ¿©·¯ °¡Áö º´ÀÌ ÀÖ½É´õ.
-contradiction,"# °£Áú¼º ÆóÁúÈ¯ # °ü»óµ¿¸ÆÁúÈ¯ # ¸¸¼º ½ÅÀå ÁúÈ¯, ±âÀú Å©·¹¾ÆÆ¼´Ñ ¼öÄ¡ 1.7 # ´ç´¢º´ 2Çü, ¾È°úÇÐÀû ÇÕº´Áõ # °íÁöÇ÷Áõ # °íÇ÷¾Ð # ½Äµµ ¿ª·ù # °ñ°üÀý¿° # Ã´Ãß ÇùÂøÁõ, Ã´Ãß ÀýÁ¦¼ú ÈÄ # °©»ó¼± °áÀý # ´ëÀå ¿ëÁ¾ # Àü¸³¼± ºñ´ëÁõ # ¹é³»Àå # ³ì³»Àå # À§ÀåÇã´Ï¾Æ # ºñ¸¸ # ¹ß±âºÎÀü # ¹é³»Àå # ¸Á¸· Ç÷°ü Æó¼â # Ã»·Â ¼Õ½Ç # ¿ø¹ß¼º °³¹æ°¢ ³ì³»Àå # °ñ°üÀý¿° # Àü¸³¼± ºñ´ëÁõ # Ã¶ °áÇÌ¼º ºóÇ÷",È¯ÀÚ°¡ Ç÷¾×Åõ¼® ¹Þ°í ÀÖ½É´õ.
-neutral,"# °£Áú¼º ÆóÁúÈ¯ # °ü»óµ¿¸ÆÁúÈ¯ # ¸¸¼º ½ÅÀå ÁúÈ¯, ±âÀú Å©·¹¾ÆÆ¾ ¼öÄ¡ 1.7 # ´ç´¢º´ 2Çü, ¾È°úÇÐÀû ÇÕº´Áõ # °íÄÝ·¹½ºÅ×·ÑÇ÷Áõ # °íÇ÷¾Ð # ½Äµµ ¿ª·ù # °ñ°üÀý¿° # Ã´Ãß ÇùÂøÁõ, Ã´Ãß ÀýÁ¦¼ú ÈÄ # °©»ó¼± °áÀý # ´ëÀå Æú¸³ # Àü¸³¼± ºñ´ë # ¹é³»Àå # ³ì³»Àå # À§ÀåÇì¸£´Ï¾Æ # ºñ¸¸ # ¹ß±âºÎÀü # ¹é³»Àå # ¸Á¸· Ç÷°ü Æó¼â # Ã»·Â ¼Õ½Ç # ¿ø¹ß¼º °³¹æ°¢ ³ì³»Àå # °ñ°üÀý¿° # Àü¸³¼± ºñ´ë # Ã¶°áÇÌ¼º ºóÇ÷",È¯ÀÚ´Â ºñ¸¸ÀÔ´Ï´õ.
-entailment,¾ÆÈ© »ì ¶§ºÎÅÍ 1Çü ´ç´¢¸¦ ¾Î°í ÀÖ½É´õ.,È¯ÀÚ´Â ¾î¸± ¶§ºÎÅÍ 1Çü ´ç´¢¸¦ ¾Î°í ÀÖ½É´õ.
-contradiction,9»ì¶§ºÎÅÍ 1Çü ´ç´¢º´À» ¾ËÄÚ ÀÖ½É´õ.,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ¾ø½É´õ.
-neutral,9»ì¶§ºÎÅÍ 1Çü ´ç´¢º´À» ¾ËÄÚ ÀÖ½É´õ.,È¯ÀÚ´Â ´ç´¢º´¼º ÄÉÅä»êÁõÀ» ¾Ë¾Ò½É´õ.
-entailment,CCU·Î ¿Å±âÁö°¡ Ãß°¡ Ä¡·á¸¦ ¹Þ°Ô µÆ½É´õ.,È¯ÀÚ´Â ÁýÁß Ä¡·á°¡ ÇÊ¿äÇß½É´õ.
-contradiction,´õ ²Ä²ÄÇÏÀÌ °ü¸®ÇÒ¶ó°í ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ°¡ ÁýÀ¸·Î Åð¿øÇß½É´õ.
-neutral,°è¼Ó °ü¸®ÇÒ¶ó°í CCU·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â Æ®·ÎÆ÷´Ñ ¼öÄ¡°¡ ¿Ã¶ú½É´õ.
-entailment,"±× µÚ¿¡, ¾Æ´Â ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç·Î ¿Å±âÁö°¡ ÁöÄÑº¸°Ô µÆ½É´õ.",È¯ÀÚ´Â °«³­¾ÆÀÔ´Ï´õ.
-contradiction,"±× µÚ¿¡, ¾Æ´Â ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç·Î ¿Å±âÁö°¡ ÁöÄÑº¸°Ô µÆ½É´õ.",È¯ÀÚ °æ°ú°¡ ±¦Âú¾Ò½É´õ.
-neutral,"±× µÚ¿¡, ¾Æ´Â ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç·Î ¿Å±âÁö°¡ ÁöÄÑº¸°Ô µÆ½É´õ.",È¯ÀÚ´Â Á¶»ê¾ÆÀÓ´Ï´õ.
-entailment,±× ¿©ÀÚ´Â Áö±Ý²¯ ¹è°¡ ºÒÆíÇÏ°Å³ª Ã¼ÇÑ ÀûÀÌ ÇÑ¹øµµ ¾ø¾ú´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â ¹è ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
-contradiction,±× ¿©ÀÚ´Â Áö±Ý²¯ ¹è°¡ ºÒÆíÇÏ°Å³ª Ã¼ÇÑ ÀûÀÌ ÇÑ¹øµµ ¾ø¾ú´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â ¹è°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,±× ¿©ÀÚ´Â Áö±Ý²¯ ¹è°¡ ºÒÆíÇÏ°Å³ª Ã¼ÇÑ ÀûÀÌ ÇÑ¹øµµ ¾ø¾ú´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
-entailment,"°í¸§ÁýÀº ¾È º¸ÀÌ°í, [** À§Ä¡ **]ÀÌ³ª ¹®¸ÆÁ¤¸Æ Ç÷ÀüÁõÀº ¾ø½É´õ.",È¯ÀÚ´Â ¹®¸ÆÁ¤¸Æ ¾È¿¡ Ç÷ÀüÀÌ ¾ø½É´õ.
-contradiction,"°í¸§ÁýÀº ¾È º¸ÀÌ°í, [** À§Ä¡ **]ÀÌ³ª ¹®¸ÆÁ¤¸Æ Ç÷ÀüÁõÀº ¾ø½É´õ.",È¯ÀÚ´Â ¹®¸ÆÁ¤¸Æ¿¡ Ç÷ÀüÀÌ ÀÖ½É´õ.
-neutral,"°í¸§ÁýÀº ¾È º¸ÀÌ°í, [** À§Ä¡ **]ÀÌ³ª ¹®¸ÆÁ¤¸Æ Ç÷ÀüÁõÀº ¾ø½É´õ.",È¯ÀÚ´Â °£¿¡ º´º¯ÀÌ ÇÏ³ªµµ ¾ø½É´õ.
-entailment,"ÇÑ 3ÁÖ Âë Àü¿¡, È¯ÀÚ°¡ °¡½¿ÀÌ '´ä´äÇÏÀÌ' '¾ÆÇÂ'±â À­°¡½¿ÀÌ¶û ¸ñÀ¸·Î Âß ÆÛÁö°í, ¾çÂÊ ÆÈ¶Ò±îÁö ÂÍ ¶¯°å´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Çù½ÉÁõÀ» ¾ËÄÚ ÀÖ¾ú½É´õ.
-contradiction,"ÇÑ 3ÁÖ Âë Àü¿¡, È¯ÀÚ°¡ °¡½¿ÀÌ '´ä´äÇÏÀÌ' '¾ÆÇÂ'±â À­°¡½¿ÀÌ¶û ¸ñÀ¸·Î ¶ì µÎ¸¥ °ÍÃ³·³ ÆÛÁö°í, ¾çÂÊ ÆÈ±îÁö ÂÍ ¶¯°å´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ½ÉÀå ÂÊÀ¸·Î ¾ÆÇÂ ÀûÀº ¾ø¾ú´Ù Ä°´Ï´õ.
-neutral,"ÇÑ 3ÁÖ Âë Àü¿¡, È¯ÀÚ°¡ °¡½¿ÀÌ '´ä´äÇÏÀÌ' '¾ÆÇÂ'±â À­°¡½¿ÀÌ¶û ¸ñÀ¸·Î ¶ì µÎ¸¥ °ÍÃ³·³ ÆÛÁö°í, ¾çÂÊ ÆÈ¶Ò±îÁö ÂÍ ¶¯°å´Ù Ä°´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯À» ¾ËÄÚ ÀÖ½É´õ.
-entailment,"±× »ç¶÷Àº ¹ÝÄÚ 1g ¸Â°í, ±Û°í³ª¼­ Ç÷°ü°ú¿¡¼­ ¹ß »óÅÂ º¼¶ó°í °Ë»ç ¹Þ¾Ò´Âµ¥, Ç×»ýÁ¦´Â ²÷´Â ±â ÁÁ°Ú´Ù Äº½É´õ.",È¯ÀÚ´Â ¹ß¿¡ »óÃ³°¡ ³µ½É´õ.
-contradiction,"±× »ç¶÷Àº ¹ÝÄÚ 1g ¸Â°í, ±Û°í³ª¼­ Ç÷°ü Àü¹®ÀÇÇÑÅ× ¹ß °Ë»ç ¹Þ¾Ò´Âµ¥, Ç×»ýÁ¦´Â ²÷´Â ±â ÁÁ°Ú´Ù°í ±Ç°í ¹Þ¾Ò½É´õ.",È¯ÀÚ ¹ß °Ë»ç °á°ú´Â Á¤»óÀÓ´Ï´õ.
-neutral,"±× »ç¶÷Àº ¹ÝÄÚ 1g ¸Â°í, ±Û°í³ª¼­ Ç÷°ü Àü¹®ÀÇÇÑÅ× ¹ß ÁøÂû¹ÞÀ¸·¯ °¬´Âµ¥, Ç×»ýÁ¦´Â ²÷´Â ±â ÁÁ°Ú´Ù°í ±Ç°í ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ´ç´¢º´À» ¾ËÄÚ ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ¼ú ¾È ¹¬¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¼ú ¾È ¹¬½Ê´Ï´õ.
-contradiction,È¯ÀÚ´Â ¼ú ¹¬Àº °Å ¾Æ´Ï¶ó Ä°´Ï´õ.,È¯ÀÚ°¡ ¼úÀ» ¸¶ÀÌ ¹¬°í ÀÖ½Ê´Ï´õ.
-neutral,È¯ÀÚ´Â ¼ú ¾È ¹¬¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¾à °°Àº °Å ÇÔºÎ·Î ¹¬Àº Àû ¾ø½Ê´Ï´õ.
-entailment,±× ¿©ÀÚ´Â »ý¸® Áß¿¡ ÇÇ ÂÍ ¼¯ÀÎ Åä¸¦ ÇÏ°í ¹°¶ËÀ» ÇÑ ¹ø ½Õ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¾ÆÁ÷ »ý¸®ÇÒ ³ªÀÔ´Ï´õ.
-contradiction,±× ¿©ÀÚ´Â »ý¸® Áß¿¡ ÇÇ ÂÍ ¼¯ÀÎ Åä¶û °°ÀÌ ¹°¶ËÀ» ÇÑ ¹ø ´³´Ù Ä°´Ï´õ.,È¯ÀÚ´Â Æó°æÇß½É´õ.
-neutral,±× ¿©ÀÚ´Â »ý¸® Áß¿¡ ÇÇ ÂÍ ¼¯¿© ³ª¿Â Åä¶û ¹°¶ËÀ» ÇÑ ¹ø ½Õ´Ù Ä°´Ï´õ.,È¯ÀÚ°¡ °ñ¹ÝÀÌ ¾ÆÇÁ´Ù Ä«³×¿¹.
-entailment,"±× »ç¶÷ ¸¶´©¶ó ¸»ÀÌ, °ÉÀ»¶ó Ä«´Âµ¥ ¿ÞÂ¥·Î ³Ñ¾îÁö´Â °É ºÃ´Ù Äº°í, ±×·¡°¡ ´õ °Ë»çÇØº¼¶ó°í [**Hospital1 52**]·Î º¸³Â½Ê´Ï´õ.",±× »ç¶÷Àº °È´Â±â Á¤»óÀÌ ¾ÆÀÌ¾ú½Ê´Ï´õ.
-contradiction,"±× »ç¶÷ ¸¶´©¶ó ¸»ÀÌ, °ÉÀ»¶ó Ä«´Âµ¥ ¿ÞÂ¥·Î ³Ñ¾îÁö´Â °É ºÃ´Ù Äº°í, ±×·¡°¡ ´õ °Ë»çÇØº¼¶ó°í [**Hospital1 52**]·Î º¸³Â½Ê´Ï´õ.",±× »ç¶÷Àº °È´Â±â Á¤»óÀÔ´Ï´õ.
-neutral,"±× »ç¶÷ ¸¶´©¶ó°¡, °ÉÀ»¶ó Ä«´Âµ¥ ¿ÞÂ¥·Î ³Ñ¾îÁö´Â °É ºÃ°í, ±×·¡°¡ [**Hospital1 52**]·Î º¸³»°¡ ´õ °Ë»ç¹Þ¾Ò½Ê´Ï´õ.",±× »ç¶÷Àº ½É¹æ¼¼µ¿ÇÏ°í °íÇ÷¾ÐÀÌ ÀÖ¾ú½Ê´Ï´õ.
-entailment,Æ¯È÷ ±× »ç¶÷Àº [**Hospital1 68**]¿¡¼­ È£Èí±â °¨¿°ÀÌ¶û ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ÀÌ ½ÉÇØÁ®°¡ [**9-23**]¿¡ Åð¿øÇß½Ê´Ï´õ.,È¯ÀÚ´Â Æóº´ÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"Æ¯È÷ ¾Ë¾ÆµÖ¾ß ÇÒ ³¤µ¥, [**Hospital1 68**]¿¡¼­ »ó±âµµ °¨¿°ÀÌ¶û ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ÀÌ ½ÉÇØÁ®°¡ [**9-23**]¿¡ Åð¿øÇß½Ê´Ï´õ.",È¯ÀÚ Æó ±â´ÉÀº ±¦Âú½Ê´Ï´õ.
-neutral,¾Ë¾ÆµÖ¾ß ÇÒ ²ô´Â ±× »ç¶÷ÀÌ [**Hospital1 68**]¿¡¼­ »ó±âµµ °¨¿°ÇÏ°í ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ ½ÉÇØÁ®°¡ [**9-23**]¿¡ Åð¿øÇß´Ù´Â °Ì´Ï´õ.,È¯ÀÚ´Â ´ã¹è ÇÉ ÀûÀÌ ÀÖ½Ê´Ï´õ.
-entailment,¾Ö ³º´Â °Ç ÇÇÅä½Å ½á°¡ À¯µµÇß½Ê´Ï´õ.,È¯ÀÚ°¡ Áö±Ý ¾Ö ³º°í ÀÖ½Ê´Ï´õ.
-contradiction,ÇÇÅä½Å ½á°¡ ¾Ö ³ºµµ·Ï À¯µµÇß½Ê´Ï´õ.,È¯ÀÚ´Â Á¦¿ÕÀý°³ ¼ö¼úÇß½Ê´Ï´õ.
-neutral,ÇÇÅä½Å ½á°¡ ¾Ö ³º°Ô²û À¯µµÇß½Ê´Ï´õ.,È¯ÀÚ ¾Ö ³º´Â±â ÁøÇàÀÌ ¾È µË´Ï´õ.
-entailment,ÄáÆÏ ±â´É Àå¾Ö ÀÖÀ» ¶§ »ý±â´Â ¹ßÀÛ Àå¾Ö.,ÄáÆÏ ±â´É Àå¾Ö.
-contradiction,½ÅºÎÀüÁõ ÀÖÀ» ¶§ »ý±â´Â ¹ßÀÛ Àå¾Ö.,ÄáÆÏ ±â´É Á¤»ó.
-neutral,½ÅºÎÀüÁõ ÀÖÀ» ¶§ »ý±â´Â ¹ßÀÛ Àå¾Ö.,È¯ÀÚ´Â ÇÇ Åõ¼®ÇÏ°í ÀÖ½Ê´Ï´õ.
-entailment,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ ÀÎÁö ´É·ÂÀÌ ¶³¾îÁý´Ï´õ.
-contradiction,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ MMSE °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ ³ú MRI °á°ú°¡ ÀÌ»óÇÕ´Ï´õ.
-entailment,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3±â,È¯ÀÚ´Â Ä¡¸Å¸¦ ¾Î°í ÀÖ½À´Ï´õ.
-contradiction,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ ÀÎÁö ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ´Â ¿ä¾ç¿ø¿¡¼­ Áö³»°í ÀÖ½À´Ï´õ.
-entailment,È¯ÀÚ´Â º¸Åë ¾Æ¹« µµ¿ò ¾øÀÌ °È½À´Ï´õ.,È¯ÀÚ´Â ±âº»ÀûÀ¸·Î ´ó±æ ¼ö ÀÖ´Â »óÅÂÀÔ´Ï´õ.
-contradiction,È¯ÀÚ´Â º¸Åë ¾Æ¹« µµ¿ò ¾øÀÌ °ÉÀ» ¼ö ÀÖ½À´Ï´õ.,È¯ÀÚ´Â ÈÙÃ¼¾î¿¡ ÀÇÁöÇÏ°í ÀÖ½À´Ï´õ.
-neutral,È¯ÀÚ´Â º¸Åë ¾Æ¹« µµ¿ò ¾øÀÌ °ÉÀ» ¼ö ÀÖ½À´Ï´õ.,È¯ÀÚ´Â ÀÏ»ó»ýÈ°À» È¥ÀÚ¼­ ´Ù ÇÕ´Ï´õ.
-entailment,"¾à¹° ½ÃÇè¿¡´Â ÀÌ·± ¾àµéÀÌ Æ÷ÇÔµË´Ï´õ: Å×±×·¹Åç, ¿¡Æå¼­, µ¥ÆÄÄÚÆ®, ¸®Æ¬.",È¯ÀÚ´Â ¿©·¯ °¡Áö ¾àÀ» ½á ºÃ½À´Ï´õ.
-contradiction,"¾à¹° ½ÃÇè¿¡´Â Å×±×·¹Åç, ¿¡Æå¼­, µ¥ÆÄÄÚÆ®, ¸®Æ¬ÀÌ Æ÷ÇÔµË´Ï´õ.",È¯ÀÚ´Â ¾à¹° Ä¡·á¸¦ ÇÑ ¹øµµ ¹Þ¾Æ º» ÀûÀÌ ¾ø½À´Ï´õ.
-neutral,"¾à¹° ½ÃÇè¿¡´Â ÀÌ·± ¾àµéÀÌ Æ÷ÇÔµË´Ï´õ: Å×±×·¹Åç, ¿¡Æå¼­, µ¥ÆÄÄÚÆ®, ¸®Æ¬.",È¯ÀÚ´Â Á¶¿ïÁõÀÌ ÀÖ½À´Ï´õ.
-entailment,±× »ç¶÷ [**5-16**]ÀÏÀÚ °¡½¿ X-¼± °á°ú¸¦ º¸´Ï ½ÉÀåÀÌ Ä¿Áö°í ÆóºÎÁ¾ÀÌ ½ÉÇØÁ³½À´Ï´õ. ±Û°í ¿ÞÂÊ ¾Æ·¡ Æó¿¡ ¿°Áõ ¹¶Ä£ °Å¶û Èä¸·¿¡ ¹° Âù °Íµµ º¸¿´½À´Ï´õ.,È¯ÀÚ´Â ½ÉºÎÀüÁõÀÌ ÀÖ½À´Ï´õ.
-contradiction,±× »ç¶÷ [**5-16**]ÀÏÀÚ °¡½¿ X-¼± °á°ú¸¦ º¸´Ï ½ÉÀåÀÌ Ä¿Áö°í ÆóºÎÁ¾ÀÌ ½ÉÇØÁ³½À´Ï´õ. ±Û°í ¿ÞÂÊ ¾Æ·¡ Æó¿¡ ¿°Áõ ¹¶Ä£ °Å¶û Èä¸·¿¡ ¹° Âù °Íµµ º¸¿´½À´Ï´õ.,È¯ÀÚ ½ÉÀåÀº Á¤»óÀÔ´Ï´õ.
-neutral,±× »ç¶÷ [**5-16**]ÀÏÀÚ °¡½¿ X-¼± °á°ú¸¦ º¸´Ï ½ÉÀåÀÌ Ä¿Áö°í ÆóºÎÁ¾ÀÌ ½ÉÇØÁ³½À´Ï´õ. ±Û°í ¿ÞÂÊ ¾Æ·¡ Æó¿¡ ¿°Áõ ¹¶Ä£ °Å¶û Èä¸·¿¡ ¹° Âù °Íµµ º¸¿´½À´Ï´õ.,È¯ÀÚ´Â Æó·Å¿¡ °É·È½À´Ï´õ.
-entailment,´ÙÀ½Àº [**3079**]³â¿¡ ¿ÞÂÊÀÌ ½ÉÇÏ°Ô ¾àÇØÁö´Â Áõ»óÀÌ ³ªÅ¸³µ½À´Ï´õ.,È¯ÀÚÇÑÅ× ³úÁ¹Áß Â¡ÈÄ°¡ º¸ÀÔ´Ï´õ.
-contradiction,"´ÙÀ½ »ç·Ê´Â [**3079**]³â¿¡ ÀÖ¾ú´ø ÀÏÀÎµ¥, ¿ÞÂÊ ¸ö¿¡ ½ÉÇÑ ¸¶ºñ Áõ»óÀÌ ÀÖ¾ú½À´Ï´õ.",È¯ÀÚ ½Å°æ°è °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,´ÙÀ½Àº [**3079**]³â¿¡ ¿ÞÂÊ ºÎºÐÀÌ ½ÉÇÏ°Ô ¾àÇØÁö´Â Áõ»óÀÌ ³ªÅ¸³µ½À´Ï´õ.,È¯ÀÚ´Â ÀÏ°ú¼º ³úÇãÇ÷¹ßÀÛ(TIA)À» °Þ¾ú½À´Ï´õ.
-entailment,"±× »ç¶÷ÀÌ º´µ¿¿¡ ¿ÔÀ» ¶§, °è¼Ó ¾îÁö·´´Ù°í Çß½À´Ï´õ. ±× »ç¶÷ ¸»ÀÌ ""¸ðµç °Ô ´Ù »ßµüÇÑ °Í °°´Ù""°í ÇÏ°í, ¸Ó¸®µµ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.",È¯ÀÚÇÑÅ× ÀüÁ¤±â´É Àå¾Ö Áõ»óÀÌ º¸ÀÔ´Ï´õ.
-contradiction,"±× »ç¶÷ÀÌ º´µ¿¿¡ ¿ÔÀ» ¶§, °è¼Ó ¾îÁö·´´Ù°í Çß½À´Ï´õ. ¸ðµç °Ô ´Ù »ßµüÇÑ °Í °°´Ù°í ¸»Çß°í, ¸Ó¸®µµ ¾ÆÆÍ½À´Ï´õ.",È¯ÀÚ´Â ÀüÁ¤±â´É Àå¾Ö Áõ»óÀÌ ¾ø½À´Ï´õ.
-neutral,"±× »ç¶÷ÀÌ º´µ¿¿¡ ¿ÔÀ» ¶§, °è¼Ó ¾îÁö·´´Ù°í Çß´Ù-- ""¸¶Ä¡ ¸ðµç °Ô ´Ù »ßµüÇÑ °ÍÃ³·³""-- ±Û°í ¸Ó¸®µµ ¾ÆÆÄÇß´Ù.",È¯ÀÚ´Â ¼Ò³ú ³úÁ¹ÁßÀ» °Þ¾ú½À´Ï´õ.
-entailment,È¯ÀÚ´Â Àü¿¡ DVT¸¦ ¾ÎÀº ÀûÀÌ ÀÖ¾î¼­ Äí¸¶µòÀ» ¸Ô°í ÀÖ½À´Ï´õ.,È¯ÀÚ´Â ÇÇ ¾È ±»°Ô ÇÏ´Â Ä¡·á¸¦ ¹Þ°í ÀÖ½À´Ï´õ.
-contradiction,È¯ÀÚ´Â DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ) ¾ÎÀº ÀûÀÌ ÀÖ¾î°¡ Äí¸¶µòÀ» ¹¬°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ´Â ÇÇ ´õ ³¯ À§ÇèÀº ¾ø½Ê´Ï´õ.
-neutral,È¯ÀÚ´Â DVT ¾ÎÀº ÀûÀÌ ÀÖ¾î°¡ CoumadinÀ» ¹¬°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ´Â ÇÇ°¡ ³Ê¹« Àß ±»´Â »óÅÂÀÔ´Ï´õ.
-entailment,"½ÉÀåÀº ÂÉ¸Å¼­ Áß°£ Á¤µµ·Î Ä¿Á® ÀÖ´Âµ¥, Å©°Ô ¹Ù²ï °Å´Â ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉÀåºñ´ëÁõÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"½ÉÀåÀº ÂÉ¸Å¼­ Áß°£ Á¤µµ·Î Ä¿Á® ÀÖ´Âµ¥, Å©°Ô º¯ÇÑ °Å´Â ¾ÆÀÔ´Ï´õ.",È¯ÀÚ´Â ½ÉÀåÀÌ ÀÛ½Ê´Ï´õ.
-neutral,"½ÉÀåÀº ÂÉ¸Å¼­ Áß°£ Á¤µµ·Î Ä¿Á® ÀÖ´Âµ¥, Å©°Ô ¹Ù²ï °Å´Â ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÔ´Ï´õ.
-entailment,¾Æ´Â ÅÂ¾î³ª±â Àü¿¡ 4½Ã°£µµ ¾È µÇ°Ô Ä¡·á¹Þ°í »óÅÂ º¼¶ó°í ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç¿¡ µé¾î¿Ô½Ê´Ï´õ.,È¯ÀÚ°¡ °¨¿°µÆ½Ê´Ï´õ.
-contradiction,¾Æ´Â ÅÂ¾î³ª±â Àü¿¡ 4½Ã°£µµ ¾È µÇ°Ô Ä¡·á¹Þ°í »óÅÂ º¼¶ó°í ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç¿¡ µé¾î¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â °Ç°­ÇÑ °«³­¾ÆÀÔ´Ï´õ.
-neutral,¾Æ´Â ÅÂ¾î³ª±â Àü¿¡ 4½Ã°£µµ ¾È µÇ°Ô Ä¡·á¹Þ°í »óÅÂ º¼¶ó°í ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç¿¡ µé¾î¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â Á¶»ê¾ÆÀÔ´Ï´õ.
-entailment,¿ÀÁÜº¸ ¹®Á¦ µþ¸° Àü¸³¼±ºñ´ëÁõ ¶«¿¡ ¼Òº¯ÁÙ ²È¾Æ¾ß Çß´ø ÀûÀÌ ÀÖ½Ê´Ï´õ.,Àü¸³¼±ÀÌ Ä¿Á³½Ê´Ï´õ.
-contradiction,¿ÀÁÜº¸ ¹®Á¦ µþ¸° Àü¸³¼±ºñ´ë ¶«¿¡ ¼Òº¯ÁÙ ²È¾Æ¾ß Çß´ø ÀûÀÌ ÀÖ½Ê´Ï´õ.,¿ÀÁÜ ´©´Â µ¥ ºÒÆíÇÑ °Å ¾øÀ½.
-neutral,¿ÀÁÜº¸ ¹®Á¦ µþ¸° Àü¸³¼±ºñ´ëÁõ ¶«¿¡ ¼Òº¯ÁÙ ²È¾Æ¾ß Çß´ø ÀûÀÌ ÀÖ½Ê´Ï´õ.,PSA ¼öÄ¡°¡ ³ô°Ô ³ª¿É´Ï´õ.
-entailment,"ÀÎ½¶¸° ¸Â¾Æ¾ß µÇ´Â ´ç´¢º´ÀÌ°í, ¿­¼¼ »ì ¶§ Áø´Ü¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ¿À·¡µÈ º´À» ¾Î°í ÀÖ½Ê´Ï´õ.
-contradiction,"ÀÎ½¶¸° ¸Â¾Æ¾ß µÇ´Â ´ç´¢º´ÀÌ°í, ¿­¼¼ »ì ¶§ Áø´Ü¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ A1c ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
-neutral,"ÀÎ½¶¸° ¸Â¾Æ¾ß µÇ´Â ´ç´¢º´ÀÌ°í, ¿­¼¼ »ì ¶§ Áø´Ü¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ Ç÷´ç ¼öÄ¡°¡ ¿Ã¶ó°¬½Ê´Ï´õ.
-entailment,È¯ÀÚ ÇÃ¶óºñ½º ¹¬´Â ±â [**2564-5-31**]¿¡ ³¡³ª´Â °É·Î ´Ù ÇØ°¡ 30ÀÏ °èÈ¹µÅ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ÇÇ ¹±°Ô ÇÏ´Â ¾àÀ» ¹¬°í ÀÖ½Ê´Ï´õ.
-contradiction,È¯ÀÚ ÇÃ¶óºñ½º ¹¬´Â ±â [**2564-5-31**]¿¡ ³¡³ª´Â °É·Î 30ÀÏ °èÈ¹µÅ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ Ç÷¼ÒÆÇ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,È¯ÀÚ ÇÃ¶óºñ½º ¹¬´Â ±â [**2564-5-31**]¿¡ ³¡³ª´Â °É·Î 30ÀÏ °èÈ¹µÅ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ÃÖ±Ù¿¡ ³úÁ¹ÁßÀ» °Þ¾ú½Ê´Ï´õ.
-entailment,"±×ºÐ Ç÷¾ÐÀÌ 97¿¡ 52±îÁö ¶³¾îÁ³´Ù°¡, ³ªÁß¿¡´Â 197¿¡ 92±îÁö ¿Ã¶ú½Ê´Ï´õ (¾ï¼ö·Î ºÒ¾ÈÁ¤ÇÕ´Ï´õ).",È¯ÀÚ´Â °¡²û¾¿ Ç÷¾ÐÀÌ ¶³¾îÁý´Ï´õ.
-contradiction,"±×ºÐ Ç÷¾ÐÀÌ 97¿¡ 52±îÁö ¶³¾îÁ³´Ù°¡, ³ªÁß¿¡´Â 197¿¡ 92±îÁö ¿Ã¶ú½Ê´Ï´õ (¾ï¼ö·Î ºÒ¾ÈÁ¤ÇÕ´Ï´õ).",È¯ÀÚ Ç÷¾ÐÀº ¾ÈÁ¤ÀûÀÔ´Ï´õ.
-neutral,"±×ºÐ Ç÷¾ÐÀÌ 97¿¡ 52±îÁö ¶³¾îÁ³´Ù°¡, ³ªÁß¿¡´Â 197¿¡ 92±îÁö ¿Ã¶ú½Ê´Ï´õ(¾ï¼ö·Î ºÒ¾ÈÁ¤ÇÕ´Ï´õ).",È¯ÀÚ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
-entailment,"¿¡ÄÚ¿¡¼­ »ìÂ¦ ´ëµ¿¸Æ ÇùÂøÁõÀÌ º¸¿´°í¿¹, ¿¹Àü¿¡ ±âÀýÇÏ´Â Áõ»óÀÌ ¾ÆÈ© ¹ø ÀÖ¾ú½É´õ.",¿¡ÄÚ°Ë»ç °á°ú¿¡¼­ ´ëµ¿¸Æ Á¼¾ÆÁø ±â º¸¿´½É´õ.
-contradiction,"¿¡ÄÚ¿¡¼­ »ìÂ¦ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ¹ß°ßµÆ°í, ¿¾³¯¿¡ ±âÀý Áõ»óÀÌ ¾ÆÈ© ¹ø ÀÖ¾ú¾î¿¹.",¿¡ÄÚ°Ë»ç¿¡¼­ º°´Ù¸¥ ÀÌ»óÀº ¾ø¾ú½É´õ.
-neutral,"¿¡ÄÚ°Ë»ç¿¡¼­ »ìÂ¦ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ¹ß°ßµÆ°í, ¿¾³¯¿¡´Â ±âÀý Áõ»óÀÌ ¾ÆÈ© ¹ø ÀÖ¾ú½É´õ.",³Ñ¾îÁø Àû ÀÖÀ½.
-entailment,"ÁÖ±âÀûÀ¸·Î ¸»¸®°í, »¡¾Æ³»°í, ÀÚ±ØÀ» ÁÝ´Ï´õ.",±× ¾Æ´Â ÀÎÀÚ ¸· ÅÂ¾î³µ½É´õ.
-contradiction,"ÁÖ±âÀûÀ¸·Î ¸»¸®°í, »¡¾Æ³»°í, ÀÚ±ØÀ» ÁÝ´Ï´õ.",È¯ÀÚ ¾ö¸¶´Â ¾ÆÁï ¾Æ¸¦ ¾È ³º¾Ò½É´õ.
-neutral,"ÁÖ±âÀûÀ¸·Î ¸»¸®°í, »¡¾Æ³»°í, ÀÚ±ØÇÔ.",ºÐ¸¸Àº Á¤»óÀûÀ¸·Î ÀÚ¿¬ºÐ¸¸À¸·Î ÁøÇàµÆ¾î¿¹.
-entailment,2³â ³Ñ°Ô ÇÇ ¾È ³ª´Â ¼ö¹Ú À§ÁõÇÏ°í À§Á¤¸Æ È®ÀåÁõ.,È¯ÀÚ´Â Áö±Ý ´çÀå ÇÇ ³ª´Â °Å´Â ¾ø½É´õ.
-contradiction,2³â ³Ñ°Ô ÇÇ ¾È ³ª´Â ¼ö¹Ú À§ÁõÇÏ°í À§Á¤¸Æ È®ÀåÁõ.,È¯ÀÚ´Â ÇÇ¸¦ ÅäÇÏ°í ÀÖ½É´õ.
-neutral,2³â ³Ñ°Ô ÇÇ ¾È ³ª´Â ¼ö¹Ú À§ÁõÇÏ°í À§Á¤¸Æ·ù°¡ ÀÖ½É´õ.,È¯ÀÚ´Â °£°æº¯ÁõÀÌ ÀÖ½É´õ.
-entailment,"±× »ç¶÷ÀÌ ¿À´Ã ¿ä¾ç¿ø¿¡¼­ ¼û½¬±â Èûµé´Ù Äº°í, ¹Ù±ù °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ°¡ 80%´ë·Î Àú»ê¼ÒÁõÀ» º¸¿´½É´õ. ±×¸®°í »ê¼Ò 6¸®ÅÍ¸¦ ÁÖÀÌ±î »ê¼ÒÆ÷È­µµ°¡ 90%·Î ³ª¿Ô¾î¿¹. ±× »ç¶÷ ¹éÇ÷±¸ °Ë»ç¿¡¼­ ¹êµåÇü ¼¼Æ÷Áõ°¡ÁõÀÌ ³ª¿Í°¡²¿, ÀÀ±Þ½Ç·Î ½Ç·Á¿Ô½É´õ.",±× »ç¶÷ »ê¼ÒÆ÷È­µµ ¼öÄ¡°¡ ³·½É´õ.
-contradiction,"±× »ç¶÷ÀÌ ¿À´Ã ¿ä¾ç¿ø¿¡¼­ ¼û½¬±â Èûµé´Ù Äº°í, ¹Ù±ù °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ°¡ 80%´ë·Î Àú»ê¼ÒÁõÀ» º¸¿´¾î¿¹. ¶Ç, »ê¼Ò 6¸®ÅÍ¸¦ ¹ÞÀ¸ÀÌ±î »ê¼ÒÆ÷È­µµ°¡ 90%·Î ³ª¿Ô½É´õ. ±× »ç¶÷ ¹éÇ÷±¸¿¡¼­ ¹êµåÇü ¼¼Æ÷Áõ°¡ÁõÀÌ º¸¿©°¡, ÀÀ±Þ½Ç·Î ½Ç·Á¿Ô½É´õ.",¼û ½¬´Â ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"±× »ç¶÷ÀÌ ¿À´Ã ¿ä¾ç¿ø¿¡¼­ ¼û½¬±â Èûµé´Ù Äº°í, ¹Ù±ù °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ°¡ 80´ë·Î Àú»ê¼ÒÁõÀ» º¸¿´½É´õ. »ê¼Ò 6¸®ÅÍ¸¦ ÁÖÀÌ±î »ê¼ÒÆ÷È­µµ´Â 90%¿´¾î¿¹. ±× »ç¶÷ ¹éÇ÷±¸¿¡¼­ ¹êµåÇü ¼¼Æ÷Áõ°¡ÁõÀÌ ³ª¿Í°¡²¿, ÀÀ±Þ½Ç·Î ½Ç·Á¿Ô½É´õ.",±× »ç¶÷Àº ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,"±× »ç¶÷Àº ¶ó½Ä½º 40mgÀ» ´Ù½Ã Ã³¹æ¹Þ¾Ò°í, ÀÏÁÖÀÏ µÚ¿¡ °æ°ú º¼¶ó²¿ °Ë»çÇÒ ³§´Ï´õ.",±× »ç¶÷Àº ´Ù½Ã ÀÌ´¢Á¦¸¦ ¸Ô±â ½ÃÀÛÇß½É´õ.
-contradiction,"±× »ç¶÷Àº ¶ó½Ä½º 40mgÀ» ´Ù½Ã Ã³¹æ¹Þ¾Ò°í, ÀÏÁÖÀÏ µÚ¿¡ ÃßÀû °Ë»ç ¹ÞÀ» ³§´Ï´õ.",±× »ç¶÷Àº ÀÌ´¢Á¦¸¦ ²÷¾ú½É´õ.
-neutral,"±× »ç¶÷Àº ¶ó½Ä½º 40mgÀ» ´Ù½Ã Ã³¹æ¹Þ¾Ò°í, ÀÏÁÖÀÏ µÚ¿¡ °æ°ú º¼¶ó²¿ °Ë»çÇÒ ³§´Ï´õ.",±× »ç¶÷Àº ½ÅÀåº´ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,"±× ¿©ÀÚºÐ ±âÄ§ ¶«¿¡ °¡½¿ ¿¢½º·¹ÀÌ¸¦ Âï¾ú´Âµ¥, ±× °á°ú ¸²ÇÁÀýÀÌ º×°í Æó¿¡ °áÀýÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â Æó °áÀýÇÏ°í ¸²ÇÁ¼±º´ÁõÀÌ ÀÖ½É´õ.
-contradiction,"±× ¿©ÀÚºÐ ±âÄ§ ¶«¿¡ °¡½¿ ¿¢½º·¹ÀÌ¸¦ Âï¾ú´Âµ¥, ±× °á°ú ¸²ÇÁÀýÀÌ º×°í Æó °áÀýÀÌ ³ª¿Ô½É´õ.",È¯ÀÚºÐ °¡½¿ ¿¢½º·¹ÀÌ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,±× ¿©ÀÚºÐ ±âÄ§ ¶«¿¡ °¡½¿ ¿¢½º·¹ÀÌ¸¦ Âï¾ú°í ±× °á°ú¿¡¼­ ¸²ÇÁÀýÀÌ º×°í Æó °áÀýÀÌ ¹ß°ßµÆ½É´õ.,È¯ÀÚ´Â Æó¾ÏÀÔ´Ï´õ.
-entailment,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ ½ÉÀüµµ °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
-contradiction,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â Á¤»ó ½Å°æ¸Æµ¿ÀÔ´Ï´õ.
-neutral,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â Çù½ÉÁõÀ» ¾Î°í ÀÖ½À´Ï´õ.
-entailment,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â °¡²û ½ÉÀå ¸®µëÀÌ ÀÌ»óÇÕ´Ï´õ.
-contradiction,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ°¡ °¡½¿ÀÌ µÎ±Ù°Å¸°´Ù ÇÕ´Ï´õ.
-entailment,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,ºÎÁ¤¸Æ.
-contradiction,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,"½ÉÀå ¸Æ¹ÚÇÏ°í ¸®µëÀº Á¤»óÀÌ°í, ºÎÁ¤¸Æ ¾Î¾Ò´ø ÀûÀº ¾ø½É´õ."
-neutral,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â º£Å¸ Â÷´ÜÁ¦ ¹¬°í ÀÖ½À´Ï´õ.
-entailment,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,ºÎÁ¤¸Æ.
-contradiction,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,Á¤»ó ½ÅÈ£ ¸®µë.
-neutral,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,°íÇ÷¾Ð º´·Â.
-entailment,ÃÖ±Ù¿¡ ¿­ ³ª°Å³ª Ãä°Å³ª °æ·Ã ÀÖ¾ú´ø ÀûÀº ¾ø´ÙÄ°´Ï´õ.,È¯ÀÚ´Â ¿­ ³ª´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.
-contradiction,ÃÖ±Ù¿¡ ¿­ ³ª°Å³ª Ãä°Å³ª °æ·Ã ÀÖ¾ú´ø ÀûÀº ¾ø´ÙÄ°´Ï´õ.,È¯ÀÚ´Â ¿­ ³ª´Â Áõ»óÀÌ ÀÖ½À´Ï´õ.
-neutral,ÃÖ±Ù¿¡ ¿­ ³ª°Å³ª Ãä°Å³ª °æ·Ã ÀÖ¾ú´ø ÀûÀº ¾ø´ÙÄ°´Ï´õ.,È¯ÀÚ´Â »ì ºüÁö´Â °Ç ¾ø´ÙÄ°´Ï´õ.
-entailment,"°¡½¿ ¾ÆÇÁ°Å³ª, ¼û Â÷°Å³ª, ¿­ ³ª°Å³ª, Ãä°Å³ª, ÅäÇÏ´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.",È¯ÀÚ´Â Æó·Å Áõ»óÀº ¾ø½À´Ï´õ.
-contradiction,"°¡½¿ ¾ÆÇÁ°Å³ª, ¼û Â÷°Å³ª, ¿­ ³ª°Å³ª, Ãä°Å³ª, ÅäÇÏ°Å³ª ¼Ó ¹Ì½Ä°Å¸®´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.",È¯ÀÚ°¡ Æó·Å Áõ»óÀ» º¸ÀÌ°í ÀÖ½À´Ï´õ.
-neutral,"°¡½¿ ¾ÆÇÁ°Å³ª, ¼û Â÷°Å³ª, ¿­ ³ª°Å³ª, Ãä°Å³ª, ÅäÇÏ´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.",È¯ÀÚ´Â Æó·ÅÀº ¾ÆÀÔ´Ï´õ.
-entailment,¹è ¾ÆÇÁ°Å³ª ¼³»çÇÏ´Â Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ´Â º¹ÅëÀº ¾ø½À´Ï´õ.
-contradiction,¹è ¾ÆÇÁ°Å³ª ¼³»çÇÏ´Â Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ°¡ ¼³»çÇÏ°í ÀÖ½À´Ï´õ.
-neutral,¹è ¾ÆÇÁ°Å³ª ¼³»çÇÏ´Â Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ´Â °¡½¿ ÅëÁõÀº ¾ø½À´Ï´õ.
-entailment,"½ÊÀÌÁöÀå ±Ë¾ç/Èæº¯Áõ, [**2608-10-28**], Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® À½¼º.",È¯ÀÚ´Â ½ÊÀÌÁöÀå ±Ë¾çÀÌ ÀÖ½À´Ï´õ.
-contradiction,"½ÊÀÌÁöÀå ±Ë¾ç/Èæº¯Áõ, [**2608-10-28**], Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® À½¼º.",È¯ÀÚ ½ÊÀÌÁöÀåÀº Á¤»óÀÔ´Ï´õ.
-neutral,"½ÊÀÌÁöÀå ±Ë¾ç/Èæº¯Áõ, [**2608-10-28**], Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® À½¼º.",È¯ÀÚ´Â °¡½ºÆ®¸®³ë¸¶°¡ ÀÖ½Ê´Ï´õ.
-entailment,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, °©»ó¼±±â´ÉÇ×ÁøÁõ, ´ç´¢º´, ÀÚ²Ù »ý±â´Â Èä¸· »ïÃâ(6ÁÖ Àü¿¡ [**º´¿ø**]¿¡¼­ ¹° »°À½) 8»ì ¶§ ¸ÍÀå ¼ö¼ú ÀÌ·ÂÀÌ ÀÖ½Ê´Ï´õ.",È¯ÀÚ´Â ¿¹Àü¿¡ ¼ö¼ú ¹ÞÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, °©»ó¼±±â´ÉÇ×ÁøÁõ, ´ç´¢º´, ÀÚ²Ù »ý±â´Â Èä¸· »ïÃâ(6ÁÖ Àü [**º´¿ø**]¿¡¼­ ¹° »°À½) 8»ì ¶§ ¸ÍÀå ¼ö¼ú ÀÌ·Â ÀÖ½¿.",È¯ÀÚ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
-neutral,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, °©»ó¼±±â´ÉÇ×ÁøÁõ, ´ç´¢º´, ÀÚ²Ù Àç¹ßÇÏ´Â Èä¸· »ïÃâ(6ÁÖ Àü [**º´¿ø**]¿¡¼­ ¹° »°À½) 8»ì ¶§ ¸ÍÀå ¼ö¼ú ÀÌ·Â ÀÖ½¿.",Ç÷´çÀÌ ¿Ã¶ó°¬½Ê´Ï´õ.
-entailment,11ÀÏ Àü¿¡ ¸ÍÀå ¼ö¼úÀ» ¹ÞÀº »óÅÇ´Ï´õ.,¼ö¼ú ÀÌ·Â¿¡ ¸ÍÀå ¶¾ ¼ö¼úÀÌ Æ÷ÇÔµÅ ÀÖ½Ê´Ï´õ.
-contradiction,11ÀÏ Àü ¸ÍÀå ¼ö¼ú ÈÄ »óÅÇ´Ï´õ.,¼ö¼úÇÑ Àû ¾ø½¿.
-neutral,11ÀÏ Àü¿¡ ¸ÍÀå ¼ö¼úÀ» ¹ÞÀº »óÅÇ´Ï´õ.,È¯ÀÚ´Â ´ëº¯¼®ÀÌ ¸·Èù ¸ÍÀå¿° º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-entailment,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷.,ÀûÇ÷±¸¸¦ ºÐÇØ½ÃÅ°´Â º´ÀÔ´Ï´õ.
-contradiction,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷.,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷ÀÌ ÀÖ´Ù²¿ ÇØ¼­ ´Ù¸¥ ÀÚ°¡¸é¿ª ÁúÈ¯ À§ÇèÀÌ ´õ ¿Ã¶ó°¡´Â °Ç ¾ÆÀÔ´Ï´õ.
-neutral,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷.,ÀÌ º´ÀÌ ÀÖ´Â È¯ÀÚµéÀº ´Ù¸¥ ÀÚ°¡¸é¿ª ÁúÈ¯µµ °°ÀÌ ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,±× È¯ÀÚ´Â Ä§»ó ¾ÈÁ¤ ±ÇÀ¯¹Þ°í Å×¸£ºÎÅ»¸°À¸·Î Ä¡·á¹ÞÀ¸¸é¼­ Åð¿øÇß½Ê´Ï´õ.,È¯ÀÚ´Â ÀÎÀÚ ÀÔ¿ø ÁßÀÌ ¾ÆÀÔ´Ï´õ.
-contradiction,"±× È¯ÀÚ´Â ´©¿ö¼­ Ç« ½¬¶ó°í ÇÏ°í Åð¿øÇß°í, Å×¸£ºÎÅ»¸°À¸·Î Ä¡·á¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ°¡ ÀÎÀÚ ¾àÀ» ¾È ¸Ô½Ê´Ï´õ.
-neutral,±× È¯ÀÚ´Â Ä§»ó ¾ÈÁ¤ ±ÇÀå¹Þ°í Å×¸£ºÎÅ»¸°À¸·Î Ä¡·á¹ÞÀ¸¸é¼­ Åð¿øÇß½Ê´Ï´õ.,È¯ÀÚ´Â ´ã¹ø Áø·á ¿¹¾àÀÌ ÀâÇô ÀÖ½Ê´Ï´õ.
-entailment,"Áö±Ý È¯ÀÚ´Â ÇÇ°ïÇØÇÏ°í, ±âÄ§ÇÏ¸é¼­ °¡½¿µµ °è¼Ó ºÒÆíÇÏ´Ù Ä°´Ï´õ. ¼û½¬±â Èûµç °Ç ¾ø°í¿ä.",È¯ÀÚ ROS °á°ú°¡ ¾ç¼ºÀÔ´Ï´õ.
-contradiction,"Áö±Ý È¯ÀÚ´Â ÇÇ°ïÇØÇÏ°í, ±âÄ§ÇÏ¸é¼­ °¡½¿µµ °è¼Ó ºÒÆíÇÏ´Ù Ä°´Ï´õ. ±Ùµð ¼ûÀÌ Â÷Áö´Â ¾Ê´Ù³×¿¹.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾îÇÕ´Ï´õ.
-neutral,"Áö±Ý È¯ÀÚ´Â ÇÇ°ïÇØÇÏ°í, ±âÄ§ÇÏ¸é¼­ °¡½¿µµ °è¼Ó ºÒÆíÇÏ´Ù Ä°´Ï´õ. ±Ùµð ¼ûÀÌ °¡»ÚÁö´Â ¾Ê´Ù³×¿¹.",È¯ÀÚ »ê¼ÒÆ÷È­µµ´Â Á¤»óÀÔ´Ï´õ.
-entailment,"È¯ÀÚ´Â ½ÅÃ¼ °Ë»ç»ó Á¤»óÀÌ¾ú°í, Á÷Àå¿¡¼­ '¸á·¹³ª'°¡ º¸ÀÎ´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚ Á÷Àå ¾È¿¡¼­ ÇÇ°¡ ¹ß°ßµÆ½Ê´Ï´õ.
-contradiction,"È¯ÀÚ´Â ½ÅÃ¼ °Ë»ç»ó Á¤»óÀÌ¾ú°í, Á÷Àå¿¡¼­ '¸á·¹³ª'°¡ º¸ÀÎ´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚ´Â À§Àå ÃâÇ÷Àº ¾ø½Ê´Ï´õ.
-neutral,"È¯ÀÚ´Â ½ÅÃ¼ °Ë»ç»ó Á¤»óÀÌ¾ú°í, Á÷Àå¿¡¼­ '¸á·¹³ª', ´Ù½Ã ¸»ÇØ °ËÀº ¶ËÀÌ º¸ÀÎ´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚ´Â À§Àå ÃâÇ÷ÀÌ ÀÖ½Ê´Ï´õ.
-entailment,È¯ÀÚ´Â ¿ä»õ ½¯ ¶§ °¡½ÉÀÌ ´ä´äÇÏ°í ÂÉÀÌ´Â °Í °°Àº Áõ»óÀÌ »ý±â±â ½ÃÀÛÇß½É´õ.,È¯ÀÚ´Â ¿ä»õ °¡½ÉÀÌ ¾ÆÇÁ´Ù ÇÕ´Ï´õ.
-contradiction,È¯ÀÚ´Â ¿ä»õ ½¯ ¶§ °¡½ÉÀÌ ´ä´äÇÏ°í ÂÉÀÌ´Â °Í °°Àº Áõ»óÀÌ º¸ÀÌ±â ½ÃÀÛÇß½É´õ.,È¯ÀÚ´Â °¡½É ¾ÆÇÂ °Ç ¾ÆÀÌ¶ó°í ÇÕ´Ï´õ.
-neutral,È¯ÀÚ´Â ¿ä»õ ½¯ ¶§ °¡½ÉÀÌ ´ä´äÇÏ°í ÂÉÀÌ´Â °Í °°Àº Áõ»óÀÌ »ý±â±â ½ÃÀÛÇß½É´õ.,È¯ÀÚ´Â °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀ» ¾ÎÀº ÀûÀÌ ÀÖ½É´Ï´õ.
-entailment,¸¸¼º ¿ÞÂÊ °æ¸·ÇÏ Ç÷Á¾.,È¯ÀÚ´Â ¸¸¼ºÀûÀ¸·Î ¸Ó¸® ¾È¿¡ ÇÇ°¡ ³ª´Â Áõ¼¼°¡ ÀÖ½É´Ï´õ.
-contradiction,¸¸¼º ¿ÞÂÊ °æ¸·ÇÏ Ç÷Á¾.,È¯ÀÚ ³ú MRI °á°ú´Â ¾Æ¹« ÀÌ»ó ¾ø½É´õ.
-neutral,¸¸¼º ¿ÞÂÊ °æ¸·ÇÏ Ç÷Á¾.,Áß¾Ó¼± ÀÌµ¿ÀÌ ÀÖ½É´õ.
-entailment,±× »ç¶÷ ¾Æ¹Ì¿À´Ù·Ð ¸Ô´Â ¾çÀÌ ´Ã¾ú½É´õ (200-->300).,È¯ÀÚ´Â ½ÉÀå ºÎÁ¤¸ÆÀÌ ÀÖ½É´õ.
-contradiction,±× »ç¶÷ ¾Æ¹Ì¿À´Ù·Ð ¸Ô´Â ¾çÀÌ ´Ã¾ú½É´õ (200-->300).,È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
-neutral,±× »ç¶÷ ¾Æ¹Ì¿À´Ù·Ð ¸Ô´Â ¾çÀÌ ´Ã¾ú½É´õ (200-->300).,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½É´õ.
-entailment,"È¯ÀÚ´Â Æ¯º°È÷ ¾ÎÀº Àû ¾ø´Â 57¼¼ ¿©ÀÚºÐÀÎµ¥, ¶×¶×ÇÏ°í, ÁÖÂ÷Àå¿¡¼­ ¿À¸¥ÂÊ ¸öÀ» ¸ø ¾²´Â Áõ»óÀ¸·Î ¹ß°ßµÅ°¡ [**3259-12-9**]¿¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ BMI Áö¼ö°¡ ³ô½É´õ.
-contradiction,"È¯ÀÚ´Â 57¼¼ ¿©ÀÚºÐÀÎµ¥, Æ¯º°È÷ ¾ÎÀº Àû ¾ø°í, ¶×¶×ÇÏ°í, ÁÖÂ÷Àå¿¡¼­ ¿À¸¥ÂÊ ¸öÀ» ¸ø ¾²´Â Áõ»óÀ¸·Î ¹ß°ßµÅ°¡ [**3259-12-9**]¿¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ ¸ö¹«°Ô´Â Á¤»óÀÔ´Ï´õ.
-neutral,"È¯ÀÚ´Â Æ¯º°È÷ ¾ÎÀº Àû ¾ø´Â 57¼¼ ¿©ÀÚºÐÀÎµ¥, ¶×¶×ÇÏ°í, ÁÖÂ÷Àå¿¡¼­ ¿À¸¥ÂÊ ¸öÀ» ¸ø ¾²´Â Áõ»óÀ¸·Î ¹ß°ßµÅ°¡ [**3259-12-9**]¿¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚÇÑÅ× ³úÁ¹Áß Áõ»óÀÌ ³ªÅ¸³ª°í ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ½Å°æ¿Ü°ú µµ¿ò ¹Þ¾Æ°¡ Ã´Ãß°­ ÃµÀÚ ÇÏ·Á°í ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â ¿äÃß ÃµÀÚ°¡ ÇÊ¿äÇÕ´Ï´õ.
-contradiction,È¯ÀÚ´Â ½Å°æ¿Ü°ú µµ¿ò ¹Þ¾Æ°¡ Ã´Ãß°­ ÃµÀÚ ÇÏ·Á°í ¿Å°ÜÁ³½É´õ.,"È¯ÀÚ´Â ½Å°æÇÐÀû Áõ»óÀº ¾ø°í, ¿äÃß ÃµÀÚ ÇÒ ÇÊ¿ä´Â ¾ø°Ú½É´õ."
-neutral,È¯ÀÚ´Â ½Å°æ¿Ü°ú µµ¿ò ¹Þ¾Æ°¡ Ã´Ãß°­ ÃµÀÚ ÇÏ·Á°í ¿Å°ÜÁ³½É´õ.,È¯ÀÚ°¡ ¸Ó¸® ¾ÆÇÁ´Ù ÇÕ´Ï´õ.
-entailment,"¿ä ¸çÄ¥ µ¿¾È ±× »ç¶÷ÀÌ ¶ËÀ» Àß ¸ó ´³½É´õ. ¿ø·¡ ÇÏ·ç¿¡ ÇÑ ¹ø¾¿Àº ´©´Âµ¥, ¸¶Áö¸·À¸·Î ¶Ë ´« Áö°¡ ³ªÈê ÀüÀÔ´Ï´õ.",±× »ç¶÷ º¯ºñ ÀÖ½É´õ.
-contradiction,"¿ä ¸çÄ¥ µ¿¾È ±× »ç¶÷ÀÌ ¶ËÀ» Àß ¸ó ´³½É´õ. ¿ø·¡ ÇÏ·ç¿¡ ÇÑ ¹ø¾¿Àº ´©´Âµ¥, ¸¶Áö¸·À¸·Î ¶Ë ´« Áö°¡ ³ªÈê ÀüÀÔ´Ï´õ.",±× »ç¶÷ ¼³»çÇÕ´Ï´õ.
-neutral,"¿ä ¸çÄ¥ µ¿¾È ±× »ç¶÷ÀÌ ¶ËÀ» Àß ¸ó ´³½É´õ. ¿ø·¡ ÇÏ·ç¿¡ ÇÑ ¹ø¾¿Àº ´©´Âµ¥, ¸¶Áö¸·À¸·Î ¶Ë ´« Áö°¡ ³ªÈê ÀüÀÌ¾ú½É´õ.",±× »ç¶÷ Ä¡Áú ÀÖ½É´õ.
-entailment,"±× »ç¶÷Àº Èä¸·¿¡ ¹°ÀÌ Â÷°í, ÃÊÀ½ÆÄ ½ÉÀå ³»½Ã°æÀ¸·Î º¸´Ï±î ½É³¶¿¡µµ ¹°ÀÌ Âù °Ô È®ÀÎµÆ´Âµ¥, ½ÉÀåÀÌ ´­¸®´Â Áõ°Å´Â ¾ø¾ú½É´õ.",±× »ç¶÷Àº Èä¸·ÇÏ°í ½É³¶¿¡ ¹°ÀÌ Â÷ ÀÖ½É´õ.
-contradiction,"±× »ç¶÷Àº Èä¸·¿¡ ¹° Âù °Å¶û ÃÊÀ½ÆÄ ½ÉÀå ³»½Ã°æÀ¸·Î È®ÀÎµÈ ½É³¶¿¡ ¹° Âù ±â µ¿½Ã¿¡ ÀÖ¾ú´Âµ¥, ½ÉÀåÀÌ ´­¸®´Â Áõ°Å´Â ¹ß°ß ¾È µÆ½É´õ.",½ÉÀåÀÌ ´­¸®°í ÀÖ½É´õ.
-neutral,"±× »ç¶÷Àº Èä¸· »ïÃâÀÌ¶û ÃÊÀ½ÆÄ ½ÉÀå ³»½Ã°æÀ¸·Î È®ÀÎµÈ ½É³¶ »ïÃâÀÌ ÀÖ´Â °É·Î ³ª¿Ô°í¿¹, Å½Æ÷³×ÀÌµå Áõ°Å´Â ¾ø¾ú½É´õ.",±× »ç¶÷Àº ½ÉºÎÀü ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,"±× ¿©ÀÚ´Â ±×¶§ °æ·ÃÀÌ³ª ÅëÁõ, ±¸Åä, ¾Æ´Ô ´Ù¸¥ Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.",È¯ÀÚ ROS(½ÅÃ¼°èÅëÁ¶»ç) °á°ú´Â ÀÌ»ó ¾ø½É´õ.
-contradiction,"±× ¿©ÀÚ´Â ±×¶§ °æ·ÃÀÌ³ª ÅëÁõ, ±¸Åä, ¾Æ´Ô ´Ù¸¥ Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.",È¯ÀÚ°¡ ¹è ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,"±× ¿©ÀÚ´Â ±×¶§ °æ·ÃÀÌ³ª ÅëÁõ, ±¸Åä, ¾Æ´Ô ´Ù¸¥ Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.",È¯ÀÚ ½ÅÃ¼ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-entailment,±× »ç¶÷Àº [**3354-10-12**] ¿ÀÀü¿¡ ÁöÄÑº¸°í °Ë»çÇÒ¶ó°í º´µ¿À¸·Î ¿Å°ÜÁ³½É´õ.,±× »ç¶÷Àº ÀÔ¿øÇØ¾ß Çß½É´õ.
-contradiction,±× »ç¶÷Àº [**3354-10-12**] ¿ÀÀü¿¡ ÁöÄÑº¸°í °Ë»çÇÒ¶ó°í º´µ¿À¸·Î ¿Å°ÜÁ³½É´õ.,±× »ç¶÷Àº ÁýÀ¸·Î Åð¿øÇß½É´õ.
-neutral,±× »ç¶÷Àº [**3354-10-12**] ¿ÀÀü¿¡ ÁöÄÑº¸°í °Ë»çÇÒ¶ó°í º´µ¿À¸·Î ¿Å°ÜÁ³½É´õ.,±× »ç¶÷ ¹ÙÀÌÅ»Àº ¾ÈÁ¤ÀûÀÌ¾ú½É´õ.
-entailment,"½Ã¼úÇÏ°í ¸î ½Ã°£ µÚ¿¡, È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä«¸é¼­ ¹ßÀ» ¸ó ¿òÁ÷¿´½É´õ.",È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®¿¡ ÈûÀÌ ºüÁ³½É´õ.
-contradiction,"½Ã¼úÇÏ°í ¸î ½Ã°£ µÚ¿¡, È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä«¸é¼­ ¹ßÀ» ¸ó ¿òÁ÷¿´½É´õ.",È¯ÀÚ´Â ¿ÞÂÊ ´Ù¸®¸¦ ¸¶À½´ë·Î ´Ù ¿òÁ÷ÀÏ ¼ö ÀÖ¾ú½É´õ.
-neutral,"½Ã¼úÇÏ°í ¸î ½Ã°£ µÚ¿¡, È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä«¸é¼­ ¹ßÀ» ¸ó ¿òÁ÷¿´½É´õ.",È¯ÀÚ´Â ÃÖ±Ù¿¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
-entailment,"ÀÏ¿äÀÏ¿¡ Á» ÅäÇÒ¶ó Äº°í, º´¿ø ¿Â ³¯¿¡µµ ±×·¨½É´õ.",È¯ÀÚ°¡ À§Àå ÂÊÀ¸·Î ¾È ÁÁÀº Áõ»óÀ» º¸ÀÔ´Ï´õ.
-contradiction,"ÀÏ¿äÀÏ¿¡ Á» ÅäÇÒ¶ó Äº°í, º´¿ø ¿Â ³¯¿¡µµ ±×·¨½É´õ.",È¯ÀÚ´Â À§Àå ÂÊÀ¸·Î ¾Æ¹« Áõ»ó ¾ø½É´õ.
-neutral,"ÀÏ¿äÀÏ¿¡ Á» ÅäÇÒ¶ó Äº°í, ±× ¿©ÀÚ°¡ º´¿ø ¿Â ³¯¿¡µµ ¶È°°¾Ò½É´õ.",È¯ÀÚ´Â ÃéÀå¿°À» ¾Î°í ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ½ÉÀåÀÌ ÇÑ ¹ø ¸Ü¾ú¾ú½É´õ.,È¯ÀÚ°¡ ½ÉÆó¼Ò»ý¼úÀ» ¹Þ°í ÀÖ¾ú½É´õ.
-contradiction,È¯ÀÚ´Â Àü±â Ãæ°ÝÀ» ÇÑ ¹ø ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â PEA(¹«¸Æ¼º Àü±â È°µ¿) ¶§¹®¿¡ ½ÉÀåÀÌ ¸ÜÀº »óÅÂ¿´½É´õ.
-neutral,È¯ÀÚ´Â ½ÉÀüµµ¸¦ ÇÑ ¹ø Âï¾ú½É´õ.,È¯ÀÚ´Â ½É½Çºó¸ÆÀÌ ¿Ô½É´õ.
-entailment,"89¼¼ ³²ÀÚ È¯ÀÚ·Î ÀÔ¿ø ¿©·¯ ¹ø Çß°í¿¹, ½ÉºÎÀüÁõ(CHF), ½É¹æ¼¼µ¿(AF), ÆÄÅ²½¼º´(PD), °©»ó¼± ±â´É ÀúÇÏÁõ, ±×¸®°í ¿À¸¥ÂÊ ´Ù¸® ±Ë¾çÀÌ ÀÖ´Âµ¥, ¿ÀÁÜ ¾ç ÁÙ°í ¿­ ³ª¼­ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ¿­ÀÌ ³³´Ï´õ.
-contradiction,"89¼¼ ³²ÀÚ È¯ÀÚ·Î ÀÔ¿ø ¿©·¯ ¹ø Çß°í, ½ÉºÎÀüÁõ(CHF), ½É¹æ¼¼µ¿(AF), ÆÄÅ²½¼º´(PD), °©»ó¼± ±â´É ÀúÇÏÁõ, ±×¸®°í ¿À¸¥ÂÊ ´Ù¸® ±Ë¾çÀ» ¾Î°í ÀÖ½É´õ. Áö±ÝÀº ¿ÀÁÜ ¾çÀÌ ÁÙ°í ¿­ÀÌ ³ª´Â Áõ»óÀ» º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â ¿­ ¾ø½É´õ.
-neutral,"89¼¼ ³²ÀÚ È¯ÀÚ·Î, ÀÔ¿ø ¿©·¯ ¹ø Çß°í, ½ÉºÎÀüÁõ(CHF), ½É¹æ¼¼µ¿(AF), ÆÄÅ²½¼º´(PD), °©»ó¼± ±â´É ÀúÇÏÁõ, ±×¸®°í ¿À¸¥ÂÊ ´Ù¸® ±Ë¾çÀ» ¾Î°í ÀÖ½É´õ. Áö±Ý ¿ÀÁÜ ¾ç ÁÙ°í ¿­ ³ª¼­ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ ÀîÀ» ¶§ ¹ÙÀÌÅ»Àº ÀÌ·¨½É´õ: Ã¼¿Â 96.8¢µ, ¸Æ¹Ú 72È¸/ºÐ, Ç÷¾Ð 97/68 mmHg, È£Èí 20È¸/ºÐ, »ê¼ÒÆ÷È­µµ 93%¿¡ »ê¼Ò 3¸®ÅÍ ÁÖ°í ÀÖ¾ú½É´õ.",È¯ÀÚ »ê¼ÒÆ÷È­µµ°¡ ³·½É´õ.
-contradiction,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 96.8µµ, ½É¹Ú¼ö 72È¸, Ç÷¾Ð 97/68, È£Èí¼ö 20È¸, »ê¼ÒÆ÷È­µµ 93%, »ê¼Ò °ø±Þ·® 3L.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
-neutral,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 96.8µµ, ½É¹Ú¼ö 72È¸, Ç÷¾Ð 97/68mmHg, È£Èí¼ö 20È¸, »ê¼ÒÆ÷È­µµ 93%, »ê¼Ò °ø±Þ·® 3L.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) º´·ÂÀÌ ÀÖ½É´õ.
-entailment,¾ÆÇÁ±â Àü¿¡´Â È¯ÀÚ°¡ º° ¾î·Á¿ò ¾øÀÌ ¸î ºí·ÏÀº °É¾î ´óƒ…½É´õ.,¾ÆÇÁ±â Àü¿¡´Â È¯ÀÚ°¡ °É¾î ´ó±æ ¼ö ÀÖ¾ú½É´õ.
-contradiction,Áõ»ó »ý±â±â Àü¿¡´Â È¯ÀÚ°¡ º° ¾î·Á¿ò ¾øÀÌ ¸î ºí·ÏÀº °ÉÀ» ¼ö ÀÖ¾ú½É´õ.,¾ÆÇÁ±â ÀüºÎÅÍ È¯ÀÚ´Â °È´Â °É Èûµé¾îÇß½É´õ.
-neutral,¾ÆÇÁ±â Àü¿¡´Â È¯ÀÚ°¡ º° ¾î·Á¿ò ¾øÀÌ ¸î ºí·ÏÀº °É¾î ´óƒ…½É´õ.,¾ÆÇÁ°í ³ª¼­´Â È¯ÀÚ°¡ °È´Â °É Èûµé¾î ÇÕ´Ï´õ.
-entailment,±× »ç¶÷Àº ¼ûÀ» ¾È ½¬°í ¾ó±¼»öµµ ¾È ÁÁ¾Ò½É´õ.,È¯ÀÚ´Â ¼ûÀ» ¾È ½¬°í ÀÖ¾ú½É´õ.
-contradiction,±× »ç¶÷Àº ¼ûÀÌ ¸Ü¾ú°í ÇÇºÎ»öµµ ¾È ÁÁ¾Ò½É´õ.,È¯ÀÚ È£ÈíÀº ±¦Âú¾Ò½É´õ.
-neutral,±× »ç¶÷Àº ¼ûÀ» ¾È ½¬°í ¾ó±¼»öµµ ¾È ÁÁ¾Ò½É´õ.,È¯ÀÚ´Â ¸Ó¸®¸¦ ´ÙÃÆ½É´õ.
-entailment,±×¶§ ±× »ç¶÷Àº Ç÷¾Ð ¶³¾îÁö°í »ê¼Ò ºÎÁ·À¸·Î ¹ÝÀÀÀÌ ¾ø¾îÁ³½É´õ.,±×¶§ ±× »ç¶÷ Ç÷¾ÐÇÏ°í »ê¼Ò Æ÷È­µµ°¡ ³·¾Ò½É´õ.
-contradiction,±×¶§ ±× »ç¶÷Àº Ç÷¾Ð ¶³¾îÁö°í »ê¼Ò ºÎÁ·À¸·Î ¹ÝÀÀÀÌ ¾ø¾îÁ³½É´õ.,±×¶§ ±× »ç¶÷ »ýÃ¼ ½ÅÈ£´Â ±¦Âú¾Ò½É´õ.
-neutral,±×¶§ ±× »ç¶÷Àº Ç÷¾Ð ³·°í »ê¼Ò ºÎÁ·ÇØ¼­ ¹ÝÀÀÀÌ ¾ø¾ú½É´õ.,±× »ç¶÷Àº ´ÙÃÆ½É´õ.
-entailment,"È¯ÀÚ°¡ Áý¿¡¼­ Ç÷¾ÐÀ» ÀçºÃ´Âµ¥, 69/51ÀÌ ³ª¿Ô½É´õ.",±× »ç¶÷ Ç÷¾ÐÀÌ ³·¾Ò½É´õ.
-contradiction,"È¯ÀÚ°¡ Áý¿¡¼­ Ç÷¾ÐÀ» ÀçºÃ´Âµ¥, 69/51ÀÌ ³ª¿Ô½É´õ.",±× »ç¶÷ Ç÷¾ÐÀÌ ³ô¾Ò½É´õ.
-neutral,"È¯ÀÚ°¡ Áý¿¡¼­ Ç÷¾ÐÀ» ÀçºÃ´Âµ¥, 69/51ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ°¡ ¾îÁö·´´Ù°í ÇÕ´Ï´õ.
-entailment,"¾î¹«ÀÌ´Â ´Ü¼øÆ÷Áø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸¶Áö¸·À¸·Î ¾ÆÆÍ´ø °Ô [**3374-11-24**]·Î ±â·ÏµÅ ÀÖ½É´õ.",¾î¹«ÀÌ´Â Çì¸£Æä½º ´Ü¼ø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-contradiction,"¾î¹«ÀÌ´Â ´Ü¼øÆ÷Áø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸¶Áö¸·À¸·Î ¾ÆÆÍ´ø °Ô [**3374-11-24**]·Î ±â·ÏµÅ ÀÖ½É´õ.",¾î¹«ÀÌ´Â ¸¸¼ºÁúÈ¯Àº ¾ø½É´õ.
-neutral,"¾î¹«ÀÌ´Â ´Ü¼øÆ÷Áø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸¶Áö¸·À¸·Î ¾ÆÆÍ´ø °Ô [**3374-11-24**]·Î ±â·ÏµÅ ÀÖ½É´õ.",¾î¹«ÀÌ´Â Ç×¹ÙÀÌ·¯½º Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.
-entailment,±× »ç¶÷Àº ´ÚÅÍÇï±â Å¸°í [**Hospital1 22**]·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â Çï±â Å¸°í º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.
-contradiction,±× »ç¶÷Àº ÀÇ·á Çï±â Å¸°í [**Hospital1 22**]·Î ÀÌ¼ÛµÆ½É´õ.,È¯ÀÚ´Â Ä¡·á¹ÞÀ¸·¯ ÀÌ¼ÛµÇÁø ¾Ê¾Ò½É´õ.
-neutral,±× »ç¶÷Àº ´ÚÅÍÇï±â·Î [**Hospital1 22**]¿¡ ÀÌ¼ÛµÆ½É´õ.,È¯ÀÚ »óÅÂ°¡ ¸¶ÀÌ ¾È ÁÁ½É´õ.
-entailment,"±× »ç¶÷Àº Èä¸· »ïÃâ¹° Á¦°Å, À¯Âø¹° Á¦°Å ¹× ºÎºÐÀûÀÎ Æó °¨½Î°³ Á¦°Å¸¦ À§ÇØ°¡ ÈäºÎ°æ °Ë»ç ¹ÞÀ¸·Á°í ÀÔ¿øÇß½Ê´Ï´õ.",±× »ç¶÷Àº Æó ÀÌ»ó¿¡ ´ëÇÑ Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.
-contradiction,"±× »ç¶÷Àº Èä¸· »ïÃâ¹° Á¦°Å, À¯Âø¹° Á¦°Å ¹× ºÎºÐÀûÀÎ Æó °¨½Î°³ Á¦°Å¸¦ À§ÇØ°¡ ÈäºÎ ³»½Ã°æ ¼ö¼ú ¹ÞÀ¸·Á°í ÀÔ¿øÇß½Ê´Ï´õ.",Á¤»óÀûÀÎ Æó ±â´É
-neutral,"±× »ç¶÷Àº Èä¸· »ïÃâ¹° Á¦°Å, À¯Âø¹° Á¦°Å ¹× ºÎºÐÀûÀÎ Æó °¨½Î°³ Á¦°Å¸¦ À§ÇØ°¡ ÈäºÎ°æ °Ë»ç ¹ÞÀ»¶ó°í ÀÔ¿øÇß½Ê´Ï´õ.",±× »ç¶÷Àº Æó¾Ï º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"MRI °á°ú¿¡¼­ ""¿À¸¥ÂÊ »óºÎ ÀüµÎÈ¸¿Í ¿ÞÂÊ Áß¾Ó ¼Ò³ú¹Ý±¸¿¡ ³¶Á¾/³ú¿¬È­ º¯È­°¡ º¸¿´À¸³ª °­È­µÇ´Â Áõ°Å´Â ¾ø¾ú½Ê´Ï´õ."" MRA °á°ú¿¡¼­´Â Àü/ÈÄ ¼øÈ¯¿¡ ¹®Á¦°¡ ¾ø´Â °É·Î ³ª¿Ô½Ê´Ï´õ.",È¯ÀÚºÐ ³ú MRI °á°ú°¡ ºñÁ¤»óÀÔ´Ï´õ.
-contradiction,"MRI °á°ú¿¡¼­ ""¿À¸¥ÂÊ »óºÎ ÀüµÎÈ¸¿Í ¿ÞÂÊ Áß¾Ó ¼Ò³ú¹Ý±¸¿¡¼­ ³¶Á¾/³ú¿¬È­ º¯È­°¡ °üÂûµÇ¾úÀ¸³ª, °­È­µÈ Áõ°Å´Â ¾ø¾ú½Ê´Ï´õ."" MRA °á°ú¿¡¼­´Â Àü/ÈÄ ¼øÈ¯°è°¡ Á¤»óÀûÀ¸·Î Æ¯ÇãµÇ¾î ÀÖÀ½À» º¸¿©Áá½Ê´Ï´õ.",È¯ÀÚºÐÀº ±Þ¼º ³úÁ¹ÁßÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
-neutral,"MRI °á°ú¿¡¼­ ""¿ìÃø »óºÎ ÀüµÎÈ¸¿Í ÁÂÃø Áß¾Ó ¼Ò³ú¹Ý±¸¿¡¼­´Â ³¶Á¾/³ú¿¬È­ º¯È­°¡ º¸¿´À¸³ª, °­È­µÈ Áõ°Å´Â ¾ø¾ú½Ê´Ï´õ."" MRA °á°ú¿¡¼­´Â Àü/ÈÄ ¼øÈ¯¿¡ ¹®Á¦°¡ ¾ø´Â °É·Î ³ª¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº ¿¹Àü¿¡ ½É±Ù°æ»öÁõÀ» ¾Î¾Ò½Ê´Ï´õ.
-entailment,"°Ë»ç °á°ú¿¡¼­ ´«¿¡ ¶ç´Â °Å´Â K(Ä®·ý)ÀÌ 6.6ÀÌ°í, ¿äºÐ¼® °á°ú´Â °¨¿°À» ½Ã»çÇÏ°í ÀÖ½Ê´Ï´õ.",°Ë»ç °á°ú¿¡ µû¸£¸ð ¿ä·Î °¨¿°ÀÌ ³ª¿Ô½Ê´Ï´õ.
-contradiction,"°Ë»ç °á°ú¿¡¼­ ´«¿¡ ¶ç´Â °Å´Â Ä®·ý ¼öÄ¡°¡ 6.6À¸·Î ³ª¿Ô°í, ¿äºÐ¼® °á°ú´Â °¨¿°À» ½Ã»çÇÏ°í ÀÖ½Ê´Ï´õ.",¿äºÐ¼® °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.
-neutral,"°Ë»ç °á°ú¿¡¼­ ´«¿¡ ¶ç´Â °Å´Â K(Ä®·ý)ÀÌ 6.6ÀÌ°í, ¿äºÐ¼® °á°ú´Â °¨¿°À» ½Ã»çÇÏ°í ÀÖ½Ê´Ï´õ.",½ÅÀå ÁúÈ¯ º´·Â
-entailment,"°£´ÜÈ÷ ¸»ÇÏ¸ð, 79¼¼ ³²ÀÚ ¿ä¾ç¿ø »ç´Â ºÐÀ¸·Î Ä¡¸Å¶û °ú°Å¿¡ ¾ÈÀåÇü Æó»öÀüÁõ, ¸ÞÆ¼½Ç¸° ³»¼º È²»öÆ÷µµ¾Ë±Õ °¨¿°, Ç÷ÀüÇÙ ¾ø´Â ½É¹æ¼¼µ¿À» ¾Î¾Ò´Âµ¥, ÀÌ°Å´Â ¾Æ¸¶ ÃøµÎ¿± ÃâÇ÷ ¶§¹®ÀÎ °É·Î ÃßÁ¤µË´Ï´õ. ¶Ç ¿ä·Î Á¤Ã¼¶û Àç¹ß¼º ¿ä·Î°¨¿°ÁõÀ» °Þ°í ÀÖ°í, Áö±ÝÀº ¿ä·Î ÆÐÇ÷ÁõÀ¸·Î ³ªÅ¸³ª°í ÀÖ½Ê´Ï´õ.",È¯ÀÚºÐÀº ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
-contradiction,"°£´ÜÈ÷ ¸»ÇÏ¸ð, 79¼¼ ³²ÀÚ ¿ä¾ç¿ø »ç´Â ºÐÀ¸·Î Ä¡¸Å, °ú°Å¿¡ ¾ÈÀåÇü Æó»öÀüÁõ, ¸ÞÆ¼½Ç¸° ³»¼º È²»öÆ÷µµ¾Ë±Õ °¨¿°, Äí¸¶µò ¾È ¸Ô´Â ½É¹æ¼¼µ¿ÀÌ ÀÖ¾ú°í ÀÌ°Å´Â ¾Æ¸¶ ÃøµÎ¿± ÃâÇ÷ ¶§¹®ÀÎ °É·Î ÃßÁ¤µË´Ï´õ. ¶Ç ¿ä·Î Á¤Ã¼¶û Àç¹ß¼º ¿ä·Î °¨¿°ÁõÀÌ ÀÖ¾î°¡ ÀÌ ¶«¿¡ ¿ä·Î ÆÐÇ÷ÁõÀ¸·Î ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚºÐ »ýÃ¼ ½ÅÈ£´Â Á¤»óÀÔ´Ï´õ.
-neutral,"°£´ÜÈ÷ ¸»ÇÏ¸ð, 79¼¼ ³²ÀÚ ¿ä¾ç¿ø »ç´Â ºÐÀ¸·Î Ä¡¸Å¶û °ú°Å¿¡ ¾ÈÀåÇü Æó»öÀüÁõ, È²»öÆ÷µµ»ó±¸±Õ °¨¿°, Coumadin ¾È ¸Ô´Â ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ¾ú°í, ÀÌ°Å´Â ¾Æ¸¶ ÃøµÎ¿± ÃâÇ÷ ¶§¹®ÀÏ °É·Î ÃßÁ¤µË´Ï´õ. ¶Ç ¿ä·Î Á¤Ã¼¶û Àç¹ß¼º ¿ä·Î °¨¿°ÁõÀ» °Þ°í ÀÖ°í, Áö±ÝÀº ¿ä·Î ÆÐÇ÷ÁõÀ¸·Î ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚºÐÀº ´ëÀå±Õ Ç÷¾× °¨¿°À» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,"61¼¼ ¿©ÀÚ È¯ÀÚºÐÀ¸·Î ¸¸¼º ½ÅÀå ÁúÈ¯(CKD), ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦ ¼ö¼ú ÈÄ À¯¹æ¾Ï, °íÇ÷¾Ð °ú°Å º´·ÂÀÌ ÀÖ½Ê´Ï´õ. ÀÌ È¯ÀÚºÐÀº ¹è²Å Çì¸£´Ï¾Æ ¼ö¼úÇÒ¶ó°í [**Hospital1 18**]¿¡ ¿Ü·¡ ¼ö¼ú ¿¹¾àÇÏ°í ¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº º¹ºÎ Àü¹æ º® °á¼ÕÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"61¼¼ ¿©ÀÚ È¯ÀÚºÐÀ¸·Î ¸¸¼º ½ÅÀå ÁúÈ¯(CKD), ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦¼ú ÈÄ À¯¹æ¾Ï, °íÇ÷¾Ð °ú°Å º´·ÂÀÌ ÀÖ½Ê´Ï´õ. ÀÌ È¯ÀÚºÐÀº ¹è²Å Çì¸£´Ï¾Æ ¼ö¼úÇÒ¶ó°í [**Hospital1 18**]¿¡ ¿Ü·¡ ¼ö¼ú ¿¹¾àÇÏ°í ¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÇÑÅ×´Â º¹ºÎ Àü¹æ º® °á¼ÕÀÌ ¾ø½Ê´Ï´õ.
-neutral,"61¼¼ ¿©ÀÚ È¯ÀÚºÐÀ¸·Î ¸¸¼º ½ÅÀå ÁúÈ¯, À¯¹æ¾ÏÀ¸·Î ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦ ¼ö¼úÀ» ¹ÞÀº µÚ¿¡ °íÇ÷¾ÐÀ» ¾Î°í ÀÖ½Ê´Ï´õ. ÀÌ È¯ÀÚºÐÀº [**Hospital1 18**]¿¡ ¹è²Å Çì¸£´Ï¾Æ ¼ö¼úÇÒ¶ó°í ¿Ü·¡ ¼ö¼ú ¿¹¾àÇÏ°í ¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº Áö¹æÀ» Æ÷ÇÔÇÏ´Â ¹è²Å Çì¸£´Ï¾Æ°¡ ÀÖ½Ê´Ï´õ.
-entailment,"MRI °á°ú¿¡¼­ ¿À¸¥ÂÊ ¼Ò³ú º´º¯ÀÌ È®ÀÎµÆ°í, ÁÖº¯ °­Á¶ Çö»óÀÌ ³ªÅ¸³ª°¡ ÀÌ°Å´Â ÀüÀÌ¼º ÁýÁßºÎ¸¦ ½Ã»çÇÕ´Ï´õ.",È¯ÀÚºÐ ¿µ»ó Áø´Ü °á°ú°¡ ÀÖ½Ê´Ï´õ.
-contradiction,"MRI °á°ú·Î ¿ìÃø ¼Ò³ú º´º¯ÀÌ È®ÀÎµÆ°í, ÁÖº¯ °­Á¶ Çö»óÀ¸·Î º¸ÀÌ ÀüÀÌ¼º ÁýÁßºÎ¸¦ ½Ã»çÇÕ´Ï´õ.",È¯ÀÚºÐ ³ú MRI °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"MRI °á°ú¿¡ µû¸£¸ð, µÑ·¹ °­Á¶°¡ ÀÖ´Â ¿À¸¥ÂÊ ¼Ò³ú º´º¯ÀÌ È®ÀÎµÆ°í, ÀÌ°Å´Â ÀüÀÌ¼º º´¼Ò¸¦ ½Ã»çÇÕ´Ï´õ.",È¯ÀÚºÐÇÑÅ× ¾ÏÀÌ Áø´ÜµÆ½Ê´Ï´õ.
-entailment,±× ¿©ÀÚºÐÀº µÎ ¹øÂ° ½ÅÀå ÀÌ½ÄÀÌ ½ÇÆÐÇÑ µÚ·Î [**3048-1-29**]ºÎÅÍ Ç÷¾×Åõ¼®À» ¹Þ°í ÀÖ½Ê´Ï´õ.,±× ¿©ÀÚºÐÀº ¸»±â ½ÅºÎÀüÁõÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
-contradiction,±× ¿©ÀÚºÐÀº µÎ ¹øÂ° ½ÅÀå ÀÌ½ÄÀÌ ½ÇÆÐÇÑ µÚ·Î [**3048-1-29**]ºÎÅÍ Ç÷¾×Åõ¼®À» ¹Þ°í ÀÖ½Ê´Ï´õ.,È¯ÀÚºÐ ½Å±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,±× ¾ÆÁö¸Å´Â µÎ ¹øÂ° ½ÅÀå ÀÌ½ÄÀÌ ½ÇÆÐÇÏ°í ³ª¼­ [**3048-1-29**]ºÎÅÍ Ç÷¾×Åõ¼® ¹Þ°í ÀÖ½Ê´Ï´õ.,±× ¾ÆÁö¸Å ´ç´¢º´ È¯ÀÚÀÔ´Ï´õ.
-entailment,È¯ÀÚ°¡ 1¸®ÅÍ Á¤»ó »ïÅõ¾Ð ¼ö¿ë¾× ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚºÐ ¼ö¾× ¸Â¾Ò½Ê´Ï´õ.
-contradiction,È¯ÀÚ°¡ 1¸®ÅÍ Á¤»ó »ïÅõ¾Ð ¼ö¿ë¾× ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚ´Â ¼ö¾× ¾È ¸Â¾Ò½Ê´Ï´õ.
-neutral,È¯ÀÚ°¡ 1¸®ÅÍ Á¤»ó »ïÅõ¾Ð ¼ö¿ë¾× ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚ ÀúÇ÷¾ÐÀÔ´Ï´õ.
-entailment,"±× ¾ÆÁö¸Å´Â [**6-/2929**]¿¡ ÀüÀÌ¼º ÁúÈ¯ Áø´Ü¹Þ¾Ò°í¿¹, ÁÖ¿ä Ç¥ÀûÀº Her2+°í, ER+ÀÔ´Ï´õ.",È¯ÀÚ À¯¹æ¾Ï ÀÖ½Ê´Ï´õ.
-contradiction,"±× ¾ÆÁö¸Å´Â [**6-/2929**]¿¡ ÀüÀÌ¼º ÁúÈ¯ Áø´Ü¹Þ¾Ò°í¿¹, ±âº»ÀûÀ¸·Î Her2+°í, ER+ÀÔ´Ï´õ.",È¯ÀÚ ¿µ»ó °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"±× ¾ÆÁö¸Å´Â [**6-/2929**]¿¡ ÀüÀÌ¼º ÁúÈ¯ Áø´Ü¹Þ¾Ò´Âµ¥¿¹, ÁÖ¿ä º´º¯Àº Her2+, ER+¿´½Ê´Ï´õ.",È¯ÀÚ »À ÀüÀÌ ÀÖ½Ê´Ï´õ.
-entailment,±× »çÀÌ¿¡ ±× ¾ç¹ÝÀº ÇÑ 72½Ã°£ µ¿¾È ÀÎ°øÈ£Èí±â ¾È ½è½Ê´Ï´õ.,È¯ÀÚ´Â Àü¿¡ È£Èí º¸Á¶ ¹Þ¾Ò¾ú½Ê´Ï´õ.
-contradiction,±× »çÀÌ¿¡ ±× ¾ç¹ÝÀº ÇÑ 72½Ã°£ µ¿¾È ÀÎ°øÈ£Èí±â ¾È ½è½Ê´Ï´õ.,È¯ÀÚ Æ©ºê»ð°ü Çß½Ê´Ï´õ.
-neutral,±× »çÀÌ¿¡ ±× ¾ç¹ÝÀº ÇÑ 72½Ã°£ µ¿¾È ÀÎ°øÈ£Èí±â ¾È ½è½Ê´Ï´õ.,È¯ÀÚ »ýÃ¼Â¡ÈÄ´Â Á¤»ó ¹üÀ§ ¾È¿¡ ÀÖ½Ê´Ï´õ.
-entailment,"±× ¾ÆÁö¸Å ¸çÄ¥ Àü¿¡ ³Ñ¾îÁö°í ³ª¼­ ""¿Â¸öÀÌ ´Ù ¾¥½Å´Ù""°í ÇÕ´Ï´õ.",È¯ÀÚ°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
-contradiction,"±× ¾ÆÁö¸Å ¸çÄ¥ Àü¿¡ ³Ñ¾îÁö°í ³ª¼­ ""¿Â¸öÀÌ ´Ù ¾¥½Å´Ù""°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ºÒÆíÇÑ °Å ¾ø´Ù°í ÇÕ´Ï´õ.
-neutral,"±× ¾ÆÁö¸Å ¸çÄ¥ Àü¿¡ ³Ñ¾îÁö°í ³ª¼­ ""¿Â¸öÀÌ ´Ù ¾¥½Å´Ù""°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ¹°¸®Ä¡·á »ó´ã¹Þ´Â ±â µµ¿òÀÌ µÉ ³§´Ï´õ.
-entailment,"±×¸®°í¿¹, ±× ¾ç¹ÝÀÌ È¸»öÀÌ³ª ³ë¶õ»ö °¡·¡ ¼¯ÀÎ ±âÄ§À» 2.5ÁÖ µ¿¾È Çß´Ù°í ÇÕ´Ï´õ.",±× ¾ç¹Ý °¡·¡ ²ú´Â ±âÄ§ÇÑ´Ù°í ÇÕ´Ï´õ.
-contradiction,"±×¸®°í¿¹, ±× ¾ç¹ÝÀÌ È¸»öÀÌ³ª ³ë¶õ»ö °¡·¡ ¼¯ÀÎ ±âÄ§À» 2.5ÁÖ µ¿¾È Çß´Ù°í ÇÕ´Ï´õ.",±× ¾ç¹Ý ±âÄ§µµ ¾È ÇÏ°í °¡·¡µµ ¾ø´Ù°í ÇÕ´Ï´õ.
-neutral,"°Å±â´Ù °¡, ±× ¾ç¹ÝÀÌ È¸»öÀÌ³ª ³ë¶õ»ö °¡·¡ ¼¯ÀÎ ±âÄ§À» 2.5ÁÖ µ¿¾È Çß´Ù°í ÇÕ´Ï´õ.",±× ¾ç¹Ý ¼û½¬±â Èûµé´Ù°í ÇÕ´Ï´õ.
-entailment,°È°Å³ª ÀÏ¾î³ª´Â ±â ¸¶ÀÌ Èûµé¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ ¿òÁ÷ÀÌ´Â °É Èûµé¾îÇÕ´Ï´õ.
-contradiction,°È°Å³ª ÀÏ¾î³ª´Â ±â ¸¶ÀÌ Èûµé¾ú½Ê´Ï´õ.,È¯ÀÚ´Â °È´Â µ¥ ¹®Á¦ ¾ø½Ê´Ï´õ.
-neutral,°É¾î ´ó±â°Å³ª ¾É¾Ò´Ù ÀÏ¾î³ª´Â ±â ¸¶ÀÌ Èûµé¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ ¾ÆÆÄÇÕ´Ï´õ.
-entailment,±× ¾ÆÁö¸Å ¼öÃà±â Ç÷¾ÐÀÌ 80-90À¸·Î ³·¾Æ°¡ ÀÀ±Þ½Ç¿¡¼­ ¼ö¾×À» 8¸®ÅÍ ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚ ÀúÇ÷¾Ð ÀÖ½Ê´Ï´õ.
-contradiction,"±× ¿©ÀÚ´Â ¼öÃà±â Ç÷¾ÐÀÌ 80-90À¸·Î ³·¾Æ°¡, ÀÀ±Þ½Ç¿¡¼­ Á¤¸ÆÀ¸·Î ¼ö¾×À» 8¸®ÅÍ ¸Â¾Ò½Ê´Ï´õ.",È¯ÀÚ Ç÷¾ÐÀº Á¤»óÀÔ´Ï´õ.
-neutral,"±× ¿©ÀÚ´Â ¼öÃà±â Ç÷¾ÐÀÌ 80-90À¸·Î ³·¾Æ°¡, ÀÀ±Þ½Ç¿¡¼­ Á¤¸ÆÀ¸·Î ¼ö¾×À» 8¸®ÅÍ ÁÖÀÔ¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ºó¸ÆÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"Áõ»óÀÌ È¥Àâ¼º ½ÉºÎÀüÀÌ°í, ½É¹ÚÃâ·üÀÌ Á¤»óÀÎ °É·Î ºÁ¼­ ÀÌ¿Ï±â ±â´ÉÀå¾Ö·Î º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â ½ÉÀå ÁúÈ¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
-contradiction,"È¥Å¹¼º ½ÉºÎÀüÀÌ°í, ÀÌÃâ ºÐÈ¹ÀÌ Á¤»óÀÎ °É·Î º¸ÀÌ ÀÌ¿Ï±â ±â´É Àå¾Ö·Î º¸ÀÔ´Ï´õ.",½ÉÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"Áõ»óÀÌ ³ªÅ¸³­ ½ÉºÎÀüÀÌ°í, ½É¹æÃàÃâ°è¼ö°¡ Á¤»óÀÎ °É·Î º¸ÀÌ ÀÌ¿Ï±â ±â´É Àå¾Ö·Î º¸ÀÔ´Ï´õ.",°íÇ÷¾ÐÀÌ¶û ½É±Ù°æ»ö º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-entailment,È¯ÀÚ´Â ¶³¾îÁö´Â »ç°í ¶«¿¡ ¿ÞÂÊ ¾Õ´Ï°¡ ±úÁ³½Ê´Ï´õ.,È¯ÀÚ°¡ ¶³¾îÁö´Â »ç°í¸¦ ´çÇß½Ê´Ï´õ.
-contradiction,È¯ÀÚ´Â ¶³¾îÁö´Â »ç°í ¶«¿¡ ¿ÞÂÊ ¾Õ´Ï°¡ ±úÁö´Â »óÃ³¸¦ ÀÔ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¶³¾îÁø »ç°í °ÞÀº Àû ¾ø½Ê´Ï´õ.
-neutral,È¯ÀÚ´Â ¶³¾îÁö°¡ ¿ÞÂÊ ¾Õ´Ï°¡ ±úÁ®»Ö½Ê´Ï´õ.,È¯ÀÚ´Â ¾È¸é °ñÀý»óÀ» ÀÔ¾ú½Ê´Ï´õ.
-entailment,"¸»ÃÊ Ç÷°ü ÁúÈ¯ ¶«¿¡ Æè-[**ÀÇ»ç ¼º**] ¼ö¼ú ¹ÞÀº È¯ÀÚ »óÅÂ, ¾çÂÊ °æµ¿¸Æ ÇùÂøÁõ.",Ç÷°ü ¼öÃà·Â °¨¼Ò º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"¸»ÃÊ Ç÷°ü ÁúÈ¯ ¶«¿¡ Æè-[** ÀÇ»ç ¼º **] ¿ìÈ¸ ¼ö¼ú ¹ÞÀº ÈÄ »óÅÂ, ¾çÂÊ °æµ¿¸Æ ÇùÂøÁõ.",Ç÷°ü ÁúÈ¯ º´·ÂÀº ¾ø½Ê´Ï´õ.
-neutral,"¸»ÃÊ Ç÷°ü ÁúÈ¯ ¶«¿¡ Æè-[**ÀÇ»ç ¼º**] ¼ö¼ú ¹ÞÀº È¯ÀÚ »óÅÂ, ¾çÂÊ °æµ¿¸Æ ÇùÂøÁõ.",°íÁöÇ÷Áõ º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"»ê¸ð »êÀü °Ë»ç °á°ú, Ç÷¾×ÇüÀº ABÇü Rh(D) ¾ç¼ºÀÌ°í Ç×Ã¼´Â À½¼º, ¸Åµ¶(RPR)Àº ºñ¹ÝÀÀ¼º, Ç³Áø ¸é¿ª ÀÖ²¿, BÇü °£¿° Ç¥¸é Ç×¿øÀº À½¼º, ±×¸®°í ±×·ì º£Å¸ ¿¬¼â±¸±Õ »óÅÂ´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ.",¾î¹«ÀÌ Ç÷¾×ÇüÀº AB ÇÃ·¯½ºÀÔ´Ï´õ.
-contradiction,"»ê¸ð ÅÂ¾Æ ¼±º° °Ë»ç °á°ú, Ç÷¾×ÇüÀº ABÇü ¾ç¼ºÀÌ°í Ç×Ã¼´Â À½¼ºÀÔ´Ï´õ. ¸Åµ¶(RPR)Àº ºñ¹ÝÀÀ¼ºÀÌ°í, Ç³Áø ¸é¿ª »óÅÂÀÔ´Ï´õ. BÇü °£¿° Ç¥¸é Ç×¿øÀº À½¼ºÀÌ°í, ±×·ì º£Å¸ ¿¬¼â±¸±Õ »óÅÂ´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â RPR ¹ÝÀÀÀÌ ÀÖ½Ê´Ï´õ.
-neutral,"ÀÓ½Å ÃÊ±â »ê¸ð °Ë»ç °á°ú, Ç÷¾×ÇüÀº ABÇü Rh(D) À½¼º, Ç×Ã¼´Â À½¼º, ¸Åµ¶Àº ¹«¹ÝÀÀ, Ç³Áø ¸é¿ª ÀÖ°í, BÇü °£¿° Ç¥¸éÇ×¿øÀº À½¼º, ±×¸®°í ±×·ì º£Å¸ ¿¬¼â±¸±Õ »óÅÂ´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ.",»ê¸ð´Â BÇü ¿¬¼â±¸±Õ ¾ç¼ºÀÔ´Ï´õ.
-entailment,"Áý¿¡¼­´Â ¿­Àº ¾ø¾ú°í, Åä´Â ¾È Çß´Âµ¥ (ÀÀ±Þ½Ç¿¡´Â ÅäÇß´Ù°í ÇßÀ½), °¡½¿ÀÌ ´ä´äÇÏ°Å³ª ¼ûÂ÷´Â °Ç ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ´Â ¿­ ¾ø½Ê´Ï´õ.
-contradiction,"Áý¿¡¼­´Â ¿­Àº ¾ø¾ú°í, Åä´Â ¾È Çß´Âµ¥ (ÀÀ±Þ½Ç¿¡´Â ÅäÇß´Ù°í ÇßÀ½), °¡½¿ÀÌ ´ä´äÇÏ°Å³ª ¼û½¬±â Èûµç °Ç ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
-neutral,"Áý¿¡¼­´Â ¿­Àº ¾ø¾ú°í, Åä´Â ¾È Çß´Âµ¥ (ÀÀ±Þ½Ç¿¡´Â ÅäÇß´Ù°í ÇßÀ½), °¡½¿ÀÌ ´ä´äÇÏ°Å³ª ¼û Â÷´Â Áõ»óµµ ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ´Â ¿°Áõ¼º ÀåÁúÈ¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,"¾Ö±â´Â ÇÇºÎ»öµµ ÁÁ°í ¿ì··Â÷°Ô ¿ï¸é¼­ ÅÂ¾î³µ°í, ÀÔÀÌ¶û ÄÚ ÈíÀÎÇß½Ê´Ï´õ.",È¯ÀÚ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â Á¤»óÀÔ´Ï´õ.
-contradiction,"¾Ö±â´Â ÇÇºÎ»öµµ ÁÁ°í Àß ¿ï¸é¼­ ÅÂ¾î³µ°í, ÀÔÇÏ°í ÄÚ ÈíÀÎÇß½Ê´Ï´õ.",È¯ÀÚ °Ë»ç °á°ú°¡ ºñÁ¤»óÀÔ´Ï´õ.
-neutral,"¾Ö±â´Â »óÅÂµµ ÁÁ°í Àß ¿ï¾ú°í, ÀÔÇÏ°í ÄÚ ÈíÀÎÇß½Ê´Ï´õ.",È¯ÀÚ´Â ³²ÀÚÀÔ´Ï´õ.
-entailment,"¹Ù±ù º´¿ø¿¡¼­ ½ÉÀåÃÊÀ½ÆÄ °Ë»çÇß´õ¸¶´Â, ½É¹ÚÃâ·üÀÌ 25%¶óÄ°´Ï´õ.",½ÉÀå ½É¹æÃàÃâ°è¼ö°¡ ³·½Ê´Ï´õ.
-contradiction,"¹Ù±ù º´¿ø¿¡¼­ ÇÑ ½ÉÀåÃÊÀ½ÆÄ °Ë»ç °á°ú, ½É¹ÚÃâ·üÀÌ 25%·Î ³ª¿Ô½Ê´Ï´õ.",½ÉÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"¹Ù±ù º´¿ø¿¡¼­ ÇÑ ½ÉÃÊÀ½ÆÄ °Ë»ç °á°ú, ½É¹ÚÃâ·üÀÌ 25%·Î ³ª¿Ô½Ê´Ï´õ.",½ÉºÎÀüÇÏ°í ½É±Ù°æ»ö ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"±× ¿©ÀÚºÐ Á¼Àº º¹ÇÕÃ¼ÇÏ°í Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¶ó¼­, Áö±ÝÀº ÀÓ½Ã Àü¼±ÀÌ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.",Áö±ÝÀ¸·Î¼­´Â ½ÉÀå °ü·Ã ½Ã¼úÀº ÇÊ¿ä¾ø´Ù°í ÆÇ´ÜµÆ½Ê´Ï´õ.
-contradiction,"±× ¿©ÀÚºÐ Á¼Àº º¹ÇÕÃ¼ÇÏ°í Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¶ó¼­, ¿ä¹ø¿¡´Â ÀÓ½Ã Àü¼±ÀÌ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ°¡ ºÒ¾ÈÁ¤Çß½Ê´Ï´õ.
-neutral,"±× ¿©ÀÚºÐ Á¼Àº º¹ÇÕÃ¼ÇÏ°í Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¶ó¼­, ¿ä¹ø¿¡´Â ÀÓ½Ã Àü¼±ÀÌ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.","È¯ÀÚ Áõ»óÀÌ ±¦Âú¾ÆÁ³°í, ½ÉÀüµµÇÏ°í »ýÃ¼ ½ÅÈ£µµ Á¤»óÀÌ¾ú½Ê´Ï´õ."
-entailment,"ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·Â(LVEDP)Àº 20ÀÌ°í, Æò±Õ Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº 27ÀÌ¾ú½Ê´Ï´õ.",Æò±Õ Æó¸ð¼¼°ü ¿þÁö ¾Ð·ÂÀÌ ºñÁ¤»óÀÔ´Ï´õ.
-contradiction,"ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·Â(LVEDP)Àº 20ÀÌ°í, Æò±Õ Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº 27ÀÌ¾ú½Ê´Ï´õ.",¿ÞÂÊ½É½Ç ÀÌ¿Ï±â ¾Ð·ÂÇÏ°í Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº Á¤»óÀÔ´Ï´õ.
-neutral,"ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·Â(LVEDP)Àº 20ÀÌ°í, Æò±Õ Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº 27ÀÌ¾ú½Ê´Ï´õ.",°ü»óµ¿¸Æ ÁúÈ¯ ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
-entailment,°ü ²Å°í ³ª¼­ Ä¡·á¹ÞÀ¸ÀÌ ¸Æ¹ÚÀÌ ´Ù½Ã µ¹¾Æ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ½ÉÀå¸¶ºñ°¡ ¿Ô¾ú½Ê´Ï´õ.
-contradiction,°ü ²Å°í ³ª¼­ Ä¡·á¹ÞÀ¸ÀÌ ¸Æ¹ÚÀÌ ´Ù½Ã µ¹¾Æ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ½Ç³» °ø±â·Î ¼û ½¬°í ÀÖ½Ê´Ï´õ.
-neutral,°ü ²Å°í ³ª¼­ Ä¡·á¹ÞÀ¸ÀÌ ¸Æ¹ÚÀÌ ´Ù½Ã µ¹¾Æ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ³ú»ê¼ÒºÎÁ·Áõ¿¡ °É·È½Ê´Ï´õ.
-entailment,"±× È¯ÀÚºÐÀº DNR/DNI¿´´Âµ¥, ¾Æµå´ÔÀÌ ¹ã»õµµ·Ï ±â°ü»ð°üÀ» ¿äÃ»Çß½Ê´Ï´õ. CXR¿¡¼­ ¿©·¯ ±ºµ¥¼­ Ã¼¾×ÀÌ »õ³ª¿À´Â °É·Î È®ÀÎµÆÁö¸¸, Ä§½À¼º °¨¿°Àº ¾ø¾ú½Ê´Ï´õ. ¼Òº¯°Ë»ç °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚÇÑÅ× È£Èí°üÀ» »ðÀÔÇß½Ê´Ï´õ.
-contradiction,"±× È¯ÀÚºÐÀº DNR/DNI¿´´Âµ¥, ¾Æµå´ÔÀÌ ¹ã»õµµ·Ï Æ©ºê »ð°üÀ» ¿äÃ»Çß½Ê´Ï´õ. CXR¿¡¼­ ¿©·¯ ±ºµ¥¼­ Ã¼¾×ÀÌ »õ³ª¿À´Â °É·Î È®ÀÎµÆÁö¸¸, Ä§½À¼º º´º¯Àº ¾ø¾ú½Ê´Ï´õ. ¿äµµ°Ë»ç °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.",°Ë»ç½Ç ºÐ¼®¿¡¼­ ¿ä·Î °¨¿°ÀÌ ¹ß°ßµÆ½Ê´Ï´õ.
-neutral,"±× È¯ÀÚºÐÀº DNR/DNI¿´´Âµ¥, ¾Æµå´ÔÀÌ ¹ã»õµµ·Ï ÀÎÅõº£ÀÌ¼ÇÀ» ¿äÃ»Çß½Ê´Ï´õ. CXR¿¡¼­ ¿©·¯ ±ºµ¥¼­ Ã¼¾×ÀÌ »õ³ª¿À´Â °É·Î È®ÀÎµÆÁö¸¸, Ä§½À¼º °¨¿°Àº ¾ø¾ú½Ê´Ï´õ. ¿äµµ°Ë»ç °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ Á¤½Å »óÅÂ°¡ ¾È ÁÁ½Ê´Ï´õ.
-entailment,"È¯ÀÚ´Â ¹Ù·Î ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³°í, Ç÷¼ÒÆÇ ¼öÇ÷ÇÏ°í Á¤¸ÆÀ¸·Î µ¥Ä«µå·ÐÀ» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â µ¦»ç¸ÞÅ¸¼ÕÀ» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.
-contradiction,"È¯ÀÚ´Â ¹Ù·Î ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³°í, Ç÷¼ÒÆÇ ¼öÇ÷ÇÏ°í Á¤¸ÆÀ¸·Î µ¥Ä«µå·Ð(Decadron)À» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ¾î¶² ÀÇ·áÀû Á¶Ä¡µµ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.
-neutral,"È¯ÀÚ´Â ¹Ù·Î ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³°í, Ç÷¼ÒÆÇ ¼öÇ÷ÇÏ°í Á¤¸ÆÀ¸·Î µ¥Ä«µå·ÐÀ» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,±× ¾ç¹Ý °¡·¡ ¸¹ÀÌ ¹ñ´Â °É Èûµé¾îÇÏ½Ê´Ï´õ.,È¯ÀÚ°¡ °¡·¡ ¹ñ´Â °É Èûµé¾îÇÏ½Ê´Ï´õ.
-contradiction,±× ¾ç¹Ý °¡·¡ ¸¹ÀÌ ¹ñ´Â °É Èûµé¾îÇÏ½Ê´Ï´õ.,È¯ÀÚ°¡ °¡·¡¸¦ ¸¹ÀÌ ¹ñ°í ÀÖ½Ê´Ï´õ.
-neutral,±× ¾ç¹ÝÀº °¡·¡¸¦ ¸¹ÀÌ ¹ñ¾î³»´Âµ¥ Èûµé¾î ÇÕ´Ï´õ.,±× ¾ç¹ÝÀº ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ½Ê´Ï´õ.
-entailment,"ÅäÇÏ´Â °Å, ¶¡ Èê¸®´Â °Å, ¶Ë »óÅÂ ¹Ù²î´Â °Å´Â ¾ø´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚºÐ °Ë»ç °á°ú´Â ÀÌ»ó ¾ø½Ê´Ï´õ.
-contradiction,"ÅäÇÏ´Â °Å, ¶¡ Èê¸®´Â °Å, ¶Ë »óÅÂ ¹Ù²î´Â °Å´Â ¾ø´ÙÄ¯.",È¯ÀÚºÐÀº À§¾ÏÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
-neutral,"ÅäÇÏ´Â °Å, ¶¡ Èê¸®´Â °Å, ¶Ë ¹Ù²î´Â °Å´Â ¾ø´ÙÄ¯.",È¯ÀÚºÐ °Ë»ç °á°ú´Â À½¼ºÀÔ´Ï´õ.
-entailment,"µµÇÃ·¯·Î Àçº¸ÀÌ ½É¹Ú¼ö°¡ 120±îÁö ¿Ã¶ó°¡°í, ¼öÃà±â Ç÷¾ÐÀº 80´ë·Î ³ª¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº ½ÉÀåÀÌ »¡¸® ¶Ù¾î¼­ Èûµé¾î ÇÕ´Ï´õ.
-contradiction,"µµÇÃ·¯·Î Àç´Ï±î ½É¹Ú¼ö°¡ 120À¸·Î ¿Ã¶ó°¬°í, ¼öÃà±â Ç÷¾ÐÀº 80´ë·Î ÃøÁ¤µÆ½Ê´Ï´õ.",È¯ÀÚºÐ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
-neutral,µµÇÃ·¯·Î Àçº¸ÀÌ ½É¹Ú¼ö°¡ 120À¸·Î ¿Ã¶ó°¡°í ¼öÃà±â Ç÷¾ÐÀÌ 80´ë·Î ÃøÁ¤µÆ½Ê´Ï´õ.,È¯ÀÚºÐÀº Æó»öÀüÁõÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"ÀÌ°ÍÀú°Í ´Ù ¹°¾îº¸ÀÌ, ±× È¯ÀÚºÐÀº ¿­³ª°í Ãä°í ¶³¸®´Â °Å, ¾îÁö·¯¿î °Å, °¡½¿ ¾ÆÇÂ °Å, ¼û½¬±â Èûµç °Å, ÅäÇÏ´Â °Å, ¹è ¾ÆÇÂ °Å, ¼³»ç, ¶Ë ¸ø ´©´Â °Å, ¿ÀÁÜ ´©±â Èûµç °Å, ÇÇ¿ÀÁÜ ´©´Â °Å, ´Ù¸® ¾ÆÇÁ°Å³ª º×´Â °Å °°Àº Áõ»óÀº ¾ø´Ù°í Çß½Ê´Ï´õ.","È¯ÀÚºÐ Áõ»ó ÀÌ°ÍÀú°Í ¹°¾îº» °á°ú, Æ¯º°ÇÑ °Ç ¾ø½Ê´Ï´õ."
-contradiction,"ÀÌ°ÍÀú°Í ´Ù ¹°¾îº¸ÀÌ, ±× È¯ÀÚºÐÀº ¿­³ª°í Ãä°í ¶³¸®´Â °Å, ¾îÁö·¯¿î °Å, °¡½¿ ¾ÆÇÂ °Å, ¼û½¬±â Èûµç °Å, ÅäÇÏ´Â °Å, ¹è ¾ÆÇÂ °Å, ¼³»ç, ¶Ë ¸ø ´©´Â °Å, ¿ÀÁÜ ´©±â Èûµç °Å, ÇÇ¿ÀÁÜ ´©´Â °Å, ´Ù¸® ¾ÆÇÁ°Å³ª º×´Â °Å °°Àº Áõ»óÀº ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,"ÀÌ°ÍÀú°Í ´Ù ¹°¾îº¸ÀÌ, ±× È¯ÀÚºÐÀº ¿­³ª°í Ãä°í ¶³¸®´Â °Å, ¾îÁö·¯¿î °Å, °¡½¿ ¾ÆÇÂ °Å, ¼û½¬±â Èûµç °Å, ÅäÇÏ´Â °Å, ¹è ¾ÆÇÂ °Å, ¼³»ç, ¶Ë ¸ø ´©´Â °Å, ¿ÀÁÜ ´©±â Èûµç °Å, ÇÇ¿ÀÁÜ ´©´Â °Å, ´Ù¸® ¾ÆÇÁ°Å³ª º×´Â °Å °°Àº Áõ»óÀº ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀº µüÈ÷ ºÒÆíÇÑ °Ç ¾ø´Ù°í Çß½Ê´Ï´õ.
-entailment,DVT Àü¿¡ ¾ÎÀº Àû ÀÖÀ½.,È¯ÀÚºÐÀº ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõÀ» ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,DVT Àü¿¡ ¾ÎÀº Àû ÀÖÀ½.,È¯ÀÚºÐÀº ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõÀ» ¾ÎÀº ÀûÀº ¾ø½Ê´Ï´õ.
-neutral,DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ) Àü¿¡ ¾ÎÀº Àû ÀÖÀ½.,È¯ÀÚºÐÇÑÅ×´Â ÇÏºÎ ´ëÁ¤¸Æ ÇÊÅÍ°¡ ¼³Ä¡µÅ ÀÖ½Ê´Ï´õ.
-entailment,"½ÉÀå ÂÊÀ¸·Î ÀÚ¼¼È÷ ¹°¾îº¸ÀÌ °¡½¿ ¾ÆÇÂ °Å, ¿îµ¿ÇÒ ¶§ ¼ûÂù °Å, ¹ã¿¡ ÀÚ´Ù°¡ °©ÀÚ±â ¼ûÂù °Å, ´©¿ì¸é ¼ûÂù °Å, ¹ß¸ñ º×´Â °Å, ½ÉÀåÀÌ µÎ±Ù°Å¸®´Â °Å, ±âÀýÇÏ°Å³ª ±âÀýÇÒ »·ÇÑ °Å °°Àº Áõ»óÀº ¾ø´Â °Ô Æ¯Â¡ÀÔ´Ï´õ.",È¯ÀÚºÐÀº °¡½¿ ¾ÆÇÂ °Ç ¾Æ´Ï¶ó Ä°´Ï´õ.
-contradiction,"½ÉÀå ÂÊÀ¸·Î ÀÚ¼¼È÷ ¹°¾îº¸ÀÌ °¡½¿ ¾ÆÇÂ °Å, ¿îµ¿ÇÒ ¶§ ¼ûÂù °Å, ¹ã¿¡ ÀÚ´Ù°¡ °©ÀÚ±â ¼ûÂù °Å, Àß ¶§ ¼ûÂù °Å, ¹ß¸ñ º×´Â °Å, ½ÉÀåÀÌ µÎ±Ù°Å¸®´Â °Å, ±âÀýÇÏ°Å³ª ±âÀýÇÒ »·ÇÑ °Å °°Àº Áõ»óÀº ¾ø´Â °Ô Æ¯Â¡ÀÔ´Ï´õ.",È¯ÀÚºÐÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,"½ÉÀå ÂÊÀ¸·Î ÀÚ¼¼È÷ ¹°¾îº» °á°ú, °¡½¿ ¾ÆÇÂ °Å, ¿îµ¿ÇÒ ¶§ ¼ûÂù °Å, ¹ã¿¡ °©ÀÚ±â ¼ûÂù °Å, Àß ¶§ ¼ûÂù °Å, ¹ß¸ñ º×´Â °Å, ½ÉÀåÀÌ µÎ±Ù°Å¸®´Â °Å, ±âÀýÇÏ°Å³ª ±âÀýÇÒ »·ÇÑ °Å °°Àº Áõ»óÀº ¾ø´Â °Ô Æ¯Â¡ÀÔ´Ï´õ.",½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
-entailment,"ÄáÆÏ °á¼®, ¾çÂÊ ¹é³»Àå ¼ö¼ú, ¸ÍÀå ¼ö¼ú, Æíµµ¼± ¼ö¼ú, ¼â¼®¼ú ¹Þ¾ÒÀ½.",È¯ÀÚºÐÀº ¿¹Àü¿¡ ÄáÆÏ °á¼®À» ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"ÄáÆÏ °á¼®, ¾çÂÊ ¹é³»Àå ¼ö¼ú, ¸ÍÀå ¼ö¼ú, Æíµµ¼± ¼ö¼ú, ¼â¼®¼ú ¹Þ¾ÒÀ½.",È¯ÀÚºÐÀº ÄáÆÏ °á¼®À» ¾ÎÀº ÀûÀº ¾ø½Ê´Ï´õ.
-neutral,"ÄáÆÏ °á¼®, ¾çÂÊ ¹é³»Àå ¼ö¼ú, ¸ÍÀå ¼ö¼ú, Æíµµ¼± ¼ö¼ú, ¼â¼®¼ú ¹Þ¾ÒÀ½.",È¯ÀÚºÐÀÌ Çã¸®°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-entailment,"È¯ÀÚºÐÀÌ ÀÔ¿øÇÏ±â Àü³¯ ¾ÆÄ§ 10½ÃºÎÅÍ ¹è°¡ ¾ÆÇÁ±â ½ÃÀÛÇß´Âµ¥, °è¼Ó ¾ÆÇÁ°í ÇÏ³ªµµ ¾È ³ª¾ÆÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚºÐÀÌ ¹è°¡ ¾ÆÆÄ¼­ Èûµé¾î ÇÕ´Ï´õ.
-contradiction,"È¯ÀÚ´Â ÀÔ¿ø Àü³¯ ¾ÆÄ§ ¿­ ½Ã¿¡ ¹è°¡ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡, °è¼Ó ¾ÆÇÁ°í ³´Áú ¾È Çß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ¼ÒÈ­Á¦ ¹¬°í ³ª¼­ Á» ³ª¾ÆÁ³½Ê´Ï´õ.
-neutral,"È¯ÀÚ´Â ÀÔ¿ø Àü³¯ ¾ÆÄ§ ¿­ ½Ã¿¡ ¹è°¡ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡, °è¼Ó ¾ÆÇÁ°í ³´Áú ¾È Çß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â À§±Ë¾çÀÌ ÀÖ½Ê´Ï´õ.
-entailment,±× »ç¶÷Àº ¸öÀ» ¸»¸®°í µû½Ã°Ô ÇÏ°í ½ê°Ô ÀÚ±ØÀ» Çß´Âµ¥µµ ¾Æ¹« ¼Ò¿ëÀÌ ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ Á¤½ÅÀÌ °¡¹°°¡¹°ÇØÁ³½Ê´Ï´õ.
-contradiction,±× »ç¶÷Àº ¸öÀ» ¸»¸®°í µû½Ã°Ô ÇÏ°í ½ê°Ô ÀÚ±ØÀ» Çß´Âµ¥µµ ¾Æ¹« ¼Ò¿ëÀÌ ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ ÀÚ±Ø¿¡ ¹ÝÀÀÀ» Çß½Ê´Ï´õ.
-neutral,±× »ç¶÷Àº ¸öÀ» ¸»¸®°í µû½Ã°Ô ÇÏ°í ½ê°Ô ÀÚ±ØÀ» Çß´Âµ¥µµ ¾Æ¹« ¼Ò¿ëÀÌ ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ÀúÃ¼¿ÂÁõÀÌ¾ú½Ê´Ï´õ.
-entailment,"[**9-12**]¿¡ È¯ÀÚ´Â Ä¿ÇÇ Âî²¨±â °°Àº °É µÎ ¹ø ÅäÇß´Âµ¥, ½Ã»¹°Ç ÇÇ°¡ ¼¯¿´´ÂÁö´Â Àß ¸ð¸£°Ú´Ù Äº½Ê´Ï´õ.",È¯ÀÚ´Â »óºÎ À§Àå°ü¿¡ ÃâÇ÷ÀÌ ÀÖ½Ê´Ï´õ.
-contradiction,"[**9-12**]¿¡ È¯ÀÚ´Â Ä¿ÇÇ Âî²¨±â °°Àº °É µÎ ¹ø ÅäÇß´Âµ¥, ½Ã»¹°Ç ÇÇ°¡ ¼¯¿´´ÂÁö´Â È®½ÇÇÏÁö ¾Ê´Ù°í Äº½Ê´Ï´õ.",È¯ÀÚ´Â º¹ºÎ ÃâÇ÷Àº ¾ø½Ê´Ï´õ.
-neutral,"[**9-12**]¿¡ È¯ÀÚ´Â Ä¿ÇÇ Âî²¨±â °°Àº °É µÎ ¹ø ÅäÇß´Âµ¥, ½Ã»¹°Ç ÇÇ°¡ ¼¯¿´´ÂÁö´Â Àß ¸ð¸£°Ú´Ù Äº½Ê´Ï´õ.",È¯ÀÚ´Â ¹®¸Æ °íÇ÷¾ÐÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"NH¿¡¼­ °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº»²², ¾çÂÊ Æó ¾Æ·¡ÂÊ¿¡ ¿°ÁõÀÌ º¸¿©°¡, ±× ¿©ÀÚ´Â ¹ÚÆ®¸²À» ¸Â°Ô µÆ½Ê´Ï´õ.",°¡½¿ ¿¢½º·¹ÀÌ °á°ú°¡ Á¤»óÀÌ ¾Æ´Ï¾ú½Ê´Ï´õ.
-contradiction,"NH¿¡¼­ °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº»²², ¾çÂÊ Æó ¾Æ·¡ÂÊ¿¡ ¿°ÁõÀÌ º¸¿©°¡, ±× ¿©ÀÚ´Â ¹ÚÆ®¸²À» ¸Â°Ô µÆ½Ê´Ï´õ.",°¡½¿ ¿¢½º·¹ÀÌ °á°ú´Â ¾Æ¹« ÀÌ»ó ¾ø¾ú½Ê´Ï´õ.
-neutral,"NH¿¡¼­ °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº»²², ¾çÂÊ Æó ¾Æ·¡ÂÊ¿¡ ¿°ÁõÀÌ º¸¿©°¡, ±× ¿©ÀÚ´Â ¹ÚÆ®¸²À» ¸Â°Ô µÆ½Ê´Ï´õ.",È¯ÀÚ´Â Æó·ÅÀÔ´Ï´õ.
-entailment,"È¯ÀÚ´Â ´ÙÀ½³¯ ¿ø·¡ °¡´ø º´¿ø¿¡ °¡°¡ ¾ÆÅ×³î·Ñ ¾àÀ» ²÷¾ú´Âµ¥, [** À§Ä¡ **]¿¡¼­ ³Ñ¾îÁø °Å¿¡ ´ëÇØ¼­ ´Ù¸¥ °Ë»ç(½ºÄµÀÌ³ª ¿¢½º·¹ÀÌ °°Àº °Å)´Â ¾È Çß½Ê´Ï´õ.",¾ÆÅ×³î·ÑÀº Ç÷¾ÐÀ» ¶³¾î¶ß¸± ¼ö ÀÖ¾î°¡ ²÷¾ú½Ê´Ï´õ.
-contradiction,"È¯ÀÚ´Â ´ÙÀ½³¯ ¿ø·¡ °¡´ø º´¿ø¿¡ °¡°¡ ¾ÆÅ×³î·Ñ ¾àÀ» ²÷¾ú´Âµ¥, [** À§Ä¡ **]¿¡¼­ ³Ñ¾îÁø °Å¿¡ ´ëÇØ¼­ ´Ù¸¥ °Ë»ç(½ºÄµÀÌ³ª ¿¢½º·¹ÀÌ °°Àº °Å)´Â ¾È Çß½Ê´Ï´õ.",È¯ÀÚ´Â º£Å¸ Â÷´ÜÁ¦¸¦ °è¼Ó ¹¬°í ÀÖ½Ê´Ï´õ.
-neutral,"È¯ÀÚ´Â ´ÙÀ½³¯ ¿ø·¡ °¡´ø º´¿ø¿¡ °¡°¡ ¾ÆÅ×³î·Ñ ¾àÀ» ²÷¾ú´Âµ¥, [** À§Ä¡ **]¿¡¼­ ³Ñ¾îÁø °Å¿¡ ´ëÇØ¼­ ´Ù¸¥ °Ë»ç(½ºÄµÀÌ³ª ¿¢½º·¹ÀÌ °°Àº °Å)´Â ¾È Çß½Ê´Ï´õ.",È¯ÀÚ´Â ±â¸³¼º ÀúÇ÷¾ÐÀÌ ÀÖ½Ê´Ï´õ.
-entailment,"È¯ÀÚ´Â ¿¹Àü¿¡ °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀÌ ÀÖ¾ú´ø 64¼¼ ³²ÀÜµ¥, ±×³¯ ¹ã 10½Ã ¹ÝÂë ¿µÈ­ º¸°í ³ª¼­ °¡½¿ÀÌ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡²¿ »õº® 1½Ã ¹Ý¿¡ [**Hospital1 170**] ÀÀ±Þ½Ç·Î ¿Ô½Ê´Ï´õ.",È¯ÀÚ´Â ±Þ¼º °ü»óµ¿¸Æ ÁõÈÄ±ºÀÌ °ÆÁ¤µË´Ï´õ.
-contradiction,"È¯ÀÚ´Â °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀ» ¾Î°í ÀÖ´Â 64¼¼ ³²ÀÜµ¥, ±×³¯ ¹ã 10½Ã ¹ÝÂë ¿µÈ­ º¸°í ³ª¼­ °¡½¿ÀÌ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡²¿ »õº® 1½Ã ¹Ý¿¡ [**Hospital1 170**] ÀÀ±Þ½Ç·Î ¿Ô½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉÀåº´ °É¸± ¸¸ÇÑ ±â ÇÏ³ªµµ ¾ø½Ê´Ï´õ.
-neutral,"È¯ÀÚ´Â ¿¹Àü¿¡ °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀÌ ÀÖ¾ú´ø 64¼¼ ³²ÀÜµ¥, ±×³¯ ¹ã 10½Ã ¹ÝÂë ¿µÈ­ º¸°í ³ª¼­ °¡½¿ÀÌ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡²¿ »õº® 1½Ã ¹Ý¿¡ [**Hospital1 170**] ÀÀ±Þ½Ç·Î ¿Ô½Ê´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
-entailment,¿ÀÁÜ¿¡¼­ ´çÇÏ°í ÄÉÅæÀÌ ³ª¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ´ç´¢°¡ ÀÖ½Ê´Ï´õ.
-contradiction,¿ÀÁÜ¿¡¼­ ´çÇÏ°í ÄÉÅæÀÌ ³ª¿Ô½Ê´Ï´õ.,È¯ÀÚ Ç÷´çÀº Á¤»óÀÔ´Ï´õ.
-neutral,¿ÀÁÜ¿¡¼­ ´çÇÏ°í ÄÉÅæÀÌ ³ª¿Ô½Ê´Ï´õ.,È¯ÀÚ°¡ È¥¼ö »óÅÂÀÔ´Ï´õ.
-entailment,"°¼´Â ½ºÆ®·¹½º Å×½ºÆ®¸¦ ¹Þ¾Ò´Âµ¥, °á°ú°¡ ¾ç¼ºÀ¸·Î ³ª¿Í°¡²¿ ´ç¿¬È÷ ½ÉÀåÄ«Å×ÅÍ °Ë»ç¸¦ ¹Þ°Ô µÆ½À´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½À´Ï´õ.
-contradiction,"°¼´Â ½ºÆ®·¹½º Å×½ºÆ®¸¦ ¹Þ¾Ò´Âµ¥, ±× °á°ú°¡ ¾ç¼ºÀÌ¶ó¼­ ±× ¶§¹®¿¡ Ä«Å×ÅÍ ¼ö¼úÀ» ¹Þ°Ô µÆ½À´Ï´õ.",È¯ÀÚ ½ºÆ®·¹½º Å×½ºÆ® °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"°¼´Â ½ºÆ®·¹½º Å×½ºÆ®¸¦ ¹Þ¾Ò´Âµ¥, °á°ú°¡ ¾ç¼ºÀÌ¶ó¼­ ´ç¿¬È÷ Ä«Å×ÅÍ ¼ö¼úÀ» ¹Þ°Ô µÆ½À´Ï´õ.",È¯ÀÚ´Â ¸»ÃÊµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½À´Ï´õ.
-entailment,±× ¶§ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â 0.475¿´½À´Ï´õ.,È¯ÀÚ Æ®·ÎÆ÷´Ñ ¼öÄ¡°¡ ¿Ã¶ó°¬½À´Ï´õ.
-contradiction,±× ¶§ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â 0.475¿´½À´Ï´õ.,È¯ÀÚ Æ®·ÎÆ÷´ÑÀº À½¼ºÀÔ´Ï´õ.
-neutral,±× ¶§ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â 0.475¿´½À´Ï´õ.,È¯ÀÚ´Â ¼ö¿ä¼º ÇãÇ÷ÀÌ ÀÖ½À´Ï´õ.
-entailment,"ÀÀ±Þ½Ç ÁÖÀÓÀÌ ºñ°­³»½Ã°æ °Ë»ç¸¦ ÇØº¸ÀÌ±î, ¾Æ¸®Å×³ëÀÌµå, ¼º´ë, »ó¼º¹®ºÎ¿¡ ºÎÁ¾ÀÌ ³ªÅ¸³µ½À´Ï´õ.",È¯ÀÚ´Â ±âµµ ºÎÁ¾ÀÌ ÀÖ½À´Ï´õ.
-contradiction,"ÀÀ±Þ½Ç Àü¹®ÀÇ°¡ ºñ°­³»½Ã°æ °Ë»ç¸¦ ÇØº¸ÀÌ±î, ¾Æ¸®Å×³ëÀÌµå, ¼º´ë, »óÈÄµÎºÎ¿¡ ºÎÁ¾ÀÌ ¹ß°ßµÆ½À´Ï´õ.",È¯ÀÚ ³»½Ã°æ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"ÀÀ±Þ½Ç Àü¹®ÀÇ°¡ ºñ°­°æ °Ë»ç¸¦ ÇØº¸ÀÌ±î, ¾Æ¸®Å×³ëÀÌµå, ¼º´ë, »ó¼º¹®ºÎ¿¡ ºÎÁ¾ÀÌ ³ªÅ¸³µ½À´Ï´õ.",È¯ÀÚ°¡ °¨¿°µÆ½À´Ï´õ.
-entailment,"¼ö¼úÇÏ°í 9ÀÏÂ° µÇ´Â ³¯ È¯ÀÚ´Â ¿­ ¾øÀÌ ½É¹Ú¼ö 63È¸·Î Á¤»ó ½É¹Ú ¸®µëÀ» À¯ÁöÇß°í, È£Èí¼ö´Â 18È¸, »ê¼Ò Æ÷È­µµ´Â 3¸®ÅÍ¿¡¼­ 96%, Ç÷¾ÐÀº 122/70À» ±â·ÏÇß½À´Ï´õ.",È¯ÀÚ´Â ¼ö¼úÇÑ ÈÄ »óÅÂÀÔ´Ï´õ.
-contradiction,"¼ö¼úÇÏ°í 9ÀÏÂ° µÇ´Â ³¯ È¯ÀÚ´Â ¿­ ¾øÀÌ ½É¹Ú¼ö 63À¸·Î Á¤»ó ½ÅÈ£ ¸®µëÀ» À¯ÁöÇß°í, È£Èí¼ö´Â 18, »ê¼ÒÆ÷È­µµ´Â 3¸®ÅÍ¿¡¼­ 96%, Ç÷¾ÐÀº 122/70À» ±â·ÏÇß½À´Ï´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
-neutral,"¼ö¼úÇÏ°í 9ÀÏÂ° µÇ´Â ³¯ È¯ÀÚ´Â ¿­ ¾øÀÌ ½É¹Ú¼ö 63À¸·Î Á¤»ó ½É¹Ú ¸®µëÀ» À¯ÁöÇß°í, È£Èí¼ö´Â 18È¸, »ê¼ÒÆ÷È­µµ´Â 3¸®ÅÍ¿¡¼­ 96%, Ç÷¾ÐÀº 122/70À» ±â·ÏÇß½À´Ï´õ.",È¯ÀÚ »óÃ³´Â Àß ¾Æ¹°°í ÀÖ½À´Ï´õ.
-entailment,¹è´Â ¾È ¾ÆÇÁ´Ù Ä«´Âµ¥ ¹è´Â °íÇÁ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ÀÔ¸ÀÀÌ ÀÖ´ä´Ï´õ.
-contradiction,¹è´Â ¾È ¾ÆÇÁ´Ù Ä«´Âµ¥ ¹è´Â °íÇÁ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ÀÔ¸ÀÀÌ ¾ø´ä´Ï´õ.
-neutral,¹è´Â ¾È ¾ÆÇÁ´Ù Ä«´Âµ¥ ¹è´Â °íÇÁ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ±Ý½Ä ÁßÀÔ´Ï´õ.
-entailment,"¼ö¼úÇÏ°í 7ÀÏÂ° µÇ´Â ³¯ °¼´Â ÀúÇ÷¾Ð »óÅÂ¿´°í, ¿À¸¥ÂÊ Æóµ¿¸Æ¿¡ Ä«Å×ÅÍ¸¦ ²Å¾Ò½À´Ï´õ. ±×¸®°í ½É±Ù°æ»öÀº ¾Æ´Ï¶ó Äº½À´Ï´õ.",È¯ÀÚ´Â Ç÷¾ÐÀÌ ³·½À´Ï´õ.
-contradiction,"¼ö¼úÇÏ°í 7ÀÏÂ° µÇ´Â ³¯ °¼´Â ÀúÇ÷¾Ð »óÅÂ¿´°í, ¿À¸¥ÂÊ Æóµ¿¸Æ¿¡ Ä«Å×ÅÍ¸¦ ²Å¾Ò½À´Ï´õ. °¼´Â ½É±Ù°æ»öÀ¸·Î Áø´Ü¹ÞÁö´Â ¾Ê¾Ò½À´Ï´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÔ´Ï´õ.
-neutral,"¼ö¼úÇÏ°í 7ÀÏÂ° µÇ´Â ³¯ °¼´Â ÀúÇ÷¾Ð »óÅÂ¿´°í, ¿À¸¥ÂÊ Æóµ¿¸Æ¿¡ Ä«Å×ÅÍ¸¦ ²Å¾Ò½À´Ï´õ. ±×¸®°í ½É±Ù°æ»öÀº ¾Æ´Ï¶ó Äº½À´Ï´õ.",È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½À´Ï´õ.
-entailment,Á¤¸Æ·ù; ¼ö¼úÇÏ°í 4ÁÖ µÈ »óÅÂ,È¯ÀÚ´Â Á¤¸Æ·ù ¼ö¼úÀ» ¹Þ¾Ò½À´Ï´õ.
-contradiction,Á¤¸Æ·ù; ¼ö¼úÇÏ°í 4ÁÖ µÈ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â ¾ÆÁ÷ °íÈ¯ ¼ö¼úÀº ¾È ¹Þ¾Ò½À´Ï´õ.
-neutral,Á¤¸Æ·ù; ¼ö¼úÇÏ°í 4ÁÖ µÆ½É´õ.,È¯ÀÚ´Â À½³¶ ºÎÁ¾ÀÌ ÀÖ¾ú½É´õ.
-entailment,À§¿¡ º» °Í ¸ÇÅ°·Î ±â°üÁö¿¡¼­ »ý±ä ¾ÏÀÏ °¡´É¼ºÀÌ ³ô¾Æ º¸ÀÔ´Ï´õ.,È¯ÀÚ´Â Æó¾ÏÀ» ¾Î°í ÀÖ½É´õ.
-contradiction,À§¿¡ º» °Í ¸ÇÅ°·Î ±â°üÁö¿¡¼­ »ý±ä ¾ÏÀÏ °¡´É¼ºÀÌ ³ô¾Æ º¸ÀÔ´Ï´õ.,È¯ÀÚ °¡½¿ CT °á°ú´Â ÀÌ»ó ¾ø½É´õ.
-neutral,À§¿¡ º» °Í ¸ÇÅ°·Î ±â°üÁö¾ÏÀÏ °¡´É¼ºÀÌ ³ô¾Æ º¸ÀÔ´Ï´õ.,È¯ÀÚ´Â ¿Â¸ö¿¡ ¾ÏÀÌ ´Ù ÆÛÁ®ÀÖ´Â »óÅÂÀÔ´Ï´õ.
-entailment,¿© ¿Í¼­ ÇÒ ¼ö ÀÖ´Â °Ç ÇØº¼¶ó²¿ ¿Å°å½É´õ.,±× »ç¶÷Àº Ä¡·á¸¦ ¹Þ¾Æ¾ß Çß½É´õ.
-contradiction,¿© ¿Í¼­ ÇÒ ¼ö ÀÖ´Â °Ç ÇØº¼¶ó²¿ ¿Å°å½É´õ.,±× »ç¶÷Àº ÁýÀ¸·Î Åð¿øÇß½É´õ.
-neutral,¿© ¿Í¼­ ÇÒ ¼ö ÀÖ´Â °Ç ÇØº¼¶ó²¿ ¿Å°å½É´õ.,±× »ç¶÷ÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Äº½É´õ.
-entailment,"¿©ÅÂ±îÁö °Ë»çÇØº» ¹Ù·Î´Â, ÀÌ°Ô ¿ø·¡ ÀÖ´ø ¾Ï¿¡¼­ À¯ÀÏÇÏ°Ô ÀüÀÌµÈ °Å¶óÄ°´Ï´õ.",È¯ÀÚÇÑÅ×´Â ÁÖ¿ä ¾Ç¼º Á¾¾çÀÌ ÀÖ½É´õ.
-contradiction,"Áö±Ý±îÁö º´±â Áø´ÜÇØº» °á°ú, ÀÌ°Ô ¿ø·¡ ¾Ï¿¡¼­ À¯ÀÏÇÏ°Ô ÆÛÁø ¾ÏÀÌ¶óÄ°´Ï´õ.",È¯ÀÚ´Â ¾ÏÀÌ ´Ù¸¥ µ¥·Î ÆÛÁöÁø ¾Ê¾Ò½É´õ.
-neutral,"¿©ÅÂ±îÁö °Ë»çÇØº» ¹Ù·Î´Â, ÀÌ°Ô ¿ø·¡ ÀÖ´ø ¾Ï¿¡¼­ À¯ÀÏÇÏ°Ô ÀüÀÌµÈ °Å¶óÄ°´Ï´õ.",È¯ÀÚ´Â 4±â ÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
-entailment,"ÃÖ±Ù¿¡ ÇÑ °¡½¿ ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ½ÉÇÏ´Ù Äº°í, ´ëµ¿¸Æ ÆÇ¸· ¸éÀûÀº 0.7 Á¦°ö¼¾Æ¼¹ÌÅÍ¿´½É´õ.",È¯ÀÚ´Â À¯Ãâ ÇùÂøÁõÀÌ ½ÉÇÕ´Ï´õ.
-contradiction,"ÃÖ±Ù¿¡ ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­, ´ëµ¿¸Æ ÇùÂøÁõÀÌ ½ÉÇÏ´Ù Äº°í ´ëµ¿¸Æ ÆÇ¸· ¸éÀûÀº 0.7 Á¦°ö¼¾Æ¼¹ÌÅÍ¿´½É´õ.",È¯ÀÚ ¿¡ÄÚ °Ë»ç °á°ú´Â ÀÌ»ó ¾ø½É´õ.
-neutral,"ÃÖ±Ù¿¡ ÇÑ °¡½¿ ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ½ÉÇÑ °É·Î ³ª¿Ô°í, ´ëµ¿¸Æ ÆÇ¸· ¸éÀûÀÌ 0.7 Á¦°ö¼¾Æ¼¹ÌÅÍ·Î ³ª¿Ô½É´õ.",È¯ÀÚ´Â ½ÉºÎÀüÁõÀ» ¾Î°í ÀÖ½É´õ.
-entailment,"¼ûÀÌ Â÷°Å³ª ´©¿ì¸é ¼ûÀÌ ´õ Âù °Íµµ ¾ø°í, °¡½¿ÀÌ ¾ÆÇÁ°Å³ª ºÒÆíÇÑ °Íµµ ¾ø½É´õ.",È¯ÀÚ´Â °¡½¿ ¾ÆÇÂ µ¥´Â ¾ø½É´õ.
-contradiction,"¼ûÀÌ Â÷°Å³ª ´©¿ì¸é ¼ûÀÌ ´õ Âù °Íµµ ¾ø°í, °¡½¿ÀÌ ¾ÆÇÁ°Å³ª ºÒÆíÇÑ °Íµµ ¾ø½É´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,"¼ûÀÌ Â÷°Å³ª ´©¿ì¸é ¼û½¬±â Èûµç °Íµµ ¾ø°í, °¡½¿ÀÌ ¾ÆÇÁ°Å³ª ºÒÆíÇÑ °Íµµ ¾ø½É´õ.",°¡½¿ ¿¢½º·¹ÀÌ ÂïÀº °Å´Â ÀÌ»ó ¾ø½É´õ.
-entailment,±× È¯ÀÚ´Â ÀÌÆ² Àü¿¡ ÈÖÇÃ ¼ö¼ú Àü °Ë»ç ¶«¿¡ ´º¿å¿¡ ÀÖ´Â NYP º´¿ø¿¡ ´ó°Ü¿Ô½É´õ.,È¯ÀÚ´Â ¼ö¼úÇØ¾ß µË´Ï´õ.
-contradiction,È¯ÀÚ´Â ÀÌÆ² Àü¿¡ ÈÖÇÃ ¼ö¼ú Àü °Ë»ç ¶«¿¡ ´º¿å¿¡ ÀÖ´Â NYP º´¿ø¿¡ ´ó°Ü¿Ô½É´õ.,È¯ÀÚ´Â º´¿ø¿¡¼­ Áø·á ¾È ¹Þ¾Ò½É´õ.
-neutral,È¯ÀÚ´Â ÀÌÆ² Àü¿¡ ÈÖÇÃ ¼ö¼ú Àü °Ë»ç ¶«¿¡ ´º¿å¿¡ ÀÖ´Â NYP º´¿ø¿¡ ´ó°Ü¿Ô½É´õ.,È¯ÀÚÇÑÅ× ÃéÀå Á¾¾çÀÌ ÀÖ½É´õ.
-entailment,±× ¿©ÀÚ´Â ¸î ´ÞÂ° ¿­ÀÌ ¿À¸£¶ô³»¸®¶ô ÇÕ´Ï´õ.,È¯ÀÚ´Â °¡²û¾¿ ¿­ÀÌ ³ª´Â Áõ¼¼°¡ ÀÖ½É´õ.
-contradiction,±× ¾ÆÁö¸Å´Â ¸î ´Þ µ¿¾È ¿­ÀÌ ³µ´Ù ¾È ³µ´Ù ÇÕ´Ï´õ.,È¯ÀÚ´Â ¿­ ³ª´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.
-neutral,±× ¾ÆÁö¸Å´Â ¸î ´Þ µ¿¾È µû¹®µû¹® ¿­ÀÌ ³µ½É´õ.,È¯ÀÚ´Â ¸²ÇÁÁ¾À» ¾Î°í ÀÖ½É´õ.
-entailment,¾Æ´Â ½ÉÀå¹Úµ¿ÀÌ ¾È ÁÁ¾Æ°¡ ±ÞÇÏ°Ô ¹è Â°°¡ ³º¾Ò½É´õ.,ÀÌ ¾Æ´Â ¼û½¬±â Èûµé¾îÁú À§ÇèÀÌ ³ô½É´õ.
-contradiction,¾Æ´Â ½ÉÀå¹Úµ¿ÀÌ ¾È ÁÁ¾Æ¼­ ±ÞÇÏ°Ô ¹è Â°´Â ¼ö¼ú·Î ³º¾Ò½É´õ.,±× ¾Æ´Â ÀÚ¿¬ºÐ¸¸À¸·Î ³º¾Ò½É´õ.
-neutral,¾Æ´Â ½ÉÀå¹Úµ¿ÀÌ ¾È ÁÁ¾Æ°¡²¿ ±ÞÇÏ°Ô ¹è Â°°¡ ³º¾Ò½É´õ.,ÅÂ¾Æ °Ë»çÇÒ ¶§ º¸ÀÌ±î ¾Æ ½É¹Ú¼ö°¡ ´Ê°Ô ¶³¾îÁ³½É´õ.
-entailment,"[**Hospital1 47**]¿¡ ÀÔ¿øÇßÀ» ¶§, CT ´Ù½Ã Âï¾îº¸ÀÌ±î ¿À¸¥ÂÊ Á¤¼ö¸®ºý Å¸¹Ú»óÀÌ¶û ¾çÂÊ ¾Õ´ë°¡¸® ÂÊ ³ú¸· ÃâÇ÷ÀÌ ÀÖ´Â °É·Î ³ª¿Ô½É´õ.",È¯ÀÚÇÑÅ× Å»ÀåÀÌ »ý°å½É´õ.
-contradiction,"[**Hospital1 47**]¿¡ ÀÔ¿øÇÏ°í ³ª¼­, CT ´Ù½Ã Âï¾îº¸ÀÌ±î ¿À¸¥ÂÊ Á¤¼ö¸®ºý Å¸¹Ú»óÀÌ¶û ¾çÂÊ ¾Õ´ë°¡¸®¿¡ ³ú¸· ÃâÇ÷ÀÌ ÀÖ¾ú½É´õ.",È¯ÀÚ ÀÎÁö °Ë»ç´Â Á¤»óÀÔ´Ï´õ.
-neutral,"[**Hospital1 47**]¿¡ ÀÔ¿øÇßÀ» ¶§, CT ´Ù½Ã Âï¾îº¸ÀÌ±î ¿À¸¥ÂÊ °üÀÚ³îÀÌ ÂÊ ³úÁøÅÁÀÌ¶û ¾çÂÊ ¾Õ´ë°¡¸® ÂÊ¿¡ ³ú¸· ÃâÇ÷ÀÌ º¸¿´½É´õ.",È¯ÀÚ´Â ±³Åë»ç°í¸¦ ´çÇß½É´õ.
-entailment,±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´Ù¸® ¾ÆÇÂ °Å °Ë»çÇÏ·¯ [**3434-12-2**]¿¡ [**Hospital6 3057**]¿¡ ÀÔ¿øÇß½É´õ.,È¯ÀÚ´Â ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´ÙÄ°´Ï´õ.
-contradiction,±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´Ù¸® ¾ÆÇÂ °Å °Ë»çÇÏ·¯ [**3434-12-2**]¿¡ [**Hospital6 3057**]¿¡ ÀÔ¿øÇß½É´õ.,È¯ÀÚ´Â ¾ÆÇÂ µ¥´Â ¾ø´ÙÄ°´Ï´õ.
-neutral,±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´Ù¸® ¾ÆÇÂ °Å °Ë»çÇÏ·¯ [**3434-12-2**]¿¡ [**Hospital6 3057**]¿¡ ÀÔ¿øÇß½É´õ.,È¯ÀÚ´Â »À°¡ »Ñ¶óÁ³½É´õ.
-entailment,"°¡Á·µé ¸»·Î´Â, ¹¹°¡ µ¸´Â ±â Àû¾îµµ ÀÏÁÖÀÏ ÀüºÎÅÍ ½ÃÀÛµÆ´ÙÄ°´Ï´õ.",È¯ÀÚ °Ë»çÇØº¸ÀÌ±î ÇÇºÎ¿¡ ÀÌ»óÀÌ ÀÖ¾ú½É´õ.
-contradiction,"°¡Á·µé ¸»·Î´Â, ¹¹°¡ µ¸Àº ±â Àû¾îµµ ÀÏÁÖÀÏ µ¿¾È °è¼ÓµÆ´ÙÄ°´Ï´õ.",È¯ÀÚ ´Ù¸¥ µ¥´Â °Ë»çÇØº¸ÀÌ±î ´Ù ±¦Âú´ÙÄ°´Ï´õ.
-neutral,"°¡Á·µé ¸»·Î´Â, ¹¹°¡ µ¸Àº ±â Àû¾îµµ ÀÏÁÖÀÏ µ¿¾È °è¼ÓµÆ´ÙÄ°´Ï´õ.",È¯ÀÚ´Â ´ë»óÆ÷Áø¿¡ °É›½É´õ.
-entailment,"±× ¾Æµé ¸»·Î´Â, ¾ö¸¶´Â",È¯ÀÚ´Â ¾ÆµéÀÌ ÀÖ½É´õ.
-contradiction,"±× ¾Æµé ¸»·Î´Â, ¾ö¸¶´Â",È¯ÀÚ´Â ¾ÆµéÀÌ ¾ø½É´õ.
-neutral,"±× ¾Æµé ¸»·Î´Â, ¾ö¸¶´Â",±× ¾ç¹Ý ¾ÆµéÀº ´Ù ÄÇ½É´õ.
-entailment,"¾Æ´Â ½º¹°¿©´ü »ì, Ã¹ ÀÓ½Å¿¡ Ãâ»êÀº ¾ø°í À¯»ê ¼¼ ¹ø ÇÑ ¾ö¸¶ÇÑÅ×¼­ ÅÂ¾î³µ´Âµ¥¿¹, »êÀü °Ë»ç °á°ú Ç÷¾×ÇüÀº BÇü, Ç×Ã¼ À½¼º, ¸Åµ¶ ¹ÝÀÀ ¾øÀ½, Ç³Áø ¸é¿ª ÀÖÀ½, BÇü °£¿° Ç×¿ø À½¼º, B±º ¿¬¼â±¸±ÕÀº È®ÀÎ ¾È µÆ½É´õ.",È¯ÀÚ´Â °«³­¾ÆÀÔ´Ï´õ.
-contradiction,"¾Æ´Â ½º¹°¿©´ü »ì ¹¬Àº, G1, ÆÄ¶ó 0-3ÀÎ ¾ö¸¶ÇÑÅ×¼­ ÅÂ¾î³µ´Âµ¥¿¹, »êÀü °Ë»ç °á°ú Ç÷¾×ÇüÀº BÇü, Ç×Ã¼ À½¼º, RPR ¹ÝÀÀ ¾øÀ½, Ç³Áø ¸é¿ª ÀÖÀ½, BÇü °£¿° Ç×¿ø À½¼º, ±×¸®°í GBS´Â ¸ð¸¥´Ù Çß½É´õ.",¾ö¸¶´Â BÇü °£¿°¿¡ °É›½É´õ.
-neutral,"¾Æ´Â ½º¹°¿©´ü »ì ¹¬Àº, G1, ÆÄ¶ó 0-3ÀÎ ¾ö¸¶ÇÑÅ×¼­ ÅÂ¾î³µ´Âµ¥¿¹, »êÀü °Ë»ç¿¡´Â Ç÷¾×Çü BÇü, Ç×Ã¼ À½¼º, RPR ¹ÝÀÀ ¾øÀ½, Ç³Áø ¸é¿ª, BÇü °£¿° Ç×¿ø À½¼º, ±×¸®°í GBS ¹ÌÈ®ÀÎÀÌ Æ÷ÇÔµÅ ÀÖ¾ú½É´õ.",¾ö¸¶´Â Ç³Áø ¿¹¹æÁÖ»ç¸¦ ¸Â¾Ò½É´õ.
-entailment,- ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ - ºñ¸¸ - ¹ÌÁ¤ÀÇ Àú»ê¼ÒÁõ - ÁßÃß½Å°æ°è ¸²ÇÁÁ¾À¸·Î ÀÎÇÑ ³úÁ¹Áß 3¹ø(ÈÄ¹æ ¼øÈ¯) ¹× ¹ßÀÛ Àå¾Ö - Äí¸¶µò ¹¬´Ù°¡ »ý±ä ³úÃâÇ÷ ÀÌ·Â - ÀÌ¿Ï±â ½ÉºÎÀü - °ü»óµ¿¸ÆÁúÈ¯ - ½É¹æ¼¼µ¿ - °íÇ÷¾Ð - °íÁöÇ÷Áõ - ÁßÁõ ¼ö¸é¹«È£ÈíÁõ(¿¾³¯¿¡ CPAP¸¦ ¸ó Âü¾ÒÀ½) - ¿ø¹ß¼º ºÎ°©»ó¼±±â´ÉÇ×ÁøÁõ/ºñÅ¸¹Î D 25 °áÇÌÀ¸·Î ÀÎÇÑ ½Åµ¹ - µ¶¼º ´Ù¹ß¼º °áÀý¼º °©»ó¼±°ú Àáº¹¼º °©»ó¼±±â´ÉÇ×ÁøÁõ - ½Å»ýÇ÷°ü¼º ³ì³»ÀåÀ¸·Î ÀÎÇÑ ¿À¸¥ÂÊ ´« ½Ç¸í,È¯ÀÚ BMI Áö¼ö°¡ ³ô½É´õ.
-contradiction,- ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ - ºñ¸¸ - ¹ÌÁ¤ÀÇ Àú»ê¼ÒÁõ - ÁßÃß½Å°æ°è¸²ÇÁÁ¾À¸·Î ÀÎÇÑ ³úÁ¹Áß 3¹ø(ÈÄ¼øÈ¯) ¹× ¹ßÀÛ Àå¾Ö - Äí¸¶µò ¹¬´Ù°¡ »ý±ä ³úÃâÇ÷ ÀÌ·Â - ÀÌ¿Ï±â½ÉºÎÀü - °ü»óµ¿¸ÆÁúÈ¯ - ½É¹æ¼¼µ¿ - °íÇ÷¾Ð - °íÁöÇ÷Áõ - ÁßÁõ ¼ö¸é¹«È£ÈíÁõ(¿¾³¯¿¡ CPAP¸¦ ¸ó Âü¾ÒÀ½) - ¿ø¹ß¼º ºÎ°©»ó¼±±â´ÉÇ×ÁøÁõ/25-ºñÅ¸¹Î D °áÇÌÀ¸·Î ÀÎÇÑ ½Å¼®Áõ - µ¶¼º ´Ù¹ß°áÀý¼º °©»ó¼±°ú Àáº¹±â °©»ó¼±±â´ÉÇ×ÁøÁõ - ½Å»ýÇ÷°ü¼º ³ì³»ÀåÀ¸·Î ÀÎÇÑ ¿À¸¥ÂÊ ´« ½Ç¸í,È¯ÀÚ´Â ÇÑºÐµµ ³úÁ¹ÁßÀ» °Þ¾îº» Àû ¾ø½É´õ.
-neutral,- ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ - ºñ¸¸ - ¹ÌÁ¤ÀÇ Àú»ê¼ÒÁõ - ÁßÃß½Å°æ°è ¸²ÇÁÁ¾À¸·Î ÀÎÇÑ ³úÁ¹Áß 3¹ø(ÈÄ¼øÈ¯) ¹× ¹ßÀÛ Àå¾Ö - Äí¸¶µò ¹¬´Ù°¡ »ý±ä °æµ¿¸ÆÃâÇ÷ ÀÌ·Â - ÀÌ¿Ï±â ½ÉºÎÀü - °ü»óµ¿¸ÆÁúÈ¯ - ½É¹æ¼¼µ¿ - °íÇ÷¾Ð - °íÁöÇ÷Áõ - ÁßÁõ ¼ö¸é¹«È£ÈíÁõ(¿¾³¯¿¡ CPAP¸¦ ¸ó Âü¾ÒÀ½) - ¿ø¹ß¼º ºÎ°©»ó¼±±â´ÉÇ×ÁøÁõ/ºñÅ¸¹Î D °áÇÌÁõÀ¸·Î ÀÎÇÑ ½Åµ¹ - µ¶¼º ´Ù¹ß°áÀý¼º °©»ó¼±°ú Àáº¹¼º °©»ó¼±±â´ÉÇ×ÁøÁõ - ½Å»ýÇ÷°ü¼º ³ì³»ÀåÀ¸·Î ÀÎÇÑ ¿À¸¥ÂÊ ´« ½Ç¸í,È¯ÀÚ´Â ¾Ç¼º Á¾¾ç °ú°Å·ÂÀÌ ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí °ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â °©ÀÚ±â ¼ûÀÌ Â÷±â ½ÃÀÛÇß½É´õ.
-contradiction,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â ¼û½¬´Â µ¥ ¾î·Á¿ò ¾ø¾ú½É´õ.
-neutral,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ) º´·ÂÀÌ ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
-contradiction,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â È£Èí°ï¶õÀº ¾Æ´Ï¶ó²¿ ÇÕ´Ï´õ.
-neutral,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí °ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â Æó»öÀüÁõÀÌ ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ¹ÝÀÀ¼º ±âµµ ÁúÈ¯À» ¾Î°í ÀÖ´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ³ª Ãµ½ÄÀ» ¾Î°í ÀÖ½É´õ.
-contradiction,È¯ÀÚ´Â ¹ÝÀÀ¼º ±âµµ ÁúÈ¯ÀÌ ÀÖ´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,È¯ÀÚ´Â ¹ÝÀÀ¼º ±âµµ ÁúÈ¯ÀÌ ÀÖ´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ´Â ÈíÀÔ±â¸¦ ¾¹´Ï´õ.
-entailment,°ú°Å¿¡ Å¬¶ó¹Ìµð¾Æ °¨¿°·Â °ú°Å·ÂÀÌ º¸°íµÆ½É´õ.,È¯ÀÚ´Â ¿¹Àü¿¡ °¨¿°À» ¾Î¾Ò½É´õ.
-contradiction,°ú°Å¿¡ Å¬¶ó¹Ìµð¾Æ °¨¿°·ÂÀÌ ÀÖ¾ú´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½É´õ.
-neutral,°ú°Å¿¡ Å¬¶ó¹Ìµð¾Æ °¨¿°·ÂÀÌ ÀÖ¾ú´Ù²¿ º¸°íÇß´Ù.,È¯ÀÚ´Â ¾Æ¹« Áõ»óµµ ¾È º¸ÀÔ´Ï´õ.
-entailment,"¿ä¹ø ÀÔ¿ø ½Ã Ã·À¸·Î ÀÀ±Þ½Ç¿¡ ¿ÔÀ» ¶§, »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 100.1, ½É¹Ú¼ö 133, Ç÷¾Ð 118/77, È£Èí¼ö 14, °ø±â Áß »ê¼Ò Æ÷È­µµ 96%.",È¯ÀÚ´Â ºó¸ÆÀÌ ÀÖ½É´õ.
-contradiction,"¿ä¹ø ÀÔ¿ø ½Ã Ã·¿¡ ÀÀ±Þ½Ç µµÂøÇßÀ» ¶§ ±× »ç¶÷ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 100.1, ½É¹Ú¼ö 133, Ç÷¾Ð 118/77, È£Èí¼ö 14, RA »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ »ý¸íÃ¼Â¡Àº Á¤»óÀÔ´Ï´õ.
-neutral,"¿ä¹ø ÀÔ¿ø ½Ã Ã·¿¡ ÀÀ±Þ½Ç ¿ÔÀ» ¶§, ±× »ç¶÷ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 100.1, ½É¹Ú¼ö 133, Ç÷¾Ð 118/77, È£Èí¼ö 14, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-entailment,Á¦ÀÏ ÃÖ±Ù¿¡ Åð¿øÇÑ È¯ÀÚ´Â [**Hospital1 5908**] ÀçÈ° º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â °è¼Ó Ä¡·á°¡ ÇÊ¿äÇÕ´Ï´õ.
-contradiction,Á¦ÀÏ ÃÖ±Ù¿¡ Åð¿øÇÑ È¯ÀÚ´Â [**Hospital1 5908**] ÀçÈ°¼¾ÅÍ·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â ´õ ÀÌ»ó ÈÄ¼Ó Ä¡·á´Â ÇÊ¿ä ¾ø½É´õ.
-neutral,Á¦ÀÏ ¸¶Áö¸·¿¡ Åð¿øÇß´Â È¯ÀÚ´Â [**Hospital1 5908**] ÀçÈ°¼¾ÅÍ·Î ¿Å±âÁ³½Ê´Ï´õ.,±Ù°ñ°Ý°è ÂÊÀ¸·Î ´ÙÄ£ ±â·Ï.
-entailment,[**6-11**] Ä«Å×ÅÍÈ­·Î È®ÀÎµÈ Áßµîµµ ¹ÌÆ®¶öÆÇ¸· ¿ª·ùÁõ 4+¶û 1+ ´ëµ¿¸ÆÆÇ¸· ºÒ¿ÏÀü Æó¼âÁõÀÌ ³ªÅ¸³µ½Ê´Ï´õ.,È¯ÀÚ´Â ½ÉºÎÀüÁõÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
-contradiction,[**6-11**] Ä«Å×ÅÍÈ­·Î È®ÀÎµÈ Áßµîµµ ¹ÌÆ®¶öÆÇ¸· ¿ª·ùÁõ 4+¶û 1+ ´ëµ¿¸ÆÆÇ¸· ºÒ¿ÏÀü Æó¼âÁõÀÌ ³ªÅ¸³µ½Ê´Ï´õ.,È¯ÀÚ ½ÉÀåÀº Á¤»óÀÔ´Ï´õ.
-neutral,[**6-11**] Ä«Å×ÅÍÈ­´Â 4+ ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ù¶û 1+ ´ëµ¿¸ÆÆÇ¸· ºÒ¿ÏÀü Æó¼â¸¦ º¸¿©ÁÝ´Ï´õ.,È¯ÀÚ´Â È°µ¿ÇÒ ¶§ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
-entailment,±× È¯ÀÚ´Â Çì¸¶Å×¸Þ½Ã½º(ÇÇÅä) Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,±× È¯ÀÚ´Â ÇÇÅä ¾È Çß½Ê´Ï´õ.
-contradiction,±× È¯ÀÚ´Â ÇÇÅäÇÑ Àû ¾ø½Ê´Ï´õ.,±× È¯ÀÚ´Â ÇÇÅä¸¦ ÇÏ°í ÀÖ¾ú½Ê´Ï´õ.
-neutral,±× È¯ÀÚ´Â ÇÇÅäÇÑ Àû ¾ø½Ê´Ï´õ.,±× È¯ÀÚ´Â À§Àå¿°À» ¾Î¾Ò½Ê´Ï´õ.
-entailment,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â Äí½º¸ð¿ï È£ÈíÀ» º¸ÀÌ°í ÀÖ¾ú°í, ½É¹Ú¼öµµ »¡¶ú½Ê´Ï´õ.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
-contradiction,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â Äí½º¸¶¿ï È£ÈíÀ» º¸ÀÌ°í ÀÖ¾ú°í, ½É¹Ú¼öµµ »¡¶ú½Ê´Ï´õ.",È¯ÀÚ È£Èí ¼Óµµ´Â Á¤»óÀÔ´Ï´õ.
-neutral,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â Äí½º¸ð¿ï È£ÈíÀ» º¸ÀÌ°í ÀÖ¾ú°í, ½É¹Ú¼öµµ »¡¶ú½Ê´Ï´õ.",È¯ÀÚ´Â ºñÁ¤»óÀûÀÎ ½É¹Úµ¿ÀÌ ÀÖ½Ê´Ï´õ.
-entailment,±× È¯ÀÚ ´Ù¸® ÂÊ¿¡ ÁÖº¯ÀûÀÎ ±ÁÈû Çö»óÀÌ ÀÖ¾ú½Ê´Ï´õ.,±× È¯ÀÚ ´Ù¸® °üÀýÀÌ ±¸ºÎ·¯Á® ÀÖ¾ú½Ê´Ï´õ.
-contradiction,±× È¯ÀÚ ´Ù¸® ÂÊ¿¡ ÁÖº¯ÀûÀÎ ±ÁÈû Çö»óÀÌ ÀÖ¾ú½Ê´Ï´õ.,´Ù¸® °üÀýÀº ¾È ±¸ºÎ·¯Á® ÀÖ¾ú½Ê´Ï´õ.
-neutral,±× È¯ÀÚ ´Ù¸® ÂÊ¿¡ ÁÖº¯ÀûÀÎ ±ÁÈû Çö»óÀÌ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â °ÉÀ» ¼ö ÀÖ½Ê´Ï´õ.
-entailment,"±× È¯ÀÚ´Â °è¼Ó ¾È ¾ÆÆÄÇß°í, ½ÉÀå Ä«Å×ÅÍ °Ë»çÇÏ·¯ [**Hospital1 47**]·Î ¿Å°ÜÁ³½Ê´Ï´õ.",È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
-contradiction,"±× È¯ÀÚ´Â °è¼Ó ¾È ¾ÆÆÄÇß°í, ½ÉÀå Ä«Å×ÅÍ °Ë»çÇÏ·¯ [**Hospital1 47**]·Î ¿Å°ÜÁ³½Ê´Ï´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,±× È¯ÀÚ´Â ¾È ¾ÆÇÂ Ã¤·Î [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ½ÉÀå Ä«Å×ÅÍ °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.,È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
-entailment,±× È¯ÀÚ´Â Áý¿¡¼­ ¼³»ç¸¦ ÂÍ Çß´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ°¡ ¼³»çÇÕ´Ï´õ.
-contradiction,±× È¯ÀÚ´Â Áý¿¡¼­ ¼³»ç¸¦ ÂÍ Çß´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ°¡ º¯ºñ°¡ ÀÖ½Ê´Ï´õ.
-neutral,±× È¯ÀÚ´Â Áý¿¡¼­ ¼³»ç¸¦ ÂÍ Çß´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â Å¬·Î½ºÆ®¸®µð¿ò µðÇÇ½Ç¿¡ °¨¿°µÆ½Ê´Ï´õ.
-entailment,"±× È¯ÀÚ´Â ÀÀ±Þ½Ç¿¡¼­ ½ÉÀåÀÌ ¾È ¶Ù´Â »óÅÂ(asystolic arrest)·Î ¹ß°ßµÆ°í, ¾ÆÆ®·ÎÇÉÀ» ¿©·¯ ¹ø ¸Â¾Ò½Ê´Ï´õ. ±×·¡¼­ ½É½Ç ¼¼µ¿ arrest »óÅÂ·Î ¹Ù²î¾ú°í, ±× µÚ·Î´Â ½É½Ç ºó¸Æ »óÅÂ·Î º¯Çß½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉÆó¼Ò»ý¼úÀ» ¹Þ¾Ò½Ê´Ï´õ.
-contradiction,"ÀÀ±Þ½Ç¿¡¼­ ±× ¿©ÀÚ´Â ½ÉÀå¸Æ¹ÚÀÌ ¾ø´Â »óÅÂ·Î ¹ßÀÛÀ» ÇØ°¡²¿, ¾ÆÆ®·ÎÇÉÀ» ¿©·¡ ¹ø ¸Â°í ½É½Ç ¼¼µ¿À¸·Î ¹Ù…ó´Ù°¡ ´Ù½Ã ½É½Ç ºó¸ÆÀ¸·Î ¹Ù…ó½É´õ.",È¯ÀÚ´Â Á¤»óÀûÀÎ ½ÉÀüµµ¸¦ º¸¿´½É´õ.
-neutral,"ÀÀ±Þ½Ç¿¡¼­ ±× ¿©ÀÚ´Â ½ÉÀåÀÌ ¸Ü¾î°¡, ¾ÆÆ®·ÎÇÉÀ» ¿©·¡ ¹ø ¸Â°í ½É½Ç ¼¼µ¿À¸·Î ¹Ù…ó´Ù°¡, ±× µÚ¿¡ ½É½Ç ºó¸ÆÀ¸·Î ¹Ù…ó½É´õ.",È¯ÀÚ´Â ST »ó½Â ½É±Ù°æ»öÀÌ ¿Ô½É´õ.
-entailment,"Æó±âÁ¾, °ñ´Ù°øÁõ, 1±â À¯¹æ¾ÏÀ¸·Î ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦¼úÀÌ¶û ¾È¿Í ¸²ÇÁÀý Á¦°Å¼úÇÏ°í ¹æ»ç¼± Ä¡·á [**2510**]¸¦ ¹Þ¾Ò°í, °ÇÃÊ¿°, Èæ»öÁ¾À¸·Î ÀýÁ¦¼ú ¹Þ¾Ò°í, °Ô½ÇÁõ, MRSA °¨¿°µÆ´ø °ú°Å·Â, ÆíµµÀýÁ¦¼ú, ÀÚ±Ã°æºÎ¶û ÀÚ±Ã°­ ¼ÒÆÄ¼ú(D&C), ´ëÀå³»½Ã°æÀ¸·Î ¿ëÁ¾ 4°³ Á¦°ÅÇßÀ½.",¾Ï º´·Â ÀÖÀ½.
-contradiction,"Æó±âÁ¾, °ñ´Ù°øÁõ, 1±â À¯¹æ¾ÏÀ¸·Î ¿À¸¥ÂÊ À¯¹æÀýÁ¦¼úÀÌ¶û ¾È¿Í¸²ÇÁÀý Á¦°Å¼úÇÏ°í ¹æ»ç¼± Ä¡·á [**2510**] ¹ÞÀº µÚ¿¡, °ÇÃÊ¿°, Èæ»öÁ¾À¸·Î ÀýÁ¦¼ú ¹ÞÀº µÚ¿¡, ´ëÀå °Ô½ÇÁõ, MRSA °¨¿°µÆ´ø °ú°Å·Â, ÆíµµÀýÁ¦¼ú, ÀÚ±Ã°æºÎ ¹× ÀÚ±Ã°­ ¼ÒÆÄ¼ú, ´ëÀå³»½Ã°æÀ¸·Î ¿ëÁ¾ 4°³ Á¦°ÅÇßÀ½.",Æó ÁúÈ¯ ¾ÎÀº Àû ¾øÀ½.
-neutral,"Æó±âÁ¾, °ñ´Ù°øÁõ, 1±â À¯¹æ¾Ï ¼ö¼ú µÚ ¿À¸¥ÂÊ À¯¹æÁ¾¾ç Á¦°Å¶û ¾È¿Í¸²ÇÁÀý ÀýÁ¦¼úÇÏ°í ¹æ»ç¼± Ä¡·á [**2510**], Á¡¾×³¶¿°, Èæ»öÁ¾ ÀýÁ¦¼ú µÚ, ´ëÀå °Ô½ÇÁõ, MRSA °¨¿° ÀÌ·Â, ÆíµµÀýÁ¦¼ú, ÀÚ±Ã°æºÎ¶û ÀÚ±Ã°­ ¼ÒÆÄ¼ú, ´ëÀå³»½Ã°æÀ¸·Î ¿ëÁ¾ 4°³ Á¦°Å.",´ã¹è ÇÉ Àû ÀÖÀ½.
-entailment,"±× ¿©ÀÚ´Â ¼ûÀ» ÂÉ¸Å ½¬±â Èûµé¾îÇß°í, È£Èí ¼Óµµ´Â 24¿´°í, »ê¼Ò 4¸®ÅÍ¸¦ ¸ÂÀ¸ÀÌ »ê¼Ò Æ÷È­µµ°¡ 96%¿´½É´õ.",±× ¿©ÀÚ È£Èí ¼Óµµ°¡ ³ô¾Ò½É´õ.
-contradiction,"±× ¿©ÀÚ´Â ¼ûÀ» ÂÉ¸Å ½¬±â Èûµé¾îÇß°í, È£Èí ¼Óµµ´Â 24¿´°í, »ê¼Ò 4¸®ÅÍ ¸ÂÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 96%¿´½É´õ.",±× ¿©ÀÚ »ýÃ¼ ½ÅÈ£¶û »ê¼Ò Æ÷È­µµ ¼öÄ¡´Â Á¤»óÀÌ¾ú½É´õ.
-neutral,"±× ¿©ÀÚ´Â ¼ûÀ» ÂÉ¸Å ½¬±â Èûµé¾îÇß°í, È£Èí ¼Óµµ´Â 24¿´°í, »ê¼Ò 4¸®ÅÍ ¸ÂÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 96%¿´½É´õ.","±× ¿©ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ°í, ´ã¹è ÇÉ Àû ÀÖ½É´õ."
-entailment,ÃÖ±Ù¿¡ º¯ º¸´Â °Å³ª ¼Òº¯ º¸´Â ½À°ü¿¡ º¯È­´Â ¾ø½É´õ.,È¯ÀÚ º¯ º¸´Â °Ç ¾ÈÁ¤ÀûÀÔ´Ï´õ.
-contradiction,ÃÖ±Ù¿¡ ¶Ë ´©´Â °Å³ª ¿ÀÁÜ ´©´Â °Å¿¡ ¹Ù²ï °Ç ¾ø½É´õ.,È¯ÀÚ°¡ »õ·Î ¼³»ç Áõ»óÀÌ »ý°å½É´õ.
-neutral,ÃÖ±Ù¿¡ ¶Ë ´©´Â °Å³ª ¿ÀÁÜ ´©´Â °Å¿¡ ¹Ù²ï °Ç ¾ø½É´õ.,È¯ÀÚ´Â ¿ä·Î °¨¿°Àº ¾ø½É´õ.
-entailment,"CT/Ç÷°üÁ¶¿µ¼ú °á°ú, ¿ÞÂÊ ¾Æ·¡ÂÊ Æó¿¡ Æó·ÅÀÌ º¸ÀÌ°í, Æó»öÀüÁõÀº ¾ø¾ú½É´õ. ±×¸®°í BÈú¶ó¸²ÇÁÀýÀÌ 1cm·Î º¸ÀÌ°í, ½ÉÇÑ Æó±âÁ¾µµ È®ÀÎµÆ½É´õ.","¿µ»ó Áø´Ü °á°ú, °¨¿°ÁõÀÌ¶û ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ÀÌ È®ÀÎµÆ½É´õ."
-contradiction,"CT/Ç÷°üÁ¶¿µ¼ú °á°ú ¿ÞÂÊ ¾Æ·¡ÂÊ Æó·Å, Æó»öÀüÁõÀº ¾ø°í, BÈú¶ó¸²ÇÁÀý¿¡ 1cmÂ¥¸® ¸²ÇÁÀýÀÌ ÀÖ°í, ½ÉÇÑ Æó±âÁ¾µµ È®ÀÎµÆ½É´õ.",Á¤»óÀûÀÎ Æó ±â´É.
-neutral,"CT/Ç÷°üÁ¶¿µ¼ú °á°ú ¿ÞÂÊ ¾Æ·¡ÂÊ Æó¿¡ Æó·ÅÀÌ È®ÀÎµÆ°í, Æó»öÀüÁõÀº ¾ø¾ú½É´õ. ±×¸®°í BÈú¶ó¸²ÇÁÀý¿¡¼­ 1cmÂ¥¸® ¸²ÇÁÀýÀÌ º¸¿´°í, ½ÉÇÑ Æó±âÁ¾µµ È®ÀÎµÆ½É´õ.",´ã¹è ÇÉ ÀÌ·Â.
-entailment,Æ¯È÷ ÀÌ È¯ÀÚ´Â ÃÖ±Ù¿¡ [**Hospital1 18**]¿¡¼­ ¹è ¾ÆÆÄ°¡²¿ [**1-6**]¿¡ ÀÔ¿øÇÑ Àû ÀÖ½É´õ.,¹è ¾ÆÇÂ Àû ÀÖÀ½.
-contradiction,"Æ¯È÷, È¯ÀÚ´Â ÃÖ±Ù [**Hospital1 18**]¿¡¼­ ¹è ¾ÆÆÄ¼­ [**1-6**]¿¡ ÀÔ¿øÇÑ Àû ÀÖ½É´õ.",¹è ¾ÆÇÂ Àû ¾ø½É´õ.
-neutral,"Æ¯È÷, È¯ÀÚ´Â ÃÖ±Ù [**Hospital1 18**]¿¡¼­ ¹è ¾ÆÆÄ¼­ ÀÔ¿øÇÑ Àû ÀÖ½É´õ.",È¯ÀÚ´Â Ãæ¼ö¿°À» ¾Î°í ÀÖ¾ú½É´õ.
-entailment,"60¼¼ ³²ÀÚ È¯ÀÚÀÎµ¥, ¿¹Àü¿¡ DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ), HIV(ÀÎ°£¸é¿ª°áÇÌ¹ÙÀÌ·¯½º), CÇü °£¿°, HCC(°£¼¼Æ÷¾Ï), RCC(½Å¼¼Æ÷¾Ï)¸¦ ¾Î¾Ò°í, Æó·Î ÀüÀÌµÈ »óÅÂÀÔ´Ï´õ. ÃÖ±Ù ÀÌÆ² Àü¿¡ »çÀÌ¹ö³ªÀÌÇÁ ¼ö¼úÀ» ¹Þ¾Ò½É´õ. Áö±Ý À­¹è¶û °¡½¿ÀÌ ¾ÆÇÁ´ÙÄ«°í, ¹¹ »ïÅ³ ¶§ ´õ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ½Äµµ¿° Áõ»óÀ» º¸ÀÌ°í ÀÖ½É´õ.
-contradiction,"60¼¼ ³²ÀÚ È¯ÀÚ´Â ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ(DVT), ÀÎ°£¸é¿ª°áÇÌ¹ÙÀÌ·¯½º(HIV), CÇü °£¿°(Hep C), °£¼¼Æ÷¾Ï(HCC), ½ÅÀå¼¼Æ÷¾Ï(RCC) Áø´ÜÀ» ¹Þ¾Ò°í, Æó·Î ÀüÀÌµÈ »óÅÂÀÔ´Ï´õ. ÃÖ±Ù ÀÌÆ² Àü¿¡ »çÀÌ¹ö³ªÀÌÇÁ Ä¡·á¸¦ ¹Þ¾Ò½É´õ. Áö±Ý À­¹è¶û °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä«°í, ¹¹ »ïÅ³ ¶§ ÅëÁõÀÌ ´õ ½ÉÇØÁý´Ï´õ.",È¯ÀÚ´Â À§½Äµµ Áõ»óÀÌ ÇÏ³ªµµ ¾ø½É´õ.
-neutral,"60¼¼ ³²ÀÚ È¯ÀÚÀÎµ¥, ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ(DVT), ÀÎ°£¸é¿ª°áÇÌ¹ÙÀÌ·¯½º(HIV), CÇü °£¿°(Hep C), °£¼¼Æ÷¾Ï(HCC), ½ÅÀå¼¼Æ÷¾Ï(RCC) º´·ÂÀÌ ÀÖ°í, Æó·Î ÀüÀÌµÈ »óÅÂÀÔ´Ï´õ. »çÀÌ¹ö³ªÀÌÇÁ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥(¸¶Áö¸· Ä¡·á´Â ÀÌÆ² Àü¿¡ ¹Þ¾Ò½É´õ), À­¹è¶û °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä«°í, ¹¹ »ïÅ³ ¶§ ´õ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ¹æ»ç¼± À¯¹ß ½Äµµ¿°À» ¾Î°í ÀÖ½É´õ.
-entailment,"È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¾ú°í, Ãß°¡ Áø´ÜÀ» À§ÇØ ÀÔ¿øÇß½É´Ï´õ.",È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÔ´Ï´õ.
-contradiction,"È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¾ú°í, Ãß°¡ Áø·á¸¦ À§ÇØ ÀÔ¿øÇß½É´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÌ ÀÖ½É´õ.
-neutral,"È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¾ú°í, Ãß°¡ Áø·á¸¦ À§ÇØ ÀÔ¿øÇß½É´Ï´õ.",È¯ÀÚ´Â ¾È ¾ÆÇÁ´Ù Ä¯´õ.
-entailment,ÀÓ½ÅÀÌ »ê¸ð Ç÷¾ÐÀÌ ¿Ã¶ó°¡ º¹ÀâÇØÁ³½É´Ï´õ.,"""»ê¸ð °íÇ÷¾ÐÀÌ ÀÖ½É´Ï´õ."""
-contradiction,ÀÓ½ÅÀÌ »ê¸ð Ç÷¾ÐÀÌ ¿Ã¶ó°¡ º¹ÀâÇØÁ³½É´Ï´õ.,»ê¸ð Ç÷¾ÐÀº Á¤»óÀÔ´Ï´õ.
-neutral,ÀÓ½ÅÀÌ »ê¸ð Ç÷¾ÐÀÌ ¿Ã¶ó°¡ º¹ÀâÇØÁ³½É´Ï´õ.,ÀüÀÚ°£ÁõÀÌ ÀÖ½É´õ.
-entailment,"±× ¾Æ(¿©ÀÚ)´Â [**º´¿ø**] ÀçÈ°¼¾ÅÍ·Î [**2926-7-27**]¿¡ Åð¿øÇßÁö¸¸, ÀÚ²Ù °í¿­ÀÌ ³ª °¡Áö°í ¿©ÀüÈ÷ ÀÎ°øÈ£Èí±â¿¡ ÀÇÁ¸ÇÏ°í ÀÖ¾ú½É´õ.",È¯ÀÚ°¡ ÀÚ²Ù ¿­ÀÌ ³³´Ï´õ.
-contradiction,"±× ¾Æ(¿©ÀÚ)´Â [**º´¿ø **] ÀçÈ°¼¾ÅÍ·Î [**2926-7-27**]¿¡ Åð¿øÇßÁö¸¸, ÀÚ²Ù °í¿­ÀÌ ³ª¸é¼­ ¿©ÀüÈ÷ ÀÎ°øÈ£Èí±â¿¡ ÀÇÁ¸ÇÏ°í ÀÖ¾ú½É´õ.",È¯ÀÚ´Â ¿­ ¾ø½É´õ.
-neutral,"±× ¾Æ(¿©ÀÚ)´Â [**2926-7-27**]¿¡ [**º´¿ø**] ÀçÈ°¼¾ÅÍ·Î Åð¿øÇßÁö¸¸, ÀÚ²Ù °í¿­ÀÌ ³ª¸é¼­ °è¼Ó ÀÎ°øÈ£Èí±â¿¡ ÀÇÁ¸ÇÏ°í ÀÖ¾ú½É´õ.",È¯ÀÚ´Â ¸¸¼º °¨¿°ÀÌ ÀÖ½É´õ.
-entailment,"82¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, ¼î±×·»ÁõÈÄ±º, Ç÷°ü¿°, À§Àå°ü ÃâÇ÷, °íÇ÷¾ÐÀÌ ÀÖ°í¿¹, À§Àå°ü ÃâÇ÷ Áõ»óÀ¸·Î ¿Ô½É´õ.",È¯ÀÚ´Â À§Àå°ü ÃâÇ÷ÀÌ ÀÖ½É´õ.
-contradiction,"82¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, ¼î±×·»ÁõÈÄ±º, Ç÷°ü¿°, À§Àå°ü ÃâÇ÷, °íÇ÷¾ÐÀÌ ÀÖ°í¿¹, À§Àå°ü ÃâÇ÷ Áõ»óÀÌ ³ªÅ¸³µ½É´õ.",È¯ÀÚ À§Àå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"82¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, ¼î±×·»ÁõÈÄ±º, Ç÷°ü¿°, À§Àå°ü ÃâÇ÷, °íÇ÷¾ÐÀÌ ÀÖ°í¿¹, À§Àå°ü ÃâÇ÷ Áõ»óÀ¸·Î ¿Ô½É´õ.",È¯ÀÚ´Â ÇÇ ÅäÇÏ´Â Áõ»óÀ¸·Î ¿Ô½É´õ.
-entailment,"ÀÀ±Þ½Ç·Î °¡´Â ±æ¿¡, ±× ¾Æ(¿©ÀÚ)´Â µý µ¥·Î »¸Ä¡´Â Áõ»ó ¾øÀÌ ¸íÄ¡ ÂÊ ÅëÁõÀÌ ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä¯´õ.
-contradiction,"ÀÀ±Þ½Ç·Î °¡´Â ±æ¿¡, ±× ¾Æ(¿©ÀÚ)´Â µý µ¥·Î »¸Ä¡´Â Áõ»ó ¾øÀÌ ¸íÄ¡ ÂÊ °¡½¿ ÅëÁõÀÌ ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â °¡½¿ ¾È ¾ÆÇÁ´Ù Ä¯´õ.
-neutral,"ÀÀ±Þ½Ç·Î °¡´Â ±æ¿¡, ±× ¾Æ(¿©ÀÚ)´Â µý µ¥·Î »¸Ä¡´Â Áõ»ó ¾øÀÌ °¡½¿ ÇÑ°¡¿îµ¥ ÅëÁõÀÌ ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â ±Þ¼º ½É±Ù°æ»öÁõÀÌ ÀÖ½É´õ.
-entailment,"±× ¾Æ(¿©ÀÚ)´Â PRBCs 4À¯´ÖÇÏ°í NS 3¸®ÅÍ·Î ¿ë·® º¹¿øÀ» ¹Þ¾Ò½É´õ. Âü°í·Î, PRBCs´Â Packed Red Blood CellsÀÇ ¾àÀÚ·Î, ³óÃà ÀûÇ÷±¸¸¦ ´ãÀº Ç÷¾×Á¦Ç°À» ¸»ÇÏ°í, NS´Â Normal SalineÀÇ ¾àÀÚ·Î, Á¤»ó »ý¸®½Ä¿°¼ö¸¦ ¸»ÇÏ´Â±é´Ï´õ. ÀÌ°ÍµéÀº È¯ÀÚ Ç÷¾×·®À» È¸º¹½ÃÅ°´Â µ¥ ¾¹´Ï´õ.",±× ¾Æ(¿©ÀÚ)´Â Ã¼¾×°¨¼ÒÁõÀ¸·Î Ä¡·á¹Þ¾Ò½É´õ.
-contradiction,"±× ¾Æ(¿©ÀÚ)´Â ÀûÇ÷±¸ ³óÃà¾×(Packed Red Blood Cells, PRBCs) 4À¯´ÖÇÏ°í Á¤»ó »ý¸®½Ä¿°¼ö(Normal Saline, NS) 3¸®ÅÍ·Î ¿ë·® º¹¿øÀ» ¹Þ¾Ò½É´õ.",±× ¾Æ(¿©ÀÚ)´Â ¹° ´õ ¸¶½Ç ÇÊ¿ä´Â ¾ø¾ú½É´õ.
-neutral,"±× ¾Æ(¿©ÀÚ)´Â PRBCs 4À¯´ÖÇÏ°í NS 3¸®ÅÍ·Î ¿ë·® º¹¿øÀ» ¹Þ¾Ò½É´õ. Âü°í: PRBCs´Â 'Packed Red Blood Cells'ÀÇ ¾àÀÚ·Î, ³óÃàµÈ ÀûÇ÷±¸¸¦ ¸»ÇÏ°í, NS´Â 'Normal Saline'ÀÇ ¾àÀÚ·Î, Á¤»ó »ý¸®½Ä¿°¼ö¸¦ ¸»ÇÏ´Â±é´Ï´õ.",±× ¾Æ(¿©ÀÚ)´Â ÀúÇ÷¾ÐÀÌ ÀÖ½É´õ.
-entailment,È¯ÀÚ´Â ÇÇ ³¯ ¶§ È¥¼ö »óÅÂ¿¡´Ù ¹ÝÀÀµµ ¾ø¾ú´ø °É·Î È®ÀÎµÆ½É´õ.,È¯ÀÚÇÑÅ× ³ú³»ÃâÇ÷ÀÌ ¹ß»ýÇß½É´õ.
-contradiction,È¯ÀÚ´Â ÇÇ ³¯ ¶§ È¥¼ö »óÅÂ¿¡´Ù ¹ÝÀÀµµ ¾ø¾ú´ø °É·Î È®ÀÎµÆ½É´õ.,È¯ÀÚ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,È¯ÀÚ´Â ÇÇ Èê¸± ¶§ È¥¼ö »óÅÂ°í ¹ÝÀÀµµ ¾ø¾ú´Ù´Â±â È®ÀÎµÆ½É´Ï´õ.,È¯ÀÚ CT ¿µ»óÀÌ ºñÁ¤»óÀÔ´Ï´õ.
-entailment,"[**È®ÀÎµÈ È¯ÀÚ ¼º 35912**]Àº ¿©µç³× »ì ³²ÀÚ·Î, 10³â Àü¿¡ Áø´Ü¹ÞÀº Claudication(Àý¶Ò°Å¸²) Áõ»óÀ» º¸ÀÌ´Â ¸»ÃÊÇ÷°üÁúÈ¯(PVD) °ú°Å·ÂÀÌ ÀÖ½É´Ï´õ. ¿ä ¸çÄ¥ µ¿¾È °È´Â ´É·ÂÀÌ ÁÙ¾ú´Ù´Â °É ¾Ë¾ÆÃ«´ÙÄ°´Ï´õ.",È¯ÀÚ Àý¶Ò°Å¸®´Â Áõ»óÀÌ ´õ ³ªºüÁö°í ÀÖ½É´Ï´õ.
-contradiction,"[**È®ÀÎµÈ È¯ÀÚ ¼º 35912**]Àº ¿©µç³× »ì ³²ÀÚ·Î, 10³â Àü¿¡ Áø´ÜµÈ µ¿Åë Áõ»óÀ» º¸ÀÌ´Â ¸»ÃÊÇ÷°üÁúÈ¯(PVD) °ú°Å·ÂÀÌ ÀÖ½É´Ï´õ. ¿ä ¸çÄ¥ µ¿¾È °È´Â ´É·ÂÀÌ ÁÙ¾ú´Ù´Â °É ¾Ë°Ô µÆ´ÙÄ°´Ï´õ.",È¯ÀÚ´Â °È´Â µ¥ ¾Æ¹« ¹®Á¦ ¾ø½É´Ï´õ.
-neutral,"[**È®ÀÎµÈ È¯ÀÚ ¼º 35912**]Àº ¿©µç³× »ì ³²ÀÚ·Î, 10³â Àü¿¡ Áø´ÜµÈ µ¿ÅëÀ» Áõ»óÀ¸·Î º¸ÀÌ´Â ¸»ÃÊÇ÷°üÁúÈ¯(PVD) °ú°Å·ÂÀÌ ÀÖ½É´Ï´õ. ÃÖ±Ù ¸çÄ¥ µ¿¾È °È´Â ´É·ÂÀÌ ÁÙ¾ú´Ù´Â °É ¾Ë°Ô µÆ´ÙÄ°´Ï´õ.",È¯ÀÚ´Â Ç÷ÀüÀÌ »ý±ä µ¿¸ÆÀ» °®°í ÀÖ½É´Ï´õ.
-entailment,"±× ÀÔ¿ø ±â°£ µ¿¾È ¿µ»ó Áø´Ü¿¡¼­ ¿ÞÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿ÏÀüÇÑ Æó¼â¶û ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿øÀ§ºÎ °¡Áö°¡ ³ªÅ¸³µ½É´Ï´õ. ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿øÀ§ºÎ¶û ÁÖ¿ä Æ÷ÅÐ Á¤¸ÆÀº Åë·Î°¡ ¿­·Á ÀÖ¾ú°í, TIPS(°æÁ¤¸Æ°£ »þ¿îÆ®)µµ ¿­·Á ÀÖ¾ú°í ÀûÀýÇÏ°Ô °­È­µÇ¾ú½É´Ï´õ.",È¯ÀÚ´Â °£ ÁúÈ¯ÀÌ ÀÖ½É´Ï´õ.
-contradiction,"±× ÀÔ¿ø ±â°£ µ¿¾È ¿µ»ó Áø´Ü¿¡¼­ ¿ÞÂÊ Æ÷Å» Á¤¸ÆÀÌ ¿ÏÀüÈ÷ ¸·Èù °Å¶û ¿À¸¥ÂÊ Æ÷Å» Á¤¸Æ ¿øÀ§ºÎ °¡Áö°¡ È®ÀÎµÇ¾ú½É´Ï´õ. ¿øÀ§ºÎ ¿À¸¥ÂÊ Æ÷Å» Á¤¸ÆÀÌ¶û ÁÖ¿ä Æ÷Å» Á¤¸ÆÀº Åë·Î°¡ È®º¸µÅ ÀÖ¾ú°í, TIPS(°æÁ¤¸Æ°£ »þ¿îÆ®)µµ Åë·Î°¡ È®º¸µÅ¼­ ÀûÀýÇÏ°Ô °­Á¶µÇ¾ú½É´Ï´õ.",È¯ÀÚ °£ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,"±× ÀÔ¿ø ±â°£ µ¿¾È ¿µ»ó Áø´Ü °á°ú, ¿ÞÂÊ Æ÷ÅÐ Á¤¸ÆÀÌ¶û ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿øÀ§ ºÐÁö´Â ¿ÏÀüÈ÷ ¸·Çô ÀÖ¾ú½É´Ï´õ. ¹Ý¸é¿¡ ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ±ÙÀ§ ºÎºÐÀÌ¶û ÁÖ Æ÷ÅÐ Á¤¸ÆÀº Åë·Î°¡ ¿­·ÁÀÖ¾ú°í, TIPS(°æÁ¤¸Æ°£ »þ¿îÆ®)´Â Á¦´ë·Î ¿­·Á ÀÖ¾î°¡ ÀûÀýÈ÷ °­Á¶µÇ¾ú½É´Ï´õ.",¾ËÄÚ¿Ã ³²¿ë ÀÌ·Â ÀÖÀ½
-entailment,"±×´Â [**Location (un) 18**] ¿ÜºÎ º´¿ø¿¡¼­ 2¸®ÅÍ Á¤»ó »ïÅõ¾Ð »ý¸®½Ä¿°¼ö, Æ¼¾Æ¹Î, ¿±»ê, Á¾ÇÕºñÅ¸¹Î, Ä«ÀÌ¿¢¼¿·¹ÀÌÆ®, ¿°È­Ä®½·, ÀÎ½¶¸°, ±×¸®°í ¹ÙÀÌÄ«º¸³×ÀÌÆ®¸¦ Åõ¿©¹Þ¾Ò½É´Ï´õ.",È¯ÀÚ´Â »êÁõ »óÅÂ¿´½É´Ï´õ.
-contradiction,"±×´Â [**Location (un) 18**] ¿ÜºÎ º´¿ø¿¡¼­ 2¸®ÅÍ Á¤»ó »ì¸°¼ö, Æ¼¾Æ¹Î, ¿±»ê, Á¾ÇÕºñÅ¸¹Î, Kayexalate, ¿°È­Ä®½·, ÀÎ½¶¸°, ±×¸®°í ¹ÙÀÌÄ«ºê¸¦ Åõ¿©¹Þ¾Ò½É´Ï´õ.",È¯ÀÚ´Â ¼ú ¸¶½Å Àû ¾ø´ÙÄ°´Ï´õ.
-neutral,"±×´Â [**Location (un) 18**] ¿ÜºÎ º´¿ø¿¡¼­ 2¸®ÅÍ Á¤»ó »ì¸°, Æ¼¾Æ¹Î, ¿±»ê, Á¾ÇÕºñÅ¸¹Î, Kayexalate, ¿°È­Ä®½·, ÀÎ½¶¸°, ±×¸®°í ¹ÙÀÌÄ«ºê¸¦ Åõ¿©¹Þ¾Ò½É´Ï´õ.",È¯ÀÚ´Â ¾ËÄÚ¿Ã Áßµ¶ÀÔ´Ï´õ.
-entailment,È¯ÀÚ´Â ÇöÀå¿¡¼­ Æ©ºê»ð°üÀ» ¹Þ¾Ò½É´Ï´õ.,È¯ÀÚ°¡ È£Èí¿ë Æ©ºê¸¦ ¹Þ¾Ò½É´Ï´õ.
-contradiction,È¯ÀÚ´Â ÇöÀå¿¡¼­ Æ©ºê»ð°üÀ» ¹Þ¾Ò½É´Ï´õ.,È¯ÀÚ´Â È£Èí Áö¿øÀÌ ÇÊ¿ä ¾ø¾ú½É´Ï´õ.
-neutral,È¯ÀÚ´Â ÇöÀå¿¡¼­ Æ©ºê»ð°üÀ» ¹Þ¾Ò½É´Ï´õ.,È¯ÀÚ´Â È£Èí ºÎÀü »óÅÂ¿´½É´Ï´õ.
-entailment,±× ¿©ÀÚ´Â ÀÔ¸Àµµ ¾ø°í Àáµµ Àß ¸ø ÀÜ´ÙÄº½É´Ï´õ.,È¯ÀÚ°¡ ÀáÀ» Àß ¸ø ÀÚ°í ÀÖ½É´Ï´õ.
-contradiction,±× ¿©ÀÚ´Â ÀÔ¸Àµµ ¾ø°í Àáµµ Àß ¸ø ÀÜ´Ù°í ¸»Çß½É´Ï´õ.,È¯ÀÚ´Â ¾îµð ºÒÆíÇÏ´Ù´Â ¸»Àº ¾È Çß½É´Ï´õ.
-neutral,±× ¿©ÀÚ´Â ÀÔ¸Àµµ ¾ø°í Àáµµ Àß ¸ø ÀÜ´Ù°í ¸»Çß½É´Ï´õ.,È¯ÀÚ°¡ ¸öÀÌ °è¼Ó ¾ÆÆÍ´ÙÄ°´Ï´õ.
-entailment,´ÙÀ½Àº °£´ÜÇÏ°Ô ¿ä¾àÇÑ Åð¿ø ¿ä¾à¼­¸¦ °ËÅäÇÑ ³»¿ëÀÔ´Ï´õ.,È¯ÀÚ°¡ ÀÔ¿øÇß½É´Ï´õ.
-contradiction,´ÙÀ½Àº °£´ÜÇÏ°Ô ¿ä¾àµÈ Åð¿ø ¿ä¾à¼­¸¦ °ËÅäÇÑ ³»¿ëÀÔ´Ï´õ.,È¯ÀÚ´Â ÀÔ¿ø ¾È Çß½É´Ï´õ.
-neutral,"""Åð¿ø ¿ä¾à¼­¸¦ °ËÅäÇß°í, ¾Æ·¡¿¡ °£´ÜÇÏ°Ô ¿ä¾àÇß½É´Ï´õ.""",È¯ÀÚ´Â ±Þ¼º °ü»óµ¿¸Æ ÁõÈÄ±ºÀ¸·Î ÀÔ¿øÇß½É´Ï´õ.
-entailment,°ú°Å ÀÇ·á ÀÌ·Â: [**12-19**]¿¡ Æ®¶óÅ°¿À½ºÅä¹Ì »ðÀÔÀÌ ÁÖ¿ä »çÇ×À¸·Î ±â·ÏµÅ ÀÖ½É´Ï´õ.,È¯ÀÚÇÑÅ× Æ®¶óÅ°¿À½ºÅä¹Ì°¡ ½Ç½ÃµÆ½É´Ï´õ.
-contradiction,°ú°Å ÀÇ·á ÀÌ·Â: [**12-19**]¿¡ Æ®¶óÅ°¿À½ºÅä¹Ì »ðÀÔÀ» Çß´Â °É·Î Áß¿äÇÏ°Ô ÀûÇôÀÖ½É´Ï´õ.,È¯ÀÚ È£Èí ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,°ú°Å ÀÇ·á ÀÌ·Â: [**12-19**]¿¡ Æ®¶óÅ°¿À½ºÅä¹Ì »ðÀÔÀ» Çß´Â °É·Î Áß¿äÇÏ°Ô ÀûÇôÀÖ½É´Ï´õ.,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ½É´Ï´õ.
-entailment,¿À´Ã ±×ºÐÀº ÇÏµµ ±â¿îÀÌ ŸÁ¾î°¡ Ä§´ë¿¡¼­ ÀÏ³¯ ¼ö°¡ ŸÁ¾ú½É´Ï´õ.,±×ºÐÀº °ÈÁö¸¦ ¸óÇß½É´Ï´õ.
-contradiction,¿À´Ã ±×ºÐÀº ÇÏµµ ±â¿îÀÌ ŸÁ¾î°¡ Ä§´ë¿¡¼­ ¸ó ÀÏ³µ½É´Ï´õ.,±×ºÐÀº °ÉÀ» ¼ö ÀÖ½É´Ï´õ.
-neutral,¿À´Ã ±×ºÐÀº ÇÏµµ ±â¿îÀÌ ŸÁ¾î°¡ Ä§´ë¿¡¼­ ¸ó ÀÏ³µ½É´Ï´õ.,±×ºÐÀº ÅäÇÏ°í ¼ÓÀÌ ¹Ì½Ã²¨¿î Áõ»óÀÌ ÀÖ½É´Ï´õ.
-entailment,"[**È®ÀÎµÈ È¯ÀÚ ¼º 11376**]Àº »ó³ÉÇÑ 73¼¼ ÇÒ¸ÅÀÎµ¥, Àü±Ø ÀÖ´Â ½ÉÀå ¹ØÆÇÆÇ ´ëÃ¼ ¼ö¼úÇÏ°í °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼ú ¹ÞÀ»¶ó²¿ ¼ö¼ú Àü¿¡ ¿À¼Ì½É´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯(CAD)À» ¾Î°í ÀÖ½É´Ï´õ.
-contradiction,"[**È®ÀÎµÈ È¯ÀÚ ¼º 11376**]Àº »ó³ÉÇÑ 73¼¼ ÇÒ¸ÅÀÎµ¥, Àü±Ø ½á°¡ ´ëµ¿¸ÆÆÇ¸· ¹Ù²Ù´Â ¼ö¼úÀÌ¶û °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼ú ¹ÞÀ»¶ó²¿ ¼ö¼ú Àü¿¡ º´¿ø¿¡ ¿Ô½É´Ï´õ.",È¯ÀÚ´Â ¿¹Àü¿¡ ¼ö¼úÇÑ ÀûÀÌ ŸÁ½É´Ï´õ.
-neutral,"[**È®ÀÎµÈ È¯ÀÚ ¼º 11376**]Àº ¾ï¼ö·Î »ó³ÉÇÑ 73¼¼ ÇÒ¸ÅÀÎµ¥, Àü±ØÀ¸·Î ½ÉÀå ¹ÌÆ®¶öÆÇ¸· ¹Ù²Ù´Â ¼ö¼úÀÌ¶û °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼úÀ» °°ÀÌ ¹ÞÀ»¶ó²¿ ¼ö¼ú Àü¿¡ ¿À¼Ì½É´Ï´õ.",È¯ÀÚ´Â ¸»ÃÊµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½É´Ï´õ.
-entailment,"±× ¾ÆÁö¸Å ³²ÆíÀÌ ÇÏ·ç¿¡ ÃÖ¼Ò ÇÑ¹øÀº ÅäÇÏ´Â °É ºÃ´ÙÄ«´Âµ¥, ±×±â ÇÇÅäÀÎÁö´Â Àß ¸ð¸£°Ú´Ù Ä°µð´Ù.",±× ¾ç¹ÝÀº ¿ä»õ ÅäÇÏ°í ÀÖ½É´Ï´õ.
-contradiction,"±× ¾ÆÁö¸Å ³²ÆíÀÌ ÇÏ·ç¿¡ ÃÖ¼Ò ÇÑ¹øÀº ÅäÇß´Ù²¿ ¸»Çß´Âµ¥, ±×±â ÇÇÅäÀÎÁö´Â È®½ÇÇÏÁö´Â ¾Ê´Ù Ä°µð´Ù.",±× ¾ç¹ÝÀº ÅäÇÏ´Â Áõ»óÀº ŸÁ¾ú½É´Ï´õ.
-neutral,"±× ¾ÆÁö¸Å ³²ÆíÀÌ ÇÏ·ç¿¡ ÃÖ¼Ò ÇÑ¹øÀº ÅäÇÏ´Â °É ºÃ´ÙÄ«´Âµ¥, ±×±â ÇÇÅäÀÎÁö´Â Àß ¸ð¸£°Ú´Ù Ä°µð´Ù.",±× ¾ç¹ÝÀº »óºÎ À§Àå°ü ÃâÇ÷À» °Þ°í ÀÖ½É´Ï´õ.
-entailment,±×ºÐÀº ÀÌ¹ø¿¡ ½ÉÀåÀÌ ¸Ü±â Àü±îÁö´Â Àß Áö³»´Â °Í °°¾Ò½É´Ï´õ.,È¯ÀÚ°¡ ½ÉÀå¸¶ºñ°¡ ¿Ô¾ú½É´Ï´õ.
-contradiction,±×ºÐÀº ½ÉÀåÀÌ ¸Ü´Â ÀÏÀÌ ÀÖ±â Àü±îÁö´Â Àß Áö³»´Â °Í °°¾Ò½É´Ï´õ.,È¯ÀÚ´Â ½ÉÀå¸¶ºñ°¡ ¿Â ÀûÀÌ ŸÁ½É´Ï´õ.
-neutral,±×ºÐÀº ½ÉÀåÀÌ ¸Ü´Â ÀÏÀÌ ÀÖ±â Àü±îÁö´Â Àß Áö³»´Â °Í °°¾Ò½É´Ï´õ.,È¯ÀÚ´Â ³ú»ê¼ÒºÎÁ·ÁõÀ¸·Î ³ú¼Õ»óÀ» ÀÔ¾ú½É´Ï´õ.
-entailment,"±× ¾ç¹ÝÀº °¡½¿ ¾ÆÇÂ °Å, ¼û Âù °Å, ¿îµ¿ÇÒ ¶§ ¼û ¸·È÷´Â °Å³ª ±âÀýÇÏ´Â °Ç ŸÁ´Ù Ä°´Ï´õ.",È¯ÀÚ ROS(Review of Systems) °á°ú´Â À½¼ºÀÔ´Ï´õ.
-contradiction,"±× ¾ç¹ÝÀº °¡½¿ ¾ÆÇÂ °Å, ¼û Âù °Å, ¿îµ¿ÇÒ ¶§ ¼û ¸·È÷´Â °Å³ª ±âÀýÇÑ ÀûÀº ŸÁ´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Çù½ÉÁõÀ» ¾Î°í ÀÖ½É´Ï´õ.
-neutral,"±× ¾ç¹ÝÀº °¡½¿ ¾ÆÇÂ °Å, ¼û Âù °Å, ¿îµ¿ÇÒ ¶§ ¼û ¸·È÷´Â °Å, ¾Æ´Ô ±âÀýÇÑ ÀûÀº ŸÁ´Ù Ä°´Ï´õ.",È¯ÀÚ ½ÅÃ¼ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-entailment,"±× ¾ç¹ÝÀÌ ¶Ç ""¾îÁö·´´Ù""°íµµ Äº´Âµ¥, ±×°Ô ¾î¶»³Ä°í ÀÚ¼¼È÷ ¹°¾îº¸ÀÌ±î °¡²û¾¿ ±âÀýÇÒ °Í ¸ÍÅ°·Î ÇÎ µ¹¾Ò´Ù²¿ Äº½É´Ï´õ.",È¯ÀÚ´Â ¾îÁö·¯¿ü´Ù Ä°´Ï´õ.
-contradiction,"±× ¾ç¹ÝÀÌ ¶Ç ""¾îÁö·´´Ù""°íµµ Äº´Âµ¥, ÀÚ¼¼È÷ ¸»ÇØ´Þ¶óÄ«ÀÌ±î °¡²û¾¿ ±âÀýÇÒ °Í °°Àº ¾îÁö·³ÁõÀ» ´À²¼´Ù²¿ Äº½É´Ï´õ.",È¯ÀÚ´Â ¾îÁö·¯¿î °Ç ŸÁ´Ù Ä°´Ï´õ.
-neutral,"±× ¾ç¹ÝÀÌ ¶Ç ""¾îÁö·´´Ù""°íµµ Äº´Âµ¥, ÀÚ¼¼È÷ ¸»ÇØ´Þ¶óÄ«ÀÌ±î °¡²û¾¿ ±âÀýÇÒ °Í °°Àº ¾îÁö·³ÁõÀ» ´À²¼´Ù²¿ Äº½É´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷´çÀÔ´Ï´õ.
-entailment,"¾î¹«ÀÌ´Â ¼ö¼úÇÏ±â Àü±îÁö ¾Æ ³ºÀ»¶óÄ«´Â ³¦»õ³ª Áõ»ó, ¾ç¼ö ÅÍÁö°Å³ª ¹è ¹¶Ä¡´Â ±â ÇÏ³ªµµ ¾ø¾ú¾î¿¹.",¾î¹«ÀÌ´Â ¼ö¼úÇØ°¡ ¾Æ¸¦ ³º¾Ò¾î¿¹.
-contradiction,"¾î¹«ÀÌ´Â ¼ö¼ú Àü¿¡ ¾Æ ³ºÀ»¶óÄ«´Â ³¦»õ³ª Áõ»ó, ¾ç¼ö ÅÍÁö°Å³ª ¹è ¹¶Ä¡´Â ±â ÇÏ³ªµµ ¾ø¾ú¾î¿¹.",¾î¹«ÀÌ°¡ ¾Æ ³º´Â ÁßÀÌ¾ú¾î¿¹.
-neutral,"¾î¹«ÀÌ´Â ¼ö¼ú Àü¿¡ ¾Æ¹«·± ¾Æ ³ºÀ»¶óÄ«´Â ³¦»õ³ª Áõ»ó, ¾ç¼ö ÅÍÁö°Å³ª ¹è ¹¶Ä¡´Â ±â ¾ø¾ú¾î¿¹.",±× ¾ÆÁö¸Å´Â ´Þ Ã¤¾Æ°¡ ¾Æ¸¦ ³º¾Ò¾î¿¹.
-entailment,"È¯ÀÚ´Â Áö±Ý °ü »©°í ÁøÁ¤Á¦ ²÷Àº »óÅÂ°í, ´õ ÀÚ¼¼ÇÑ Á¤º¸¸¦ ¾Ë·ÁÁá¾î¿¹.",±× È¯ÀÚ´Â ¿¹Àü¿¡ ¼û ½¬´Â °Å µµ¿ÍÁÖ´Â±â ÇÊ¿äÇß¾î¿¹.
-contradiction,"È¯ÀÚ´Â Áö±Ý ¸ñ¿¡ ³¤ °ü »©°í ÁøÁ¤Á¦ ²÷Àº »óÅÂ°í, ´õ ÀÚ¼¼ÇÑ Á¤º¸¸¦ ¾Ë·ÁÁá¾î¿¹.",È¯ÀÚ´Â ÇÑ¹øµµ °ü ²ÅÀº ÀûÀÌ ¾ø¾î¿¹.
-neutral,"È¯ÀÚ´Â Áö±Ý °ü »©°í ÁøÁ¤Á¦ ²÷Àº »óÅÂ°í, ´õ ÀÚ¼¼ÇÑ Á¤º¸¸¦ ¾Ë·ÁÁá¾î¿¹.",È¯ÀÚ°¡ ´ÙÃÆ¾î¿¹.
-entailment,ÀÓ½ÅÀÌ ÇÑ 18ÁÖÂë µÆÀ» ¶§ ÇÑ ¾Æ °Ë»ç¿¡¼­ ³ú¼ö¸· ¾ø´Â °É ¾Ë°Ô µÇ°¡ ±î´Ù·Î¿öÁ³¾î¿¹.,¹î¼Ó ¾Æ Å©´Â±â Á¤»óÀÌ ¾Æ´Ï¾ú¾î¿¹.
-contradiction,ÀÓ½ÅÀÌ ÇÑ 18ÁÖÂë µÆÀ» ¶§ ¹î¼Ó ¾Æ°¡ ÅÂ¾î³¯ ¶§ºÎÅÍ ³ú½ÇÁúÀÌ ¾ø´Ù´Â Áø´ÜÀ» ¹Þ¾Æ°¡ ±î´Ù·Î¿öÁ³¾î¿¹.,ÀÓ½ÅÀº º°ÀÏ ¾ø¾ú¾î¿¹.
-neutral,ÀÓ½ÅÀÌ ÇÑ 18ÁÖÂë µÆÀ» ¶§ ÇÑ ¾Æ °Ë»ç¿¡¼­ ³ú¼ö¸·ÀÌ ¸ðÀÚ¶õ ±â ¹ß°ßµÇ°¡ ±î´Ù·Î¿öÁ³¾î¿¹.,¹î¼Ó¿¡ ÀÖÀ» ¶§ µ¶¼Ò¿¡ ³ëÃâµÆÀ» °¡´É¼º.
-entailment,"È¯ÀÚ´Â ¸µ°Å »©°í Ç÷°üÀ¸·Î ¶ó½Ä½º 10mgÂ¥¸® ÁÖ»ç ¼¼ ¹æ ¸Â°í, ¿ÀÁÜÀ» 500cc ´³¾î¿¹.",È¯ÀÚ ÄáÆÏÀº ¸ÖÂÄÇÕ´Ï´õ.
-contradiction,"È¯ÀÚ´Â ¸µ°Å »©°í Ç÷°üÀ¸·Î ¶ó½Ä½º 10mgÂ¥¸® ÁÖ»ç ¼¼ ¹æ ¸Â¾Ò°í, ±×·¡°¡ ¿ÀÁÜÀ» 500cc ´³¾î¿¹.",È¯ÀÚ ÄáÆÏÀÌ Á¦´ë·Î ÀÏÀ» ¾È ÇÕ´Ï´õ.
-neutral,"È¯ÀÚ´Â ¸µ°Å »©°í Ç÷°ü ÁÖ»ç·Î ¶ó½Ä½º 10mgÂ¥¸® ¼¼ ¹æ ¸Â¾Ò°í, ±×·¡°¡ ¿ÀÁÜÀ» 500cc ´³¾î¿¹.",È¯ÀÚ°¡ ¸µ°Å¸¦ ³Ê¹« ¸¹ÀÌ ¸Â¾Ò¾î¿¹.
-entailment,±×°Å´Â ¶Ç ¶¡ ¸¹ÀÌ ³ª´Â °Å¶û »ó°ü ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ¶¡À» Èê¸®°í ÀÖ¾î¿¹.
-contradiction,±×°Å´Â ¶Ç ¶¡ ¸¹ÀÌ ³ª´Â °Å¶û »ó°ü ÀÖ¾ú¾î¿¹.,È¯ÀÚ´Â ¶¡À» ¾Æ¿¹ ¾È Èê·Á¿¹.
-neutral,±×°Å´Â ¶Ç ¶¡ ¸¹ÀÌ ³ª´Â °Å¶û »ó°ü ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ¿­ÀÌ ³ª°í ÀÖ¾î¿¹.
-entailment,"È¯ÀÚ´Â [**1-31**] ³¯¿¡ ¼û Â÷°í, ¸¶¸¥±âÄ§ÇÏ°í, ¾É¾Æ¾ß ¼û ½¬±â ÆíÇÑ Áõ»óÀ¸·Î ´Ù¸¥ º´¿ø¿¡ ÀÔ¿øÇß¾î¿¹.",È¯ÀÚ°¡ Æó¿¡ ¹° Â÷´Â Áõ»óÀ» º¸ÀÌ°í ÀÖ¾î¿¹.
-contradiction,"È¯ÀÚ´Â [**1-31**] ³¯¿¡ ¼û Â÷°í, ¸¶¸¥±âÄ§ÇÏ°í, Àß ¶§ ¼û ¾È ½¬´Â Áõ»óÀ¸·Î ´Ù¸¥ º´¿ø¿¡ ÀÔ¿øÇß¾î¿¹.",È¯ÀÚ´Â Æó¿¡ ¹° Â÷´Â Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾î¿¹.
-neutral,"È¯ÀÚ´Â [**1-31**] ³¯¿¡ Èû ¾µ ¶§ ¼û Â÷°í, ¸¶¸¥±âÄ§ÇÏ°í, ¾É¾Æ¾ß ¼û ½¬±â ÆíÇÑ Áõ»óÀ¸·Î ´Ù¸¥ º´¿ø¿¡ ÀÔ¿øÇß¾î¿¹.",È¯ÀÚ´Â Æó¿¡ ¹°ÀÌ Ã¡¾î¿¹.
-entailment,"±× ¿©ÀÚ´Â ½ÉÀå³»°ú [**Last Name (STitle) 295**] ¹Ú»çÇÑÅ×µµ Áø·á¸¦ ¹Þ¾Ò´Âµ¥, ±× ¹Ú»ç°¡ ½ÉÀå ½Â¸ðÆÇ ¹Ù²Ù´Â ¼ö¼úÀ» ¹ÞÀ¸¶ó°í Çß¾î¿¹.",È¯ÀÚÇÑÅ× ½Â¸ðÆÇ¿¡¼­ ÇÇ°¡ °Å²Ù·Î »õ°Å³ª Á¼¾ÆÁö´Â Áõ»óÀÌ º¸ÀÌ°í ÀÖ¾î¿¹.
-contradiction,"±× ¿©ÀÚ´Â ¶Ç ½ÉÀå³»°ú [**¼º (STitle) 295**] ¹Ú»çÇÑÅ×µµ Áø·á¸¦ ¹Þ¾Ò´Âµ¥, ±× ¹Ú»ç°¡ ½ÉÀå ¹Ù²Ù´Â ¼ö¼úÀ» ¹Þ¾Æ¾ß ÇÑ´Ù°í Çß¾î¿¹.",È¯ÀÚ´Â ¾Æ¹«·± Áõ»óµµ ¾ø¾î¿¹.
-neutral,"±× ¿©ÀÚ´Â ½ÉÀå³»°ú [**¼º (STitle) 295**] ¹Ú»çÇÑÅ×µµ Áø·á¸¦ ¹Þ¾Ò´Âµ¥, ±× ÀÇ»ç°¡ ½ÉÀå Ä¡¾ÆÆÇ ´ëÃ¼ ¼ö¼úÀ» ¹Þ¾Æ¾ß ÇÑ´Ù²¿ Çß½É´õ.",È¯ÀÚ´Â ÆóºÎÁ¾ÀÌ ÀÖ½É´õ.
-entailment,ÄÝ·Î½ºÅä¹Ì ÇÏ°í ³ª¼­ Áö±ÝÀº º¹¿øµÆ½É´õ.,È¯ÀÚ´Â ¿¹Àü¿¡ ´ëÀå·ç ¼ö¼ú ¹ÞÀº ÀûÀÌ ÀÖ½É´õ.
-contradiction,ÄÝ·Î½ºÅä¹Ì ÇÏ°í ³ª¼­ ÀÎÀÚ´Â º¹¿øµÆ½É´õ.,È¯ÀÚ´Â ¼ö¼úÇÑ ÀûÀÌ ¾ø½É´õ.
-neutral,"ÄÝ·Î½ºÅä¹Ì ÇÏ°í ³ª¼­, ÀÎÀÚ´Â º¹¿øµÆÀ½.",È¯ÀÚ´Â ´ëÀå¾Ï ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,"±× »ç¶÷ÀÌ ÀÚ±â ÁÖÄ¡ÀÇ º´¿ø¿¡ ÀüÈ­¸¦ Çß°í, °Å±â¼­ °Ë»ç¸¦ ¹Þ¾Æ º¸ÀÌ ÀÛÀºÃ¢ÀÚ°¡ ÅÍÁø±â ¹ß°ßµÆ½É´õ.",±× »ç¶÷Àº À§Àå°ü Ãµ°ø Áø´ÜÀ» ¹Þ¾Ò½É´õ.
-contradiction,"±× »ç¶÷ÀÌ ÀÚ±â ÁÖÄ¡ÀÇ º´¿ø¿¡ ÀüÈ­¸¦ Çß°í, °Å±â¼­ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥ ÀÛÀºÃ¢ÀÚ°¡ ÅÍÁø °É·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº ¼ÒÈ­±â ÂÊ¿¡´Â ¾Æ¹« ÀÌ»ó ¾ø´Â °É·Î È®ÀÎµÆ½É´õ.
-neutral,"±× »ç¶÷ÀÌ ÀÚ±â ÁÖÄ¡ÀÇ º´¿ø¿¡ ÀüÈ­¸¦ Çß°í, °Å±â¼­ °Ë»ç¸¦ ¹Þ¾Æ º¸ÀÌ ÀÛÀºÃ¢ÀÚ°¡ ÅÍÁø °É·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº µð¹öÆ¼Å§¶óÀÌÆ¼½º¸¦ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,"ºÐ¸¸ À¯µµ¸¦ ½ÃÀÛÇß°í, ºÐ¸¸Àº ÇÑ µÎ ½Ã°£ Àü¿¡ ¾ç¸·ÀÌ ÅÍÁö¸é¼­ Â÷Â÷ ÁøÇàµÆ½É´õ.",È¯ÀÚÇÑÅ× ºÐ¸¸ À¯µµ¸¦ Çß½É´õ.
-contradiction,"ºÐ¸¸ À¯µµ¸¦ ½ÃÀÛÇß°í, ÇÑ µÎ ½Ã°£ Àü¿¡ ¹è¶õ¸·ÀÌ ÅÍÁö°í ³ª¼­ ºÐ¸¸ÀÌ Â÷Â÷ ÁøÇàµÆ½É´õ.",È¯ÀÚ´Â Á¶»êÀ» Çß½É´õ.
-neutral,"ºÐ¸¸ À¯µµ¸¦ ½ÃÀÛÇß°í, ÇÑ µÎ ½Ã°£ Àü¿¡ ¾ç¼ö°¡ ÅÍÁö¸é¼­ Â÷Â÷ ºÐ¸¸ÀÌ ÁøÇàµÆ½É´õ.",È¯ÀÚ´Â ÃÊ»êÀÌ¾ú½É´õ.
-entailment,±× ¿©ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡´Â ÀÌ¼ÛÇÒ ¶§ 100Âë µÆ½É´õ.,È¯ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡°¡ Á¤»ó ¹üÀ§¿¡¼­ Á© ³·Àº ÂÊ¿¡ °ÉÃÄ ÀÖ½É´õ.
-contradiction,±× ¿©ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡´Â ÀÌ¼ÛÇÒ ¶§Âë 100 Á¤µµ µÆ½É´õ.,È¯ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡°¡ ¿Ã¶ú½É´õ.
-neutral,±× ¿©ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡´Â ÀÌ¼ÛÇÒ ¶§Âë 100 Á¤µµ µÆ½É´õ.,È¯ÀÚ´Â ÃâÇ÷ Àå¾Ö°¡ ÀÖ½É´õ.
-entailment,"±× ¿©ÀÚ°¡ ±âÄ§ÇÏ°í ¸¶¸¥ ±¸¿ªÁúÀ» ÇÏ´õ´Ï, ±× µÚ·Î ¹è°¡ ¾öÃ» ¾ÆÇÁ±â ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ¹è°¡ ¾ï¼ö·Î ¾ÆÇÁ´Ù Ä°´Ï´õ.
-contradiction,"±× ¿©ÀÚ°¡ ±âÄ§ÇÏ°í ¸¶¸¥ ±¸¿ªÁúÀ» ÇÏ´õ´Ï, ±× µÚ·Î ¹è°¡ ¾öÃ» ¾ÆÇÁ±â ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ¹è ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
-neutral,"±× ¿©ÀÚ°¡ ±âÄ§À» ÇÏ°í ¸¶¸¥ ±¸¿ªÁúÀ» ÇÏ°í ³ª¼­, ¹è°¡ ¾ï¼ö·Î ¾ÆÇÁ±â ½ÃÀÛÇß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Àå Æó»öÀÌ ÀÖ½É´õ.
-entailment,CT Âï¾îº¸ÀÌ 4µî±Þ [** À§Ä¡ **] Âõ¾îÁø °Ô ÀÖ°í º¹°­ ÃâÇ÷ÀÌ »ý°å½É´õ.,È¯ÀÚ´Â º¹°­ ÃâÇ÷ÀÌ ÀÖ½É´õ.
-contradiction,CT °á°ú·Î´Â 4±â [** À§Ä¡ **]¿¡ Âõ¾îÁø »óÃ³¶û º¹°­ ÃâÇ÷ÀÌ º¸¿´½É´õ.,È¯ÀÚ CT °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,CT Âï¾îº¸ÀÌ 4µî±Þ [** À§Ä¡ **] Âõ¾îÁø °Ô ÀÖ°í º¹°­ ÃâÇ÷ÀÌ »ý°å½É´õ.,È¯ÀÚ´Â ±³Åë»ç°í°¡ ³µ½É´õ.
-entailment,"±× ¿©ÀÚ Ç÷¾ÐÀº 191/120ÀÌ°í, ½É¹Ú¼ö´Â 102¿´½É´õ. ÀÏ¹Ý °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 91%¿´´Âµ¥, 2¸®ÅÍ »ê¼Ò ¸¶½ºÅ©¸¦ ³¢ÀÌ 98%·Î ¿Ã¶ú½É´õ. ±×¸®°í ¿­Àº ¾ø¾ú½É´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
-contradiction,"±× È¯ÀÚ Ç÷¾ÐÀº 191/120ÀÌ¾ú°í, ½É¹Ú¼ö´Â 102¿´½É´õ. ·ë ¿¡¾î¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 91%¿´´Âµ¥, 2¸®ÅÍ »ê¼Ò Ä³´¼¶ó¸¦ ¾²´Ï±î 98%·Î ¿Ã¶ó°¬½É´õ. ±×¸®°í ¿­³ª´Â Áõ»óµµ ¾ø¾ú½É´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÔ´Ï´õ.
-neutral,"±× È¯ÀÚ Ç÷¾ÐÀº 191/120ÀÌ¾ú°í, ½É¹Ú¼ö´Â 102¿´½É´õ. ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 91%¿´Áö¸¸, 2¸®ÅÍ »ê¼Ò ¸¶½ºÅ©¸¦ ³¢´Ï±î 98%·Î ¿Ã¶ó°¬½É´õ. ±×¸®°í ¿­³ª´Â Áõ»óÀº ¾ø¾ú½É´õ.",È¯ÀÚ´Â Æó ÁúÈ¯ÀÌ ÀÖ½É´õ.
-entailment,"È¯ÀÚ°¡ ÀÚ²Ù Á¹¾Æ¼­ º´·Â ÆÄ¾ÇÀÌ Á» Èûµçµ¥, ±× È¯ÀÚ ¸»·Î´Â ÇÑ 3ÀÏ Àü±îÁø ±¦Âú¾Ò´Ù°¡, Áý¾È ½ºÆ®·¹½º ¶«¿¡ ´Ù½Ã ¼ú ¸¶½Ã°í ÄÚÄ«ÀÎµµ ÇÏ±â ½ÃÀÛÇß´ÙÄ°´Ï´õ.",È¯ÀÚ°¡ ±â¿îÀÌ ÇÏ³ªµµ ¾ø´Â »óÅÂÀÔ´Ï´õ.
-contradiction,"È¯ÀÚ°¡ Á¹¾Æ¼­ º´·Â¿¡ ´ëÇÑ Á¤º¸°¡ Á» Á¦ÇÑÀûÀÎµ¥, ±× È¯ÀÚ ¸»·Î´Â ÇÑ 3ÀÏ Àü±îÁö´Â »óÅÂ°¡ ÁÁ¾Ò´ä´Ï´Ù. ±Ùµð Áý¾È ½ºÆ®·¹½º ¶«¿¡ ´Ù½Ã ¼ú ¹¬°í ÄÚÄ«ÀÎµµ ½ÃÀÛÇß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ¾àÀÌ³ª ¼ú ¾È Çß´Ù°í ÇÕ´Ï´õ.
-neutral,"È¯ÀÚ°¡ Á¹¾Æ¼­ º´·Â ÆÄ¾ÇÀÌ Á» ¾î·ÆÁö¸¸, ±× È¯ÀÚ ¸»·Î´Â ÇÑ 3ÀÏ Àü±îÁø Àß Áö³»´Ù°¡ Áý¾È ½ºÆ®·¹½º ¶«¿¡ ´Ù½Ã ¼ú ¸¶½Ã°í ÄÚÄ«ÀÎµµ Çß´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ°¡ Áßµ¶ »óÅÂÀÔ´Ï´õ.
-entailment,"±× È¯ÀÚ´Â ÀÌÀü ÀÏµéÀº Àß ±â¾ï ¸óÇßÁö¸¸, °ü »Ì°í ³ª¼­´Â ÀÎÁö¶û ÁöÇâ·ÂÀÌ 3Á¡À¸·Î Æò°¡µÆ½É´õ.",±× È¯ÀÚ´Â ¿¹Àü¿¡ ÀÎ°øÈ£Èí ¶«¿¡ Æ©ºê¸¦ ³¢¿î ÀûÀÌ ÀÖ½É´õ.
-contradiction,"±× È¯ÀÚ´Â ÀÌÀü ÀÏ¿¡ ´ëÇØ ±â¾ïÀ» Àß ¸óÇßÁö¸¸, °ü »Ì°í ³ª¼­´Â °æ°¢¼ºÀÌ¶û Á¤-½Ã-Àå¼Ò Áö-ÀÎ½Ä(A&Ox3)Àº Á¤»óÀÌ¾ú½É´õ.",±× È¯ÀÚ´Â °ü »Ì°í ³ª¼­ Á¤½ÅÀ» ÀÒ¾ú½É´õ.
-neutral,"±× È¯ÀÚ´Â ÀÌÀü ÀÏµéÀº Àß ±â¾ï ¸óÇßÁö¸¸, °ü »Ì°í ³ª¼­´Â ÀÎÁö¶û ÁöÇâ·ÂÀÌ 3Á¡À¸·Î Æò°¡µÆ½É´õ.",±× È¯ÀÚ´Â ¿¹Àü¿¡ Á¤½Å ÀÒÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,¸Ó¸® ´ÙÄ£ Àû ¾ø´Ù Ä¯.,¿¹Àü¿¡ ¸Ó¸® ´ÙÄ£ Àû ¾ø½É´õ.
-contradiction,¸Ó¸® ´ÙÄ£ Àû ¾ø´Ù Ä¯.,³úÁøÅÁ °ÞÀº Àû ÀÖÀ½.
-neutral,¸Ó¸® ´ÙÄ£ Àû ¾ø´Ù°í ÇÕ´Ï´õ.,³Ñ¾îÁø Àû ¾øÀ½.
-entailment,"°¨¿°¼º ÁúÈ¯: È¯ÀÚ º´ÀÌ ½É°¢ÇÏ°í ¾ö¸¶µµ ¿­ÀÌ ³µ¾ú°í, ÅÂ¸·¿°µµ °ÆÁ¤µÅ¼­, [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº ÆÐÇ÷ÁõÀ¸·Î º¸°í Ä¡·áÇß½É´õ.",È¯ÀÚ´Â Ç×»ýÁ¦·Î Ä¡·á¹Þ¾Ò½É´õ.
-contradiction,"°¨¿°¼º ÁúÈ¯: È¯ÀÚ º´ÀÌ ½É°¢ÇÏ°í ¾ö¸¶µµ ¿­ÀÌ ³µ¾ú°í, ÅÂ¸·¿°µµ °ÆÁ¤µÅ¼­, [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº ÆÐÇ÷ÁõÀ¸·Î º¸°í Ä¡·áÇß½É´õ.","""ÆÐÇ÷Áõ À§ÇèÀº ¾ø½É´õ."""
-neutral,"°¨¿°¼º ÁúÈ¯: È¯ÀÚ º´ÀÌ ½É°¢ÇÏ°í ¾ö¸¶µµ ¿­ÀÌ ³µ¾ú°í, ÅÂ¸·¿°µµ °ÆÁ¤µÅ¼­, [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº ÆÐÇ÷ÁõÀ¸·Î º¸°í Ä¡·áÇß½É´õ.","""¾ö¸¶ÇÑÅ× °¨¿°ÀÌ ÀÖ¾ú½É´õ."""
-entailment,±â°üÁö°æÀ¸·Î ÇÑ »ý°ËÀº Áø´Ü¿¡ µµ¿òÀÌ ¾È µÆ½É´õ.,È¯ÀÚÇÑÅ× ¹Ìµð¾î½ºÆ¼³Ñ Áú·®ÀÌ ÀÖ½É´õ.
-contradiction,±â°üÁö¸¦ ÅëÇØ ÇÑ »ý°ËÀº Áø´Ü¿¡ µµ¿òÀÌ ¾È µÆ½É´õ.,È¯ÀÚ CT °Ë»ç °á°ú´Â À½¼ºÀÔ´Ï´õ.
-neutral,È¾´Ü±â°üÁö »ý°ËÀº Áø´Ü¿¡ µµ¿òÀÌ ¾È µÆ½É´õ.,È¯ÀÚÇÑÅ× Æó¿¡ È¤ÀÌ ÀÖ½É´õ.
-entailment,±× È¯ÀÚ Æó ÁúÈ¯¸¸ °®°í´Â Áö±Ý °Þ°í ÀÖ´Â Áõ»óÀÌ ¾ó¸Å³ª ½ÉÇÑÁö ¼³¸íÇÏ±â ¾î·Æ´Ù°í ÆÇ´ÜµÆ½É´õ.,È¯ÀÚ°¡ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
-contradiction,±× È¯ÀÚ Æó ÁúÈ¯¸¸ °®°í´Â Áö±Ý °Þ°í ÀÖ´Â Áõ»óÀÌ ¾ó¸Å³ª ½ÉÇÑÁö ¼³¸íÇÏ±â ¾î·Æ´Ù°í ÆÇ´ÜµÆ½É´õ.,È¯ÀÚÇÑÅ×´Â ¿ø·¡ ¾Î´ø Æó ÁúÈ¯Àº ¾ø½É´õ.
-neutral,±× È¯ÀÚ Æó ÁúÈ¯¸¸ °®°í´Â Áö±Ý °Þ°í ÀÖ´Â Áõ»óÀÌ ¾ó¸Å³ª ½ÉÇÑÁö ¼³¸íÇÏ±â ¾î·Æ´Ù°í ÆÇ´ÜµÆ½É´õ.,È¯ÀÚÇÑÅ× Æó»öÀüÁõÀÌ ÀÖ½É´õ.
-entailment,"±× »ç¶÷Àº Àç¹ß¼º Çù½ÉÁõÇÏ°í ±àÁ¤ÀûÀÎ ¿îµ¿ºÎÇÏ °Ë»ç °á°ú ¶«¿¡ [**Month (only) 115**]¿¡ ´Ù½Ã ½ÉÀåÄ«Å×ÅÍ½Ç·Î ¿Å°ÜÁ³½É´õ. ÀÌ °Ë»ç¿¡¼­´Â 40-50%ÀÇ ÈÄ¹æÇÏ°­°ü, 30%ÀÇ ÁÂÃøÁÖ°ü, 60-70%ÀÇ ÁÂÀüÇÏ°­°ü, 50%ÀÇ ¼øÈ¯°ü, ±Û°í 60%ÀÇ ¸»ÃÊ¸·ºÎ µ¿¸Æ º´º¯ÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â ´Ù¹ß¼º °ü»óµ¿¸Æ ÁúÈ¯À» °®°í ÀÖ½É´õ.
-contradiction,"±× »ç¶÷Àº Àç¹ß¼º Çù½ÉÁõÇÏ°í ±àÁ¤ÀûÀÎ ¿îµ¿ºÎÇÏ °Ë»ç ¶«¿¡ [**Month (only) 115**]¿¡ ´Ù½Ã ½ÉÀåÄ«Å×ÅÍ½Ç·Î ¿Å°ÜÁ³½É´õ. ÀÌ °Ë»ç¿¡¼­ 40-50%ÀÇ ÈÄ¹æÇÏ°­µ¿¸Æ(PDA), 30%ÀÇ ÁÂ½ÉÁÖµ¿¸Æ, 60-70%ÀÇ ÁÂÀüÇÏ°­µ¿¸Æ(LAD), 50%ÀÇ ¼øÈ¯µ¿¸Æ, ±Û°í 60%ÀÇ À¯¹®µ¿¸Æ(OM) º´º¯ÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÓ´Ï´õ.
-neutral,"±× »ç¶÷Àº Àç¹ß¼º Çù½ÉÁõÇÏ°í ±àÁ¤ÀûÀÎ ¿îµ¿ºÎÇÏ °Ë»ç ¶«¿¡ [**Month (only) 115**]¿¡ ´Ù½Ã ½ÉÀå Ä«Å×ÅÍ½Ç·Î ¿Å°ÜÁ³½É´õ. ÀÌ °Ë»ç¿¡¼­ 40-50%ÀÇ ÈÄ´ëÇÏÇàµ¿¸Æ(PDA), 30%ÀÇ ÁÂ°ü»óµ¿¸Æ(main), 60-70%ÀÇ ÁÂÀüÇÏÇàµ¿¸Æ(LAD), 50%ÀÇ ¼øÈ¯µ¿¸Æ(circumflex), ±Û°í 60%ÀÇ À¯¹®µ¿¸Æ(OM) º´º¯ÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ ½ÉÀå Ãâ·ÂÀÌ °¨¼ÒÇß½É´õ.
-entailment,"¿ì¿Í °°ÀÌ, ¸¸¼º ½ÅºÎÀüÁõ(CRI), À§½Äµµ ¿ª·ùÁúÈ¯(GERD), °íÇ÷¾Ð(HTN), °íÁöÇ÷Áõ, ½ÅÀå °á¼®(renal calculi)",È¯ÀÚ´Â ¿©·¯ ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
-contradiction,"¿ì¿Í °°ÀÌ, ¸¸¼º ½ÅºÎÀüÁõ(CRI), À§½Äµµ ¿ª·ù ÁúÈ¯(GERD), °íÇ÷¾Ð(HTN), °íÁöÇ÷Áõ, ½ÅÀå °á¼®(renal calculi)",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
-neutral,"¿ì¿Í °°ÀÌ, ¸¸¼º ½ÅºÎÀüÁõ(CRI), À§½Äµµ ¿ª·ùÁúÈ¯(GERD), °íÇ÷¾Ð(HTN), °íÁöÇ÷Áõ, ½ÅÀå °á¼®(renal calculi)",È¯ÀÚ°¡ Çã¸®°¡ ¾ÆÇÁ´Ù Ä¯´Ï´õ.
-entailment,"ÀÌ È¯ÀÚ´Â ¿©µç¼¼ »ì ¿©¼ººÐÀÎµ¥, ¿ÞÂÊ ³»Ãø ¸»·¹¿Ã·ç½º¿¡ ¾È ³´´Â ±Ë¾çÀÌ ÀÖ½É´õ. Dr.[**Name (NI) 13252**] Å¬¸®´Ð ÅëÇØ¼­ ÀÔ¿øÇß°í¿¹, Ç÷°üÁ¶¿µ¼úÇÏ°í °¡´ÉÇÏ¸é Ç÷°ü¼ºÇü¼úÇÏ°í ½ºÅÙÆ® »ðÀÔ¼úÀ» °èÈ¹ÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â ´Ù¸®¸¦ ´ÙÃÆ½É´õ.
-contradiction,"ÀÌ È¯ÀÚ´Â 83¼¼ ¿©¼ººÐÀÎµ¥, ¿ÞÂÊ ³»Ãø ¸»·¹¿Ã·ç½º¿¡ ¾È ³´´Â ±Ë¾çÀÌ ÀÖ½É´õ. Dr.[**Name (NI) 13252**] Å¬¸®´Ð ÅëÇØ¼­ ÀÔ¿øÇß°í¿¹, Ç÷°üÁ¶¿µ¼úÇÏ°í °¡´ÉÇÏ¸é Ç÷°ü¼ºÇü¼úÇÏ°í ½ºÅÙÆ® »ðÀÔÀÌ °èÈ¹µÅ ÀÖ½É´õ.",È¯ÀÚ´Â ½ÉÀå ÁúÈ¯ ¾ÎÀº ÀûÀÌ ¾ø½É´õ.
-neutral,"ÀÌ È¯ÀÚ´Â 83¼¼ ¿©¼ººÐÀÎµ¥, ¿ÞÂÊ ³»Ãø ¸»·¹¿Ã·ç½º¿¡ ¾È ³´´Â ±Ë¾çÀÌ ÀÖ½É´õ. Dr.[**Name (NI) 13252**] Å¬¸®´Ð ÅëÇØ¼­ ÀÔ¿øÇß°í¿¹, Ç÷°üÁ¶¿µ¼úÇÏ°í °¡´ÉÇÏ¸é Ç÷°ü¼ºÇü¼úÇÏ°í ½ºÅÙÆ® »ðÀÔÀÌ °èÈ¹µÅ ÀÖ½É´õ.",È¯ÀÚ´Â ´ç´¢¸¦ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
-entailment,"È¯ÀÚ´Â ¸Þ·ÎÆä³Û, ¹ÝÄÚ¸¶ÀÌ½Å, ¾ÆÁîÆ®·¹¿À³²À» ÇÑ ºÐ Åõ¾à¹Þ¾Ò°í¿¹, Ãß°¡ Ä¡·á ¶«¿¡ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â ¿©·¯ °¡Áö Ç×»ýÁ¦¸¦ ¸Â¾Ò½É´õ.
-contradiction,"È¯ÀÚ´Â ¸Þ·ÎÆä³Û, ¹êÄÚ¸¶ÀÌ½Å, ¾ÆÁîÆ®·¹¿À³²À» ÇÑ ºÐ Åõ¾à¹Þ¾Ò°í¿¹, Ãß°¡ Ä¡·á ¶«¿¡ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â Ç×»ýÁ¦ ¸Â°í ³ª¼­ ÁýÀ¸·Î Åð¿øÇß½É´õ.
-neutral,"È¯ÀÚ´Â ¸Þ·ÎÆä³Û, ¹ÝÄÚ¸¶ÀÌ½Å, ¾ÆÁîÆ®·¹¿À³²À» ÇÑ ºÐ Åõ¾à¹Þ¾Ò°í¿¹, Ãß°¡ Ä¡·á ¶«¿¡ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â ¸é¿ª±â´ÉÀÌ ¶³¾îÁ³½É´õ.
-entailment,"ÇöÀç ÁúÈ¯ °ú°Å·Â: È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯, ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), °íÇ÷¾Ð, ³úÇ÷°ü »ç°í¸¦ ¾ÎÀº ÀûÀÌ ÀÖ´Â ÀÏÈç¾ÆÈ© »ì ¹éÀÎ ³²ÀÚºÐÀÓ´Ï´õ. ¸î ³â Àü¿¡ ³úÁ¹Áß ¾Î°í ³­ ÈÄ »óÅÂ¶ó Ä«´Â º¸°í°¡ ÀÖ¾ú½É´õ.",È¯ÀÚ´Â ¿©·¯ °¡Áö ÀÇ·á ¹®Á¦¸¦ °®°í ÀÖ½É´õ.
-contradiction,"ÇöÀç º´·Â: È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯, ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), °íÇ÷¾Ð, ³úÇ÷°ü »ç°í º´·ÂÀÌ ÀÖ´Â ÀÏÈç¾ÆÈ© »ì ¹éÀÎ ³²ÀÚºÐÀÌ°í¿¹, ¸î ³â Àü¿¡ ³úÁ¹Áß ¾Î°í ³­ ÈÄ »óÅÂ¶ó°í º¸°íÇß½É´õ.",È¯ÀÚ´Â ½ÉÀåÀÌ³ª Æó ÁúÈ¯Àº ¾ø½É´õ.
-neutral,"ÇöÀç ÁúÈ¯ °ú°Å·Â: È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯, ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), °íÇ÷¾Ð, ³úÇ÷°ü »ç°í º´·ÂÀÌ ÀÖ´Â ÀÏÈç¾ÆÈ© »ì ¹éÀÎ ³²ÀÚºÐÀÓ´Ï´õ. ¸î ³â Àü¿¡ ³úÁ¹Áß ¾Î°í ³­ ÈÄ »óÅÂ¶ó Ä«´Â º¸°í°¡ ÀÖ½É´õ.",È¯ÀÚ´Â Áý¿¡¼­ »ê¼Ò Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.
-entailment,"ROS¿¡¼­, È¯ÀÚ°¡ ÃÖ±Ù ¸çÄ¥ µ¿¾È ¸î ºÐ ¼ÓÀÌ ¹Ì½»°Å¸®°í ÅäÇß´Ù²¿ º¸°íÇß½É´õ (ÇÇ´Â ¾øÀ½). HD¿¡ ¿ÀÇÑ Áõ»óÀÌ ÀÖ½É´õ.",È¯ÀÚ Ã¼¿ÂÀÌ ¿Ã¶ú½É´õ.
-entailment,Æä¸®Ä«µð¾ó »ïÃâÀº ¾ø½É´õ.,Æä¸®Ä«µð¾ó °ø°£¿¡ ÀÌ»óÇÑ ¾×Ã¼°¡ ¸ðÀÎ °Ç ¾ø½É´õ.
-contradiction,Æä¸®Ä«µð¾ó »ïÃâÀº ¾ø½É´õ.,"¿µ»ó Áø´Ü °á°ú, ½É³¶ °­¿¡ À¯Ã¼°¡ ÀÖ´Â °É È®ÀÎÇß½É´õ."
-neutral,Æä¸®Ä«µð¾ó »ïÃâÀº ¾ø½É´õ.,È¯ÀÚ´Â ¼û ½¬±â Èûµç °Ç ¾ø´Ù Ä¯´Ï´õ.
-entailment,"³­¼Ò´Â Á¤»ó »óÅÂ -- Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® ¹× PUD(Æíµµ¿°°ú À§±Ë¾ç) ¾ÎÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ AÇü °£¿° °É¸®°¡ º´¿ø Ä¡·á¹ÞÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ Æó·Å °É¸®°¡ º´¿ø Ä¡·á¹ÞÀº Àû ÀÖ½É´õ. -- Àü¿¡´Â ´ã¹è Æñ´Âµ¥, 30³â µ¿¾È ÇÇ´Ù°¡ [**2906**]³â¿¡ ²÷¾ú½É´õ.",È¯ÀÚ´Â ¿¹Àü¿¡ ´ã¹è¸¦ Æñ½É´õ.
-contradiction,"³­¼Ò´Â Á¤»óÀÌ°í¿¹. -- Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸®¶û ¼ÒÈ­¼º ±Ë¾ç ¾ÎÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ °£¿° A ¶«¿¡ ÀÔ¿øÇÑ Àû ÀÖ°í¿¹. -- Àþ¾úÀ» ¶§ Æó·Å ¶«¿¡ ÀÔ¿øÇÑ Àûµµ ÀÖ½É´õ. -- Àü¿¡´Â ´ã¹è Æñ´Âµ¥, 30ÆÑ³â Æñ°í [**2906**]³â¿¡ ²÷¾ú½É´õ.",È¯ÀÚ´Â ´ã¹è ÇÉ Àû ¾ø½É´õ.
-neutral,"³­¼Ò´Â Á¤»óÀÌ°í¿¹. -- Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸®¶û À§±Ë¾ç ¾ÎÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ °£¿° A ¶«¿¡ ÀÔ¿øÇÑ Àû ÀÖ°í¿¹. -- Àþ¾úÀ» ¶§ Æó·Å ¶«¿¡ ÀÔ¿øÇÑ Àûµµ ÀÖ½É´õ. -- Àü¿¡´Â ´ã¹è Æñ´Âµ¥, 30ÆÑ³âµ¿¾È Æñ°í [**2906**]³â¿¡ ²÷¾ú½É´õ.",È¯ÀÚ´Â Æó±âÁ¾¿¡ °É›½É´õ.
-entailment,"¾Æ ½ÉÀå¹Úµ¿ º¸´Âµ¥¼­ ºÒ¾ÈÁ¤ÇÑ ÆÐÅÏÀÌ¶û º¯µ¿¼º °¨¼Ò, ±Û°í ÈÄ±â °¨¼ÓÀÌ º¸¿©°¡, »ê¸ð´Â ±ä±Þ Á¦¿ÕÀý°³ ¼ö¼ú·Î ¾Æ¸¦ ³º¾Ò½É´õ.",È¯ÀÚ´Â ¾Æ ½ÉÀå ¼Ò¸®°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
-contradiction,"¾Æ ½ÉÀå¹Úµ¿ º¸´Âµ¥¼­ ºÒ¾ÈÁ¤ÇÑ ÆÐÅÏÀÌ¶û º¯µ¿¼º °¨¼Ò, ±Û°í ´ÊÀº °¨¼ÓÀÌ ³ªÅ¸³ª°¡, ¾ö¸¶´Â ±ä±Þ Á¦¿ÕÀý°³ ¼ö¼ú·Î ¾Æ¸¦ ³º¾Ò½É´õ.",È¯ÀÚ´Â ¾Æ ½ÉÀå¹Úµ¿ ¼Ò¸®°¡ Á¤»óÀÔ´Ï´õ.
-neutral,"¾Æ ½ÉÀå¹Úµ¿ º¸´Âµ¥¼­ ºÒ¾ÈÁ¤ÇÑ ÆÐÅÏÀÌ¶û º¯µ¿¼º °¨¼Ò, ±Û°í ÈÄ±â °¨¼ÓÀÌ º¸¿©°¡, ¾ö¸¶´Â ±ä±Þ Á¦¿ÕÀý°³ ¼ö¼ú·Î ¾Æ¸¦ ³º¾Ò½É´õ.",È¯ÀÚ´Â ´Þ ¸ø Ã¤¿ì°í ³ª¿Ô½É´õ.
-entailment,"»êÀü ±â·Ï - ¸¸¼º °íÇ÷¾Ð ¶«¿¡ ÀÓ½ÅÀÌ ¼øÅºÂú¾Ò°í, ±ÛÄ³¼­ ¾Æ ³º±â 3ÀÏ Àü¿¡ ÀÔ¿øÇØ°¡, ±× µÚ¿¡ Á¦¿ÕÀý°³ ¼ö¼úÀ» ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ¾Æ °¡Á³À» ¶§ °íÇ÷¾ÐÀÌ ÀÖ¾ú½É´õ.
-contradiction,"»êÀü ±â·Ï - ¸¸¼º °íÇ÷¾Ð ¶«¿¡ ÀÓ½ÅÀÌ ¼øÅºÂú¾Ò´Âµ¥ ÀÓ½Å¼º °íÇ÷¾Ð±îÁö ½ÉÇØÁ®°¡, ¾Æ ³º±â 3ÀÏ Àü¿¡ ÀÔ¿øÇß°í ±× µÚ¿¡ Á¦¿ÕÀý°³ ¼ö¼úÀ» ¹Þ¾Ò½É´õ.",ÀÓ½ÅÀº º°ÀÏ ¾ø¾ú½É´õ.
-neutral,"»êÀü ±â·Ï - ¸¸¼º °íÇ÷¾Ð ¶«¿¡ ÀÓ½ÅÀÌ ¼øÅºÂú¾Æ°¡ ¾Æ ³º±â 3ÀÏ Àü¿¡ ÀÔ¿øÇß°í, ¹Ù·Î Á¦¿ÕÀý°³ ¼ö¼úÀ» Çß½É´õ. ÀÓ½Å¼º °íÇ÷¾ÐÀÌ ½ÉÇØÁ³¾ú½É´õ.",È¯ÀÚ´Â ¾Æ °¡Á³À» ¶§ ´Ü¹é´¢°¡ ÀÖ¾ú½É´õ.
-entailment,±× È¯ÀÚ´Â »óÅÂ ¾ÈÁ¤µÅ°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Å±â°í ÀÖ½É´õ.,È¯ÀÚ´Â ÁßÈ¯ÀÚ½Ç¿¡ ÀÖ¾ú½É´õ.
-contradiction,±× È¯ÀÚ´Â »óÅÂ ¾ÈÁ¤µÅ°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Å±â°í ÀÖ½É´õ.,È¯ÀÚ »óÅÂ°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
-neutral,±× È¯ÀÚ´Â »óÅÂ ¾ÈÁ¤µÅ°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Å±â°í ÀÖ½É´õ.,È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ¾ú½É´õ.
-entailment,"±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡µµ ¼öÃà±â Ç÷¾ÐÀÌ °è¼Ó ³·¾Ò´Âµ¥, ÁýÀ¸·Î º¸³Â½É´õ.",½Ã¼ú µÚ¿¡ ¼öÃà±â Ç÷¾ÐÀÌ ³·¾Ò½É´õ.
-contradiction,"±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡µµ ¼öÃà±â Ç÷¾ÐÀÌ °è¼Ó ³·¾Ò´Âµ¥, ÁýÀ¸·Î º¸³Â½É´õ.",±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡ °íÇ÷¾ÐÀÌ¾ú½É´õ.
-neutral,"±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡µµ ¼öÃà±â Ç÷¾ÐÀÌ °è¼Ó ³·¾Ò´Âµ¥, ÁýÀ¸·Î º¸³Â½É´õ.",È¯ÀÚ´Â ½Ã¼ú Áß¿¡ ÇÇ¸¦ Èê›½É´õ.
-entailment,"È¯ÀÚ´Â Áö³­ 1³â µ¿¾È °ÉÀ½°ÉÀÌ°¡ Á¡Á¡ ºÒ¾ÈÁ¤ÇØÁ³°í, Á© ÃÖ±Ù¿¡´Â 3ÁÖ Àü¿¡ ³Ñ¾îÁø Àû ÀÖ½É´õ. »óÅÂ´Â º¯ÇÑ °Å ¾øÀÌ ¶È°°½É´õ.",È¯ÀÚ´Â ¿©·¯ ¹ø ³Ñ¾îÁø ÀûÀÌ ÀÖ½É´õ.
-contradiction,"È¯ÀÚ´Â Áö³­ 1³â µ¿¾È °ÉÀ½°ÉÀÌ°¡ Á¡Á¡ ºÒ¾ÈÁ¤ÇØÁ³°í, Á© ÃÖ±Ù¿¡´Â 3ÁÖ Àü¿¡ ³Ñ¾îÁø Àû ÀÖ½É´õ. »óÅÂ´Â º¯ÇÑ °Å ¾øÀÌ °è¼Ó ¶È°°½É´õ.",È¯ÀÚ °ÉÀ½°ÉÀÌ´Â Á¤»óÀÔ´Ï´õ.
-neutral,"È¯ÀÚ´Â Áö³­ 1³â µ¿¾È °ÉÀ½°ÉÀÌ°¡ Á¡Á¡ ºÒ¾ÈÁ¤ÇØÁ³°í, 3ÁÖ Àü¿¡´Â ³Ñ¾îÁö±âµµ Çß½É´õ. »óÅÂ´Â Å©°Ô ³ª¾ÆÁø °Å ¾øÀÌ °è¼Ó ¶È°°½É´õ.",È¯ÀÚ´Â Á¤»ó¾Ð ¼öµÎÁõÀÌ ÀÖ½É´õ.
-entailment,³ª) ½ÉÇ÷°ü: È¯ÀÚ Ç÷¾ÐÀº Á¤»ó ¹üÀ§¿¡¼­ ¾ÈÁ¤ÀûÀÌ¾ú½É´õ.,È¯ÀÚ´Â Á¤»ó Ç÷¾ÐÀ» À¯ÁöÇÏ°í ÀÖ½É´õ.
-contradiction,³ª) ½ÉÇ÷°ü: È¯ÀÚ Ç÷¾ÐÀº Á¤»ó ¹üÀ§¿¡¼­ ¾ÈÁ¤ÀûÀÌ¾ú½É´õ.,È¯ÀÚ´Â ÁöÄÑº¸´Â µ¿¾È ÀúÇ÷¾ÐÀÌ¾ú½É´õ.
-neutral,³ª) ½ÉÇ÷°ü: È¯ÀÚ Ç÷¾ÐÀº Á¤»ó ¹üÀ§¿¡¼­ ¾ÈÁ¤ÀûÀ¸·Î À¯ÁöµÇ°í ÀÖ½É´õ.,È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾àÀº ¾È ¹¬°í ÀÖ½É´õ.
-entailment,"[**State 53**]¿¡¼­ '³» °¡½É¿¡ Æ®·°ÀÌ ¾É¾ÆÀÖ´Â °Í °°´Ù'´Â ´À³¦ ¶«¿¡ ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß¾ú°í, Æ÷Å¸Ä³½º ³¡¿¡ ÇÇ¶±ÀÌ ¹ß°ßµÆ´Ù²¿ º¸°íµÆ½É´õ. ±× ¾ç¹ÝÀÌ ÀÌ°Å ¶«¿¡ ¾àÀ» ¹¬°í ÀÖ¾ú´Âµ¥, Áö±ÝÀº Ç×ÀÀ°íÁ¦´Â ¾È ¹¬°í ÀÖ½É´õ.",°¡½ÉÀÌ ¾ÆÇÁ´Ù²¿ Äº½É´õ.
-contradiction,"[**5-26**] ""[**State 53**]¿¡¼­ '³» °¡½É¿¡ Æ®·°ÀÌ ¾É¾ÆÀÖ´Â °Å °°´Ù'´Â ´À³¦ÀÌ¶û Æ÷Å¸Ä³½º ³¡¿¡ ÇÇ¶±ÀÌ ¹ß°ßµÅ°¡²¿ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ. ÀÌ°Å ¶«¿¡ ¾àÀ» ¹¬°í ÀÖ¾ú´Âµ¥, Áö±ÝÀº Ç×ÀÀ°íÁ¦´Â ¾È ¹¬°í ÀÖ½É´õ.""",¾È ¾ÆÇÁ´Ù Ä¯.
-neutral,"[**5-26**] ""[**State 53**]¿¡¼­ '³» °¡½É¿¡ Æ®·°ÀÌ ¾É¾ÆÀÖ´Â °Í °°´Ù'´Â ´À³¦ÀÌ¶û Æ÷Å¸Ä³½º ³¡¿¡ ÇÇ¶±ÀÌ ¹ß°ßµÅ°¡ ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß½É´õ. ÀÌ°Å ¶«¿¡ ¾à¹° Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, Áö±ÝÀº Ç×ÀÀ°í Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.""",¾Ï º´·ÂÀÌ ÀÖÀ½.
-entailment,±×¶§ ±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´ëÅð°ñ°£ºÎ °ñÀý·Î Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚºÐÀÌ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
-contradiction,±×¶§ ±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´ëÅð°ñ°£ºÎ °ñÀý·Î Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚºÐÀº ¿¹Àü¿¡ »À »Ñ¶óÁø Àû ¾ø½É´õ.
-neutral,±×¶§ ±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´ëÅð°ñ°£ºÎ °ñÀý·Î Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚºÐ ¿µ»ó Áø´Ü °á°ú°¡ Á¤»óÀÌ ¾ÆÀÓ´Ï´õ.
-entailment,"±× ¾ç¹ÝÀÌ ÇÏ·ç¿¡ ÃÖ´ë 5¹ø±îÁö ¹° °°Àº, ÇÇ ¾È ¼¯ÀÎ ¼³»ç¸¦ ÀÌ»ïÀÏ µ¿¾È Çß´Ù²¿ Ä°´Ï´õ.",È¯ÀÚºÐÀÌ ±Þ¼º Áõ»óÀ» º¸ÀÌ°í ÀÖ½É´õ.
-contradiction,±× ¾ç¹ÝÀÌ ÇÏ·ç¿¡ ÃÖ´ë 5¹ø±îÁö ¹° °°Àº ÇÇ ¾È ¼¯ÀÎ ¼³»ç¸¦ ÀÌ»ïÀÏ µ¿¾È Çß´Ù²¿ Ä°´Ï´õ.,È¯ÀÚºÐ ´ëÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
-neutral,±× ¾ç¹ÝÀÌ ÇÏ·ç¿¡ ÃÖ´ë 5¹ø±îÁö ÀÌ»ïÀÏ µ¿¾È ¹±°í ÇÇ ¾È ¼¯ÀÎ ¼³»ç¸¦ ÇÑ´Ù²¿ Ä°´Ï´õ.,È¯ÀÚºÐÀÌ ´ëÀå¿°À» ¾Î°í ÀÖ½É´õ.
-entailment,"±× µÚ·Î ±× ¾ç¹ÝÀÌ Çã¸®°¡ Á¡Á¡ ´õ ¾ÆÆÄ¿À´Âµ¥, °è´ÜÀ» ¿À¸£³»¸®°Å³ª µî ´ë°í ´©¿ì¸é ´õ ¾ÆÇÁ´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀÌ ½Å°æº´Áõ¼º ÅëÁõÀ» °Þ°í ÀÖ½É´õ.
-contradiction,"±× µÚ·Î ±× ¾ç¹ÝÀÌ Çã¸®°¡ Á¡Á¡ ´õ ¾ÆÆÄ¿À´Âµ¥, °è´ÜÀ» ¿À¸£³»¸®°Å³ª µî ´ë°í ´©¿ì´Â ±â ÅëÁõÀ» ´õ ½ÉÇÏ°Ô ÇÕ´Ï´õ.",È¯ÀÚºÐ ÅëÁõÀº °è´ÜÀ» ¿À¸£¸é ³ª¾ÆÁý´Ï´õ.
-neutral,"±× µÚ·Î ±× ¾ç¹ÝÀÌ Çã¸®°¡ Á¡Á¡ ´õ ¾ÆÆÄ¿À´Âµ¥, °è´ÜÀ» ¿À¸£³»¸®°Å³ª µî ´ë°í ´©¿öÀÖÀ» ¶§ ´õ ¾ÆÇÁ´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀÌ ¿äÃßºÎ¿¡ ÅðÇà¼º º¯È­¸¦ º¸ÀÌ°í ÀÖ½É´õ.
-entailment,"ÁË¼ÛÇÕ´Ï´õ¸¸, ¹ø¿ªÇØ¾ß µÉ ¹®ÀåÀÌ ¾È µé¾î¿Ô´Âµ¥¿¹. ¹ø¿ªÇÒ ¹®ÀåÀ» ´Ù½Ã ÇÑ¹ø ¾Ë·ÁÁÖ½Ã¸é °í¸¿°Ú½É´õ.",½ÉÀåÀÌ ºÒ±ÔÄ¢ÇÏ°Ô ¶Ú´Ù²¿ Äº½É´õ.
-contradiction,"ÁË¼ÛÇÕ´Ï´õ¸¸, ¹ø¿ªÇÒ ¹®ÀåÀÌ ¾ø´Âµ¥¿¹. ´Ù½Ã ÇÑ¹ø ³Ö¾îÁÖ½Ã¸é °í¸¿°Ú½É´õ.",½ÉÀåÀÌ ºÒ±ÔÄ¢ÇÏ°Ô ¶Ù´Â °Å¿¡ ´ëÇØ ºÒ¸¸Àº ¾øÀ¸½Ã´Ù Ä°´Ï´õ.
-neutral,"ÁË¼ÛÇÕ´Ï´õ¸¸, ¹ø¿ªÇÒ ¹®ÀåÀÌ ¾ø³×¿¹. ´Ù½Ã ÇÑ¹ø È®ÀÎÇØÁÖ½Ã¸é °í¸¿°Ú½É´õ.",½É¹æ¼¼µ¿ º´·ÂÀÌ ÀÖÀ½.
-entailment,"¼ö¾×, ÀüÇØÁú ¹× ¿µ¾ç: [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº PE 30ÀÌ¶û ProMod PG·Î ¿ÏÀü ±Þ½ÄÀ» °è¼Ó Àß ¹Þ¾Æ¹¬°í ¸ö¹«°Ôµµ Àß ´Ã°í ÀÖ½É´õ.",È¯ÀÚºÐÀÌ ¿ÏÀü ±Þ½ÄÀ» Àß ¹Þ¾Æ¹¬°í ÀÖ½É´õ.
-contradiction,"¼ö¾×, ÀüÇØÁú ¹× ¿µ¾ç: [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº PE 30ÀÌ¶û ProMod PG¸¦ °°ÀÌ ½á°¡ ÀüÃ¼ ±Þ½ÄÀ» Àß ¹Þ¾Æ¹¬°í ¸ö¹«°Ôµµ Àß ´Ã°í ÀÖ½É´õ.",È¯ÀÚºÐ ¸ö¹«°Ô°¡ ÁÙ°í ÀÖ½É´õ.
-neutral,"¼ö¾×, ÀüÇØÁú ¹× ¿µ¾ç: [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº PE 30ÀÌ¶û ProMod PG¸¦ °°ÀÌ ½á°¡ ¿ÏÀü ±Þ½ÄÀ» °è¼Ó Àß ¹Þ¾Æ¹¬°í ¸ö¹«°Ôµµ Àß ´Ã°í ÀÖ½É´õ.",È¯ÀÚºÐÇÑÅ× G Æ©ºê°¡ ÀÖ½É´õ.
-entailment,°ú°Å¿¡ ¼ÒÀå Æó»öÁõ(SBO)ÀÌ¶û ºÎºÐÀû ¼ÒÀå Æó»öÁõ ÀÌ·ÂÀÌ ÀÖÀ½.,¼ÒÀå Æó¼â °ú°Å·ÂÀÌ ÀÖÀ½.
-contradiction,°ú°Å¿¡ ¼ÒÀå Æó»öÁõ(SBO)ÀÌ¶û ºÎºÐÀû ¼ÒÀå Æó»öÁõÀÌ ÀÖ¾úÀ½.,¼ÒÀå ÁúÈ¯ °ú°Å·ÂÀº ¾ø½É´õ.
-neutral,¿¹Àü¿¡ ¼ÒÀå Æó¼âÁõ(SBO)ÇÏ°í ºÎºÐÀûÀÎ ¼ÒÀå Æó¼âÁõÀÌ ÀÖ¾ú´ø º´·ÂÀÌ ÀÖ½É´Ï´õ.,¹è ¼ö¼úÇÑ ÀÌ·Â.
-entailment,"±× ¿©ÀÚ°¡ ÀÔ¿øÇÑ ³¯, Ç÷¾ÐÀÌ ³·Àº °É ¾Ë°Ô µÆ½É´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÌ ÀÖ½É´Ï´õ.
-contradiction,"±× ¿©ÀÚ°¡ ÀÔ¿øÇÑ ³¯, Ç÷¾ÐÀÌ ³·´Ù´Â »ç½ÇÀ» ¾Ë°Ô µÆ½É´Ï´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´Ï´õ.
-neutral,"±× ¿©ÀÚ°¡ ÀÔ¿øÇÑ ³¯, Ç÷¾ÐÀÌ ³·Àº °É ¾Ë°Ô µÆ½É´Ï´õ.",È¯ÀÚ°¡ ¼îÅ© »óÅÂ¿¡ ºüÁ® ÀÖ½É´Ï´õ.
-entailment,ÀÓ½ÅÀÌ ¿ä·Î °¨¿° µÎ ¹øÀÌ¶û Çì¸£Æä½º ´Ü¼ø¹ÙÀÌ·¯½º °¨¿°À¸·Î º¹ÀâÇØÁ³½É´Ï´õ.,±× ¿©ÀÚ´Â ÀÓ½ÅÇßÀ» ¶§ ¿ä·Î °¨¿°À» ¾Î¾Ò½É´Ï´õ.
-contradiction,ÀÓ½ÅÀÌ ¹æ±¤¿° µÎ ¹øÀÌ¶û Çì¸£Æä½º ¹ÙÀÌ·¯½º °¨¿°À¸·Î º¹ÀâÇØÁ³½É´Ï´õ.,ÀÓ½Å ±â°£ µ¿¾È¿¡ °¨¿°Àº ¾ø¾ú½É´Ï´õ.
-neutral,ÀÓ½ÅÀÌ ¿ä·Î °¨¿° µÎ ¹øÀÌ¶û Çì¸£Æä½º ´Ü¼ø ¹ÙÀÌ·¯½º °¨¿° ¶«¿¡ º¹ÀâÇØÁ³½É´Ï´õ.,ºÐ¸¸Àº Á¦¿ÕÀý°³ ¼ö¼ú·Î Çß½É´Ï´õ.
-entailment,"Æ¯ÀÌ»çÇ×Àº, ¸ð¸£ÇÉ gtt ¾²´Â µ¿¾È¿¡ ±× ¿©ÀÚ Ç÷¾ÐÀÌ 83/30À¸·Î ¶³¾îÁ³½É´Ï´õ.",È¯ÀÚ´Â ÅëÁõ °ü¸®°¡ ÇÊ¿äÇÕ´Ï´õ.
-contradiction,"Æ¯ÀÌ»çÇ×Àº, ¸ð¸£ÇÉ ÁÖÀÔ Áß¿¡ ±× ¿©ÀÚ Ç÷¾ÐÀÌ 83/30À¸·Î ¶³¾îÁ³´Ù´Â °Ì´Ï´õ.",È¯ÀÚÇÑÅ×´Â Á¤¸Æ ÁÖÀÔ °æ·Î°¡ ¾ø½É´Ï´õ.
-neutral,"Æ¯ÀÌ»çÇ×Àº, ¸ð¸£ÇÉ gtt ¾²´Â µ¿¾È¿¡ ±× ¿©ÀÚ Ç÷¾ÐÀÌ 83/30À¸·Î ¶³¾îÁ³½É´Ï´õ.",¸ð¸£ÇÉÀÌ ÀúÇ÷¾ÐÀ» À¯¹ßÇß½É´Ï´õ.
-entailment,È¯ÀÚ´Â ¿­ ³ª´Â ¿øÀÎ Ã£¾Æº¼¶ó°í º´µ¿ ¿À±â Àü¿¡ HD º´µ¿À¸·Î ¿Å°ÜÁ³½É´Ï´õ.,È¯ÀÚ Ã¼¿ÂÀÌ ¿Ã¶ú½É´Ï´õ.
-contradiction,È¯ÀÚ´Â ¿­ ³ª´Â ¿øÀÎ Ã£¾Æº¼¶ó°í º´µ¿À¸·Î ¿À±â Àü¿¡ HD º´µ¿À¸·Î ¿Å°ÜÁ³½É´Ï´õ.,È¯ÀÚ´Â ¿­ÀÌ ¾ø´Â »óÅÂÀÔ´Ï´õ.
-neutral,È¯ÀÚ´Â ¹ß¿­ Áø´Ü ¶«¿¡ º´µ¿À¸·Î ¿À±â Àü¿¡ HD º´µ¿À¸·Î ¿Å°ÜÁ³½É´Ï´õ.,È¯ÀÚÇÑÅ× °¨¿°ÀÌ »ý°å½É´Ï´õ.
-entailment,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ³²¾ÆÀÖ´Â ¿ÞÂÊ ¾àÈ­ Çö»ó 8.,È¯ÀÚ´Â ¿¹Àü¿¡ ³úÁ¹ÁßÀ» ¾Î¾Ò½É´Ï´õ.
-contradiction,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ¿ÞÂÊ ¾àÈ­ Áõ»óÀÌ ³²¾ÆÀÖÀ½.,È¯ÀÚ ¿îµ¿ ½Å°æ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ¿ÞÂÊ ÈûÀÌ ºüÁø »óÅÂ 8.,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½É´Ï´õ.
-entailment,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ¿ÞÂÊ ¾àÈ­ Áõ»óÀÌ ³²¾ÆÀÖÀ½.,È¯ÀÚ°¡ ³úÁ¹ÁßÀ» °Þ¾ú½É´Ï´õ.
-contradiction,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ³²¾ÆÀÖ´Â ¿ÞÂÊ ¾àÈ­ Çö»óÀÌ ÀÖ½É´Ï´õ.,È¯ÀÚ ³ú MRI °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,"[**2987**]³â¿¡ ³úÁ¹Áß(CVA)À» °Þ¾ú°í, ±×°Í ¶«¿¡ ¿ÞÂÊ ¾àÈ­ Áõ»óÀÌ 8Á¡À¸·Î ³²¾ÆÀÖ½É´Ï´õ.",È¯ÀÚ´Â °æµ¿¸Æ¿¡ µ¿¸Æ°æÈ­ÁõÀÌ ÀÖ½É´Ï´õ.
-entailment,ÁÖº¯½Å°æº´Áõ ÀÌ·ÂÀÌ ÀÖÀ½.,È¯ÀÚ´Â ¸»´Ü ºÎÀ§ °¨°¢ÀÌ ¶³¾îÁ³½É´Ï´õ.
-contradiction,ÁÖº¯½Å°æº´Áõ·ÂÀÌ ÀÖÀ½.,È¯ÀÚ´Â »çÁö¿¡¼­ Á¤»óÀûÀÎ °¨°¢À» °¡Áö°í ÀÖ½À´Ï´Ù.
-neutral,ÁÖº¯½Å°æº´Áõ·ÂÀÌ ÀÖÀ½.,È¯ÀÚ´Â ´ç´¢º´À» ¾Î°í ÀÖ½À´Ï´Ù.
-entailment,"±×³à´Â ½Å±Ô ¹ßº´ ½É¹æ¼¼µ¿À» °¡Áö°í ÀÖ¾úÀ¸¸ç, ½É¹Ú¼ö´Â 120´ë¿¡¼­ 130´ë¿´½À´Ï´Ù. ¶ÇÇÑ Ãø¸é ST ÇÏ°­À» º¸¿´´Âµ¥, ÀÌ´Â ¿ä±¸¼º ÇãÇ÷°ú ÀÏÄ¡ÇÕ´Ï´Ù.",È¯ÀÚ´Â ºÒ±ÔÄ¢ÀûÀ¸·Î ºÒ±ÔÄ¢ÇÑ ½É¹Úµ¿À» °¡Áö°í ÀÖ½À´Ï´Ù.
-contradiction,"±×³à´Â ½Å±Ô ¹ßº´ ½É¹æ¼¼µ¿À» °¡Áö°í ÀÖ¾úÀ¸¸ç, ½É¹Ú¼ö´Â 120´ë¿¡¼­ 130´ë¿´½À´Ï´Ù. ¶ÇÇÑ Ãø¸é ST ÇÏ°­À» º¸¿© ¼ö¿ä¼º ÇãÇ÷À» ³ªÅ¸³Â½À´Ï´Ù.",È¯ÀÚ´Â ½ÉÀå ÇãÇ÷ÁõÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù.
-neutral,"±×³à´Â ½Å±Ô ¹ßº´ ¾ÆÆ®¸®¾ó ÇÇºê¸±·¹ÀÌ¼ÇÀ» °¡Áö°í ÀÖÀ¸¸ç, ½É¹Ú¼ö´Â 120´ë¿¡¼­ 130´ë·Î È®ÀÎµÇ¾ú½À´Ï´Ù. ¶ÇÇÑ Ãø¸é ST ÇÏ°­À» º¸ÀÌ´Âµ¥, ÀÌ´Â ¼ö¿ä¼º ÇãÇ÷°ú ÀÏÄ¡ÇÕ´Ï´Ù.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯À» °¡Áö°í ÀÖ½À´Ï´Ù.
-entailment,2Çü ´ç´¢º´,Ç÷´ç °íÁ¶ÀÇ °ú°Å·Â
-contradiction,2Çü ´ç´¢º´,´ç´¢º´·ÂÀÌ ¾øÀ½
-neutral,2Çü ´ç´¢º´,ºñ¸¸·Â »çÇ×
-entailment,"52¼¼ÀÇ È¯ÀÚ°¡ CÇü °£¿°°ú ESLD(ÃÖÁ¾´Ü°è °£ ÁúÈ¯)ÀÇ º´·ÂÀÌ ÀÖÀ¸¸ç, º¹ºÎ ÆØ¸¸Áõ Áõ°¡·Î [**Hospital3 36130**] ¼¾ÅÍ¿¡ ÀÔ¿øÇÏ¿´½À´Ï´Ù.",°£ ÁúÈ¯ÀÇ °ú°Å·Â
-contradiction,52¼¼ÀÇ È¯ÀÚ°¡ CÇü °£¿°°ú ESLD(ÃÖÁ¾´Ü°è °£ÁúÈ¯)ÀÇ º´·ÂÀÌ ÀÖÀ¸¸ç º¹ºÎ ÆØ¸¸Áõ Áõ°¡·Î [**Hospital3 36130**] ¼¾ÅÍ¿¡ ÀÔ¿øÇÏ¿´½À´Ï´Ù.,Á¤»óÀûÀÎ °£ ±â´É
-neutral,52¼¼ÀÇ È¯ÀÚ·Î BÇü °£¿°°ú ESLD(ÃÖÁ¾´Ü°è °£ÁúÈ¯)ÀÇ º´·ÂÀÌ ÀÖ´Â È¯ÀÚ°¡ º¹ºÎ ÆØ¸¸Áõ Áõ°¡·Î [**Hospital3 36130**] ¼¾ÅÍ¿¡ ÀÔ¿øÇÏ¿´½À´Ï´Ù.,¾ËÄÚ¿Ã ³²¿ë·Â ÀÌ·Â
-entailment,"±×³à´Â º¹ºÎ CT¸¦ ¹Þ¾ÒÀ¸¸ç, °á°ú´Â Á¤»óÀÌ¾ú½À´Ï´Ù.",È¯ÀÚÀÇ º¹ºÎ CT °á°ú´Â Á¤»óÀÔ´Ï´Ù.
-contradiction,"±×³à´Â º¹ºÎ CT¸¦ ¹Þ¾ÒÀ¸¸ç, °á°ú´Â Á¤»óÀÌ¾ú½À´Ï´Ù.",È¯ÀÚ¿¡°Ô ½ÅÀå°á¼®ÀÌ ÀÖ½À´Ï´Ù.
-neutral,"±×³à´Â º¹ºÎ CT¸¦ ¹Þ¾Ò´Âµ¥, °á°ú´Â Á¤»óÀÌ¾ú½À´Ï´Ù.",È¯ÀÚ´Â º¹ÅëÀ» °Þ°í ÀÖ½À´Ï´Ù.
-entailment,"È¯ÀÚÀÇ ÆÇ¸Å ¸éÀûÀº 0.8 cm2·Î °è»êµÇ¾úÀ¸¸ç, ´ëµ¿¸Æ ÆÇ¸Å¸¦ °¡·ÎÁú·¯ Æò±Õ ±×¶óµð¾ðÆ®´Â 35 mmHg¿´½À´Ï´Ù.",È¯ÀÚ´Â ´ëµ¿¸Æ ÇùÂøÁõÀ» ¾Î°í ÀÖ½À´Ï´Ù.
-contradiction,"È¯ÀÚÀÇ ÆÇ¸Å ¸éÀûÀº 0.8 cm2·Î °è»êµÇ¾úÀ¸¸ç, ´ëµ¿¸Æ ÆÇ¸Å¸¦ °¡·ÎÁú·¯ Æò±Õ °æ»ç´Â 35 mmHg¿´½À´Ï´Ù.",È¯ÀÚÀÇ ´ëµ¿¸Æ ÆÇ¸Å´Â Á¤»óÀÔ´Ï´Ù.
-neutral,"È¯ÀÚÀÇ ÆÇ¸ÅºÎÀ§ ¸éÀûÀº 0.8 cm2·Î °è»êµÇ¾úÀ¸¸ç, ´ëµ¿¸Æ ÆÇ¸ÅºÎÀ§ÀÇ Æò±Õ °æ»ç´Â 35 mmHg¿´½À´Ï´Ù.",È¯ÀÚ´Â TAVR(°æÇÇÀû ´ëµ¿¸Æ ÆÇ¸· Ä¡È¯¼ú)À» ¹Þ°Ô µÉ °ÍÀÔ´Ï´Ù.
-entailment,"ÀÔ¿ø 2ÀÏ Àü, È¯ÀÚ´Â [**Hospital1 18**] [**Location (un) 614**]¿¡ ÇÏº¹ÅëÀ» È£¼ÒÇÏ¸ç ¹æ¹®ÇÏ¿´½À´Ï´Ù. ±×´Â ÇÏº¹ºÎ¿¡ °ÉÃÄ ½ÉÇÑ ÅëÁõÀ» ´À²¼´Ù°í ¼³¸íÇÏ¿´À¸¸ç, ÀÌ´Â ±¸Åä, ¸Þ½º²¨¿ò, ±×¸®°í °ÇÁ¶ÇÑ ±¸Åä¿Í °ü·ÃÀÌ ÀÖ¾ú½À´Ï´Ù.",±×³à´Â ÀÔ¿ø Àü¿¡ º´¿¡ °É·ÈÀ¸¸ç ÅëÁõÀ» °Þ¾ú½À´Ï´Ù.
-contradiction,"ÀÔ¿ø 2ÀÏ Àü, È¯ÀÚ´Â [**Hospital1 18**] [**Location (un) 614**]¿¡ ¹æ¹®ÇÏ¿© ÇÏº¹ÅëÀ» È£¼ÒÇÏ¿´½À´Ï´Ù. ±×´Â ÇÏº¹ºÎ¿¡ °ÉÃÄ ³¯Ä«·Î¿î ÅëÁõÀ» ´À³¢¸ç, ÀÌ´Â ±¸Åä, ¸Þ½º²¨¿ò, ±×¸®°í °ÇÁ¶ÇÑ ±¸Åä°¨°ú ¿¬°üµÇ¾î ÀÖ¾ú½À´Ï´Ù.",±×³à´Â ±¸Åä¸¦ ºÎÀÎÇß½À´Ï´Ù.
-neutral,"ÀÔ¿ø 2ÀÏ Àü, È¯ÀÚ´Â [**Hospital1 18**] [**Location (un) 614**]¿¡ ¹æ¹®ÇÏ¿© ÇÏº¹ºÎ ÅëÁõÀ» È£¼ÒÇÏ¿´½À´Ï´Ù. ±×´Â ÇÏº¹ºÎ¿¡ °ÉÃÄ ³¯Ä«·Î¿î ÅëÁõÀ» ´À³¢¸ç, ÀÌ´Â ±¸Åä, ¸Þ½º²¨¿ò ¹× ±¸¿ªÁú°ú ¿¬°üµÇ¾î ÀÖ¾ú½À´Ï´Ù.",±×³à´Â ¼³»ç Áõ»óÀ» ºÎÀÎÇß½À´Ï´Ù.
-entailment,"°¼´Â ÇÇ¸¦ 500cc Èê›°í, ±× µÚ¿¡ ³óÃàÀûÇ÷±¸ 2 À¯´ÖÇÏ°í ½Å¼± µ¿°á Ç÷Àå 2 À¯´ÖÀ» ¼öÇ÷ ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ÀúÇ÷»ö¼ÒÁõ ¶§¹®¿¡ ÇÇ¸¦ ¼öÇ÷¹Þ¾Ò½É´õ.
-contradiction,"°¼´Â ÇÇ¸¦ 500cc Èê›°í, ±× µÚ¿¡ ÀûÇ÷±¸ ³óÃà¾× 2 À¯´ÖÇÏ°í ½Å¼± µ¿°á Ç÷Àå 2 À¯´ÖÀ» ¼öÇ÷ ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ÇÇ ¼öÇ÷ ¾È ¹Þ¾Ò½É´õ.
-neutral,"°¼´Â ÇÇ¸¦ 500cc Èê›°í, ±× µÚ¿¡ ÀûÇ÷±¸ ³óÃà¾× 2 À¯´ÖÇÏ°í ½Å¼± µ¿°á Ç÷Àå 2 À¯´ÖÀ» ¼öÇ÷ ¹Þ¾Ò½É´õ.",È¯ÀÚ°¡ Áö±Ý ÇÇ¸¦ ½ÉÇÏ°Ô Èê¸®°í ÀÖ½É´õ.
-entailment,¿ø·¡ È¯ÀÚ°¡ Á¤½ÅÀÌ Á» ¾ø´Â °É·Î µÇÀÖ¾ú½É´õ.,È¯ÀÚ Á¤½Å »óÅÂ°¡ ¹Ù…ó½É´õ.
-contradiction,¿ø·¡ È¯ÀÚ°¡ Á¤½ÅÀÌ Á» ¾ø´Â °É·Î µÇÀÖ¾ú½É´õ.,È¯ÀÚ´Â AAOx3 »óÅÂÀÔ´Ï´õ.
-neutral,¿ø·¡ È¯ÀÚ°¡ Á¤½ÅÀÌ Á» ¾ø´Â °É·Î µÇÀÖ¾ú½É´õ.,È¯ÀÚ MMSE °á°ú´Â Á¤»óÀÔ´Ï´õ.
-entailment,"°¼´Â ¾îÁö·³Áõ, °¡½¿ ÅëÁõ, ½É°èÇ×Áø, ¼û °¡»Ý, ¶Ç´Â È°µ¿ ½Ã È£Èí°ï¶õÀº ¾ø´ÙÄ«Áö¸¸, ¿îµ¿À» °ÅÀÇ ¾È ÇØ¼­ ÀÌ°É È®ÀÎÇÏ±â´Â ¾î·Æ½Ê´Ï´õ. º´¿ø¿¡ ¿©·¯ ¹ø ÀÔ¿øÇØ°¡²¿ ¸öÀÌ ¸¶ÀÌ ¼è¾àÇØÁ®¼­ ´ëºÎºÐ ½Ã°£À» Ä§´ë¼­ º¸³»°Å³ª ¾È¾ÆÀÖ°Å³ª ÈÙÃ¼¾î¸¦ ÀÌ¿ëÇÕ´Ï´õ.",È¯ÀÚ´Â ÁÖ·Î ¾È¾Æ¼­ »ýÈ°ÇÕ´Ï´õ.
-contradiction,"°¼´Â ¾îÁö·³Áõ, °¡½¿ ÅëÁõ, ½É°èÇ×Áø, ¼û °¡»Ý, ¶Ç´Â ¿îµ¿ ½Ã È£Èí°ï¶õÀº ¾Æ´Ï¶óÄ«Áö¸¸, ¿îµ¿À» °ÅÀÇ ¾ÈÇØ¼­ È®ÀÎÇÏ±â ¾î·Æ´Ù´Â Á¡À» ¸»ÇØ¾ß ÇÕ´Ï´õ. º´¿ø¿¡ ¿©·¯ ¹ø ÀÔ¿øÇØ¼­ ½ÉÇÏ°Ô Ã¼·ÂÀÌ ¶³¾îÁ®°¡²¿ ´ëºÎºÐ ½Ã°£À» Ä§´ë¼­, ¾È¾Æ¼­, ¶Ç´Â ÈÙÃ¼¾î¿¡¼­ º¸³»°í ÀÖ½É´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´ÙÄ°´Ï´õ.
-neutral,"°¼´Â ¾îÁö·³Áõ, °¡½¿ ÅëÁõ, ½É°èÇ×Áø, ¼ûÂ÷±â, ¶Ç´Â ¿îµ¿ ½Ã È£Èí°ï¶õÀº ¾ø´ÙÄ«Áö¸¸, ¿îµ¿À» °ÅÀÇ ¾È ÇÏ°í º´¿ø¿¡ ¿©·¯ ¹ø ÀÔ¿øÇØ¼­ ½ÉÇÏ°Ô Ã¼·ÂÀÌ ¶³¾îÁ®°¡ ´ëºÎºÐ Ä§´ë¼­, ¾È¾Æ¼­, ¶Ç´Â ÈÙÃ¼¾î¿¡¼­ º¸³»´Â ÀÏÀÌ ¸¹´Ù´Â Á¡À» ¸»ÇØ¾ß ÇÕ´Ï´õ.",È¯ÀÚ´Â ºñ¸¸ÀÔ´Ï´õ.
-entailment,Á¦ÇÑ¼º ÆóÁúÈ¯,È¯ÀÚ FEV1(°­Á¦È£Èí 1ÃÊ·®)ÀÌ ÁÙ¾ú½É´õ.
-contradiction,Á¦ÇÑ¼º Æó ÁúÈ¯,È¯ÀÚ Æó±â´É°Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
-neutral,Á¦ÇÑ¼º Æó ÁúÈ¯,È¯ÀÚ ÈäºÎ CT °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ ¸Ç Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â Ã¼¿ÂÀÌ 98.9µµ, ½É¹Ú¼ö 73È¸, Ç÷¾Ð 121/90, È£Èí¼ö 15È¸, ½Ç³» °ø±â¿¡¼­ »ê¼Ò Æ÷È­µµ´Â 98%·Î ³ª¿Ô½É´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ´Â ¾ÈÁ¤ÀûÀÔ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â Ã¼¿ÂÀÌ 98.9µµ, ½É¹Ú¼ö 73È¸, Ç÷¾Ð 121/90, È£Èí¼ö 15È¸, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼Ò Æ÷È­µµ°¡ 98%¿´½É´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â Ã¼¿ÂÀÌ 98.9µµ, ½É¹Ú¼ö´Â 73È¸, Ç÷¾ÐÀº 121/90, È£Èí¼ö´Â 15È¸, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼Ò Æ÷È­µµ´Â 98%¿´½É´õ.",È¯ÀÚ°¡ ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,"63¼¼ ¿©ÀÚ È¯ÀÚÀÎµ¥, ¸î ³â Àü¿¡ À§Àå ¿ìÈ¸ ¼ö¼úµµ ¹Þ¾Ò°í °íÁöÇ÷ÁõÀÌ¶û À§±Ë¾çµµ ¾Î¾Ò´Âµ¥, ÀÌ¹ø¿¡ ¼Óµµ ¾ó¸¶ ¾È ³ª´Â Â÷ »ç°í¸¦ ´çÇß½É´õ.",È¯ÀÚ´Â ±³Åë»ç°í¸¦ ´çÇß¾ú½É´õ.
+,"63¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, °íÄÝ·¹½ºÅ×·ÑÇ÷ÁõÇÏ°í À§±Ë¾ç ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸î ³â Àü¿¡ À§Àå ¿ìÈ¸ ¼ö¼úµµ ¹Þ¾Ò½É´õ. ÃÖ±Ù¿¡ ¼Óµµ ¾ó¸¶ ¾È ³ª´Â Â÷ »ç°í¸¦ ´çÇß³×¿¹.",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
+,"63¼¼ ¿©ÀÚ È¯ÀÚÀÎµ¥, °íÄÝ·¹½ºÅ×·ÑÇ÷ÁõÇÏ°í À§±Ë¾ç º´·ÂÀÌ ÀÖ°í ¸î ³â Àü¿¡ À§Àå ¿ìÈ¸ ¼ö¼úµµ ¹Þ¾Ò½É´õ. ÃÖ±Ù¿¡ ¼Óµµ ¾ó¸¶ ¾È ³ª´Â Â÷ »ç°í¸¦ ´çÇß³×¿¹.",È¯ÀÚ´Â Å©°Ô ´ÙÄ£ µ¥´Â ¾ø½É´õ.
+,"ÇöÀç ¾Î°í ÀÖ´Â º´: È¯ÀÚ´Â ½®³× »ì ³²ÀÚºÐÀÎµ¥, 1Çü ´ç´¢ ¶«¿¡ ¸»±â ½ÅÀå ÁúÈ¯À» ¾Î°í ÀÖ½É´õ. ÀÌ¹ø¿¡ ¸¶´©¶óÇÑÅ× ½ÅÀå ÀÌ½Ä ¹ÞÀ»¶ó²¿ º´¿ø¿¡ ¿Ô³×¿¹.",È¯ÀÚ´Â ÀÎ½¶¸° Ä¡·á ¹Þ°í ÀÖ½É´õ.
+,"ÇöÀç ¾Î°í ÀÖ´Â º´: È¯ÀÚ´Â ½®³× »ì ³²ÀÚºÐÀÎµ¥, 1Çü ´ç´¢ ¶«¿¡ ¸»±â ½ÅÀå ÁúÈ¯À» ¾Î°í ÀÖ½É´õ. È¯ÀÚ´Â ¸¶´©¶óÇÑÅ× ½ÅÀå ÀÌ½Ä ¹ÞÀ»¶ó²¿ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ ½ÅÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"ÇöÀç ¾Î°í ÀÖ´Â º´: È¯ÀÚ´Â 1Çü ´ç´¢ ¶«¿¡ ¸»±â ½ÅÀå ÁúÈ¯À» ¾Î°í ÀÖ´Â ½®³× »ì ³²ÀÚºÐÀÎµ¥, ¸¶´©¶óÇÑÅ× ½ÅÀå ÀÌ½Ä ¹ÞÀ»¶ó²¿ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ´ç´¢º´¼º ½Å°æº´ÁõÀ» ¾Î°í ÀÖ½É´õ.
+,"º´·Â: [**È¯ÀÚ ¼º**]Àº 33ÁÖ 6ÀÏ µÈ ³²ÀÚ ¾Æ·Î, ½ÖµÕÀÌ Áß µÑÂ°°í, 2749³â 6¿ù 23ÀÏ ¿ÀÈÄ 3½Ã 7ºÐ¿¡ ÀüÀÚ°£Áõ ¶«¿¡ Á¦¿ÕÀý°³·Î ÅÂ¾î³µ½É´õ. ¾ö¸¶´Â 34¼¼, ÀÓ½Å 1¹ø¿¡ Ãâ»ê 0¹ø, ÇöÀç ¾Æ µÑ ÀÖ´Â ¾ö¸¶°í, [**Name (NI) 2016**]Àº [**2749-8-5**]ÀÔ´Ï´õ.",È¯ÀÚ´Â ÀÏÂï ÅÂ¾î³­ ½ÖµÕÀÌ Áß¿¡ ÇÑ ¸íÀÔ´Ï´õ.
+,"º´·Â: [**È¯ÀÚÀÇ ¼º**]Àº 33ÁÖ 6ÀÏ µÈ ³²ÀÚ ¾Æ·Î, ½ÖµÕÀÌ Áß¿¡ µÑÂ°°í, [**2749-6-23**] ¿ÀÈÄ 3½Ã 7ºÐ¿¡ ÅÂ¾î³µ½É´õ. ¾ö¸¶°¡ ÀÓ½ÅÁßµ¶Áõ ¶«¿¡ Á¦¿ÕÀý°³·Î ³º¾Ò°í, ¾ö¸¶´Â 34¼¼, G1, ÆÄ¶ó 0, ÇöÀç ¾Æ µÑ ÀÖ½É´õ. ¾ö¸¶ [**ÀÌ¸§ (NI) 2016**]Àº [**2749-8-5**]ÀÔ´Ï´õ.",È¯ÀÚ´Â ¸¸»èÀÔ´Ï´õ.
+,"º´·Â: [**È¯ÀÚ ¼º**]Àº 33ÁÖ 6ÀÏ µÈ ³²ÀÚ ¾Æ·Î, ½ÖµÕÀÌ Áß¿¡ µÑÂ°°í, [**2749-6-23**] ¿ÀÈÄ 3½Ã 7ºÐ¿¡ ÀüÀÚ°£Áõ(ÀÓ½ÅÁßµ¶Áõ) ¶«¿¡ Á¦¿ÕÀý°³·Î ÅÂ¾î³µ½É´õ. ¾ö¸¶´Â 34¼¼, ÀÓ½Å 1¹ø¿¡ Ãâ»ê 0¹ø, ÇöÀç ¾Æ µÑ ÀÖ´Â ¾ö¸¶°í, [**Name (NI) 2016**]Àº [**2749-8-5**]ÀÔ´Ï´õ.",È¯ÀÚ´Â ÀúÃ¼ÁßÀ¸·Î ÅÂ¾î³µ½É´õ.
+,"±× »ç¶÷Àº ¸Ó¸® ¾ÆÇÁ°Å³ª, ÅäÇÏ°Å³ª, ¼Ó ¹Ì½»°Å¸®´Â °Ç ¾ø´Ù Äº½É´õ.",±× »ç¶÷Àº ¸Ó¸® ¾È ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,±× »ç¶÷Àº ¸Ó¸® ¾ÆÇÁ°Å³ª ÅäÇÏ°Å³ª ¼Ó ¹Ì½»°Å¸° Àû ¾ø´Ù Äº½É´õ.,±× »ç¶÷Àº ÇÇ¸¦ ÅäÇÏ°í ÀÖ½É´õ.
+,"±× »ç¶÷Àº ¸Ó¸® ¾ÆÇÁ°Å³ª, ÅäÇÏ°Å³ª, ¼Ó ¹Ì½»°Å¸° ÀûÀº ¾ø´Ù Äº½É´õ.",±× »ç¶÷Àº ¿­Àº ¾ø½É´õ.
+,"Áö³­ º´·Â: ÀÎ½¶¸°À¸·Î Ä¡·á¹ÞÀº 2Çü ´ç´¢, À§½Äµµ ¿ª·ù ÁúÈ¯, »þÃ÷Å° ¸µ, [**2948**]³â¿¡ ³úÇ÷°ü »ç°í ¿Í¼­ ¿ÞÂÊÀ¸·Î ¹Ý½Å¸¶ºñ ¿Â °Å Äí¸¶µòÀ¸·Î Ä¡·á ÁßÀÌ°í, ÀÚ±Ã/³­¼Ò ÀüÃ¼ ÀýÁ¦¼ú, ¸»ÃÊ Ç÷°ü ÁúÈ¯, ¸ÍÀå ¶¾ Àû ÀÖ°í, [**9-/2953**]³â¿¡ °ü»óµ¿¸Æ ÁúÈ¯ ¶«¿¡ °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼ú ¹Þ¾Ò½É´õ. ÀÌ½ÄÀº ¿ÞÂÊ ³»Èäµ¿¸Æ¿¡¼­ ¿ÞÂÊ Àü¹æÇÏ°­µ¿¸ÆÀ¸·Î, ¿À¸¥ÂÊ Á¤¸Æ¿¡¼­ obtuse marginal number oneÀ¸·Î, ±Û°í ¹æ»çµ¿¸Æ¿¡¼­ µÚ·Î ³»·Á°¡´Â µ¿¸ÆÀ¸·Î ÀÌ½ÄµÇ¾ú½É´õ.",È¯ÀÚ´Â ¾Î°í ÀÖ´Â º´ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
+,"Áö³­ º´·Â: ÀÎ½¶¸°À¸·Î Ä¡·á¹ÞÀº 2Çü ´ç´¢, À§½Äµµ ¿ª·ùÁúÈ¯, »þÃ÷Å° ¸µ, [**2948**]³â¿¡ ³úÇ÷°ü »ç°í·Î ³²Àº ¿ÞÂÊ ¹Ý½Å¸¶ºñ Áõ»óÀº Äí¸¶µòÀ¸·Î Ä¡·áÇß¾ú°í, ÀÚ±ÃÀÌ¶û ¾çÂÊ ³­¼Ò Á¦°Å ¼ö¼ú(TAH/BSO), ¸»ÃÊÇ÷°ü ÁúÈ¯, ¸ÍÀå ¼ö¼ú ÀÚ±¹ ÀÖ°í, [**9-/2953**]³â¿¡ °ü»óµ¿¸Æ ÁúÈ¯À¸·Î ½ÉÀåµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä¼úÀ» ¹Þ¾Ò´Âµ¥, ¿ÞÂÊ ³»Èäµ¿¸Æ¿¡¼­ ¿ÞÂÊ Àü¹æÇÏ°­µ¿¸ÆÀ¸·Î, ¿À¸¥ÂÊ ´ëÅðÁ¤¸Æ ÀÌ½ÄºÎ¿¡¼­ obtuse marginal number one·Î, ±Û°í ¹æ»çµ¿¸Æ¿¡¼­ ÈÄ¹æÇÏ°­µ¿¸ÆÀ¸·Î ÀÌ½ÄÇß½É´õ.",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
+,"°ú°Å º´·Â: ÀÎ½¶¸°À¸·Î Ä¡·áÇÑ 2Çü ´ç´¢, À§½Äµµ ¿ª·ù ÁúÈ¯, »þÃ÷Å° ¸µ, [**2948**]³â¿¡ ³úÇ÷°ü »ç°í ¶«¿¡ ³²Àº ¿ÞÂÊ ¹Ý½Å¸¶ºñ(Äí¸¶µòÀ¸·Î Ä¡·á), ÀÚ±Ã/³­¼Ò ÀüÃ¼ ÀýÁ¦¼ú(TAH/BSO), ¸»ÃÊ Ç÷°ü ÁúÈ¯, ¸ÍÀå ¶¾ Àû ÀÖ°í, [**9-/2953**]³â¿¡ °ü»ó µ¿¸Æ ÁúÈ¯À» ½ÉÀå °ü»ó µ¿¸Æ ¿ìÈ¸ ÀÌ½ÄÀ¸·Î Ä¡·áÇß´Âµ¥, ¿ÞÂÊ ³»Èäµ¿¸Æ¿¡¼­ ¿ÞÂÊ Àü¹æ ÇÏÇà µ¿¸ÆÀ¸·Î, ¿À¸¥ÂÊ ´ëÅð Á¤¸Æ ÀÌ½ÄÀ¸·Î obtuse marginal number oneÀ¸·Î, ±Û°í ¹æ»ç µ¿¸Æ¿¡¼­ µÚ·Î ³»·Á°¡´Â µ¿¸ÆÀ¸·Î ÀÌ½ÄµÇ¾ú½É´õ.",È¯ÀÚ´Â ºñ¸¸ÀÔ´Ï´õ.
+,"º¸°í¼­ º¸ÀÌ±î ¸Ç Ã·¿¡ QTc´Â 410ÀÌ¾ú´Âµ¥ Áö±ÝÀº 475°í¿¹. ¸Ç Ã·¿¡ QRS´Â 82¿´´Âµ¥ Áö±ÝÀº 86ÀÌ°í, ½É¹Ú¼ö´Â 95ÀÔ´Ï´õ.",È¯ÀÚ EKG °á°ú°¡ ¾ÆÁÖ ÁÁ°Ô ³ª¿Ô½É´õ.
+,"º¸°í¼­ º¸ÀÌ±î ¸Ç Ã·¿¡ QTc´Â 410ÀÌ¾ú´Âµ¥ Áö±ÝÀº 475°í¿¹. ¸Ç Ã·¿¡ QRS´Â 82¿´´Âµ¥ Áö±ÝÀº 86ÀÌ°í, ½É¹Ú¼ö´Â 95ÀÔ´Ï´õ.",È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"º¸°í¼­¿¡ µû¸£¸ð, Ã·¿¡ QTc°¡ 410ÀÌ´ø ECG°¡ Áö±ÝÀº 475ÀÔ´Ï´õ. Ã·¿¡ QRS´Â 82¿´´Âµ¥, Áö±ÝÀº 86À¸·Î ÀçÁ³°í, ½É¹Ú¼ö´Â 95¶ó¿¹.",È¯ÀÚ´Â Çù½ÉÁõÀÌ ÀÖ½Ê´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡ µµÂøÇßÀ» ¶§ T97 È¯ÀÚ Ç÷¾ÐÀÌ 184/94, ½É¹Ú¼ö 92, È£Èí¼ö 24¿´°í, ½Ç³» °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 88%¿´´Âµ¥ NRB ¾²´Ï±î 98%·Î ¿Ã¶ú½Ê´Ï´õ.",È¯ÀÚ´Â ÀÀ±Þ½Ç¿¡¼­ °íÇ÷¾ÐÀÌ ÀÖ¾ú½Ê´Ï´õ.
+,"ED¿¡ µµÂøÇßÀ» ¶§ T97 BP´Â 184/94, HRÀº 92, RRÀº 24°í, RA »óÅÂ¿¡¼­ 88%¿´´Âµ¥ NRB ¾²´Ï±î 98%·Î ¿Ã¶ú½Ê´Ï´õ.",È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â ÀÀ±Þ½Ç¿¡¼­ Á¤»óÀÌ¾ú½Ê´Ï´õ.
+,ED µµÂøÇßÀ» ¶§ T97 BP 184/94 HR 92 RR 24 RA¿¡¼­ 88% -> NRB¿¡¼­ 98%ÀÔ´Ï´õ.,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,"ºñÈ°¼ºÈ­µÈ ºÎºñµ¿¿°ÇÏ°í Ãµ½Ä, ´Ü¼øÇì¸£Æä½º¹ÙÀÌ·¯½º-1 [**2572**]",È¯ÀÚ´Â Çì¸£Æä½º ¹ÙÀÌ·¯½º¿¡ °É·È½Ê´Ï´õ.
+,"ºñÈ°¼ºÈ­µÈ ºÎºñµ¿¿°, Ãµ½Ä, ´Ü¼øÇì¸£Æä½º¹ÙÀÌ·¯½º 1Çü [**2572**]",È¯ÀÚ´Â ¹ÙÀÌ·¯½º °¨¿°µÈ ÀûÀÌ ¾ø½Ê´Ï´õ.
+,"ºñÈ°¼ºÈ­µÈ ºÎºñµ¿¿°ÇÏ°í Ãµ½Ä, ´Ü¼øÇì¸£Æä½º¹ÙÀÌ·¯½º 1Çü [**2572**]",È¯ÀÚ´Â ÀÔ ÁÖµð¿¡ ±¸¼ø Çì¸£Æä½º ¹ßÁøÀÌ ³µ½Ê´Ï´õ.
+,°ú°Å º´·Â: 2Çü ´ç´¢º´.,È¯ÀÚ´Â 2Çü ´ç´¢º´ÀÌ ÀÖ´Ù.
+,°ú°Å º´·Â: 2Çü ´ç´¢º´.,È¯ÀÚ´Â 1Çü ´ç´¢º´ÀÌ ÀÖ½Ê´Ï´õ.
+,°ú°Å º´·Â: 2Çü ´ç´¢º´.,È¯ÀÚ´Â ÀÎ½¶¸° Ä¡·á¸¦ ¹Þ°í ÀÖ½Ê´Ï´õ.
+,"±× ¾ç¹Ý Ã·¿¡´Â ¼ö¼ú ¾È ÇÒ¶ó Äº´Âµ¥, °¡½¿ ¾ÆÇÂ ±â ÀÚ²Ù ´Ã¾î³ª°í ÀÖ½Ê´Ï´õ.",±× »ç¶÷ °¡½¿ ¾ÆÇÂ ±â Á¡Á¡ ´õ ½ÉÇØÁö°í ÀÖ´Ù.
+,"±× ¾ç¹Ý Ã·¿¡´Â ¼ö¼ú ¾È ÇÒ¶ó Äº´Âµ¥, °¡½¿ ¾ÆÇÂ ±â ÀÚ²Ù ´Ã¾î³ª°í ÀÖ½Ê´Ï´õ.",±× »ç¶÷Àº °¡½¿Àº ¾È ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,"±× ¾ç¹Ý Ã·¿¡´Â ¼ö¼ú ¾È ÇÒ¶ó Äº´Âµ¥, °¡½¿ ¾ÆÇÂ ±â ÀÚ²Ù ´Ã¾î³ª°í ÀÖ½Ê´Ï´õ.",±× »ç¶÷Àº °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
+,"ÀÌ È¯ÀÚ´Â 68¼¼ ¿©ÀÚºÐÀÎµ¥, ¿¾³¯¿¡ ¸¸¼º ´Ù¿äÀÎ¼º ÆóÁúÈ¯À¸·Î Áý¿¡¼­ 2¸®ÅÍ »ê¼Ò¸¦ ½è°í¿¹, ¼±Ãµ¼º ½ÉÀåº´À¸·Î Å« ASD¸¦ ¼ö¼ú·Î Ä¡·á¹Þ¾Ò½Ê´Ï´õ. ¶Ç ÆóÀÇ Æó¼â/Á¦ÇÑ¼º ÁúÈ¯, ¸¸¼º Æó»öÀüÁõ, ½ÉÇÑ Æó°íÇ÷¾Ðµµ ¾Î°í ÀÖ¾î¼­, ±×°Å Ä¡·áÇÒ¶ó°í ½Çµ¥³ªÇÊÀ» ¹¬°í ÀÖ½Ê´Ï´õ. ¿ä»õ´Â ¼ûÀÌ Á¡Á¡ ´õ Â÷Áø´ÙÄ°´Ï´õ.",È¯ÀÚ Æó±â´É °Ë»ç °á°ú°¡ ¾È ÁÁ½Ê´Ï´õ.
+,"ÀÌ È¯ÀÚ´Â 68¼¼ ¿©ÀÚºÐÀ¸·Î, ¸¸¼º ´Ù¿äÀÎ ÆóÁúÈ¯ º´·ÂÀÌ ±æ°í, Áý¿¡¼­ 2L »ê¼Ò¸¦ ¾²°í ÀÖ½Ê´Ï´õ. ¼±Ãµ¼º ½ÉÀåº´À¸·Î Å« ASD(½É¹æ Áß°Ý °á¼ÕÁõ)°¡ ÀÖ¾ú´Âµ¥ ¼ö¼ú·Î Ä¡·áµÆ½Ê´Ï´õ. ¶Ç ÆóÀÇ Æó¼â¼º/Á¦ÇÑ¼º ÁúÈ¯, ¸¸¼º Æó»öÀüÁõ, ½ÉÇÑ Æó°íÇ÷¾ÐÀ» ¾Î°í ÀÖ¾î¼­, Á¡Á¡ ¼ûÀÌ Â÷Áö°í ÀÖ½Ê´Ï´õ. Æó°íÇ÷¾Ð Ä¡·á ¶«¿¡ ½Çµ¥³ªÇÊµµ ¹¬°í ÀÖ¾î¿¹.",È¯ÀÚ´Â ¼û Âù °Ç ¾ø½Ê´Ï´õ.
+,"ÀÌ È¯ÀÚ´Â 68¼¼ ¿©ÀÚºÐÀÎµ¥, ¸¸¼º ´ÙÀÎÀÚ¼º ÆóÁúÈ¯ º´·ÂÀÌ ±æ°í Áý¿¡¼­ 2L »ê¼Ò¸¦ ¾²°í ÀÖ½Ê´Ï´õ. ¼±Ãµ¼º ½ÉÀåº´À¸·Î Å« ASD°¡ ÀÖ¾ú´Âµ¥ ¼ö¼ú·Î Ä¡·áµÆ°í, ÆóÀÇ Æó¼â ¹× Á¦ÇÑ¼º ÁúÈ¯, ¸¸¼º Æó»öÀüÁõ, ½ÉÇÑ Æó°íÇ÷¾ÐÀÌ ÀÖ¾î°¡ ½Çµ¥³ªÇÊÀ» ¹¬°í ÀÖ½Ê´Ï´õ. Á¡Á¡ ¼ûÀÌ Â÷Áö°í ÀÖ¾î¿¹.",È¯ÀÚ FEV1 ¼öÄ¡°¡ ³·½Ê´Ï´õ.
+,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â ´ç´¢, °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±×¸®°í ±âÀýÇÑ ÀûÀÌ ÀÖ´Â 86¼¼ ÇÒ¸ÅÀÎµ¥¿¹, [**2777-5-24**]¿¡ ÀÔ¿øÇß½Ê´Ï´õ. ¿ä ÀÌÆ² µ¿¾È ¸»À» ´õµë°í, ¿À¸¥¼ÕÀ¸·Î ¹» Àß ¸ø Àâ°í, Á¤½Åµµ ¿À¶ô°¡¶ôÇß½Ê´Ï´õ.",°íÇ÷¾ÐÇÏ°í °íÄÝ·¹½ºÅ×·Ñ º´·Â.
+,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â ´ç´¢, °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±Û°í ±âÀýÇÑ ÀûÀÌ ÀÖ´Â 86¼¼ ÇÒ¸ÅÀÎµ¥¿¹, [**2777-5-24**]¿¡ ÀÔ¿øÇß½Ê´Ï´õ. Áö³­ ÀÌÆ² µ¿¾È ¸»ÀÌ ¾î´­ÇØÁö°í, ¿À¸¥¼ÕÀ¸·Î Àâ´Â °É Èûµé¾îÇß°í, Á¤½Åµµ ¿À¶ô°¡¶ôÇß¾î¿¹.",±× ÇÒ¸Å´Â ½Å°æ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"ÇöÀç º´·Â: ÀÌ È¯ÀÚ´Â 86¼¼ ÇÒ¸ÅÀÎµ¥, ¿¾³¯¿¡ ´ç´¢, °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±Û°í ±âÀýÇÑ º´·ÂÀÌ ÀÖ½Ê´Ï´õ. [**2777-5-24**]¿¡ ÀÔ¿øÇß°í, ¿ä ÀÌÆ² µ¿¾ÈÀº ¸»À» ´õµë°í, ¿À¸¥¼ÕÀ¸·Î Àâ±â Èûµé¾îÇÏ°í, Á¤½Åµµ ¿À¶ô°¡¶ôÇß½Ê´Ï´õ.",±× ÇÒ¸Å´Â ³ú°æ»ö º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,"±× ÇÒ¸Å´Â °¡·¡ ¼¯ÀÎ ±âÄ§À» ÇÏ°í¿¹, °¡²û ÇÇ°¡ ¼¯¿© ³ª¿À´Âµ¥ ÇÇ°¡ ¸¹ÀÌ ³ª¿ÀÁø ¾Ê½Ê´Ï´õ.",È¯ÀÚ´Â Æó ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
+,"±× ¿©ÀÚ´Â °¡·¡ ¼¯ÀÎ ±âÄ§À» ÇÏ´Âµ¥, °¡²û ÇÇ°¡ ¼¯¿© ³ª¿ÀÁö¸¸ ÇÇ°¡ ¸¶ÀÌ ³ª¿ÀÁö´Â ¾Ê½É´õ.",È¯ÀÚ Æó´Â Á¤»óÀÔ´Ï´õ.
+,"±× ¿©ÀÚ´Â °¡·¡¶û °°ÀÌ ±âÄ§À» ÇÏ´Âµ¥, °¡²û¾¿ ÇÇ°¡ ¼¯¿©µµ ÇÇ´Â ¸¶ÀÌ ¾È ³ª¿É´Ï´õ.",È¯ÀÚ´Â °áÇÙ¿¡ °É›½É´õ.
+,"±× ³²ÀÚ´Â Áö°¡ ¸»ÇÏ°í ½ÍÀº °Å´Â »ý°¢ÀÌ ³ª´Âµ¥, ±× ¸»À» ¹ñ´Â °É Èûµé¾îÇß½É´õ.",È¯ÀÚ°¡ ¸»ÇÏ´Â °É Èûµé¾îÇÕ´Ï´õ.
+,"±× ³²ÀÚ´Â Áö°¡ ¸»ÇÏ°í ½ÍÀº °Å´Â »ý°¢ÀÌ ³ª´Âµ¥, ±× ¸»À» Á¦´ë·Î ÇÏ´Â °É Èûµé¾îÇß½É´õ.",±× »ç¶÷Àº ¸ÖÂÄÇÏ°Ô ¸» Àß ÇÕ´Ï´õ.
+,"±× ³²ÀÚ´Â Áö°¡ ¸»ÇÏ°í ½ÍÀº °Å´Â »ý°¢ÀÌ ³ª´Âµ¥, ±× ¸»À» Á¦´ë·Î ÇÏ´Â °É Èûµé¾îÇß½É´õ.",È¯ÀÚ´Â ¾ð¾îÀå¾Ö°¡ ÀÖ½É´õ.
+,"¿©µç³× »ì ¿©ÀÚ È¯ÀÜµ¥, [**8-27**]¿¡ ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú(CABG)À» ¹Þ¾Ò°í (LIMA-LAD, SVG-OM1), ½ÉºÎÀü(CHF), ¸»±â ½ÅºÎÀü(ESRD)À¸·Î Åõ¼® ¹Þ°í ÀÖÀ¸¸ç, Á¦2Çü ´ç´¢º´(DMII), »ó½Ç¼º ½É¹æ¼¼µ¿(PAF)À» ¾Î°í ÀÖ½É´õ. ´Ù¸¥ º´¿ø¿¡¼­ ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ ÀÌ¼ÛµÇ¾ú½É´õ.",È¯ÀÚ´Â ¾Î´Â º´ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
+,"¿©µç³× »ì ¿©ÀÚ È¯ÀÚ·Î, [**8-27**]¿¡ ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú(CABG, LIMA-LAD, SVG-OM1)À» ¹ÞÀº °ü»óµ¿¸ÆÁúÈ¯(CAD) È¯ÀÚ°í, ½ÉºÎÀü(CHF), ¸»±â ½ÅºÎÀü(ESRD)À¸·Î Åõ¼® ¹Þ°í ÀÖÀ¸¸ç, Á¦2Çü ´ç´¢º´(DMII), ¸·¹ß¼º ½É¹æ¼¼µ¿(PAF)À» ¾Î°í ÀÖ½É´õ. ´Ù¸¥ º´¿ø¿¡¼­ ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ ÀÌ¼ÛµÇ¾ú½É´õ.",±× ¿©ÀÚ´Â ÄáÆÏ ±â´ÉÀÌ Á¤»óÀÔ´Ï´õ.
+,"¿©µç³× »ì ¿©ÀÚ È¯ÀÚ·Î, [**8-27**]¿¡ ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú(CABG)À» ¹Þ¾Ò°í(¿ÞÂÊ ³»Èäµ¿¸Æ-Àü¹æÇÏÇàÁö, ´ëµ¿¸Æ±Ã-¿ÜÃøÇÑ°èµ¿¸Æ), ½ÉºÎÀüÁõ, ¸»±â ½ÅºÎÀüÁõÀ¸·Î Åõ¼® ¹Þ°í ÀÖÀ¸¸ç, 2Çü ´ç´¢º´, »ó½Ç¼º ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ½É´õ. ´Ù¸¥ º´¿ø¿¡¼­ ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ ÀÌ¼ÛµÇ¾ú½É´õ.",±× ¿©ÀÚ´Â ´ã¹è ÇÉ ÀûÀÌ ÀÖ½É´õ.
+,"-³× »ì ¶§ (½º¹°´Ù¼¸ ÇØ Àü) ´ã³¶ ±âÇü ¼ö¼úÇÏ°í °£ÀÌ½Ä [**¿ù/³â (2) **] -°ü¸®°¡ Àß µÇ´Â Ãµ½Ä -¿À¸¥ÂÊ °í°üÀý ¹«Ç÷¼º ±«»ç, Á¤Çü¿Ü°ú ¼Ò°ß»ó ÀÎ°ø °í°üÀý ¼ö¼úÀÌ ÇÊ¿äÇÒ ¼ö ÀÖÀ½ -°¨¿° ÈÄ »ç±¸Ã¼½Å¿°À¸·Î ½Å»ý°Ë [**2629-8-4**] °á°ú IgG Áö¹è¼º ÃâÇ÷¼º Áõ½Ä¼º GNÀÌ ³ª¿Í, °¨¿° ÈÄ »ç±¸Ã¼½Å¿°À» ÀÇ¹ÌÇÔ -½ÅÁõÈÄ±º (´Ü¹é´¢ 4.1g), Àú¾ËºÎ¹ÎÇ÷Áõ -¼ÒÀå ÀýÁ¦ ¼ö¼ú",È¯ÀÚ´Â ¸ö¿¡ º´ÀÌ ¿©·¯ °³ ÀÖ½É´õ.
+,"-³× »ì ¶§ (½º¹°´Ù¼¸ ÇØ Àü) ´ã³¶ ±âÇü ¼ö¼ú ÀÌ·Â ÀÖ´Â ´ã³¶ Æó¼âÁõ -°ü¸® Àß µÇ°í ÀÖ´Â Ãµ½Ä -Á¤Çü¿Ü°ú ¼Ò°ß¿¡ µû¸£¸é, ¿À¸¥ÂÊ °í°üÀý ¹«Ç÷°ü¼º ±«»ç·Î ÀÎ°ø °í°üÀý ¼ö¼úÀÌ ÇÊ¿äÇÒ ¼ö ÀÖÀ½ -°¨¿° ÈÄ »ç±¸Ã¼½Å¿°À¸·Î ½ÅÀå »ý°Ë ÀÌ·Â ÀÖÀ½ [**2629-8-4**]. IgG Áö¹èÀûÀÎ ÃâÇ÷¼º Áõ½Ä¼º »ç±¸Ã¼½Å¿°ÀÌ ¹ß°ßµÆ´Âµ¥, ÀÌ´Â °¨¿° ÈÄ »ç±¸Ã¼½Å¿°°ú ÀÏÄ¡ÇÔ -´Ü¹é´¢Áõ(4.1g ´Ü¹é´¢)°ú Àú¾ËºÎ¹ÎÇ÷ÁõÀÌ ÀÖ´Â ½ÅÁõÈÄ±º -¼ÒÀå ÀýÁ¦ ¼ö¼ú ÀÌ·Â ÀÖÀ½",È¯ÀÚ´Â °Ç°­ÇÑ ¾ÆÀÔ´Ï´õ.
+,"-³× »ì ¶§ (½º¹°´Ù¼¸ ÇØ Àü) ´ã³¶ ±âÇü ¼ö¼ú ÀÌ·Â ÀÖ´Â È¯ÀÚ -°ü¸® Àß µÇ°í ÀÖ´Â Ãµ½Ä -¿À¸¥ÂÊ °í°üÀý ¹«Ç÷°ü¼º ±«»ç, Á¤Çü¿Ü°ú ¼Ò°ß»ó ÀÎ°ø °í°üÀý ¼ö¼úÀÌ ÇÊ¿äÇÒ ¼ö ÀÖÀ½ -°¨¿° ÈÄ »ç±¸Ã¼½Å¿°, ½ÅÀå »ý°Ë °á°ú IgG ¿ì¼¼¼º Ãà³ó¼º Áõ½Ä¼º »ç±¸Ã¼½Å¿°À¸·Î, °¨¿° ÈÄ »ç±¸Ã¼½Å¿°°ú ÀÏÄ¡ -½ÅÁõÈÄ±º (´Ü¹é´¢ 4.1g), Àú¾ËºÎ¹ÎÇ÷Áõ -¼ÒÀå ÀýÁ¦ ¼ö¼ú ÀÌ·Â ÀÖÀ½",È¯ÀÚ´Â ÅÂ¾î³¯ ¶§ºÎÅÍ ÁõÈÄ±ºÀÌ ÀÖ½É´õ.
+,"°£ºÎÀü - ³úº´Áõ·Â ÀÖÀ½, ±â·Ï¿¡ Á¶Á÷°Ë»ç °á°ú´Â ¾øÀ½ ´ç´¢º´ 2Çü - ÀÎ½¶¸° ºñÀÇÁ¸Çü ½ÉºÎÀüÁõ PSA ¼öÄ¡ »ó½Â ÃéÀå¿° PPD ¾ç¼º ¾ËÄÚ¿Ã¼º ½É±Ùº´Áõ",È¯ÀÚ´Â ¾Î¾Ò´ø º´ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
+,"°£ºÎÀü - ³úº´Áõ·Â, ±â·Ï¿¡ »ý°Ë °á°ú ¾øÀ½ 2Çü ´ç´¢º´ - ÀÎ½¶¸° ºñÀÇÁ¸¼º ½ÉºÎÀüÁõ PSA ¼öÄ¡ »ó½Â ÃéÀå¿° PPD ¾ç¼º ¾ËÄÚ¿Ã¼º ½É±Ùº´Áõ",È¯ÀÚ °£ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"°£ºÎÀü - ³úº´Áõ·ÂÀÌ ÀÖÀ¸¸ç, ±â·Ï¿¡¼± Á¶Á÷°Ë»ç °á°ú¸¦ Ã£À» ¼ö ¾øÀ½ ´ç´¢º´ 2Çü - ÀÎ½¶¸° ºñÀÇÁ¸¼º ½ÉºÎÀüÁõ PSA ¼öÄ¡ »ó½Â ÃéÀå¿° PPD ¾ç¼º ¾ËÄÚ¿Ã¼º ½É±Ùº´Áõ",È¯ÀÚ´Â ¾ËÄÚ¿Ã Áßµ¶Àâ´Ï´õ.
+,"¾îÁ¦ ±× »ç¶÷ÀÌ HD ¶«¿¡ °Ë»ç¸¦ ¹Þ¾Ò°í, ÇÇ°Ë»ç¸¦ Çß½É´õ. º¸°í¼­¸¦ º¸ÀÌ±î Hgb ¼öÄ¡°¡ 7.2·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº ºóÇ÷ÀÔ´Ï´õ.
+,"¾îÁ¦ ±× »ç¶÷ÀÌ HD ¶«¿¡ °Ë»ç¸¦ ¹Þ¾Ò°í, °Ë»ç½Ç¿¡¼­ ÇÇ¸¦ »Ì¾Ò½É´õ. º¸°í¼­¸¦ º¸ÀÌ±î Hgb ¼öÄ¡°¡ 7.2·Î ³ª¿Ô½É´õ.",±× »ç¶÷ Çì¸ð±Û·Îºó ¼öÄ¡´Â Á¤»ó ¹üÀ§ ¾È¿¡ ÀÖ½É´õ.
+,"¾îÁ¦ ±× »ç¶÷ÀÌ HD °Ë»ç ¶«¿¡ º´¿ø¿¡ ¿Ô¾ú°í, ÇÇ°Ë»ç¸¦ Çß½É´õ. º¸°í¼­ º¸´Ï±î Hgb ¼öÄ¡°¡ 7.2·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº ÇÇ°ïÇØÇÕ´Ï´õ.
+,È¯ÀÚ°¡ ¿ä»õ »ìÀÌ ºüÁø °É·Î È®ÀÎµÇ¾ú½É´õ.,È¯ÀÚ°¡ »ìÀÌ ºüÁö°í ÀÖ½É´õ.
+,È¯ÀÚ°¡ ¿ä»õ »ìÀÌ ºüÁø °É·Î È®ÀÎµÇ¾ú½É´õ.,È¯ÀÚ°¡ »ìÀÌ Âî°í ÀÖ½É´õ.
+,È¯ÀÚ°¡ ¿ä»õ »ìÀÌ ºüÁø °É·Î È®ÀÎµÇ¾ú½É´õ.,È¯ÀÚ°¡ ¾Ï Áø´ÜÀ» ¹Þ¾Ò½É´õ.
+,"±× »ç¶÷Àº ¿­, ¼³»ç, °¡½¿ ÅëÁõ, ±âÄ§, ¼û½¬±â ¾È ÁÁÀº °Å, ¿ÀÁÜ ´­ ¶§ ¾ÆÇÂ °Å °°Àº Áõ»óÀº ÇÏ³ªµµ ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚ´Â °¨¿° Áõ»óÀÌ ¾ø½É´õ.
+,"±× »ç¶÷Àº ¿­ ³ª°Å³ª, ¼³»çÇÏ°Å³ª, °¡½¿ ¾ÆÇÁ°Å³ª, ±âÄ§, ¸ñ°¨±â Áõ»ó, ¿ÀÁÜ ´­ ¶§ ¾ÆÇÂ °Å °°Àº °Ç ÀüÇô °ÞÀº Àû ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚ´Â »ó±âµµ °¨¿°À» ¾Î°í ÀÖ½É´õ.
+,"±× »ç¶÷Àº ¿­ ³ª°Å³ª, ¼³»çÇÏ°Å³ª, °¡½¿ ¾ÆÇÁ°Å³ª, ±âÄ§, ¼û½¬±â ¾È ÁÁÀº Áõ»ó, ¿ÀÁÜ ´­ ¶§ ¾ÆÇÂ °Å °°Àº °Ç ÀüÇô °ÞÀº Àû ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Æó·ÅÀº ¾ø½É´õ.
+,"È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ ÈûÀÌ ºüÁö°í ¸»ÀÌ ÀÚ²Ù ¸·È÷´Â °Ô Èûµé´ÙÄ«°í, ÀÌ·± Áõ»óÀÌ ¿ä ÀÌ»ïÀÏ »çÀÌ¿¡ »õ·Î »ýƒ…´Ù Ä°´Ï´õ.",È¯ÀÚÇÑÅ× ±Þ¼º ½Å°æÇÐÀû ¼Ò°ßÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ Èû ºüÁö°í ¸»ÀÌ Àß ¾È ³ª¿À´Â °Í ¶«¿¡ Èûµé´ÙÄ«´Âµ¥, ±×°Ô ÀÌ»ïÀÏ Àü¿¡ »õ·Î »ý±ä Áõ»óÀÌ¶ó²¿ ÀÚ²Ù ÀÌ¾ß±âÇÕ´Ï´õ.",È¯ÀÚ ½Å°æÇÐÀû °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ ÈûÀÌ ¾ø°í ¸»ÀÌ ÀÚ²Ù ¸·Èù´Ù²¿ °è¼Ó Ä«´Âµ¥, ±×±â ¿ä ÀÌ»ïÀÏ »çÀÌ¿¡ »õ·Î »ý±ä Áõ»óÀÌ¶ó Ä°´Ï´õ.",È¯ÀÚ´Â ³úÁ¹ÁßÀ» ¾Î°í ÀÖ½É´õ.
+,"È¯ÀÚ´Â ÀÔ¿øÇÏ±â ÀÏÁÖÀÏ Àü±îÁö´Â ¸ÖÂÄÇß´Âµ¥, ÇÇ°ïÇÏ°í ¾îÁö·´±â ½ÃÀÛÇØ¼­ ´Ù´Ï´ø º´¿ø¿¡ °¡ºÃ´Ù Ä°´Ï´õ.",È¯ÀÚÇÑÅ× »õ·Î Èû ºüÁö´Â Áõ»óÀÌ ³ªÅ¸³µ½É´õ.
+,"È¯ÀÚ´Â ÀÔ¿ø ÀÏÁÖÀÏ Àü±îÁø °Ç°­ÇÏ°Ô Àß Áö³»´Ù°¡, ÇÇ°ïÇÏ°í ¾îÁö·¯¿ö¼­ ´Ù´Ï´ø º´¿ø¿¡ °¬´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ¸¸¼º Áõ»óÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â ÀÔ¿ø ÀÏÁÖÀÏ Àü±îÁö´Â °Ç°­ÇÏ°Ô Àß ÀÖ´Ù°¡, ÇÇ°ïÇÏ°í ¾îÁö·¯¿ö¼­ ´Ù´Ï´ø º´¿ø¿¡ Ã£¾Æ°¬´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀüÁõÀ» ¾Î°í ÀÖ½É´õ.
+,¿­ ³ª°í Ãä°í °¡½¿ ¾ÆÇÁ°í ¼³»çÇÏ´Â °Ç ¾ø´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¿­°¨Àº ¾ø½É´õ.
+,¿­ ³ª°í Ãä°í °¡½¿ ¾ÆÇÁ°í ¼³»çÇÏ´Â °Ç ¾ø´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¿­ÀÌ ³ª°í ÀÖ½É´õ.
+,¿­ ³ª°í Ãä°í °¡½¿ ¾ÆÇÁ°í ¼³»çÇÏ´Â °Ç ¾ø´Ù Ä°´Ï´õ.,È¯ÀÚ´Â °¨¿° Áõ»óÀÌ ¾ø½É´õ.
+,"¿¾³¯¿¡ °íÇ÷¾Ð, °íÁöÇ÷ÁõÀÌ ÀÖ¾ú°í, ÀÏ°ú¼º ³úÇãÇ÷ ¹ßÀÛ(TIA)µµ ÀÖ¾ú´ø °Í °°½É´õ. ÀÏÁÖÀÏ Àü¿¡´Â ½É¹æ¼¼µ¿(Afib)µµ »õ·Î »ý°å½É´õ.",È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ¿©·¯ °³ ÀÖ½É´õ.
+,"¿¾³¯¿¡ °íÇ÷¾Ð, °íÁöÇ÷Áõ, ±Û°í ÀÏ½ÃÀû ³úÇãÇ÷ ¹ßÀÛÀÌ ÀÖ¾úÀ» ¼ö ÀÖ°í, ÃÖ±Ù¿¡(ÀÏÁÖÀÏ Àü¿¡) ½É¹æ¼¼µ¿ÀÌ »õ·Î »ý°å½É´õ.",È¯ÀÚ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
+,"¿¾³¯¿¡ °íÇ÷¾Ð, °íÁöÇ÷Áõ, ÀÏ½ÃÀû ³úÇãÇ÷¹ßÀÛÀÌ ÀÖ¾úÀ» ¼ö ÀÖ°í, ÃÖ±Ù¿¡(ÀÏÁÖÀÏ Àü¿¡) ½É¹æ¼¼µ¿ÀÌ »õ·Î »ý°å½É´õ.",È¯ÀÚ´Â ¿¥º¼¸¯ ³úÁ¹Áß À§ÇèÀÌ ÀÖ½É´õ.
+,"ÅÂ¾Æ ¼±º° °Ë»ç: [**¿ù/ÀÏ (4) **] OÇü À½¼º, Ç×Ã¼ À½¼º, Ç³Áø ¸é¿ª, ¸Åµ¶ ºñ¹ÝÀÀ¼º, BÇü °£¿° Ç¥¸é Ç×¿ø À½¼º, GBS(±×·ì º£Å¸ ¿¬¼â±¸±Õ) »óÅÂ´Â È®ÀÎ ¾È µÊ.",È¯ÀÚ ÅÂ¾Æ ¼±º° °Ë»ç °á°ú´Â À½¼ºÀÔ´Ï´õ.
+,"ÅÂ¾Æ ¼±º° °Ë»ç: [**¿ù/ÀÏ (4) **] OÇü À½¼º, Ç×Ã¼ À½¼º, Ç³Áø ¸é¿ª, ¸Åµ¶ ºñ¹ÝÀÀ¼º, BÇü °£¿° Ç¥¸é Ç×¿ø À½¼º, GBS(±×·ì º£Å¸ ¿¬¼â±¸±Õ) »óÅÂ´Â È®ÀÎ ¾È µÊ.",»ê¸ð°¡ ¸Åµ¶¿¡ °É›½É´õ.
+,"»êÀü °Ë»ç °á°ú: [**¿ù/ÀÏ (4) **] OÇü À½¼º, Ç×Ã¼ ¾øÀ½, Ç³Áø ¸é¿ª, ¸Åµ¶ ¹ÝÀÀ ¾øÀ½, BÇü °£¿° Ç¥¸é Ç×¿ø ¾øÀ½, GBS(±×·ì º£Å¸ ¿¬¼â±¸±Õ) »óÅÂ´Â È®ÀÎ ¾È µÊ.",ÀÓ½ÅÀÌ ¸¸»èÀÌ µÆ½É´õ.
+,±× ¿¬±¸ÇÏ´Â Áß¿¡ È¯ÀÚÇÑÅ× °©ÀÚ±â ÆóºÎÁ¾ÀÌ »ý±â¼­ ¸ð¸£ÇÉÇÏ°í ¶ó½Ä½º·Î Ä¡·á¸¦ ÇØ¾ß Çß½É´õ.,±× È¯ÀÚ´Â ÀÌ´¢Á¦·Î Ä¡·á¹Þ¾Ò½É´õ.
+,±× ¿¬±¸ÇÏ´Â Áß¿¡ È¯ÀÚÇÑÅ× °©ÀÚ±â ÆóºÎÁ¾ÀÌ »ý±â¼­ ¸ð¸£ÇÉÇÏ°í ¶ó½Ä½º·Î Ä¡·á¸¦ ÇØ¾ß¸¸ Çß½É´õ.,È¯ÀÚ´Â ¼û½¬´Â µ¥ ºÒÆíÇÑ Áõ»óÀº ÀüÇô ¾ø¾ú½É´õ.
+,±× ¿¬±¸ ÇÏ´Ù°¡ È¯ÀÚ°¡ °©ÀÚ±â ÆóºÎÁ¾ÀÌ ¿Í°¡²¿ ¸ð¸£ÇÉÇÏ°í ¶ó½Ä½º·Î Ä¡·á°¡ ÇÊ¿äÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ¼ûÀÌ Â÷±â ½ÃÀÛÇß½É´õ.
+,"ÇöÀå¿¡¼­´Â È¯ÀÚ ´«µ¿ÀÚ°¡ 2-3mm·Î ´À¸®°Ô ¿òÁ÷ÀÌ±â´Â ÇØµµ ¹ÝÀÀÀº Çß°í¿¹, ½É¹Ú¼ö´Â 100, ¼ûÀº 4¹ø ½¬°í, Ç÷¾ÐÀº ¾È ÀçÁ³½Ê´Ï´õ. È¯ÀÚ´Â ¾ó±¼ÀÌ Çã¿¸°í ¸öÀº Â÷°¡ºìµ¥ ¶¡Àº ¸¹ÀÌ Èê›½Ê´Ï´õ.",È¯ÀÚ ¼û ½¬´Â °Ô ´À¸²´Ï´õ.
+,"ÇöÀå¿¡¼­´Â È¯ÀÚ µ¿°øÀÌ ´À¸®±ä ÇØµµ ¹ÝÀÀÀº ÀÖ¾ú°í Å©±â´Â 2-3mm¿´½É´õ. ½É¹Ú¼ö´Â 100¹ø, È£Èí¼ö´Â 4¹øÀÌ¾ú°í, Ã»Áø±â·Î´Â Ç÷¾ÐÀ» µéÀ» ¼ö°¡ ¾ø¾ú½É´õ. È¯ÀÚ´Â ¾ó±¼ÀÌ Çã¿¸°í, ¸öÀº Â÷°¡¿ì¸ç, ¶¡À» ¸¹ÀÌ Èê›½Ê´Ï´õ.",È¯ÀÚ ½ÅÃ¼ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"ÇöÀå¿¡¼­´Â, È¯ÀÚ µ¿°øÀº 2-3mm·Î ´À¸®°Ô ¿òÁ÷ÀÌÁö¸¸ ¹ÝÀÀÀº Çß°í¿¹, ½É¹Ú¼ö´Â 100, È£Èí¼ö´Â 4, Ç÷¾ÐÀº ¾È ÀçÁ³½Ê´Ï´õ. È¯ÀÚ´Â ¾ó±¼ÀÌ Çã¿¸°í, Â÷°©°í, ¶¡À» ¸¹ÀÌ Èê¸®°í ÀÖ¾ú½É´õ.",È¯ÀÚ°¡ ¾àÀ» ³Ê¹« ¸¹ÀÌ ¹¬¾ú½É´õ.
+,"¾Æ ³ºÀ» ¶§ ½Å»ý¾Æ°ú Àü¹®ÀÇ°¡ ¾ø¾î°¡Áö°í, »ê¸ð¶û Ãâ»ê °£È£»çµéÀÌ È¸º¹¼úÀ» ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ±âº» »ý¸í À¯Áö Áö¿øÀÌ ÇÊ¿äÇß½Ê´Ï´õ.
+,"¾Æ ³ºÀ» ¶§ ½Å»ý¾Æ°ú Àü¹®ÀÇ°¡ ¾ø¾î°¡Áö°í, »ê¸ð¶û Ãâ»ê °£È£»çµéÀÌ È¸º¹¼úÀ» ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ¾Æ ³º°í ³ª¼­ º°´Ù¸¥ µµ¿òÀÌ ÇÊ¿ä ¾ø¾ú½É´õ.
+,"¾Æ ³ºÀ» ¶§ ½Å»ý¾Æ°ú Àü¹®ÀÇ°¡ ¾ø¾î°¡Áö°í, »ê¸ð¶û Ãâ»ê °£È£»çµéÀÌ È¸º¹¼úÀ» ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â Á¶»êÇß½Ê´Ï´õ.
+,±× »ç¶÷Àº ¶Ç ¶ó½Ä½º 80mg Á¤¸ÆÁÖ»ç ÇÑ ´ë ¸Â°í ¿ÀÁÜÀ» 1800cc ´³½Ê´Ï´õ.,±× »ç¶÷Àº ÀÌ´¢Á¦ Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.
+,±× »ç¶÷Àº ¶Ç ¶ó½Ä½º 80mg Á¤¸ÆÁÖ»ç ÇÑ ´ë ¸Â°í ¿ÀÁÜÀ» 1800cc ´³½Ê´Ï´õ.,±× »ç¶÷Àº ¸ö¿¡ ¹°ÀÌ ºÎÁ·ÇÑ »óÅÂ¿´½É´õ.
+,±× »ç¶÷Àº ¶Ç ¶ó½Ä½º 80mg Á¤¸ÆÁÖ»ç ÇÑ ´ë ¸Â°í ¿ÀÁÜÀ» 1800cc ´³½Ê´Ï´õ.,±× »ç¶÷Àº ½ÉºÎÀüÁõÀÌ ÀÖ½É´õ.
+,"2Çü ´ç´¢(ÀÎ½¶¸° ÀÇÁ¸Çü), °íÇ÷¾Ð, ¿ì¿ïÁõ, °ü»óµ¿¸Æ ¿ìÈ¸¼ú([**3234**] [**Hospital1 251**]) ÀÌ·Â. ÃÖ±Ù ¿À¸¥ÂÊ ´Ù¼¸ ¹øÂ° ÁßÁ·°ñ°üÀý ±Ë¾ç ¶«¿¡ ÇÇºÎ ÀÌ½ÄÇß°í, ÃÖ±Ù MRSA·Î ÀÎÇÑ ¹ß ±Ë¾çÀÌ¶û °ñ¿° ¾ÎÀº Àû ÀÖ½É´õ.",È¯ÀÚ Ç÷´ç ¼öÄ¡°¡ ³ô½É´õ.
+,"2Çü ´ç´¢(ÀÎ½¶¸° ÀÇÁ¸Çü), °íÇ÷¾Ð, ¿ì¿ïÁõ, ½ÉÀåµ¿¸Æ¿ìÈ¸¼ú([**3234**] [**Hospital1 251**]) ÀÌ·Â. ÃÖ±Ù ¿À¸¥ÂÊ ´Ù¼¸ ¹øÂ° ÁßÁ·°ñ°üÀý ±Ë¾ç ¶«¿¡ ÇÇºÎ ÀÌ½ÄÇß°í, ÃÖ±Ù MRSA¶û °ñ¿°À¸·Î ¹ß ±Ë¾ç ¾ÎÀº Àû ÀÖ½É´õ.",È¯ÀÚ´Â °ñ°¨¿° ¾ÎÀº ÀûÀº ¾ø½É´õ.
+,"2Çü ´ç´¢(ÀÎ½¶¸° ÀÇÁ¸Çü), °íÇ÷¾Ð, ¿ì¿ïÁõ, °ü»óµ¿¸Æ ¿ìÈ¸¼ú([**3234**] [**Hospital1 251**]) ÀÌ·Â. ÃÖ±Ù ¿À¸¥ÂÊ ´Ù¼¸ ¹øÂ° ÁßÁ·°ñ°üÀý ±Ë¾ç ¶«¿¡ ÇÇºÎ ÀÌ½ÄÇß°í, MRSA °¨¿°ÇÏ°í °°ÀÌ °ñ¿° ¾ÎÀº Àû ÀÖ½É´õ.",È¯ÀÚ´Â ´ç´¢¼º ½Å°æº´ÁõÀÌ ÀÖ½É´õ.
+,³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.,È¯ÀÚ´Â ³úÁ¹Áß ¾Î¾Ò´ø ÀûÀÌ ÀÖ½É´õ.
+,³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.,È¯ÀÚ ³ú MRI °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.,È¯ÀÚ´Â Æí¸¶ºñ°¡ ÀÖ½É´õ.
+,±× ¿©ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸® ¿òÁ÷ÀÌ´Â ±â Èûµê´Ï´õ.,È¯ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸®¿¡ ¹®Á¦°¡ ÀÖ½É´õ.
+,±× ¿©ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸® ¿òÁ÷ÀÌ´Â µ¥ ¾î·Á¿òÀ» °Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ¾çÂÊ ´Ù¸® ÈûÀÌ ´Ù 5/5¿´½É´õ.
+,±× ¿©ÀÚ´Â ¿À¸¥ÂÊ ´Ù¸® ¿òÁ÷ÀÌ´Â µ¥ ¾î·Á¿òÀ» °Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ¿ÞÂÊ Áß³úµ¿¸Æ°æ»öÁõÀ» ¾Î¾Ò½É´õ.
+,È¯ÀÚ°¡ ¿­ÀÌ °è¼Ó ³ª°í Æò¼Òº¸´Ù ´õ ÇÇ°ïÇÏ´Ù°í ÇÔ´Ï´õ.,È¯ÀÚ°¡ °è¼Ó ¸öÀÌ ¾È ÁÁ´Ù°í Çß½É´õ.
+,È¯ÀÚ´Â ¿­ÀÌ °è¼Ó ³ª°í Æò¼Òº¸´Ù ´õ ¾ï¼ö·Î ÇÇ°ïÅ¸ Ä°´Ï´õ.,È¯ÀÚ´Â ¾Æ¹« Áõ»ó ¾ø½Ê´Ï´õ.
+,È¯ÀÚ´Â ¿­ÀÌ °è¼Ó ³ª°í Æò¼Òº¸´Ù ´õ ¸¶ÀÌ ÇÇ°ïÅ¸ Ä°´Ï´õ.,È¯ÀÚ´Â µ¶°¨¿¡ °É›½Ê´Ï´õ.
+,"±× µÚ¿¡, ±× »ç¶÷Àº [**Hospital3 **]·Î ¿Å°ÜÁ®°¡ Ãß°¡·Î °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.",±× »ç¶÷Àº Ä¡·á¸¦ ´õ ¹Þ¾Æ¾ß Çß½Ê´Ï´õ.
+,"±× µÚ¿¡, ±× »ç¶÷Àº [**Hospital3 **]·Î ¿Å°ÜÁ®°¡ Ãß°¡·Î °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.",±× »ç¶÷Àº ÁýÀ¸·Î Åð¿øÇß½Ê´Ï´õ.
+,±× µÚ¿¡ ±× »ç¶÷Àº [**Hospital3 **]·Î ¿Å°ÜÁ®°¡ Ãß°¡·Î °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.,±× »ç¶÷Àº ¹è ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,µý º´¿ø¿¡¼­´Â ½Å°æÇÐÀûÀ¸·Î ¹Ù²ï °Ç ±â·ÏµÈ °Ô ¾ø¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ ½Å°æ °Ë»ç °á°ú´Â ¾ÈÁ¤ÀûÀÔ´Ï´õ.
+,µý º´¿ø¿¡¼­´Â ½Å°æÇÐÀûÀ¸·Î ¹Ù²ï °Ç ±â·ÏµÈ °Ô ¾ø¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ½Å°æ °Ë»ç °á°ú°¡ ¿Ô´Ù°¬´Ù ÇÕ´Ï´õ.
+,µý º´¿ø¿¡¼­´Â ½Å°æÇÐÀûÀ¸·Î ¹Ù²ï °Ç ±â·ÏµÈ °Ô ¾ø¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ ½Å°æ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,È¯ÀÚºÐÀº ¿À´Ã ¾ÆÄ§¿¡ ±â°ü »ð°ü Æ©ºê¸¦ »°½Ê´Ï´õ.,È¯ÀÚºÐ Æ©ºê¸¦ »°½Ê´Ï´õ.
+,È¯ÀÚºÐÀº ¿À´Ã ¾ÆÄ§¿¡ ±â°ü »ð°ü Æ©ºê¸¦ »°½Ê´Ï´õ.,È¯ÀÚºÐÀÌ Æ©ºê¸¦ ²¼½Ê´Ï´õ.
+,È¯ÀÚºÐÀº ¿À´Ã ¾ÆÄ§¿¡ Æ©ºê¸¦ »°½Ê´Ï´õ.,È¯ÀÚ´Â ÄÚ¿¡ »ê¼ÒÁÙ ³¢°í ÀÖ½Ê´Ï´õ.
+,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó°í Ç÷¾Ð ¿Ã¸®´Â ¾àÀ» ¿©·¯ °³ ½á¾ß Çß½Ê´Ï´õ.,È¯ÀÚ´Â ÀúÇ÷¾ÐÀÔ´Ï´õ.
+,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó°í ÇÁ·¹¼­¸¦ ¿©·¯ °³ ½á¾ß Çß½Ê´Ï´õ.,È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½Ê´Ï´õ.
+,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó°í Ç÷¾Ð ¿Ã¸®´Â ¾àÀ» ¿©·¯ °³ ½á¾ß Çß½Ê´Ï´õ.,È¯ÀÚ´Â ÆÐÇ÷Áõ ¼îÅ© »óÅÂÀÔ´Ï´õ.
+,"±× ¿©ÀÚºÐÀº º¸Åë È£Èí±â Ä¡·á´Â ¾È ÇÏ´Âµ¥ Áö³­ [**1-25**]ÀÏ µ¿¾ÈÀº °è¼Ó ÇÏ°í ÀÖ½Ê´Ï´õ. ¹ä ¸Ô´Â ¾çµµ ÁÙ¾ú°í, ¹ä ¹¬À» ¶§ ¾Æ·§¹èµµ ¾ÆÆÍ´Ù Ä°´Ï´õ. ¿ÀÁÜ ´©´Â Áõ»óÀº ¾ø´Âµð ¼³»ç´Â ´õ ÀÚÁÖ ÇÕ´Ï´õ.",È¯ÀÚºÐÀÌ ¼û ½¬´Â °É Èûµé¾îÇÕ´Ï´õ.
+,"±× ¿©ÀÚºÐÀº º¸Åë È£Èí±â Ä¡·á´Â ¾È ÇÏ´Âµ¥ Áö³­ [**1-25**]ÀÏ µ¿¾ÈÀº °è¼Ó ÇÏ°í ÀÖ½Ê´Ï´õ. ¹ä ¸Ô´Â ¾çµµ ÁÙ°í ¾Æ·§¹èµµ ¾ÆÇÂµ¥, ¸Ô´Â ¾à ¹¬À» ¶§ ±×·¸´Ù Ä°´Ï´õ. ¿ÀÁÜ ´©´Â Áõ»óÀº ¾ø´Âµð ¼³»ç´Â ´õ ÀÚÁÖ ÇÕ´Ï´õ.",È¯ÀÚ´Â ¾ÆÇÂ µ¥ ¾ø´Ù Ä°´Ï´õ.
+,"±× ¿©ÀÚºÐÀº º¸Åë È£Èí±â Ä¡·á´Â ¾È ÇÏ´Âµ¥ Áö³­ [**1-25**]ÀÏ µ¿¾ÈÀº °è¼Ó ÇÏ°í ÀÖ½Ê´Ï´õ. ¹ä ¸Ô´Â ¾çµµ ÁÙ°í ¾Æ·§¹èµµ ¾ÆÇÂµ¥, ¹¹ ¹¬°í ³ª¸é ¾ÆÇÁ´Ù Ä°´Ï´õ. ¿ÀÁÜ ´©´Â µ¥´Â ÀÌ»ó ¾ø´Âµð ¼³»ç´Â ´õ ÀÚÁÖ ÇÕ´Ï´õ.",È¯ÀÚ´Â Ãµ½ÄÀÌ ÀÖ½Ê´Ï´õ.
+,"±× ¿©ÀÚºÐÀº ·¹º¸ÇÃ·Ï»ç½ÅÀ» 6ÀÏ°£ ¹¬¾ú°í, Áö±ÝÀº ½ºÅ×·ÎÀÌµå¸¦ ÁÙ¿©°¡¸é¼­ ¹¬°í ÀÖ½Ê´Ï´õ; ³»ÀÏÀÌ ¸¶Áö¸· ³¯ÀÔ´Ï´õ.",È¯ÀÚºÐÀº Ç×»ýÁ¦¸¦ ¹¬°í ÀÖ¾ú½Ê´Ï´õ.
+,"±× ¿©ÀÚºÐÀº ·¹º¸ÇÃ·Ï»ç½ÅÀ» 6ÀÏ°£ ¹¬¾ú°í, Áö±ÝÀº ½ºÅ×·ÎÀÌµå¸¦ ÁÙ¿©°¡¸é¼­ ¹¬°í ÀÖ½Ê´Ï´õ; ³»ÀÏÀÌ ¸¶Áö¸· ³¯ÀÔ´Ï´õ.",È¯ÀÚºÐÀº Ç×»ýÁ¦ ¾È ¹¬¾ú½Ê´Ï´õ.
+,"±× ¿©ÀÚºÐÀº ·¹º¸ÇÃ·Ï»ç½ÅÀ» 6ÀÏ°£ ¹¬¾ú°í, Áö±ÝÀº ½ºÅ×·ÎÀÌµå¸¦ ÁÙ¿©°¡¸é¼­ ¹¬°í ÀÖ½Ê´Ï´õ; ³»ÀÏÀÌ ¸¶Áö¸· ³¯ÀÔ´Ï´õ.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÇÏ°í Æó·ÅÀÌ ÀÖ½Ê´Ï´õ.
+,±×³à´Â ºÐ¸¸ ÁøÇàÀ» À§ÇØ Á¦¿ÕÀý°³ ¼ö¼ú·Î ÀÌ¼ÛµÇ¾ú½À´Ï´Ù.,È¯ÀÚ´Â Áú °æÀ¯ ºÐ¸¸À» ÇÒ ¼ö ¾ø¾ú½À´Ï´Ù.
+,±×³à´Â ºÐ¸¸ ÁøÇàÀ» À§ÇØ Á¦¿ÕÀý°³ ¼ö¼ú·Î ÀÌ¼ÛµÇ¾ú½À´Ï´Ù.,È¯ÀÚ´Â Áú °æÀ¯·Î ºÐ¸¸ÇÏ¿´½À´Ï´Ù.
+,±×³à´Â ºÐ¸¸ ÁøÇàÀ» À§ÇØ Á¦¿ÕÀý°³ ¼ö¼ú·Î ÀÌ¼ÛµÇ¾ú½À´Ï´Ù.,È¯ÀÚ´Â ÅÂ¾ÆÀÇ ¹ß´Þ ±â°£¿¡ ºñÇØ Å« ¾Æ±â¸¦ °¡Áö°í ÀÖ½À´Ï´Ù.
+,"±×³à´Â ±× ÈÄ¿¡ ÀÀ´äÇÏÁö ¾Ê°Ô µÇ¾ú°í, Áý¾ÈÀ» ¸ñÀû ¾øÀÌ µ¹¾Æ´Ù´Ï¸ç ´Ù½Ã Àá¿¡ µé¾ú½À´Ï´Ù.",È¯ÀÚ´Â ½Å°æ½É¸®ÇÐÀû ÁúÈ¯À» °¡Áö°í ÀÖ½À´Ï´Ù.
+,"±×³à´Â ±× ÈÄ¿¡ ¹ÝÀÀÀÌ ¾ø¾îÁö¸ç, Áý¾ÈÀ» ¸ñÀû ¾øÀÌ °É¾î´Ù´Ï¸ç ´Ù½Ã Àá¿¡ µé¾ú½À´Ï´Ù.",È¯ÀÚÀÇ Á¤½Å »óÅÂ´Â Á¤»óÀÔ´Ï´Ù.
+,"±×³à´Â ±× ÈÄ¿¡ ¹«¹ÝÀÀ »óÅÂ°¡ µÇ¾ú°í, Áý ¾ÈÀ» ¸ñÀû ¾øÀÌ °È´Ù°¡ ´Ù½Ã Àá¿¡ µé¾ú½À´Ï´Ù.",È¯ÀÚ´Â ¼¶¸Á »óÅÂ¿¡ ÀÖ½À´Ï´Ù.
+,"È¸Çâ °£ ¹ÝÀÀ, ´ã³¶°üÀº Á¤»ó ¹üÀ§ ³»¿¡ ÀÖ½À´Ï´Ù.",È¯ÀÚ´Â ºñÁ¤»óÀûÀÎ °£ ±â´ÉÀ» °¡Áö°í ÀÖ½À´Ï´Ù.
+,"È£µÎ °£ ¹ÝÀÀ, ´ã³¶°üÀº Á¤»ó ¹üÀ§ ³»¿¡ ÀÖ½À´Ï´Ù.",È¯ÀÚÀÇ °£ È¿¼Ò ¼öÄ¡´Â Á¤»óÀÔ´Ï´Ù.
+,"È£ÇÇ°£ ¹ÝÀÀ, ´ã³¶°üÀº Á¤»ó ¹üÀ§ ³»¿¡ ÀÖ½À´Ï´Ù.",È¯ÀÚ´Â ºÎµå-Å°¾Æ¸® ÁõÈÄ±ºÀ» ¾Î°í ÀÖ½À´Ï´Ù.
+,"ÀÌ ½ÖµÕÀÌ´Â ÀÚ¹ßÀûÀÎ ¿ïÀ½¼Ò¸®¸¦ ³»¸ç ÅÂ¾î³µ°í, ¼ö¼ú½Ç¿¡¼­´Â ÀÏ¹ÝÀûÀÎ °ü¸®¿Í ºÒ¾î³Ö´Â »ê¼Ò¸¸ÀÌ ÇÊ¿äÇß½À´Ï´Ù.",ÀÌ ½ÖµÕÀÌ´Â ¼ö¼ú½Ç¿¡¼­ Ç¥ÁØ Ä¡·á¸¦ ¹Þ¾Ò½À´Ï´Ù.
+,"ÀÌ ½ÖµÕÀÌ´Â ÀÚ¿¬½º·´°Ô ¿ïÀ½¼Ò¸®¸¦ ³»¸ç ÅÂ¾î³µ°í, ¼ö¼ú½Ç¿¡¼­´Â ÀÏ¹ÝÀûÀÎ °ü¸®¿Í ºí·Î¿ì¹ÙÀÌ »ê¼Ò¸¸ÀÌ ÇÊ¿äÇß½À´Ï´Ù.",ÀÌ ½ÖµÕÀÌ´Â ¼Ò»ý¼úÀÌ ÇÊ¿äÇß½À´Ï´Ù.
+,"ÀÌ ½ÖµÕÀÌ´Â ÀÚ¹ßÀûÀ¸·Î ¿ïÀ½À» ÅÍ¶ß¸®¸ç, ¼ö¼ú½Ç¿¡¼­ ÀÏ¹ÝÀûÀÎ °ü¸®¿Í ºí·Î¿ì¹ÙÀÌ »ê¼Ò¸¸ÀÌ ÇÊ¿äÇß½À´Ï´Ù.",ÀÌ°ÍÀº Á¤»óÀûÀÎ Ãâ»ê±â°£¿¡ ÅÂ¾î³­ Ãâ»êÀÌ¾ú½À´Ï´Ù.
+,"Áý¿¡¼­ ¹ßÀÛÀ» °ÞÀº ÈÄ, È¯ÀÚ´Â ÈïºÐÇÏ°í È¥¶õ½º·¯¿öÇÏ¸ç, ³²Æí¿¡ µû¸£¸é ÀÇ¹Ì ¾ø´Â ¿òÁ÷ÀÓ°ú ¸»¸¸À» ÇÏ°í ÀÖ¾ú½À´Ï´Ù.",È¯ÀÚ´Â ³úÁ¹ÁßÀÇ Áõ»óÀ» º¸ÀÌ°í ÀÖ½À´Ï´Ù.
+,"Áý¿¡¼­ ¹ßÀÛÀ» °ÞÀº ÈÄ, È¯ÀÚ´Â ÈïºÐ »óÅÂ¿¡ ºüÁ® È¥¶õ½º·¯¿öÇÏ¸ç, ³²Æí¿¡ µû¸£¸é ÀÇ¹Ì ¾ø´Â ¿òÁ÷ÀÓ°ú ¸»¸¸À» ÇÏ°í ÀÖ¾ú½À´Ï´Ù.",È¯ÀÚÀÇ MMSE °á°ú´Â Á¤»óÀÔ´Ï´Ù.
+,"Áý¿¡¼­ ¹ßÀÛ ÀÌÈÄ, È¯ÀÚ´Â ÈïºÐ »óÅÂ¿¡ ºüÁ® È¥¶õ½º·¯¿öÇÏ¸ç, ³²Æí¿¡ µû¸£¸é ÀÇ¹Ì ¾ø´Â ¿òÁ÷ÀÓ°ú ¸»¸¸À» ÇÏ°í ÀÖ¾ú½À´Ï´Ù.",È¯ÀÚ´Â ÀÏ°ú¼º ³úÇãÇ÷¹ßÀÛ(TIA)À» °Þ¾ú½À´Ï´Ù.
+,"±×³àÀÇ Æ®¸®°Å ¿äÀÎÀº ´ÙÀ½°ú °°½À´Ï´Ù: ÃßÀ§, »ó±âµµ °¨¿°, Á¤½ÅÀû ½ºÆ®·¹½º, °í¾çÀÌ, ²É°¡·ç, ²É, Çâ¼ö, ±×¸®°í ¾Æ¸¶µµ ¿îµ¿ÀÔ´Ï´Ù.",È¯ÀÚ´Â ´Ù¾çÇÑ ¾Ë·¹¸£°Õ¿¡ ÀÇÇØ À¯¹ßµÇ´Â »óÅÂ¸¦ °¡Áö°í ÀÖ½À´Ï´Ù.
+,"±×³àÀÇ Æ®¸®°Å ¿äÀÎÀº ´ÙÀ½°ú °°½À´Ï´Ù: ÃßÀ§, »ó±âµµ °¨¿°, Á¤½ÅÀû ½ºÆ®·¹½º, °í¾çÀÌ, ²É°¡·ç, ²É, Çâ¼ö, ±×¸®°í ¾Æ¸¶µµ ¿îµ¿.",È¯ÀÚ´Â ÇØ´ç Áõ»óÀÌ ¾ø½À´Ï´Ù.
+,"±×³àÀÇ Æ®¸®°Å ¿äÀÎµéÀº ´ÙÀ½°ú °°½À´Ï´Ù: ÃßÀ§, »ó±âµµ °¨¿°, Á¤½ÅÀû ½ºÆ®·¹½º, °í¾çÀÌ, ²É°¡·ç, ²É, Çâ¼ö, ±×¸®°í ¾Æ¸¶µµ ¿îµ¿ÀÔ´Ï´Ù.",È¯ÀÚ´Â ´Ù¾çÇÑ ¿äÀÎ¿¡ ÀÇÇØ ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÇ ¾ÇÈ­°¡ À¯¹ßµÇ¾ú½À´Ï´Ù.
+,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â 80¼¼ ³²¼ºÀ¸·Î, °ú°Å¿¡ ³ú°æ»öÀ¸·Î ÀÎÇÑ ³ú°æ»ö ÈÄÀ¯Áõ°ú ¿À¸¥ÂÊ ¹Ý½Å¸¶ºñ, °íÇ÷¾Ð, ½É¹æ¼¼µ¿(¿öÆÄ¸° º¹¿ë Áß, INRÀº 2.5)À» ¾Î¾Ò½À´Ï´Ù. [**3193-2-22**]¿¡ ¿À¸¥ÂÊ ½ÅÃ¼ÀÇ Èû ³ëµ¿ÀÌ Á¡Á¡ ¾ÇÈ­µÇ¾î º´¿ø¿¡ ³»¿øÇÏ¿´½À´Ï´Ù.",½ÉÀå ºÒ±ÔÄ¢ ÁøÇà·Â ÀÌ·Â
+,"ÇöÀç ÁúÈ¯ÀÇ °ú°Å·Â: ÀÌ È¯ÀÚ´Â 80¼¼ ³²¼ºÀ¸·Î, °ú°Å¿¡ ³ú°æ»öÀ¸·Î ÀÎÇÑ ³ú°æ»ö ÈÄÀ¯Áõ°ú ¿À¸¥ÂÊ ¹Ý½Å¸¶ºñ, °íÇ÷¾Ð, ½É¹æ¼¼µ¿(¿öÆÄ¸° º¹¿ëÀ¸·Î INR 2.5)À» ¾Î¾Ò½À´Ï´Ù. [**3193-2-22**]¿¡ ¿À¸¥ÂÊ ½ÅÃ¼ ¾àÈ­ Áõ»óÀÌ Á¡Á¡ ½ÉÇØÁ® º´¿ø¿¡ ³»¿øÇÏ¿´½À´Ï´Ù.",½Å°æÇÐÀû Áõ»óÀÌ ¾øÀ½
+,"ÇöÀç ÁúÈ¯ °ú°Å·Â: ÀÌ È¯ÀÚ´Â ¿©µç »ì ³²ÀÚ·Î, ¿¾³¯¿¡ ÇãÇ÷¼º ³ú°æ»öÀ» ¾Î¾Ò°í, ¿À¸¥ÂÊ ¹Ý¸¶ºñ°¡ ÂÍ ³²¾ÆÀÖ°í, °íÇ÷¾ÐÀÌ¶û ½É¹æ¼¼µ¿(¿ÍÆÄ¸° ¹¬°í ÀÖ°í, INRÀº 2.5)ÀÌ ÀÖ½É´õ. [**3193-2-22**]¿¡ ¿À¸¥ÂÊ ÈûÀÌ ÀÚ²Ù ºüÁ®°¡ º´¿ø¿¡ ¿Ô½É´õ.",°íÇ÷¾Ð ¾ÎÀº Àû ÀÖÀ½.
+,¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD): ÇÏ·ç¿¡ ÇÑ °©¾¿ 40³âÀ» Æñ½É´õ.,È¯ÀÚ´Â 40°©³â ´ã¹è ÇÉ ÀÌ·ÂÀÌ ÀÖ½É´õ.
+,¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD): ÇÏ·ç ÇÑ °© / 40³â°£.,È¯ÀÚ Æó´Â Á¤»óÀÓ´õ.
+,¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD): ÇÏ·ç ÇÑ °© / 40³â°£.,È¯ÀÚ´Â Æó±âÁ¾À» ¾Î°í ÀÖ½É´õ.
+,[**¼º (¹Ì»ó) 3644**] ÁõÈÄ±º: [**6-30**]ÀÏ¿¡ ±× ¿©ÀÚ´Â Æ©ºê·Î ¹ä ¸ßÀÏ ¶§ °¡²û ÅäÇÏ¸é¼­ ¹è°¡ ºÒ·¯¿À°í ºÒÆíÇÑ °Ô ´õ ½ÉÇØÁ³½É´õ.,È¯ÀÚ´Â ¿µ¾çºÐÀ» ¼ÒÈ­±â¸¦ ÅëÇØ ¹¬°í ÀÖ½É´õ.
+,[**¼º (¹Ì»ó) 3644**] ÁõÈÄ±º: [**6-30**]¿¡ ±× ¿©ÀÚ´Â Æ©ºê·Î ¹ä ¸ßÀÏ ¶§ °¡²û ÅäÇÏ¸é¼­ ¹è ºÎ¸£°í ºÒÆíÇÑ °Ô ´õ ½ÉÇØÁ³½É´õ.,È¯ÀÚ´Â Áö°¡ Á÷Á¢ ¹¬¾î¼­ ¿µ¾ç º¸ÃæÀ» Çß½É´õ.
+,"[**¼º (¹Ì»ó) 3644**] ÁõÈÄ±º: [**6-30**]¿¡ ±× ¿©ÀÚ´Â ¹è°¡ ´õ ºÒ·¯¿À°í ºÒÆíÇØÇÏ¸é¼­, Æ©ºê·Î ¹ä ¸ßÀÏ ¶§ °¡²û ÅäÇÏ°Ô µÆ½É´õ.",È¯ÀÚ »óÅÂ°¡ ¾ï¼ö·Î ¾È ÁÁ¾ÆÁ³½É´õ.
+,±× ³²ÀÚ´Â ¼ö¼ú Àü¿¡ °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¹ÞÀ»¶ó°í º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
+,±× ³²ÀÚ´Â ¼ö¼ú Àü¿¡ °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¹ÞÀ»¶ó°í º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÓ´õ.
+,±× ³²ÀÚ´Â ¼ö¼ú Àü¿¡ °ü»óµ¿¸Æ ¿ìÈ¸¼ú ¹ÞÀ»¶ó°í º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ´Â STEMI(±Þ¼º ST »ó½Â ½É±Ù°æ»ö)¸¦ °Þ¾ú½É´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 40312**]Àº ´ç´¢º´(DM), ¸»±â ½ÅºÎÀü(ESRD)À¸·Î Åõ¼®(HD) ÁßÀÌ°í, [**Hospital1 577**]¿¡¼­ [**12-24**]°³¿ù Àü¿¡ Æó»öÀüÁõ(PE)À» °ÞÀº ½º¹°´Ù¼¸ »ì ³²ÀÚÀÓ´õ. ÀÌ È¯ÀÚ´Â Á¤±â °Ë»ç¿¡¼­ °íÄ®·ýÇ÷Áõ(hyperkalemia)ÀÌ ³ª¿Í°¡ º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.",È¯ÀÚ ½ÅÀåÀº ¸ö¼Ó Ä®·ý ¼öÄ¡¸¦ Á¶ÀýÇÏ´Â µ¥ ¾Ö¸¦ ¹¬°í ÀÖ½É´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 40312**]Àº ´ç´¢º´, ¸»±â ½ÅºÎÀüÁõÀ¸·Î Åõ¼® ÁßÀÌ°í, [**Hospital1 577**]¿¡¼­ [**12-24**]°³¿ù Àü¿¡ Æó»öÀüÁõÀ» °ÞÀº ½º¹°´Ù¼¸ »ì ³²ÀÚÀÓ´õ. ÃÖ±Ù¿¡ Á¤±â °Ë»ç¿¡¼­ °íÄ®·ýÇ÷ÁõÀÌ ³ª¿Í°¡ ÀÔ¿øÇÏ°Ô µÆ½É´õ.",È¯ÀÚ ½ÅÀåÀº Á¤»óÀÓ´õ.
+,"[**È¯ÀÚ ¼º 40312**]Àº ´ç´¢º´(DM), ¸»±â ½ÅºÎÀüÁõ(ESRD)À¸·Î Åõ¼®(HD)À» ¹Þ°í ÀÖ°í, [**Hospital1 577**]¿¡¼­ [**12-24**]°³¿ù Àü¿¡ Æó»öÀüÁõ(PE)À» °Þ¾ú´ø ½º¹°´Ù¼¸ »ì ³²ÀÚÀÓ´õ. ÀÌ È¯ÀÚ´Â Á¤±â °Ë»ç¿¡¼­ °íÄ®·ýÇ÷Áõ(hyperkalemia)ÀÌ ³ª¿Í°¡ º´¿øÀ¸·Î º¸³»Á³½É´õ.",È¯ÀÚ°¡ ¸î ¹øÀÌ³ª Åõ¼® Ä¡·á¸¦ »©¹¬¾ú½É´õ.
+,PDA¶û ÈÄ¿ÜÃø Ç÷°ü¿¡´Â ½ÃÀÛ ÁöÁ¡¿¡ 90% º´º¯ÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â ´ÙÁßÇ÷°ü ÁúÈ¯ÀÌ ÀÖ½É´õ.
+,PDA¶û ÈÄ¿ÜÃø Ç÷°ü¿¡´Â ½ÃÀÛ ÁöÁ¡¿¡ 90% º´º¯ÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ¾ø½É´õ.
+,PDA¶û ÈÄ¿ÜÃø Ç÷°ü¿¡´Â ½ÃÀÛ ÁöÁ¡¿¡ 90% º´º¯ÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â CABG(½ÉÀåµ¿¸Æ¿ìÈ¸¼ú)°¡ ÇÊ¿äÇÒ ¼öµµ ÀÖ½É´õ.
+,"EKG¿¡¼­´Â ¾Æ·§ÂÊ¿¡¼­ ST »ó½ÂÀÌ º¸¿´°í, ÇÙ½É MIBI´Â ¿·ÂÊ º®¿¡ °áÇÔÀÌ º¸¿´½É´õ.",È¯ÀÚ´Â ±Þ¼º STEMI¸¦ ¾Î°í ÀÖ½É´õ.
+,"EKG °á°ú¿¡¼­ ¾Æ·§ÂÊ ST »ó½ÂÀÌ º¸¿´°í, ÇÙ½É MIBI °Ë»ç¿¡¼­´Â ¿·ÂÊ º®¿¡ °á¼ÕÀÌ ³ªÅ¸³µ½É´õ.",È¯ÀÚ ½ÉÀåÀº Á¤»óÀÓ´õ.
+,"EKG´Â ¾Æ·§ÂÊ¿¡¼­ ST »ó½ÂÀÌ º¸¿´°í, ÇÙ½É MIBI´Â ¿·ÂÊ º®¿¡ °áÇÔÀ» º¸¿´½É´õ.",È¯ÀÚ´Â °æÇÇÀû °³ÀÔ¼úÀ» ¹Þ¾Ò½É´õ.
+,"º´·Â: ¿©·¯ ±ºµ¥ [** À§Ä¡ **] ÁÖ»ç ¸ÂÀº µÚ Â÷ »ç°í ¶«¿¡ ¾î±ú ¾ÆÇÂ °Å, ¾î±ú ´ÙÄ£ °Å Æò°¡.",Â÷ »ç°í ³ª°í ¾î±ú ¾ÆÇÄ.
+,"º´·Â: ¿©·¯ ±ºµ¥ µéÀÌ¹ÚÀº Â÷ »ç°í ¶«¿¡ ¾î±ú ¾ÆÆÄ°¡, ¾î±ú ´ÙÄ£ °Å Æò°¡.",È¯ÀÚ´Â ¾È ¾ÆÇÁ´Ù Ä­´Ù.
+,"º´·Â: ¿© ±ºµ¥ µéÀÌ¹ÞÈ÷´Â Â÷ »ç°í ³ª°í ¾î±ú°¡ ¾ÆÆÄ°¡, ¾î±ú ´ÙÄ£ °Å Æò°¡ÇÒ¶ó ÇÔ.",È¯ÀÚ´Â »À°¡ ºÎ·¯Á³´Ù.
+,"[**3311-12-15**]¿¡ ÂïÀº ÄÄÇ»ÅÍ ´ÜÃþ ÃÔ¿µ(CT) °á°ú, 6¼¾Ä¡ Å©±â·Î °øµ¿ÀÌ »ý±ä ¿ÞÂÊ À§ÂÊ Æó Á¾±«°¡ È®ÀÎµÆ°í, ¿À¸¥ÂÊ Èú¶ó¸£ ¸²ÇÁÀýµµ ¹®Á¦ ÀÖ´Â °Å ¾Æ´Ñ°¡ Ä­´Ù.",È¯ÀÚ´Â Æó¿¡ È¤ÀÌ ÀÖ´Ù.
+,"[**3311-12-15**]¿¡ ÂïÀº ÄÄÇ»ÅÍ ´ÜÃþ ÃÔ¿µ(CT) °á°ú, 6¼¾Ä¡ °øµ¿ÀÌ ÀÖ´Â ¿ÞÂÊ À§ÂÊ Æó Á¾¾çÀÌ È®ÀÎµÆ°í, ¿À¸¥ÂÊ Èú¶ó¸£ ¸²ÇÁÀýµµ ¹®Á¦ ÀÖ´Â °Å ¾Æ´Ñ°¡ Ä­´Ù.",È¯ÀÚ °¡½¿ÆÅ CT °á°ú´Â Á¤»óÀÌ´Ù.
+,"[**3311-12-15**]¿¡ ÂïÀº ÄÄÇ»ÅÍ ´ÜÃþ ÃÔ¿µ(CT) °á°ú, 6¼¾Ä¡ Å©±â·Î °øµ¿ÀÌ »ý±ä ¿ÞÂÊ À§ÂÊ Æó Á¾¾çÀÌ È®ÀÎµÆ°í, ¿À¸¥ÂÊ ±â°üÁö Èú¶ó ºÎÀ§ ¸²ÇÁÀýµµ ¹®Á¦ ÀÖ´Â °Å ¾Æ´Ñ°¡ Ä­´Ù.",È¯ÀÚ´Â ÆíÆò¼¼Æ÷¾ÏÀÌ´Ù.
+,Àü¿¡ º°·Î ¾ÆÇÂ Àû ¾ø´Â ¿¹¼ø »ì ÈæÀÎ ¿©ÀÚ°¡ [**9-6**] Àú³á¿¡ ¿­³ª°í ±â¿î ¾ø°í ÅäÇÏ°í ¼³»çÇÏ°í ¹è ¾ÆÇÂ °Ô ÀÌÆ² µÆ´Ù°í Çß´Ù.,±× »ç¶÷Àº À§Àå ÂÊÀ¸·Î Áõ¼¼°¡ ÀÖ´Ù.
+,Àü¿¡ º°·Î ¾ÆÇÂ Àû ¾ø´Â ¿¹¼ø »ì ÈæÀÎ ¿©ÀÚ°¡ [**9-6**] Àú³á¿¡ ¿­³ª°í ±â¿î ¾ø°í ÅäÇÏ°í ¼³»çÇÏ°í ¹è ¾ÆÇÂ Áõ¼¼°¡ ÀÌÆ²Â°¶ó°í Çß´Ù.,À§Àå ±â´É Á¤»ó.
+,Àü¿¡ º°·Î ¾ÆÇÂ Àû ¾ø´Â ¿¹¼ø »ì ÈæÀÎ ¿©ÀÚ°¡ [**9-6**] Àú³á¿¡ ¿­³ª°í ±â¿î ¾ø°í ÅäÇÏ°í ¼³»çÇÏ°í ¹è ¾ÆÇÂ Áõ¼¼°¡ ÀÌÆ²Â°¶ó°í Çß´Ù.,±×´Â ½ÄÁßµ¶¿¡ °É›´Ù.
+,±× ´ã ½º¹°³× ½Ã°£ µ¿¾È ±× ¿©ÀÚ´Â ³¿»õ °í¾àÇÑ Áú ºÐºñ¹°ÀÌ ³ª¿À°í ÀÚ±Ãµµ ¾ÆÆÍ´Ù.,È¯ÀÚ´Â ÀÚ±Ã³»¸·¿°À» ¾Î°í ÀÖ´Ù.
+,±× ´ã ½º¹°³× ½Ã°£ µ¿¾È ±× ¿©ÀÚ´Â ³¿»õ °í¾àÇÑ Áú ºÐºñ¹°ÀÌ ³ª¿À°í ÀÚ±Ãµµ ¾ÆÆÍ´Ù.,È¯ÀÚ´Â °¨¿° ¾È µÆ´Ù.
+,"±× ´ã ½º¹°³× ½Ã°£ µ¿¾È, ±× ¿©ÀÚ´Â ³¿»õ °í¾àÇÑ Áú ºÐºñ¹°ÀÌ ³ª¿À°í ÀÚ±Ãµµ ¾ÆÆÍ´Ù.",È¯ÀÚ°¡ ÃÖ±Ù¿¡ ¾Æ¸¦ ³º¾Ò´Ù.
+,"ÄÝ¸®, ¿ä»õ NSTEMI(ºñ ST »ó½Â ½É±Ù°æ»ö)·Î ÀÔ¿øÇß´ø È¯ÀÚ(2¿ù 8ÀÏ-9ÀÏ/[**2661**]), Æò¼Ò¿¡´Â °Ç°­Çß´Âµ¥ ¿À´Ã ¾ÆÄ§ 7½Ã¿¡ ¿ä¾ç¿ø([**Hospital3 2091**])¿¡¼­ ÀÇ½ÄÀÌ ¾ø´Â Ã¤·Î ¹ß°ßµÆ´Ù.",½É±Ù°æ»ö º´·Â ÀÖÀ½.
+,"ÄÝ¸®, ¿ä»õ NSTEMI(ºñ ST »ó½Â ½É±Ù°æ»ö)·Î ÀÔ¿øÇß´ø È¯ÀÚ(2/8-9/[**2661**]), ¾ÆÄ§ 7½Ã¿¡ ¿ä¾ç¿ø([**Hospital3 2091**])¿¡¼­ °£È£»ç°¡ º¸´Ï Æò¼Ò¶û ´Ù¸£°Ô ÀÇ½ÄÀÌ ¾ø´Â »óÅÂ·Î ¹ß°ßµÆ´Ù.",±× ¿©ÀÚ´Â ½ÉÀåº´ ¾ÎÀº Àû ¾ø´Ù.
+,"ÄÝ¸®, ¿ä»õ NSTEMI(ºñ ST »ó½Â ½É±Ù°æ»ö)·Î ÀÔ¿øÇß´ø È¯ÀÚ(2¿ù 8ÀÏ-9ÀÏ/[**2661**])´Â Æò¼ÒÃ³·³ °Ç°­Çß´Âµ¥ ¿À´Ã ¾ÆÄ§ ÀÇ½Ä ¾ø´Â »óÅÂ·Î ¹ß°ßµÆ´Ù. ÀÌ È¯ÀÚ´Â ¾ÆÄ§ 7½Ã¿¡ °£È£»ç°¡ ÀÖ´Â º´¿ø([**Hospital3 2091**])¿¡¼­ ¹ß°ßµÆ´Ù.",±× ¿©ÀÚ´Â ½ÉÀå¸¶ºñ°¡ ¿Ô´Ù.
+,"¹éÇ÷±¸ 21.7, Çì¸¶ÅäÅ©¸´ 42.4, Ç÷¼ÒÆÇ 493, Áß¼º±¸ 88, ¶ìÇü ¼¼Æ÷ 1.",È¯ÀÚ´Â ¹éÇ÷±¸ ¼öÄ¡°¡ ³ô´Ù.
+,"¹éÇ÷±¸ 21.7, Çì¸¶ÅäÅ©¸´ 42.4, Ç÷¼ÒÆÇ 493, Áß¼º±¸ 88, ¶ìÇü ¼¼Æ÷ 1.",È¯ÀÚ ¹éÇ÷±¸ ¼öÄ¡´Â Á¤»ó ¹üÀ§´Ù.
+,"¹éÇ÷±¸ ¼öÄ¡ 21.7, Çì¸¶ÅäÅ©¸´ ¼öÄ¡ 42.4, Ç÷¼ÒÆÇ ¼öÄ¡ 493, Áß¼º±¸ ºñÀ² 88, ¶ì ¸ð¾ç ¼¼Æ÷ ¼öÄ¡ 1.",È¯ÀÚ´Â ¹ÚÅ×¸®¾ÆÇ÷ÁõÀÌ ÀÖ´Ù.
+,"È¯ÀÚ´Â µý º´¿øÀ¸·Î ¿Å°ÜÁ³°í, ½ÉÀüµµ °Ë»ç¿¡¼­ »õ·Î¿î ³ÐÀº ÁÂÃø ¹øµéÆÄ Â÷´Ü ÇüÅÂ¸¦ º¸¿´´Ù.",È¯ÀÚ´Â ±Þ¼º ½É±Ù°æ»öÁõÀÌ¶û ÀÏÄ¡ÇÏ´Â ½ÉÀüµµ º¯È­¸¦ º¸ÀÌ°í ÀÖ´Ù.
+,"È¯ÀÚ´Â µý º´¿øÀ¸·Î ¿Å°ÜÁ³°í, ½ÉÀüµµ °Ë»ç¿¡¼­ »õ·Î¿î ¿ÞÂÊ ¹øµéÆÄ Â÷´Ü ÇüÅÂ¸¦ º¸ÀÌ´Â °É È®ÀÎÇß´Ù.",È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÌ´Ù.
+,"È¯ÀÚ´Â µý º´¿øÀ¸·Î ¿Å°ÜÁ³°í, °Å±â¼­ ÇÑ ½ÉÀüµµ °Ë»ç¿¡¼­ »õ·Î¿î ¿ÞÂÊ ¹øµéÆÄÂ÷´Ü ÇüÅÂ¸¦ º¸ÀÌ´Â °É È®ÀÎÇß´Ù.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ º´·ÂÀÌ ÀÖ´Ù.
+,±× »ç¶÷Àº 3ÁÖ µÚ¿¡ [**º´¿ø 8682**] Å¬¸®´ÐÀ¸·Î µ¹¾Æ¿Í°¡ Ç×»ýÁ¦¸¦ Ã³¹æ¹Þ¾Ò½É´õ.,È¯ÀÚÇÑÅ× °¨¿°ÀÌ »ý°å½É´õ.
+,±× »ç¶÷Àº 3ÁÖ µÚ¿¡ [**º´¿ø 8682**] Å¬¸®´ÐÀ¸·Î µ¹¾Æ¿Í°¡ Ç×»ýÁ¦¸¦ Ã³¹æ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â °¨¿° ¾È µÆ½É´õ.
+,±× »ç¶÷Àº 3ÁÖ µÚ¿¡ [**º´¿ø 8682**] Å¬¸®´ÐÀ¸·Î µ¹¾Æ¿Í°¡ Ç×»ýÁ¦¸¦ Ã³¹æ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â ¼¿·ê¶óÀÌÆ¼½º¸¦ ¾Î°í ÀÖ½É´õ.
+,"- ½ÉºÎÀü, ´ëµ¿¸Æ ÇùÂøÁõ, ½Â¸ðÆÇ ¿ª·ùÁõ - °íÇ÷¾Ð - 2Çü ´ç´¢º´ - Ã¶ °áÇÌ¼º ºóÇ÷ - Ç÷°ü ±âÇü º´·Â - °üÀý º¯¼º ÁúÈ¯ - ÀÎ°ø °í°üÀý Ä¡È¯¼ú ÈÄ - ¼Õ¸ñÅÍ³ÎÁõÈÄ±º ¼ö¼ú ÈÄ - Ãæ¼öÀýÁ¦¼ú ÈÄ - ÀÚ±ÃÁ¦°Å¼ú ÈÄ",È¯ÀÚ´Â ¿©·¯ ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
+,"- ½ÉºÎÀü, ´ëµ¿¸Æ ÇùÂøÁõ, ½Â¸ðÆÇ ¿ª·ùÁõ - °íÇ÷¾Ð - 2Çü ´ç´¢º´ - Ã¶°áÇÌ¼º ºóÇ÷ - AVMsÀÇ °ú°Å·Â - °üÀý º¯¼º ÁúÈ¯ - ÀÎ°ø °í°üÀý Ä¡È¯¼ú ÈÄ - ¼Õ¸ñÅÍ³Î ¼ö¼ú ÈÄ - Ãæ¼öÁ¦°Å¼ú ÈÄ - ÀÚ±ÃÁ¦°Å¼ú ÈÄ",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
+,"- ½ÉºÎÀü, ´ëµ¿¸Æ ÇùÂøÁõ, ½Â¸ðÆÇ ¿ª·ùÁõ - °íÇ÷¾Ð - 2Çü ´ç´¢º´ - Ã¶ °áÇÌ¼º ºóÇ÷ - Ç÷°ü ±âÇü º´·Â - °üÀý º¯¼º ÁúÈ¯ - ÀÎ°ø °ñ¹Ý Ä¡È¯ ¼ö¼ú ÈÄ - ¼Õ¸ñÅÍ³ÎÁõÈÄ±º ¼ö¼ú ÈÄ - Ãæ¼öÀýÁ¦¼ú ÈÄ - ÀÚ±Ã Á¦°Å ¼ö¼ú ÈÄ",È¯ÀÚ´Â ³ë¾àÀÚÀÔ´Ï´õ.
+,±× »ç¶÷Àº °¡½¿ ¾ÆÇÁ´Ü ¸»ÀÌ ¾ø½É´õ.,È¯ÀÚ´Â °¡½¿ ¾È ¾ÆÇÁ´ÙÄ¯´Ï´õ.
+,±× »ç¶÷Àº °¡½¿ ¾ÆÇÁ´Ü ¸»ÀÌ ¾ø½É´õ.,È¯ÀÚ°¡ °¡½¿ ¾ÆÇÁ´ÙÄ¯´Ï´õ.
+,±× »ç¶÷Àº °¡½¿ÀÌ ºÒÆíÇÏ´Ü ¼Ò¸®¸¦ ¾È Çß½É´õ.,È¯ÀÚ´Â ¼û ¾È Â÷´ÙÄ¯´Ï´õ.
+,±× ¿©ÀÚ´Â Àüº¸´Ù ¹è ¾ÆÇÂ ±â ³ª¾ÆÁ³´ÙÄº½É´õ.,È¯ÀÚ´Â ¹è°¡ ¾ÆÆÍ½É´õ.
+,±× ¿©ÀÚ´Â Àüº¸´Ù ¹è ¾ÆÇÂ ±â ³ª¾ÆÁ³´ÙÄº½É´õ.,È¯ÀÚ´Â ¹è ¾È ¾ÆÆÍ½É´õ.
+,±× ¿©ÀÚ´Â Àüº¸´Ù ¹è ¾ÆÇÂ ±â ³ª¾ÆÁ³´ÙÄº½É´õ.,È¯ÀÚÇÑÅ× ÁøÅëÁ¦°¡ Ã³¹æµÆ½É´õ.
+,"È¯ÀÚ°¡ º´µ¿¿¡ µµÂøÇßÀ» ¶§ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿ÂÀº 99.5µµ, Ç÷¾ÐÀº 129/74, ½É¹Ú¼ö´Â 112È¸, È£Èí¼ö´Â 16È¸, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 99%¿´½É´õ.",»ýÃ¼ ½ÅÈ£¿¡¼­ ½ÉÀåÀÌ »¡¸® ¶Ù´Â °É·Î ³ª¿Ô½É´õ.
+,"È¯ÀÚ°¡ º´µ¿¿¡ µµÂøÇßÀ» ¶§ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â - 99.5µµ, Ç÷¾Ð - 129/74, ½É¹Ú¼ö - 112, È£Èí¼ö - 16, RA¿¡¼­ »ê¼ÒÆ÷È­µµ - 99%¿´½É´õ.",»ýÃ¼ Â¡ÈÄ°¡ ºÒ¾ÈÁ¤Çß½É´õ.
+,"È¯ÀÚ°¡ º´µ¿¿¡ µµÂøÇßÀ» ¶§ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â - 99.5µµ, Ç÷¾Ð - 129/74, ½É¹Ú¼ö - 112, È£Èí¼ö - 16, RA »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ - 99%¿´½É´õ.",Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,Ã¹ ¹øÂ° ½ÉÀå È¿¼Ò °Ë»ç °á°ú´Â À½¼ºÀÌ¾ú½É´õ.,È¯ÀÚ´Â ±Þ¼º °ü»óµ¿¸Æ ÁõÈÄ±ºÀº ¾Æ´Ñ °É·Î º¸°í ÀÖ½É´õ.
+,Ã¹ ¹øÂ° ½ÉÀå È¿¼Ò °Ë»ç °á°ú´Â À½¼ºÀÌ¾ú½É´õ.,È¯ÀÚ´Â ½ÉÀå È¿¼Ò °Ë»ç¿¡¼­ ¾ç¼ºÀ¸·Î ³ª¿Ô½É´õ.
+,Ã¹ ¹øÂ° ½ÉÀå È¿¼Ò °Ë»ç °á°ú´Â À½¼ºÀÌ¾ú½É´õ.,È¯ÀÚ´Â ½É±Ù°æ»öÁõÀº ¾ÆÀÔ´Ï´õ.
+,"ÀÌ ¿À¸¥¼Õ¿¡ Èû ¾ø´Â Áõ»óÀº ¸çÄ¥ µ¿¾È ³ª¾ÆÁö´õ¸¸, Áö±ÝÀº 100% ´Ù ³ª¾Ò½É´õ.",È¯ÀÚ´Â ¿À¸¥ÂÊ ÆÈ¿¡ ÈûÀÌ ºüÁ³½É´õ.
+,"ÀÌ ¿À¸¥¼Õ¿¡ Èû ¾ø´Â °Å´Â ¸çÄ¥ µ¿¾È Â÷Ãû ³ª¾ÆÁö´õ¸¸, Áö±ÝÀº 100% È¸º¹µÆ½É´õ.",È¯ÀÚ´Â Èû ¾²´Â µ¥´Â ¹®Á¦°¡ ¾ø¾ú½É´õ.
+,"ÀÌ ¿À¸¥¼Õ¿¡ Èû ¾ø´Â °Å´Â ¸çÄ¥ µ¿¾È ±¦Âú¾ÆÁþ°í, ÀÎÀÚ´Â 100% ´Ù È¸º¹µÆ½É´õ.",È¯ÀÚ°¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
+,ÀÌ·¡°¡ ÇÇ°¡ °ÅÁø ¸Ü¾ú½É´õ.,È¯ÀÚºÐÀº ÇÇ°¡ ³ª°¡²¿ º´¿ø¿¡ ¿Ô½É´õ.
+,ÀÌ·¡°¡ ÇÇ°¡ °ÅÁø ¸Ü¾ú½É´õ.,ÇÇ°¡ ¾È ¸Ü°í ÀÖ½É´õ.
+,ÀÌ·¡°¡ ÇÇ°¡ °ÅÁø ¸Ü¾ú½É´õ.,È¯ÀÚºÐÀÌ ´Ù¯z½É´õ.
+,"Áý¿¡¼­ 2L »ê¼Ò Ä¡·á¹Þ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), Æó°íÇ÷¾Ð, Ãµ½Ä, ´ëµ¿¸Æ ÇùÂøÁõ, ¿ÞÂÊ ¹«¸­ ÀÎ°ø°üÀý ¼ö¼ú, ³ì³»Àå, ³úÁ¹Áß ÈÄ »óÅÂ, À§½Äµµ¿ª·ùÁúÈ¯(GERD), ºÒ¾ÈÀå¾Ö, Çì¸£´Ï¾Æ, ¿À¸¥ÂÊ °í°üÀý °ñÀý ¹× °íÄ£ ÀÌ·ÂÀÌ ÀÖ½É´õ.",È¯ÀÚºÐÀÌ ¼û½¬±â Èûµé¾î ÇÏ½É´õ.
+,"Áý¿¡¼­ 2¸®ÅÍ »ê¼Ò Ä¡·á¹Þ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), Æó°íÇ÷¾Ð(Pulm HTN), Ãµ½Ä(Asthma), ´ëµ¿¸Æ ÇùÂøÁõ(Aortic stenosis), ¿ÞÂÊ ¹«¸­ ÀÎ°ø°üÀý ¼ö¼ú(L TKR), ³ì³»Àå(glaucoma), ³úÁ¹Áß ÈÄ »óÅÂ(s/p cva), À§½Äµµ¿ª·ùÁúÈ¯(gerd), ºÒ¾ÈÀå¾Ö(anxiety), Çì¸£´Ï¾Æ(hernia), ¿À¸¥ÂÊ °í°üÀý °ñÀý ÈÄ ¼ö¼ú(R hip fx w/ repair)ÀÔ´Ï´õ.",È¯ÀÚºÐ ÀüÃ¼ÀûÀ¸·Î °Ë»çÇÑ °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"Áý¿¡¼­ 2L »ê¼Ò Ä¡·á¹Þ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), Æó°íÇ÷¾Ð, Ãµ½Ä, ´ëµ¿¸Æ ÇùÂøÁõ, ¿ÞÂÊ ¹«¸­ ÀÎ°ø°üÀý ¼ö¼ú, ³ì³»Àå, ³úÁ¹Áß ÈÄ »óÅÂ, À§½Äµµ¿ª·ùÁúÈ¯(GERD), ºÒ¾ÈÀå¾Ö, Çì¸£´Ï¾Æ, ¿À¸¥ÂÊ °í°üÀý °ñÀý ¹× ¼ö¸®",È¯ÀÚºÐÀº ¿À¸¥ÂÊ ½ÉÀå¿¡ ºÎÇÏ°¡ ÀÖ½É´õ.
+,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, Ä¡¸Å, ¿ì¿ïÁõ, ¼ºÀåºÎÁø, ÀÚ²Ù ³Ñ¾îÁü, Àü¸³¼±ºñ´ë, ¿ä/º¯ ºÒ continent",È¯ÀÚºÐÀº ½ÉÀå ºÎÁ¤¸ÆÀÌ ÀÖ½É´õ.
+,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, Ä¡¸Å, ¿ì¿ïÁõ, ¼ºÀåºÎÁø, ÀÚ²Ù ³Ñ¾îÁü, Àü¸³¼±ºñ´ë, ¿ä/º¯ ºÒ continent",È¯ÀÚºÐ Ã¼Áú·®Áö¼ö(BMI)´Â Á¤»ó ¹üÀ§ÀÔ´Ï´õ.
+,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, Ä¡¸Å, ¿ì¿ïÁõ, ¼ºÀåºÎÁø, ÀÚ²Ù ³Ñ¾îÁü, Àü¸³¼±ºñ´ë, ¿ä/º¯ ºÒ continent",È¯ÀÚºÐ Ç÷¾ÐÀÌ ¿Ã¶ó°¡°í ÀÖ½É´õ.
+,"±× ¿©ÀÚºÐ º´·ÂÀº ·çÇª½º °ü·Ã ½ÅºÎÀüÁõÀ¸·Î º¹ÀâÇÑµ¥, ½ÅÀå ÀÌ½ÄÀ» µÎ ¹ø ÇÑ µÚ¿¡ ÃÖ±Ù¿¡ ½ÅÀå ±â´ÉÀÌ ³ªºüÁö°¡ ÀÌ½Ä ½ÇÆÐ°¡ °ÆÁ¤µÆ¾ú½É´õ.",È¯ÀÚºÐÀº ÀÚ°¡¸é¿ªÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"±× ¿©ÀÚºÐ ÀÇ·á ÀÌ·ÂÀº ·çÇª½º °ü·Ã ½ÅºÎÀüÁõÀ¸·Î º¹ÀâÇØÁö´Âµ¥, ½ÅÀå ÀÌ½ÄÀ» µÎ ¹ø ÇÑ µÚ¿¡ ÃÖ±Ù¿¡ ½ÅÀå ±â´ÉÀÌ ³ªºüÁö°¡ ÀÌ½Ä ½ÇÆÐ°¡ °ÆÁ¤µË´Ï´õ.",È¯ÀÚºÐ ½ÅÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"±× ¿©ÀÚºÐ º´·ÂÀº ·çÇª½º °ü·Ã ½ÅºÎÀüÁõÀ¸·Î º¹ÀâÇÑµ¥, ½ÅÀå ÀÌ½ÄÀ» µÎ ¹ø ÇÑ µÚ¿¡ ÃÖ±Ù¿¡ ½ÅÀå ±â´ÉÀÌ ³ªºüÁö°¡ ÀÌ½Ä ½ÇÆÐ¸¦ °ÆÁ¤ÇÏ°í ÀÖ½É´õ.",È¯ÀÚºÐÀÌ ¸é¿ª¾ïÁ¦Á¦¸¦ ¹¬°í ÀÖ½É´õ.
+,±× ³²ÀÚ´Â ¿À¸¥ÂÊ °¡½¿ÀÌ ¾ÆÇÁ°í ¿ø·¡º¸´Ù Ç÷¾ÐÀÌ ´õ ¸¶ÀÌ ¶³¾îÁö°¡²¿ [**³¯Â¥ ¹üÀ§ (3) 29336**]¿¡ ´Ù½Ã ÀÔ¿øÇß½É´õ.,È¯ÀÚºÐÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä¯´õ.
+,±× ³²ÀÚ´Â ¿À¸¥ÂÊ °¡½¿ÀÌ ¾ÆÇÁ°í ¿ø·¡º¸´Ù Ç÷¾ÐÀÌ ´õ ¸¶ÀÌ ¶³¾îÁö°¡²¿ [**³¯Â¥ ¹üÀ§ (3) 29336**]¿¡ ´Ù½Ã ÀÔ¿øÇß½É´õ.,È¯ÀÚºÐÀº °¡½¿Àº ¾È ¾ÆÇÁ´Ù Ä¯´õ.
+,±× ³²ÀÚ´Â ¿À¸¥ÂÊ °¡½¿ÀÌ ¾ÆÇÁ°í ¿ø·¡º¸´Ù Ç÷¾ÐÀÌ ´õ ¸¶ÀÌ ¶³¾îÁö°¡²¿ [**³¯Â¥ ¹üÀ§ (3) 29336**]¿¡ ´Ù½Ã ÀÔ¿øÇß½É´õ.,È¯ÀÚºÐÀÌ ½É±Ù°æ»öÀÌ ¿Ô½É´õ.
+,"È¯ÀÚºÐÀº ´Ù¸¥ º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, ±× À§Àå°ü ÃâÇ÷ÀÌ ½Äµµ Á¤¸Æ·ù³ª À§±Ë¾ç ÁúÈ¯ ¶«ÀÎÁö´Â È®½ÇÇÏÁö ¾Ê½É´õ.",È¯ÀÚºÐÀº À§ÂÊ¿¡¼­ ÇÇ°¡ ³ª°í ÀÖ½É´õ.
+,"È¯ÀÚºÐÀº ´Ù¸¥ º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, ±× À§Àå°ü ÃâÇ÷ÀÌ ½Äµµ Á¤¸Æ·ù ¶«ÀÎÁö ¾Æ´Ô À§±Ë¾ç ÁúÈ¯ ¶«ÀÎÁö´Â È®½ÇÇÏÁö°¡ ¾Ê½É´õ.",È¯ÀÚºÐÀº ÇÇ ³ª´Â Áõ»óÀº ¾ø½É´õ.
+,"È¯ÀÚºÐÀº ´Ù¸¥ º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, ±× À§Àå°ü ÃâÇ÷ÀÌ ½Äµµ Á¤¸Æ·ùÀÎÁö À§±Ë¾ç ÁúÈ¯ ¶«ÀÎÁö´Â È®½ÇÇÏÁö°¡ ¾Ê½É´õ.",È¯ÀÚºÐÀº Á¤¸Æ·ù°¡ ÀÖ½É´õ.
+,"±× ¿©ÀÚºÐÀº ³×ºê¶û ¹¬´Â ÇÁ·¹µå´Ï¼ÕÀ¸·Î Ä¡·á¹Þ¾Ò´Âµ¥, °Ñº¸±â¿£ ±¦Âú¾Æ º¸¿´½É´õ.",±× ¿©ÀÚºÐÀº ½ºÅ×·ÎÀÌµå·Î Ä¡·á¹Þ¾Ò½É´õ.
+,"±× ¿©ÀÚ´Â ³×ºê¶û ¹¬´Â ÇÁ·¹µå´Ï¼ÕÀ¸·Î Ä¡·á¹Þ¾Ò°í, º¸±â¿¡µµ ¸ÖÂÄÇØ º¸¿´½É´õ.",±× ¿©ÀÚ´Â ¾Æ¹« Ä¡·áµµ ¾È ¹Þ¾Ò½É´õ.
+,"±× ¿©ÀÚ´Â ³×ºêÇÏ°í ¹¬´Â ÇÁ·¹µå´Ï¼ÕÀ¸·Î Ä¡·á¹Þ¾Ò´Âµ¥, °Ñº¸±â¿¡´Â ¸ÖÂÄÇØ º¸¿´¾î¿¹.",±× ¿©ÀÚ´Â ¼ûµµ Â÷°í ±âÄ§µµ Çß½É´õ.
+,[**2568-7-15**]¿¡ CABG ¼ö¼úÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ½ÉÇÕ´Ï´õ.
+,[**2568-7-15**]¿¡ CABG ¼ö¼úÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÔ´Ï´õ.
+,[**2568-7-15**]¿¡ CABG ¼ö¼úÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â ¸»ÃÊÇ÷°üÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"±× ¿©ÀÚ´Â ½Å°æ¿Ü°ú¿¡¼­ ÁøÂû¹Þ¾Ò´Âµ¥, ½Å°æ ÂÊÀ¸·Î´Â ÀÌ»ó ¾ø´Ù°í Çß½É´õ.",±× ¿©ÀÚ ½Å°æ °Ë»ç °á°ú´Â Á¤»óÀÌ¾ú¾î¿¹.
+,"±× ¿©ÀÚ´Â ½Å°æ¿Ü°ú¿¡¼­ ÁøÂû¹Þ¾Ò´Âµ¥, ½Å°æ ÂÊÀ¸·Î´Â ÀÌ»ó ¾ø´Ù°í Çß½É´õ.",±× ¿©ÀÚ´Â ½Å°æ ÂÊ¿¡ ¹®Á¦°¡ ÀÖ¾ú¾î¿¹.
+,"±× ¿©ÀÚ´Â ½Å°æ¿Ü°ú¿¡¼­ ÁøÂû¹Þ¾Ò´Âµ¥, ½Å°æ ÂÊÀ¸·Î´Â ¾Æ¹« ¹®Á¦¾ø´Ù°í Çß½É´õ.",³úÇ÷°ü »ç°í °ÞÀº Àû ¾ø½É´õ.
+,"[**2525-12-10**]¿¡ ÇÑ TTE(½ÉÀå ÃÊÀ½ÆÄ) °á°ú, ½É¹ÚÃâ·®Àº 55% ÀÌ»ó ³ª¿Ô°í, 1+ ¹Ì¸¸ ÆÇ¸· ¿ª·ù¶û º®¿îµ¿ ÀÌ»óÀº ¾ø¾ú½É´õ.",¹æÃâ°è¼ö´Â Á¤»óÀÔ´Ï´õ.
+,"[**2525-12-10**]¿¡ ÇÑ Åõ°ú¼º ½ÉÀå ÃÊÀ½ÆÄ(TTE) °á°ú, ½É¹æ¼öÃà·üÀº 55% ÀÌ»óÀ¸·Î ³ª¿Ô°í, 1+ ¹Ì¸¸ ÆÇ¸· ¿ª·ù¶û º® ¿îµ¿ ÀÌ»óÀº ¾ø¾ú½É´õ.",º®¿îµ¿¿¡ ÀÌ»óÀÌ ÀÖ½É´õ.
+,"[**2525-12-10**]¿¡ ÇÑ TTE °á°ú, ÃßÃâ°è¼ö´Â 55% ÀÌ»óÀÌ°í, 1+ ½ÉÀåÆÇ¸· ¿ª·ùÁõÀÌ¶û º® ¿îµ¿ ÀÌ»óÀº ¾ø¾ú½É´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
+,±× ¿©ÀÚ´Â ±× ¶§ ¸ÖÂÄÇÏ°Ô ¸»ÇÏ°í ÀÖ¾ú¾î¿¹.,È¯ÀÚ´Â ¾î´À ½ÃÁ¡±îÁø ¸ÖÂÄÇÏ°Ô ´ëÈ­°¡ µÆ´Ù°í ¾Ë·ÁÁ® ÀÖ¾ú½É´õ.
+,±× ¿©ÀÚ´Â ±× ¶§ ¸ÖÂÄÇÏ°Ô ¸»ÇÏ°í ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ¾ðÁ¦ ¸ÖÂÄÇÏ°Ô ¸»À» Çß´ÂÁö ¾Ë·ÁÁø °Ô ¾ø½É´õ.
+,±× ¿©ÀÚ´Â ±× ¶§ ¸ÖÂÄÇÏ°Ô ¸»ÇÏ°í ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
+,"±× ³²ÀÚ´Â ½ÉÀüµµ º¯È­´Â ¾ø¾ú°í, Ã·¿¡ Àé È¿¼Ò ¼öÄ¡´Â À½¼ºÀÌ¾ú¾î¿¹.",È¯ÀÚ´Â °¡½¿ÀÌ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
+,"±× ³²ÀÚ´Â ½ÉÀüµµ º¯È­´Â ¾ø¾ú°í, Ã·¿¡ Àé È¿¼Ò ¼öÄ¡´Â À½¼ºÀÌ¾ú¾î¿¹.",È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
+,"±× ³²ÀÚ´Â ½ÉÀüµµ º¯È­´Â ¾ø¾ú°í, Ã·¿¡ Àé È¿¼Ò °ªÀº À½¼ºÀÌ¾ú¾î¿¹.",È¯ÀÚ È¿¼Ò °Ë»ç °á°ú°¡ À½¼ºÀÔ´Ï´õ.
+,ÃÖ±Ù¿¡ »ý±ä ´ã¼® ÃéÀå¿° [**1-23**] 12.,È¯ÀÚ´Â ÃÖ±Ù¿¡ ±Þ¼º ÁúÈ¯À» ¾Î¾Ò½É´õ.
+,ÃÖ±Ù ÃéÀå¿° °£¼®Áõ [**1-23**] 12.,È¯ÀÚ´Â ÃÖ±Ù¿¡ º´¿ø ´Ù´Ñ ÀûÀÌ ¾ø½É´õ.
+,ÃÖ±Ù ´ã¼® ÃéÀå¿° [**1-23**] 12.,È¯ÀÚ ¾ËÄ®¸® Æ÷½ºÆÄÅ¸Á¦ ¼öÄ¡°¡ ¿Ã¶ú½É´õ.
+,±× ¾Æ´Â ¶Ç ¾Æ¹Ù·Ï½º 400mgÀ» Á¤¸ÆÁÖ»ç·Î ¸Â¾Ò½É´õ.,È¯ÀÚ´Â Ç×»ýÁ¦¸¦ ¸Â¾Ò½É´õ.
+,±× ¾Æ´Â ¶Ç ¾Æ¹Ù·Ï½º 400mgÀ» Á¤¸Æ ÁÖ»ç·Î ¸Â¾Ò½É´õ.,È¯ÀÚ´Â Ç×»ýÁ¦¸¦ ¾È ¸Â¾Ò½É´õ.
+,±× ¾Æ´Â ¶Ç ¾Æ¹ß·Ï½º 400mgÀ» Á¤¸ÆÁÖ»ç·Î ¸Â¾Ò½É´õ.,È¯ÀÚ´Â Æó·Å¿¡ °É›½É´õ.
+,"ÀÌ°Å´Â ÆÛ¶à ½É½Ç ¼¼µ¿À¸·Î ¹Ù²¼°í, ±× ¾Æ´Â 360J Àü±âÃæ°ÝÀ» ÇÑ ºÐ ¼º°øÀûÀ¸·Î ¸Â¾Ò½É´õ. ±×·¡°¡²¿ ½É¹ÚÇÏ°í ¼øÈ¯ ±â´ÉÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â ½ÉÀå ÀüÈ¯¼ú ÈÄ¿¡ ½É¹Úµ¿ÀÌ Á¤»óÀÔ´Ï´õ.
+,"ÀÌ°Å´Â ÆÛ¶à ½É½Ç¼¼µ¿À¸·Î ¹Ù²¼°í, ±× ¾Æ´Â ¼º°øÀûÀ¸·Î 360J Àü±âÃæ°ÝÀ» ÇÑ ºÐ ¸Â¾Ò½É´õ. ±×·¡°¡²¿ ¸®µëÇÏ°í ¼øÈ¯ÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½É´õ.
+,"ÀÌ°Å´Â ÆÛ¶à ½É½Ç¼¼µ¿À¸·Î ¹Ù²¼°í, ±× ¾Æ´Â ¼º°øÀûÀ¸·Î 360J Àü±â Ãæ°ÝÀ» ÇÑ ºÐ ¸Â¾Æ ¸®µëÇÏ°í ¼øÈ¯À» È¸º¹Çß½É´õ.",È¯ÀÚ´Â ½ÉÀå Á¶µ¿À» Çß½É´õ.
+,"ÀÏÈç¼¼ »ì ÇÒ¸Å È¯ÀÚ´Â ¾ï¼ö·Î ½ÉÇÑ µ¿¸Æ°æÈ­Áõ ¶§¹Ì ¼ö¼úÀ» ¿©·¯ ¹ø ¹ÞÀº ÀûÀÌ ÀÖ°í, Ã·¿¡´Â Áõ»óÀÌ Á» ³ª¾ÆÁ³´Âµ¥, ÀÎÀÚ´Â ¿ÞÂÊ ´ëÅðµ¿¸Æ¿¡ »õ º´ÀÌ »ý°å°í, ÇÏº¹ºÎ µ¿¸ÆÀº ¾ï¼ö·Î ÀÛ°í °ñ¹Ýµ¿¸ÆÀ¸·Î´Â ÇÇ°¡ ÂØ¸Å¹Û¿¡ ¾È ÅëÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â ½ÉÇÑ ¸»ÃÊµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"ÀÏÈç¼¼ »ì ÇÒ¸ÅÀÎµ¥, ½ÉÇÑ µ¿¸Æ°æÈ­ÁõÀ» ¾Î°í ÀÖ°í, ´Ù¸®¸¦ ½ÉÇÏ°Ô Àý¾î½Õ¾î°¡ ¼ö¼úÀ» ¸î ¹ø ¹Þ¾Ò½É´õ. Ã·¿¡´Â Áõ»óÀÌ Á» ³ª¾ÆÁ³´Âµ¥, ÀÎÀÚ´Â ¿ÞÂÊ ´ëÅðµ¿¸Æ¿¡ »õ º´ÀÌ »ý°å°í, ÇÏº¹ºÎ ´ëµ¿¸Æ À§ÂÊÀº ¾ï¼ö·Î ÀÛ°í °ñ¹Ýµ¿¸ÆÀ¸·Î´Â ÇÇ°¡ ÂØ¸Å¹Û¿¡ ¾È Èå¸¨´Ï´õ.",È¯ÀÚ Ç÷°ü ±¸Á¶´Â Á¤»óÀÌ°í Àß ÅëÇÕ´Ï´õ.
+,"ÀÏÈç¼¼ »ì ÇÒ¸Å È¯ÀÚ´Â ½ÉÇÑ µ¿¸Æ°æÈ­ÁõÀ» ¾Î°í ÀÖ°í, ½ÉÇÑ ÀýÁ¦Áõ ¶§¹Ì ¼ö¼úÀ» ¿©·¯ ¹ø ¹Þ¾Ò½É´õ. Ã·¿¡´Â Áõ»óÀÌ Á» ³ª¾ÆÁ³´Âµ¥, ÀÎÀÚ´Â ¿ÞÂÊ ´ëÅðµ¿¸Æ¿¡ »õ º´ÀÌ »ý°å°í, ÇÏº¹ºÎ ´ëµ¿¸Æ À§ÂÊÀ¸·Î ÇÇ°¡ ÂØ¸Å¹Û¿¡ ¾È Èå¸£´Â °Ô º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
+,±× ¾ÆÇÑÅ× Á¤¸ÆÁÖ»ç·Î ¿¡Åä¹Ìµ¥ÀÌÆ® 20mgÇÏ°í ¼ö½Ã´ÒÄÝ¸° 150mgÀ» ³ù½É´õ.,È¯ÀÚÇÑÅ× Àü½Å¸¶ÃëÁ¦°¡ µé¾î°¬½É´õ.
+,±× ¾ÆÇÑÅ×´Â Á¤¸ÆÁÖ»ç·Î ¿¡Åä¹Ìµ¥ÀÌÆ® 20mgÇÏ°í ¼ö½Ã´ÒÄÝ¸° 150mgÀ» ³ù½É´õ.,±× ½Ã¼úÀº ±¹¼Ò ¸¶Ãë·Î Çß½É´õ.
+,±× ¾ÆÇÑÅ×´Â Á¤¸ÆÁÖ»ç·Î ¿¡Åä¹Ìµ¥ÀÌÆ® 20mgÇÏ°í ¼ö½Ã´ÒÄÝ¸° 150mgÀ» ³ù½É´õ.,È¯ÀÚ°¡ ¼±ÅÃÀû ¼ö¼úÀ» ¹Þ°í ÀÖ½É´õ.
+,"±× ¾Æ´Â ÇÑ 3ºÐ Âë ¿îµ¿À» Çß°í, ¿ÞÂÊ ¹øµéÆÄ Â÷´Ü ¶§¹Ì Áø´ÜÀÌ ¾È µÇ´Â ³ÐÀº ST-T ÆÄ ÀÌ»óÀ» º¸¿´½É´õ.",±× ¾Æ´Â ½ÉÀüµµ ÀÌ»óÀ» º¸ÀÌ°í ÀÖ½É´õ.
+,"±× ¾Æ´Â ÇÑ 3ºÐ Âë ¿îµ¿À» ÇÏ°í ³ª¼­, ¿ÞÂÊ ¹øµéÆÄÂ÷´Ü ¶§¹Ì Áø´ÜÀÌ ¾È µÇ´Â ³ÐÀº ST-T ÆÄ ÀÌ»óÀ» º¸¿´½É´õ.",EKG´Â Á¤»óÀÌ¾ú½É´õ.
+,"±× ¾Æ´Â ÇÑ 3ºÐ Âë ¿îµ¿À» Çß°í, ¿ÞÂÊ ¹øµéÆÄÂ÷´Ü ¶§¹Ì Áø´ÜÀÌ ¾È µÇ´Â ÆÛÁö´Â ST-TÆÄ ÀÌ»óÀ» º¸¿´½É´õ.",±× ¾Æ´Â °ü»óµ¿¸Æ ÁúÈ¯ º´·ÂÀÌ ÀÖ½É´õ.
+,¿ÀÀü 11½Ã ¹Ý¿¡ ½ºÆ®·ÎÅ© ÄÚµå¸¦ ºÒ·¶½É´õ.,È¯ÀÚÇÑÅ× ³úÁ¹ÁßÀÌ ¿Ô½É´õ.
+,¿ÀÀü 11½Ã ¹Ý¿¡ ½ºÆ®·ÎÅ© ÄÚµå¸¦ ºÒ·¶½É´õ.,È¯ÀÚ´Â ³úÇ÷°ü »ç°í Â¡ÈÄ³ª Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.
+,¿ÀÀü 11½Ã ¹Ý¿¡ ½ºÆ®·ÎÅ© ÄÚµå¸¦ ºÒ·¶½É´õ.,È¯ÀÚ´Â ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ½É´õ.
+,"±× ¾Æ´Â Á¤½ÅÀÌ ¶Ç·ÇÇß°í, ½Ã¼³ ¾È¿¡¼­ ¾Æ¹« ¹®Á¦ ¾øÀÌ Àß °É¾î´ó°å½É´õ.",È¯ÀÚ°¡ °È°í ÀÖ½É´õ.
+,"±× ¾Æ´Â Á¤½ÅÀÌ ¾ï¼ö·Î ¶Ç·ÇÇß°í, ½Ã¼³ ¾È¿¡¼­ ¾Æ¹« ¹®Á¦ ¾øÀÌ Àß °É¾ú½É´õ.",È¯ÀÚ´Â °È´Â °É Èûµé¾îÇß½É´õ.
+,"±× »ç¶÷Àº Á¤½ÅÀÌ ¶Ç·ÇÇß°í, ½Ã¼³ ¾È¿¡¼­ ¾Æ¹« ¹®Á¦ ¾øÀÌ °É¾î´ó±æ ¼ö ÀÖ¾ú½É´õ.",È¯ÀÚ´Â Ä¡¸Å°¡ ÀÖ½É´õ.
+,"Á¶¿µÁ¦ ¾È ¾´ ´ë°¡¸® CT¿¡¼­ Å« µ¿¸Æ·ù°¡ ³ª¿Ô°í, ±Û°í MRA¿¡¼­ È®ÀÎÇß½É´õ.",´ë°¡¸® CT¶û MRA °á°ú°¡ Á¤»óÀÌ ¾Æ´Ï¾ú½É´õ.
+,"Å« µ¿¸Æ·ù°¡ Á¶¿µÁ¦ ¾È ¾´ ´ë°¡¸® CT¿¡¼­ ³ª¿Ô°í, ±Û°í MRA¿¡¼­ È®ÀÎµÆ½É´õ.",´ë°¡¸® CT¶û MRA´Â º° ÀÌ»ó ¾ø¾ú½É´õ.
+,"Á¶¿µÁ¦ ¾È ¾´ ´ë°¡¸® CT¿¡¼­ Å« µ¿¸Æ·ù°¡ ³ª¿Ô°í, ±Û°í MRA¿¡¼­ È®ÀÎÇß½É´õ.",È¯ÀÚ´Â ¹ßÀÛÀÌ¶û ¸Ó¸® ¾ÆÇÂ ÀûÀÌ ÀÖ½É´õ.
+,"°¼´Â ¶Ç [**10-17**]¿¡ À§³»½Ã°æÀ» Çß´Âµ¥, °Å±â¼­ ½Äµµ ¾Æ·¡ÂÊ 3ºÐÀÇ 1¿¡ ±Ë¾çÀÌ ÀÖ°í ½ÊÀÌÁöÀå¿°µµ ÀÖ´Ù°í ³ª¿Ô½É´õ.",È¯ÀÚ´Â À§½Äµµ¿ª·ùÁúÈ¯(GERD)ÀÌ ÀÖ½É´õ.
+,"°¼´Â ¶Ç [**10-17**]¿¡ À§³»½Ã°æÀ» Çß´Âµ¥, °Å±â¼­ ½Äµµ ¾Æ·¡ÂÊ 3ºÐÀÇ 1¿¡ ±Ë¾çÀÌ ÀÖ°í, ½ÊÀÌÁöÀå¿°µµ °°ÀÌ ÀÖ´Â °É·Î È®ÀÎµÆ½É´õ.",È¯ÀÚ À§³»½Ã°æ °á°ú´Â ¾Æ¹« ÀÌ»ó ¾ø½É´õ.
+,"°¼´Â ¶Ç [**10-17**]¿¡ À§³»½Ã°æÀ» Çß´Âµ¥, °Å±â¼­ ½Äµµ ¾Æ·¡ÂÊ 3ºÐÀÇ 1¿¡ ±Ë¾çÀÌ¶û ½ÊÀÌÁöÀå¿°ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ´Â ½Äµµ¾ÏÀÔ´Ï´õ.
+,"°¼´Â ÀÌ½Ä ¼ö¼úÇØµµ µÈ´Ù°í ³ª¿Ô°í, ¿©µ¿»ýÇÑÅ× ÄáÆÏÀ» ¹ÞÀ» ³§´Ï´õ.",È¯ÀÚ´Â ½ÅºÎÀüÁõÀÌ ÀÖ½É´õ.
+,"°¼´Â ÀÌ½Ä ¼ö¼úÇØµµ µÈ´Ù°í ³ª¿Ô°í, ¿©µ¿»ýÇÑÅ× ÄáÆÏÀ» ¹ÞÀ» ³§´Ï´õ.",È¯ÀÚ ÄáÆÏ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"°¼´Â ÀÌ½Ä ¼ö¼úÇØµµ µÈ´Ù°í ³ª¿Ô°í, ÀÚ¸ÅÇÑÅ× ÄáÆÏÀ» ¹ÞÀ» ³§´Ï´õ.",È¯ÀÚ´Â ´ç´¢°¡ ÀÖ½É´õ.
+,°¼´Â ¹ßÇ¥ÇÏ´Â ³¯±îÁö ¹ßÀÛÀÌ ¾ø¾ú½É´õ.,È¯ÀÚ°¡ ¹ßÀÛÀ» Çß½É´õ.
+,°¼´Â ¹ßÇ¥ÇÏ´Â ³¯±îÁö ±× µÚ·Î ¹ßÀÛÀÌ ¾ø¾ú½É´õ.,È¯ÀÚ´Â ¹ßÀÛÇÑ ÀûÀÌ ¾ø½É´õ.
+,°¼´Â ¹ßÇ¥ÇÏ´Â ³¯±îÁö ¹ßÀÛÀÌ ¾ø¾ú½É´õ.,È¯ÀÚ´Â ÄÉÇÁ¶ó ¸Ô°í ÀÖ½É´õ.
+,°¼´Â NB/NB Åä¸¦ ¼¼ ¹ø Çß½É´õ.,°¼´Â ÅäÇß½É´õ.
+,°¼´Â NB/NB Åä¸¦ ¼¼ ¹ø Çß½É´õ.,¿äÁò ÅäÇÏ°Å³ª ¼Ó ¹Ì½»°Å¸° Àû ¾ø½É´õ.
+,°¼´Â NB/NB Åä¸¦ ¼¼ ¹ø Çß½É´õ.,°¼´Â ¹è°¡ ¾ÆÆÍ½É´õ.
+,ÇÇÅä½ÅÀ¸·Î ºÐ¸¸ À¯µµÇß½É´õ.,È¯ÀÚ´Â À¯µµºÐ¸¸ Çß½É´õ.
+,PitocinÀ¸·Î ºÐ¸¸ À¯µµÇß½É´õ.,È¯ÀÚ´Â ÀÚ¿¬ºÐ¸¸ Çß½É´õ.
+,PitocinÀ¸·Î ºÐ¸¸ À¯µµÇß½É´õ.,È¯ÀÚ´Â ÀÓ½Å±â°£ÀÌ ±æ¾ú½É´õ.
+,- ´Ù±âÇü ±³¸ð¼¼Æ÷Á¾ (WHO IV) ¼ö¼ú([**3206-7-20**]) ¹Þ°í Ç×¾Ï¹æ»ç¼± Ä¡·á ¹ÞÀ½(³¡³­ ³¯: [**3206-9-28**]) - º¹ÇÕ ºÎºÐ ¹ßÀÛ - ÆíµÎÅë - °íÇ÷¾Ð,È¯ÀÚ´Â ¾ÏÀÔ´Ï´õ.
+,- ´Ù±âÇü ±³¸ð¼¼Æ÷Á¾ (WHO IV) ¼ö¼úÇÏ°í ³ª¼­ ([**3206-7-20**]) ±Û°í È­ÇÐ¹æ»ç¼± Ä¡·á (³¡³½ ³¯: [**3206-9-28**]). - º¹ÇÕ ºÎºÐ ¹ßÀÛ - ÆíµÎÅë - °íÇ÷¾Ð,È¯ÀÚ´Â ¼ö¼ú ¾È ¹Þ¾Ò½É´õ.
+,- ´ÙÇü¼º ±³¸ð¼¼Æ÷Á¾ (WHO IV) ¼ö¼úÇÏ°í ³ª¼­ ([**3206-7-20**]) ±Û°í Ç×¾Ï¹æ»ç¼± Ä¡·á (³¡³½ ³¯: [**3206-9-28**]) - º¹ÇÕ ºÎºÐ ¹ßÀÛ - ÆíµÎÅë - °íÇ÷¾Ð,È¯ÀÚ ¿¹ÈÄ°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
+,"½ÉÀüµµ °á°ú, ºÎÁ¤¸Æ ¾ø´Â ºü¸¥¸ÆÀÌ º¸ÀÌ°í, ±Þ¼º ST/ TÆÄ ¿ªÀüÀº ¾ø½É´õ.",È¯ÀÚ°¡ ½ÉÀåÀÌ »¡¸® ¶Ù°¡²¿ Èûµé¾îÇÕ´Ï´õ.
+,"½ÉÀüµµ °á°ú·Î ½Å½º Å¸Å°Ä«µð¾Æ¸¦ º¸ÀÌ°í, ±Þ¼º ST/ TWI´Â ¾ø½É´õ.",È¯ÀÚ Ç÷¾ÐÀº Á¤»óÀÔ´Ï´õ.
+,"½ÉÀüµµ °á°ú ºü¸¥ ½ÉÀå¹Úµ¿À» º¸ÀÌ°í, ±Þ¼º ST/ TÆÄ ¿ªÀüÀº ¾ø½É´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÔ´Ï´õ.
+,¶Ñ·ÇÇÑ ÀÜ¿© Áõ»óÀº ¾ø½É´õ.,È¯ÀÚÇÑÅ× Áõ»óÀÌ ³ªÅ¸³ª°í ÀÖ½É´õ.
+,¶Ñ·ÇÇÑ ÀÜ¿© Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ°¡ ¹è°¡ ¸¶ÀÌ ¾ÆÆÄÇÕ´Ï´õ.
+,¶Ñ·ÇÇÑ ÀÜ¿© Áõ»ó ¾øÀ½.,È¯ÀÚ°¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
+,"±× »ç¶÷Àº Ã¼¿ÂÀ» ¿Ã¸®°í, ¸öÀ» ¸»¸®°í, ÀÚ±ØÇß½É´õ.",È¯ÀÚ´Â Ã¼¿ÂÀ» ¿Ã›½É´õ.
+,"±× »ç¶÷Àº Ã¼¿Â ¿Ã¸®°í, ¸ö ¸»¸®°í, ÀÚ±ØÀ» ¹Þ¾Ò½É´õ.",È¯ÀÚ°¡ Ã¼¿Â ³»¸®´Â Á¶Ä¡¸¦ ¹Þ¾Ò½É´õ.
+,"±× »ç¶÷Àº Ã¼¿ÂÀ» ¿Ã¸®°í, ¸öÀ» ¸»¸®°í, ÀÚ±ØÇß½É´õ.",È¯ÀÚ ÀÇ½ÄÀÌ Èñ¹ÌÇØÁ³½É´õ.
+,"±× ¿©ÀÚ´Â ±¸¾ÆÀÌ¾Ç ¾ç¼ºÀÎ ¿¬°¥»ö ¶ËÀ» ´³°í, G-Æ©ºê¿¡¼± ³ì»ö ºÐºñ¹°ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ´Â À§Àå°ü ÃâÇ÷ ¼Ò°ßÀÌ ÀÖ½É´õ.
+,±× ¿©ÀÚ´Â ±¸¾ÆÀÌ¾Ç ¾ç¼ºÀÎ ¿¬°¥»ö ¶ËÇÏ°í G-Æ©ºê¿¡¼­ ³ª¿À´Â ³ì»ö ºÐºñ¹°À» º¸¿´½É´õ.,È¯ÀÚ´Â À§Àå ÃâÇ÷ÀÌ ¾ø½É´õ.
+,"±× ¿©ÀÚ´Â ±¸¾ÆÀÌ¾Ç ¾ç¼ºÀÎ ¿¬°¥»ö ¶ËÀ» ´³°í, G-Æ©ºê¿¡¼­ ³ì»ö ºÐºñ¹°ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ´Â G-Æ©ºê ÀÖ´Â µ¥¼­ ÇÇ°¡ ³ª°í ÀÖ½É´õ.
+,"±× »ç¶÷Àº ¾Æ¹Ì¿À´Ù·Ð 150mg ¸Â°í, Ãæ°Ý ÇÑ ¹ø ¹Þ°í, ½ÉÀå ¸Ü°í³ª¼­ 1ºÐ ¾È¿¡ ¸Æ¹ÚÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â Àü¿¡ ½ÉÀå¸¶ºñ ¿Â ÀûÀÌ ÀÖ½É´õ.
+,"±× »ç¶÷Àº ¾Æ¹Ì¿À´Ù·Ð 150mg ¸Â°í, ½ÉÀå Ãæ°Ý ÇÑ ¹ø ¹Þ°í, ½ÉÀå ¸Ü°í³ª¼­ 1ºÐ ¾È¿¡ ¸Æ¹ÚÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â ½ÉÆó¼Ò»ý¼ú ¹ÞÀº Àû ¾ø½É´õ.
+,"±× »ç¶÷Àº ¾Æ¹Ì¿À´Ù·Ð 150mg ¸Â°í, Ãæ°Ý ÇÑ ¹ø ¹Þ°í, ½ÉÀå ¸Ü°í³ª¼­ 1ºÐ ¾È¿¡ ¸Æ¹ÚÀÌ µ¹¾Æ¿Ô½É´õ.",È¯ÀÚ´Â ÇãÇ÷ÁõÀÌ ÀÖ½É´õ.
+,"»ïÅ´Àå¾ÖÇÏ°í [** À§Ä¡ **] À§Àå°ü ÇÇ½ºÅä¹Ì Æ©ºê°¡ ÀÖ¾ú´Âµ¥, ¿äÁò »ïÅ´ °Ë»ç °á°ú°¡ ÁÁ°Ô ³ª¿Í°¡ Áö±ÝÀº ºÎµå·¯¿î À½½ÄÀ» ¹¬°í ÀÖ½É´õ.",È¯ÀÚ´Â »ïÅ°´Â °É Èûµé¾îÇÕ´Ï´õ.
+,"»ïÅ´Àå¾ÖÇÏ°í [** À§Ä¡ **] À§Àå°ü Àý°³°üÀÌ ÀÖ¾ú´Âµ¥, ¿äÁò ÇÑ »ïÅ´ °Ë»ç °á°ú°¡ ÁÁ°Ô ³ª¿Í°¡ Áö±ÝÀº ¹«¸¥ À½½ÄÀ» ¹¬°í ÀÖ½É´õ.",È¯ÀÚ »ïÅ°´Â ¹ÝÀÀÀº Á¤»óÀÔ´Ï´õ.
+,"»ïÅ´Àå¾ÖÇÏ°í [** À§Ä¡ **] À§Àå°ü Æ©ºê°¡ ÀÖ¾ú´Âµ¥, ¿äÁò ÇÑ »ïÅ´ °Ë»ç °á°ú°¡ ±¦Âú´Ù ½Í¾î°¡ Áö±ÝÀº ¹«¸¥ À½½ÄÀ» ¹¬°í ÀÖ½É´õ.",È¯ÀÚ°¡ ÈíÀÎÇÏ°í ÀÖ¾ú½É´õ.
+,"[**3350-5-12**]¿¡ ÇÑ ½ÉÀå Ä«Å×ÅÍ °Ë»ç¿¡¼­ °í¸³µÈ Æ®·ÎÆ÷´Ñ ´©ÃâÀÌ È®ÀÎµÆ½É´õ. ±×¶§ ½É¹ÚÃâ·üÀº 60%, ½ÉÀå ¹Ú¸· ¿îµ¿ ºÎÀü, ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·ÂÀº 14·Î ³ª¿Ô°í¿ä. ¿À¸¥ÂÊ °ü»óµ¿¸Æ¿¡´Â È®»ê¼º ÁúÈ¯ÀÌ º¸¿´°í, ÀÌ ÁÂÃø ¿ì¼¼ Ã¼°è¿¡¼­ ÁÂÃø °ü»óµ¿¸ÆÀº ±ÙÀ§ºÎ¿¡¼­ 80%, Áß°£ ÁÂÃø Àü¹æ ÇÏ°­µ¿¸Æ¿¡¼­ 60%, ¿øÀ§ºÎ¿¡¼­´Â 90% º´º¯ÀÌ º¸¿´½É´õ.",È¯ÀÚ´Â ´ÙÁßÇ÷°ü °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"[**3350-5-12**]¿¡ ÇÑ ½ÉÀå Ä«Å×ÅÍ °Ë»ç¿¡¼­ °í¸³µÈ Æ®·ÎÆ÷´Ñ ´©ÃâÀ» È®ÀÎÇß°í, ½É¹ÚÃâ·üÀº 60%, ½ÉÀå ¹Ú¸·Àº ¾È ¿òÁ÷ÀÌ´Â »óÅÂ, ¿ÞÂÊ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·ÂÀº 14, ¿À¸¥ÂÊ °ü»óµ¿¸Æ¿¡¼­´Â È®»ê¼º ÁúÈ¯À» º¸¿´½É´õ. ÀÌ ¿ÞÂÊ ¿ì¼¼Çü ½Ã½ºÅÛ¿¡¼­ ¿ÞÂÊ °ü»óµ¿¸ÆÀº ±ÙÀ§ºÎ¿¡¼­ 80%, Áß°£ ¿ÞÂÊ Àü¹æÇÏ°­µ¿¸Æ¿¡¼­ 60%, ¿øÀ§ºÎ¿¡¼­ 90% º´º¯À» º¸¿´½É´õ.",È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÔ´Ï´õ.
+,"[**3350-5-12**]¿¡ ÇÑ ½ÉÀå Ä«Å×ÅÍÈ­´Â °í¸³µÈ Æ®·ÎÆ÷´Ñ ´©Ãâ ¶«¿¡ Çß°í, ±×¶§ ½É¹ÚÃâ·üÀº 60%, ½ÉÀå ¹Ú¸·Àº ¾È ¿òÁ÷ÀÌ´Â »óÅÂ(apical akinesis), ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·ÂÀº 14¿´½É´õ. ¿ìÃø °ü»óµ¿¸ÆÀº Àü¹ÝÀûÀ¸·Î ÁúÈ¯ÀÌ ³ªÅ¸³µ°í, ÀÌ ÁÂÃø ¿ì¼¼ Ã¼°è¿¡¼­ ÁÂÃø °ü»óµ¿¸ÆÀº ±ÙÀ§ºÎ¿¡¼­ 80%, Áß°£ ÁÂÃø Àü¹æÇÏ°­µ¿¸Æ¿¡¼­ 60%, ¿øÀ§ºÎ¿¡¼­ 90% º´º¯À» º¸¿´½É´õ.",½ºÅÙÆ® ¹Ú¾Ò½É´õ.
+,"(±âÁØ¼± 1.1), BNP [**¼ýÀÚ ½Äº°ÀÚ 23983**] ¹× Æ®·ÎÆ÷´Ñ ¼öÄ¡ .44 ¿À¸§(»õ·Î »ý±ä ¾ÆÆ®¸®¾ó ¼¼µ¿°ú ±Þ¼º ½ÅºÎÀüÁõ »óÈ²¿¡¼­).",È¯ÀÚ´Â ½ÉÀå È¿¼Ò°¡ ºñÁ¤»óÀÔ´Ï´õ.
+,"(±âÁØ¼± 1.1), BNP [**¼ýÀÚ ½Äº°ÀÚ 23983**] ¹× Æ®·ÎÆ÷´Ñ .44 ¿À¸§(»õ·Î »ý±ä ¾ÆÆ®¸®¾ó ¼¼µ¿ ¹× ±Þ¼º ½ÅºÎÀüÁõ »óÈ²¿¡¼­).",È¯ÀÚ ½ÉÀå °ü·Ã °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"(±âÁØ¼± 1.1), BNP [**¼ýÀÚ ½Äº°ÀÚ 23983**] ¹× Æ®·ÎÆ÷´Ñ .44 ¿À¸§(»õ·Î »ý±ä ½É¹æ¼¼µ¿°ú ±Þ¼º ½ÅºÎÀüÁõ »óÈ²¿¡¼­).",È¯ÀÚ´Â ¼ö¿ä¼º ÇãÇ÷À» ¾Î°í ÀÖ½É´õ.
+,¿Ü°ú Å¬¸³ÀÌ ¸Õ ÂÊ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ¶Èµð º¸ÀÔ´Ï´õ.,¿¹Àü¿¡ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ½Ã¼úÇß¾ú½É´õ.
+,¿Ü°ú Å¬¸³ÀÌ ¸Õ ÂÊ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ¶Èµð º¸ÀÔ´Ï´õ.,¹è¿¡ ¿¹Àü¿¡ ¼ö¼úÀÌ³ª ½Ã¼úÇÑ Àû ¾ø¾ú½É´õ.
+,¿Ü°ú¿ë Å¬¸³ÀÌ ¸Õ ÂÊ ½Ã±×¸ðÀÌµå ´ëÀå¿¡ ¶Èµð º¸ÀÔ´Ï´õ.,È¯ÀÚ´Â ¹è ¾Î¾Ò´ø ÀûÀÌ ÀÖ½É´õ.
+,"(Á¥»êÀº 1.3¹Û¿¡ ¾ÈµÇ°í, È¯ÀÚ´Â ¿­Àº ¾ø½É´õ).",Ã¼¿ÂÀº Á¤»óÀÌ¾ú½É´õ.
+,"(Á¥»êÀº 1.3¹Û¿¡ ¾ÈµÇ°í, È¯ÀÚ´Â ¿­ ¾ø½É´õ).",¿­ÀÌ ¿À¸§
+,"(Á¥»êÀº 1.3¹Û¿¡ ¾ÈµÇ°í, È¯ÀÚ´Â ¿­ ¾ø½É´õ).",È¯ÀÚ °Ç°­ »óÅÂ´Â ±¦Âú½É´õ.
+,"ÃÊ±â Ç÷¾ÐÀÌ 190/110ÀÌ¶ó¼­, Á¤¸ÆÁÖ»ç¿ë ¶óº£Å»·Ñ ¸Â°í ½Å°æÇÐÀû °Ë»ç ÀÚÁÖ ÇÏ·Á°í ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß½É´õ.",Ç÷¾ÐÀÌ ³ô¾Ò½É´õ.
+,"ÃÊ±â Ç÷¾ÐÀÌ 190/110ÀÌ¶ó¼­, Á¤¸ÆÁÖ»ç·Î ¶óº£Å»·Ñ ¸Â°í ½Å°æÇÐÀû °Ë»ç ÀÚÁÖ ¹ÞÀ¸·Á°í ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß½É´õ.",ÀúÇ÷¾ÐÀÌ¾ú½É´õ.
+,"ÃÊ±â Ç÷¾ÐÀÌ 190/110ÀÌ¶ó¼­, Á¤¸ÆÁÖ»ç¿ë ¶óº£Å»·Ñ ¸Â°í ½Å°æÇÐÀû °Ë»ç ÀÚÁÖ ÇÏ·Á°í ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇÏ°Ô µÆ½É´õ.",¸Ó¸® ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
+,"»ê¸ð´Â ÀÔ¿øÇØ¼­ ¸¶±×³×½· ¸Â±â ½ÃÀÛÇß°í, ±×·¡¼­ ÀÚ±Ã ¼öÃàÀÌ ÁÙ¾ú½É´õ.",È¯ÀÚ ºÐ¸¸ ÁßÀÔ´Ï´õ.
+,"»ê¸ð´Â ÀÔ¿øÇØ¼­ ¸¶±×³×½· ¸Â±â ½ÃÀÛÇß°í, ±×·¡¼­ ÀÚ±Ã ¼öÃàÀÌ ÁÙ¾ú½É´õ.",È¯ÀÚ´Â ¾Æ¹« Áõ»óµµ ¾È º¸ÀÔ´Ï´õ.
+,"»ê¸ð´Â ÀÔ¿øÇØ¼­ ¸¶±×³×½· ¸Â±â ½ÃÀÛÇß°í, ±×·¡¼­ ¼öÃàÀÌ ÁÙ¾ú½É´õ.",È¯ÀÚ´Â ÀÚ°£ÁõÀ» ¾Î°í ÀÖ½É´õ.
+,¼ö¼ú Àü °Ë»ç¿¡¼­ °£¾Ï ÀüÀÌ¸¦ º¸¿©ÁÖ´Â Áõ°Å´Â ¹ß°ß ¾È µÆ½É´õ.,°£¾Ï Ä¡·áÇÏ·Á°í ¼ö¼ú ¹Þ¾Ò½É´õ.
+,¼ö¼ú Àü °Ë»ç¿¡¼­´Â °£¾Ï¿¡¼­ ÀüÀÌµÆ´Ù´Â Áõ°Å°¡ ¹ß°ß ¾È µÆ½É´õ.,È¯ÀÚ ¾ÏÀÌ ÀüÀÌµÆ½É´õ.
+,±× »ç¶÷ ¼ö¼ú Àü °Ë»ç¿¡¼± °£¾Ï¿¡¼­ ÀüÀÌµÆ´Ù´Â Áõ°Å°¡ ¹ß°ß ¾È µÆ½Ê´Ï´õ.,¼ú ¸¹ÀÌ ¸¶½Å °ú°Å·Â
+,"¾Ö±â´Â Á¡Á¡ º¹¼ö°¡ ºüÁö°í, Áß³úµ¿¸Æ Ç÷·ù°¡ ÁÁ¾ÆÁö´Â±â È®ÀÎµÆ½Ê´Ï´õ.",¾Ö±âÇÑÅ×¼­ ÅÂ¾Æ¼º ¼öÁ¾ÇÏ°í ¸Â´Â ¼Ò°ßÀÌ º¸ÀÔ´Ï´õ.
+,"¾Ö±â´Â Á¡Á¡ º¹¼ö°¡ ºüÁö°í, Áß³úµ¿¸Æ Ç÷·ù°¡ ÁÁ¾ÆÁ³´Ù´Â±â È®ÀÎµÆ½Ê´Ï´õ.",¾Ö±â´Â ºñÁ¤»óÀûÀÎ º¹¸·¾×Àº ¾ø¾ú½Ê´Ï´õ.
+,"¾Ö±â´Â Á¡Á¡ º¹¼ö°¡ ºüÁö°í, Áß³úµ¿¸Æ Ç÷·ù°¡ ÁÁ¾ÆÁö´Â±â È®ÀÎµÆ½Ê´Ï´õ.",¾Ö±â°¡ ½ÉºÎÀü¿¡ °É›½Ê´Ï´õ.
+,"¸¶±×³×½· È²»ê¿° Åõ¿©¸¦ ¸Ø¯z°í, »ê¸ðÇÑÅ×¼­´Â ÇÇ°¡ ´õ ³ª°Å³ª ÅÂ¹ÝÁ¶±â¹Ú¸®°¡ µÉ±îºÁ °ÆÁ¤ÀÌ ÀÖ¾ú½Ê´Ï´õ.",ÀÓ½Å Áß¿¡ ÇÇ°¡ ³ª¼­ »óÈ²ÀÌ º¹ÀâÇØÁ³½Ê´Ï´õ.
+,"¸¶±×³×½· È²»ê¿° Åõ¿©¸¦ ¸Ø¯z°í, ¾î¸Å´Â ÇÇ°¡ ´õ ³ª°Å³ª ÅÂ¹ÝÁ¶±â¹Ú¸®°¡ µÉ±îºÁ °ÆÁ¤ÀÌ ÀÖ¾ú½Ê´Ï´õ.",ÀÓ½ÅÇÏ°í Ãâ»êÀº º° Å» ¾ø¾ú½Ê´Ï´õ.
+,"¸¶±×³×½· È²»ê¿° Åõ¿©¸¦ ¸Ø¯z°í, »ê¸ðÇÑÅ×¼­´Â ÇÇ°¡ ´õ ³µÀ¸¸ç ÅÂ¹ÝÁ¶±â¹Ú¸®°¡ µÉ±îºÁ °ÆÁ¤ÀÌ ÀÖ¾ú½Ê´Ï´õ.",¾î¸Å´Â ÃÖ±Ù¿¡ ¹è¸¦ ´ÙÃÆ½Ê´Ï´õ.
+,"CHF ½É±Ùº´Áõ, ½É¹æ¼¼µ¿, °ü»óµ¿¸ÆÁúÈ¯, ½É±Ù°æ»ö ÈÄ [**3441**], ³úÁ¹Áß [**3471**], °©»ó¼±Á¾ (Dr. [**Last Name (STitle) 6839**]), Ã¶°áÇÌ¼º ºóÇ÷, ´ë»óÆ÷Áø ÈÄ ½Å°æÅë, µð¹öÆ¼Å§¶óÁõ, °ñÀÇ ÆäÀÌÁöÆ®º´, ¸¸¼º ºÎºñµ¿¿°, À§Àå°ü ÃâÇ÷ [**3460**] + Çï¸®ÄÚ¹ÚÅÍ ÇÇ·Î¸®±Õ °¨¿°",È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ¿©·¯ °³ ÀÖ½Ê´Ï´õ.
+,"CHF ½É±Ùº´Áõ, ½É¹æ¼¼µ¿, °ü»óµ¿¸ÆÁúÈ¯, ½É±Ù°æ»ö ÈÄ [**3441**], ³úÁ¹Áß [**3471**], °©»ó¼±Á¾ (Dr. [**Last Name (STitle) 6839**]), Ã¶°áÇÌ¼º ºóÇ÷, ´ë»óÆ÷Áø ÈÄ ½Å°æÅë, µð¹öÆ¼Å§¶óÁõ, »ÀÀÇ ÆäÀÌÁöÆ®º´, ¸¸¼º ºÎºñµ¿¿°, À§Àå°ü ÃâÇ÷ [**3460**] + Çï¸®ÄÚ¹ÚÅÍ ÇÇ·Î¸®±Õ °¨¿°",È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½Ê´Ï´õ.
+,"CHF ½É±Ùº´Áõ, ½É¹æ¼¼µ¿, °ü»óµ¿¸ÆÁúÈ¯, ½É±Ù°æ»ö ÈÄ [**3441**], ³úÁ¹Áß [**3471**], °©»ó¼±ºñ´ëÁõ (Dr. [**Last Name (STitle) 6839**]), Ã¶°áÇÌ¼º ºóÇ÷, ´ë»óÆ÷Áø ÈÄ ½Å°æÅë, ´ëÀå µð¹öÆ¼Å§·Î½ºÁõ, »ÀÀÇ ÆäÀÌÁöÆ®º´, ¸¸¼º ºÎºñµ¿¿°, À§Àå°üÃâÇ÷ [**3460**] + Çï¸®ÄÚ¹ÚÅÍ ÇÇ·Î¸®±Õ °¨¿°",È¯ÀÚ´Â ³ªÀÌ°¡ ¸¹½Ê´Ï´õ.
+,"±× »ç¶÷Àº [**Hospital3 4254**] [**12-19**]¿¡ ÀÔ¿øÇÏ±â Àü¿¡ ºñ´¢±â°ú ÀÇ»çÇÑÅ× °¬¾ú°í, Æú¸® Ä«Å×ÅÍ¸¦ ²Å°í ³ªÀÌ±î ¼Òº¯¿¡¼­ ´ëº¯ ¼ººÐÀÌ ³ª¿Ô½Ê´Ï´õ.",±× »ç¶÷Àº ¼Òº¯ °Ë»ç °á°ú°¡ ºñÁ¤»óÀÌ¾ú½Ê´Ï´õ.
+,"±× »ç¶÷Àº [**Hospital3 4254**] [**12-19**]¿¡ ÀÔ¿øÇÏ±â Àü¿¡ ºñ´¢±â°ú ÀÇ»ç¸¦ ¸¸³µ°í, Æú¸® Ä«Å×ÅÍ¸¦ ²ÅÀº µÚ¿¡ ±× »ç¶÷ ¼Òº¯¿¡¼­ ´ëº¯ ¼ººÐÀÌ ³ª¿Ô½Ê´Ï´õ.",±× »ç¶÷ ¼Òº¯Àº Á¤»óÀ¸·Î º¸¿´½Ê´Ï´õ.
+,"±× »ç¶÷Àº [**Hospital3 4254**] [**12-19**]¿¡ ÀÔ¿øÇÏ±â Àü¿¡ ºñ´¢±â°ú ÀÇ»çÇÑÅ× °¬¾ú°í, Æú¸® Ä«Å×ÅÍ¸¦ ²ÅÀº µÚ¿¡ ±× »ç¶÷ ¼Òº¯¿¡¼­ ´ëº¯¼º ¹°ÁúÀÌ ³ª¿Ô½Ê´Ï´õ.",±× »ç¶÷Àº ÃÖ±Ù¿¡ ¼ö¼úÇß½Ê´Ï´õ.
+,"±× ¿©ÀÚ´Â °á±¹ ½É³¶ »ïÃâ, ½É³¶ Å½Æù, Èä¸· »ïÃâ ÂÉ¸Å¶û °üÀý »ïÃâÀÌ ÀÖ´Â º×Àº ¹«¸­, ±×¸®°í °üÀýÅë±îÁö ¿©·¯ ¹®Á¦°¡ ÀÖ´Â °É·Î ¹àÇôÁ³½Ê´Ï´õ.",±× ¿©ÀÚ °¡½¿ ¿¢½º·¹ÀÌ °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
+,"±× ¿©ÀÚ´Â °á±¹ ½É³¶ »ïÃâ, ½É³¶ ¾Ð¹Ú, Èä¸· »ïÃâ ÂÉ¸Å¶û °üÀý »ïÃâÀÌ ÀÖ´Â º×Àº ¹«¸­, ±×¸®°í °üÀýÅë±îÁö ¿©·¯ ¹®Á¦°¡ ÀÖ´Â °É·Î ÆÇ¸íµÆ½Ê´Ï´õ.",±× ¿©ÀÚ´Â ½ÉÀåÀÌ³ª Æó ÂÊÀ¸·Î º´·ÂÀÌ ¾ø½Ê´Ï´õ.
+,"±× ¿©ÀÚ´Â °á±¹ ½É³¶ »ïÃâ, ½É³¶ ¾Ð¹Ú, Èä¸· »ïÃâ ÂÉ¸Å¶û °üÀý »ïÃâÀÌ ÀÖ´Â º×Àº ¹«¸­, ±×¸®°í °üÀýÅë±îÁö ¿©·¯ ¹®Á¦°¡ ÀÖ´Â °É·Î ¹àÇôÁ³½Ê´Ï´õ.",±× ¿©ÀÚ´Â °üÀý¿°ÀÌ ÀÖ½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â Àü³¯¿¡ ÇÑ ¹ø ÅäÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÃÖ±Ù¿¡ ÅäÇß½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â PTA ÀÖ´ø ³¯¿¡ ÇÑ ¹ø ÅäÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÃÖ±Ù¿¡ ÅäÇÑ Àû ¾ø´Ù°í ÇÕ´Ï´õ.
+,±× ¿©ÀÚ´Â PTA ÀÖ´ø ³¯¿¡ ÇÑ ¹ø ÅäÇß½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÈûÀÌ ºüÁø´Ù°í ÇÕ´Ï´õ.
+,"°ú°Å º´·Â: [**09**]³â Àü¿¡ »ý±ä °ü»óµ¿¸Æ ÁúÈ¯À¸·Î ½É±Ù°æ»ö ¾Î°í ³­ µÚ »óÅÂ, Ç÷°ü¼ºÇü¼ú ÇÑ µÚ »óÅÂ.",½ÉÀå¸¶ºñ °ÞÀº °ú°Å·Â
+,"°ú°Å º´·Â: [**09**]³â Àü¿¡ »ý±ä °ü»óµ¿¸Æ ÁúÈ¯À¸·Î ½É±Ù°æ»ö ¾Î°í ³­ µÚ°í, Ç÷°ü¼ºÇü¼ú ÇÏ°í ³­ »óÅÇ´Ï´õ.",½ÉÀåº´ ¾ÎÀº Àû ¾ø½É´õ.
+,"°ú°Å º´·Â: [**09**]³â Àü¿¡ ½É±Ù°æ»ö ¾Î°í ³ª¼­ °ü»óµ¿¸Æ ÁúÈ¯ ÀÖ¾ú°í, Ç÷°ü¼ºÇü¼ú ÇÏ°í ³­ »óÅÇ´Ï´õ.",°íÁöÇ÷Áõ ¾ÎÀº Àû ÀÖ½É´õ.
+,"½ÉÀüµµ(ECG) °á°ú¿¡¼­ V4-V6¿¡ ST ÇÏ°­ÀÌ º¸¿´´Âµ¥¿¹, [**4-15**]¿¡ Âï¾ú´ø ¿¾³¯ ½ÉÀüµµ¿¡¼­µµ ¶È°°ÀÌ ³ª¿Ô½É´õ(ÁøÂ¥ ½ÉÀüµµ´Â ¸ø ±¸Çß¾î¿¹).",È¯ÀÚºÐ ½ÉÀüµµ °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
+,"½ÉÀüµµ(ECG) °á°ú¿¡¼­ V4-V6¿¡ ST ÇÏ°­ÀÌ º¸¿´´Âµ¥, [**4-15**]¿¡ Âï¾ú´ø ¿¾³¯ ½ÉÀüµµ¿¡¼­µµ ¶È°°ÀÌ ÆÇ´ÜÇß½É´õ (ÁøÂ¥ ½ÉÀüµµ´Â ¸ø ±¸Çß¾î¿¹).",È¯ÀÚºÐ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"½ÉÀüµµ(ECG) °á°ú¿¡¼­ V4-V6¿¡ ST ÇÏ°­ÀÌ º¸¿´´Âµ¥¿¹, [**4-15**]¿¡ Âï¾ú´ø ¿¾³¯ ½ÉÀüµµ¿¡¼­µµ ¶È°°ÀÌ ÆÇ´ÜµÆ½É´õ (ÁøÂ¥ ½ÉÀüµµ´Â ¸ø ±¸Çß¾î¿¹).",È¯ÀÚºÐÀÌ ½É±Ù°æ»öÀÌ ¿Ô½É´õ.
+,"¹è´Â ¸»¶ûÇÏ°í, ´­·¯µµ ¾È ¾ÆÇÁ°í, »§»§ÇÏÁöµµ ¾Ê¾Ò¾î¿¹.",¹è °Ë»çÇØº¸ÀÌ±î º°´Ù¸¥ °Ç ¾ø¾ú½É´õ.
+,"¹è´Â ¸»¶ûÇÏ°í, ´­·¯µµ ¾È ¾ÆÇÁ°í, »§»§ÇÏÁöµµ ¾Ê¾Ò¾î¿¹.",¹è¸¦ ¸¸ÁöÀÌ±î ¾ÆÆÄÇß¾î¿¹.
+,"¹è´Â ¸»¶ûÇÏ°í, ´­·¯µµ ¾È ¾ÆÇÁ°í, »§»§ÇÏÁöµµ ¾Ê¾Ò¾î¿¹.",È¯ÀÚºÐÀÌ ¿ÞÂÊ ¾Æ·§¹è°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"Áö±Ý È¯ÀÚºÐ Æó·ÅÀÌ ¸¶ÀÌ ÁÁ¾ÆÁ³°í¿¹, ¿À·§µ¿¾È ¼ûÅë °ü¸®ÇÒ¶ó°í º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚºÐÇÑÅ× °¨¿°ÀÌ µÆ½É´õ.
+,"Áö±Ý È¯ÀÚºÐ Æó·ÅÀÌ ¸¶ÀÌ ÁÁ¾ÆÁ³°í¿¹, ¿À·§µ¿¾È ¼ûÅë °ü¸®ÇÒ¶ó°í º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚºÐ °¡½¿ ¿¢½º·¹ÀÌ ÂïÀº °Å´Â Á¤»óÀÔ´Ï´õ.
+,"Áö±Ý È¯ÀÚºÐ Æó·ÅÀÌ ¸¶ÀÌ ÁÁ¾ÆÁ³°í¿¹, ¿À·§µ¿¾È È£Èí±â °ü¸®ÇÒ¶ó°í º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚºÐÀÌ ¼û ½¬´Â °É Èûµé¾îÇÕ´Ï´õ.
+,"¿ÞÂÊ °øÅë °æµ¿¸ÆÀÌ 100% ´Ù ¸·Çû°í, ¿À¸¥ÂÊ ³»°æµ¿¸ÆÀº 90% ³Ñ°Ô ¸·Çû½É´õ.",È¯ÀÚºÐÀº °æµ¿¸Æ ÇùÂøÁõÀÌ ÀÖ½É´õ.
+,"¿ÞÂÊ °øÅë °æµ¿¸ÆÀÌ 100% ´Ù ¸·Çû°í, ¿À¸¥ÂÊ ³»°æµ¿¸ÆÀº 90% ³Ñ°Ô ¸·Çû½É´õ.",È¯ÀÚºÐ °æµ¿¸ÆÀº Á¤»óÀÔ´Ï´õ.
+,"¿ÞÂÊ °øÅë °æµ¿¸ÆÀÌ 100% ´Ù ¸·Çû°í, ¿À¸¥ÂÊ ³»°æµ¿¸ÆÀº 90% ³Ñ°Ô ¸·Çû½É´õ.",È¯ÀÚºÐÀº ¿¾³¯¿¡ ³úÁ¹Áß ¾ÎÀº Àû ÀÖ½É´õ.
+,"Åð¿øÇÏ±â Àü¿¡ ÂïÀº ÀÚ±â°ø¸íÇ÷°üÁ¶¿µ¼ú(MRA) °á°ú¸¦ º¸ÀÌ±î, T3-4 ÀÖ´Âµ¥¼­ °üÀý¸éÇÏ°í ¿À¸¥ÂÊ Çã¸®±Ù °¡±îÀÌ¿¡ ´Üµ¶ ¹× Àç±¸¼ºµÈ Ã´Ãß ±ÙÀ°ÀÌ ´Ã¾î³­±â º¸¿´½É´õ.",È¯ÀÚºÐÀº Ã´Ãß¿¡ ÅðÇà¼º º¯È­°¡ ¿À°í ÀÖ½É´õ.
+,"Åð¿øÇÏ±â Àü¿¡ ÂïÀº ÀÚ±â°ø¸íÇ÷°üÁ¶¿µ¼ú(MRA) °á°ú¸¦ º¸ÀÌ±î, T3-4 ÀÖ´Âµ¥¼­ °üÀý¸éÇÏ°í ¿À¸¥ÂÊ Çã¸®±ÙÀ° ¾ÕÂÊ¿¡ °¡±î¿î ´Üµ¶ ¹× ÀçÁ¶Á¤µÈ Ã´Ãß ±ÙÀ°ÀÌ ´Ã¾î³­±â º¸¿´½É´õ.",È¯ÀÚºÐ Ã´Ãß´Â Á¤»óÀÔ´Ï´õ.
+,"Åð¿øÇÏ±â Àü¿¡ ÂïÀº ÀÚ±â°ø¸íÇ÷°üÁ¶¿µ¼ú(MRA) °á°ú¸¦ º¸ÀÌ±î, T3-4 ÀÖ´Âµ¥ ÀÎÁ¢ÇÑ °üÀý¸éÇÏ°í ¿À¸¥ÂÊ È¾Çà±Ù ¾È¿¡ ÀÖ´Â ´Üµ¶ ¹× ÀçÁ¶Á¤ Ã´Ãß ±ÙÀ°ÀÇ ........ÀÌ ´Ã¾î³­ °É·Î ³ª¿Ô½É´õ.",È¯ÀÚºÐÀº Çã¸®°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"È¯ÀÚºÐ ½ÉºÎÀüÁõÀÌ ±¦Âú¾ÆÁö°í ³ª¼­, [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ´õ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.",È¯ÀÚºÐ »ê¼ÒÆ÷È­µµ°¡ ³·½É´õ.
+,"È¯ÀÚºÐ ½ÉºÎÀüÁõÀÌ ±¦Âú¾ÆÁö°í ³ª¼­, [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ´õ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.",È¯ÀÚºÐ ½É¹ÚÃâ·®Àº Á¤»óÀÔ´Ï´õ.
+,"È¯ÀÚºÐ ½ÉºÎÀüÁõÀÌ ±¦Âú¾ÆÁö°í ³ª¼­, [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ´õ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.",È¯ÀÚºÐÀº °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº¸ÀÌ±î ºÎÁ¾ÀÌ º¸¿´½É´õ.
+,"È¯ÀÚ´Â ¾ÆÇÂ °Í ¶«¿¡ Á¡Á¡ ¼ûÀÌ Â÷´Âµ¥, ÀÌ°Å´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ ¾ÇÈ­µÈ °ÅÇÏ°í´Â ¾È ¸Â½À´Ï´Ù.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) º´·ÂÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â ¾ÆÇÂ °Í ¶«¿¡ Á¡Á¡ ¼ûÀÌ Â÷´Âµ¥, ÀÌ°Å´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ ¾ÇÈ­µÈ °ÅÇÏ°í´Â ¾È ¸Â½À´Ï´Ù.",È¯ÀÚ ROS(Review of Systems) °á°ú´Â ÀÌ»ó ¾ø½É´õ.
+,"È¯ÀÚ´Â ¾ÆÇÂ °Í ¶«¿¡ Á¡Á¡ ¼ûÀÌ Â÷´Âµ¥, ÀÌ°Å´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ ¾ÇÈ­µÈ °ÅÇÏ°í´Â ¾È ¸Â½À´Ï´Ù.",È¯ÀÚÇÑÅ× ST »ó½ÂÀÌ º¸ÀÔ´Ï´õ.
+,"""¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å '¹Ì´Ï ³úÁ¹Áß'""",È¯ÀÚ´Â Ä¡¸Å°¡ ÀÖ½É´õ.
+,"""¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å '¹Ì´Ï ³úÁ¹Áß'""",È¯ÀÚ Á¤½Å »óÅÂ´Â ¸ÖÂÄÇÕ´Ï´õ.
+,"""¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å '¹Ì´Ï ³úÁ¹Áß'""",È¯ÀÚ´Â µµ¿òÀÌ ÇÊ¿äÇÑ È¯°æ¿¡¼­ »ì°í ÀÖ½É´õ.
+,"¾Æ´Â [**3-26**]ÇÏ°í 17ÀÏ¿¡ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥, ÀÌ °Ë»ç¿¡¼­ µ¹Ãâµ¿¸Æ µ¿¸Æ°üÀÌ³ª µ¹Ãâµ¿¸Æ ±¸¸ÛÀº ¾È º¸¿´°í, ½É¹æ ±â´ÉÀº ±¦ÂúÀº °É·Î È®ÀÎµÆ½É´õ.","½ÉÀå ÃÊÀ½ÆÄ °Ë»ç °á°ú, ½É¹æ ±â´ÉÀÌ ±¦ÂúÀº °É·Î È®ÀÎµÆ½É´õ."
+,"¾Æ´Â [**3-26**]ÇÏ°í 17ÀÏ¿¡ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥, ÀÌ °Ë»ç¿¡¼­ µ¿¸Æ°ü °³¹æÁõÀÌ³ª ½É¹æÁß°Ý°á¼ÕÁõÀº ¾È ³ªÅ¸³µ°í ½É¹æ ±â´ÉÀÌ ±¦ÂúÀº °É È®ÀÎÇß½É´õ.","¿¡ÄÚ°Ë»ç °á°ú, µ¿¸Æ°ü °³¹æÁõÀÌ È®ÀÎµÆ½É´õ."
+,"¾Æ´Â [**3-26**]ÇÏ°í 17ÀÏ¿¡ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥, ÀÌ °Ë»ç¿¡¼­ µ¿¸Æ°ü °³¹æÁõÀÌ³ª µ¿¸Æ¿ø°³±¸ °³¹æÁõÀº ¾ø°í ½É¹æ ±â´ÉÀº ±¦ÂúÀº °É·Î È®ÀÎµÆ½É´õ.",ÀÌ ¾Æ´Â ÅÂ¾î³¯ ¶§ºÎÅÍ ÀÖ´ø °áÇÔÀº ¾ø½É´õ.
+,(2) °£¼¼Æ÷¼º ´ã¼®ÁõÇÏ°í °°ÀÌ ¿Â À¯µÎºÎÀÇ ¸¸¼º ¿°ÁõÇÏ°í ±«»ç.,È¯ÀÚ´Â °£ »ý°Ë ¹Þ¾Ò½É´õ.
+,(2) °£¼¼Æ÷¼º ´ã¼®ÁõÇÏ°í °°ÀÌ »ý±ä À¯³¶¼º ¸¸¼º ¿°ÁõÇÏ°í ±«»ç.,°£ »ý°Ë Á¤»ó ¼Ò°ß.
+,(2) °£¼¼Æ÷¼º ´ã¼®ÁõÇÏ°í °°ÀÌ »ý±ä À¯µÎ»ó ¸¸¼º ¿°Áõ ¹× ±«»ç.,È¯ÀÚ´Â °£°æº¯ÁõÀÌ ÀÖ½É´õ.
+,"[**Hospital1 18**]¿¡¼­ ±× È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â Ã¼¿Â 97.3, ½É¹Ú¼ö 90, Ç÷¾Ð 99/49, È£Èí¼ö 24, »ê¼ÒÆ÷È­µµ 95% NRB¿´½É´õ.",È¯ÀÚ°¡ ¼ûÀ» »¡¸® ½¬°í ÀÖ½É´õ.
+,"[**Hospital1 18**]¿¡¼­ ±× È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â Ã¼¿Â 97.3, ½É¹Ú¼ö 90, Ç÷¾Ð 99/49, È£Èí¼ö 24, »ê¼Ò Æ÷È­µµ 95% NRB·Î ³ª¿Ô½É´õ.",È¯ÀÚ ¼û½¬´Â ¼Óµµ´Â Á¤»óÀÔ´Ï´õ.
+,"[**Hospital1 18**]¿¡¼­ ±× È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â Ã¼¿Â 97.3, ½É¹Ú¼ö 90, Ç÷¾Ð 99/49, È£Èí¼ö 24, »ê¼ÒÆ÷È­µµ 95% NRB¿´½É´õ.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾îÇÕ´Ï´õ.
+,"»êºÎÀÎ°ú ÀÌ·Â: ÀÓ½Å 5È¸, Ãâ»ê 1È¸-0-4-1.",È¯ÀÚ´Â À¯»êÇÑ ÀûÀÌ ÀÖ½É´õ.
+,"»êºÎÀÎ°ú·Â: ÀÓ½Å 5È¸, Ãâ»ê 1È¸-0-4-1.",È¯ÀÚ´Â Á¶»ê¾Æ¸¦ ³ºÀº ÀûÀÌ ÀÖ½É´õ.
+,"»êºÎÀÎ°ú·Â: G5, P1-0-4-1.",È¯ÀÚ°¡ ½º½º·Î ¾Ö ¶¾ °Å.
+,¿©·¯ ¹ø »ó´ãÀ» Çß½É´õ.,È¯ÀÚ´Â ¿©·¯ Àü¹®ÀÇ¸¦ Ã£¾Æ°¡ º» ÀûÀÌ ÀÖ½É´õ.
+,¿©·¯ ¹ø »ó´ãÀ» Çß½É´õ.,È¯ÀÚ´Â ÀÇ·áÀûÀ¸·Î ¾î¶² ºÒ¸¸µµ ¸»ÇÑ ÀûÀÌ ¾ø½É´õ.
+,»ó´ã ¿©·¯ °Ç ÁøÇàµÆ½É´õ.,È¯ÀÚ´Â ÁúÈ¯ÀÌ ¿©·¯ °³ÀÔ´Ï´õ.
+,±× ¿©ÀÚºÐ Ç÷ÀåºñÁßÀº ¾ÈÁ¤µÆ°í ÃâÇ÷Àº °ÅÀÇ ´Ù ÇØ°áµÆ½É´õ.,È¯ÀÚ Ç÷¾×ÇÐÀû ÁöÇ¥ÀÎ Çì¸¶ÅäÅ©¸´ ¼öÄ¡°¡ ÁÙ°í ÀÖ¾ú½É´õ.
+,±× ¿©ÀÚºÐ Ç÷ÀåºñÁßÀÌ ¾ÈÁ¤µÆ°í ÃâÇ÷Àº °ÅÀÇ ´Ù ÇØ°áµÆ½É´õ.,È¯ÀÚ Ç÷¾×¿ëÀû·üÀÌ ¿Ã¶ó°¬½É´õ.
+,±× ¿©ÀÚºÐ Ç÷¾× ¿ëÀû·üÀº ¾ÈÁ¤µÆ°í ÃâÇ÷Àº °ÅÀÇ ´Ù ÇØ°áµÆ½É´õ.,È¯ÀÚ´Â ÃâÇ÷ Àå¾Ö°¡ ÀÖ½É´õ.
+,"½Ã¼úÇÏ°í ¹Ù·Î, È¯ÀÚ »ê¼ÒÆ÷È­µµ°¡ 66%·Î ¶³¾îÁ³´Âµ¥, ºñÀç¼øÈ¯ ¸¶½ºÅ© ½á°¡ 100% FIO2ÀÇ 90%±îÁö ¿Ã¶ú½É´õ.",È¯ÀÚ´Â »ê¼Ò °ø±ÞÀ» ´õ ÇØ¾ß µÆ½É´õ.
+,"½Ã¼úÇÏ°í ¹Ù·Î, È¯ÀÚ »ê¼ÒÆ÷È­µµ°¡ 66%·Î ¶³¾îÁ³´Âµ¥, ºñÀç¼ú¿ë ¸¶½ºÅ© ½á°¡ 100% FIO2ÀÇ 90%±îÁö ¿Ã¶ú½É´õ.",È¯ÀÚ Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"½Ã¼úÇÏ°í ¹Ù·Î, È¯ÀÚ »ê¼Ò Æ÷È­µµ°¡ 66%·Î ¶³¾îÁ³´Ù°¡ ºñÀç¼ú¿ë ¸¶½ºÅ© ½á°¡ 100% FIO2ÀÇ 90%·Î ¿Ã¶ú½É´õ.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ½É´õ.
+,¼±ÅÃÀû ¿ÞÂÊ ³»°æµ¿¸Æ Ä«Å×ÅÍ »ðÀÔ.,°ü»óµ¿¸Æ ºÐ¼®ÇÏ´Â ÀýÂ÷.
+,¼±ÅÃÀû ¿ÞÂÊ ³»°æµ¿¸Æ Ä«Å×ÅÍ »ðÀÔ.,ºñÄ§½ÀÀû °Ë»ç.
+,¼±ÅÃÀû ¿ÞÂÊ ³»°æµ¿¸Æ Ä«Å×ÅÍÈ­.,ÀÌ ¿¬±¸´Â Ç×»ó °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ´ÂÁö ¾ø´ÂÁö º¸¿©ÁÝ´Ï´õ.
+,"ÀÏÈç¾ÆÈ© »ì ³²ÀÚ È¯ÀÚºÐÀº [**±¹°¡ **] Ãâ½ÅÀÌ°í, °íÇ÷¾Ð, ´ç´¢º´, °íÁöÇ÷Áõ, Áßµîµµ ´ëµ¿¸Æ·ù¶û ´ëµ¿¸ÆÆÇ¸· ¿ª·ùÁõÀÌ ÀÖ½É´õ. °¡·¡ ³¢°í ¼ûÀÌ Â÷°¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â Áß¿äÇÑ °ú°Å º´·ÂÀÌ ÀÖ½É´õ.
+,"ÀÏÈç¾ÆÈ© »ì ³²ÀÚ È¯ÀÚºÐÀº [**±¹°¡ **]¿¡¼­ ¿À¼Ì°í, °íÇ÷¾Ð, ´ç´¢º´, °íÁöÇ÷Áõ, Áßµîµµ ´ëµ¿¸Æ·ù¶û ´ëµ¿¸ÆÆÇ¸· ¿ª·ùÁõÀ» °®°í ÀÖ½É´õ. ±âÄ§ÇÏ°í °¡·¡ ³¢°í, ¼û½¬±â Èûµç Áõ»óÀ» º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â ¾Æ¹«·± º´ÀÌ ¾ø½É´õ.
+,"ÀÏÈç¾ÆÈ© »ì ³²ÀÚ È¯ÀÚ°í [**±¹°¡ **] Ãâ½ÅÀÎµ¥, °íÇ÷¾Ð, ´ç´¢º´, °íÁöÇ÷Áõ, Áßµîµµ ´ëµ¿¸Æ·ù¶û ´ëµ¿¸Æ ÆÇ¸· ¿ª·ù Áõ»óÀÌ ÀÖ½É´õ. ±âÄ§ÇÏ°í °¡·¡ ³¢°í ¼û½¬±â Èûµé´Ù²¿ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ±àÁ¤ÀûÀÎ »çÈ¸·ÂÀÌ ÀÖ½É´õ.
+,"½É¹æ¼¼µ¿ÀÎµ¥, ¸¸¼ºÀÎÁö ¹ßÀÛ¼ºÀÎÁö´Â ¾Ë·ÁÁ® ÀÖÁö ¾Ê½É´õ.",È¯ÀÚ´Â ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ½É´õ.
+,"½É¹æ¼¼µ¿ÀÎµ¥, ¸¸¼ºÀÎÁö ¹ßÀÛ¼ºÀÎÁö´Â ¾Ë·ÁÁ® ÀÖÁö ¾Ê½É´õ.",È¯ÀÚ ½ÉÀå ¸®µëÀº Á¤»óÀÔ´Ï´õ.
+,"½É¹æ¼¼µ¿ÀÎµ¥, ¸¸¼ºÀÎÁö ¹ßÀÛ¼ºÀÎÁö´Â ¾Ë·ÁÁ® ÀÖÁö ¾Ê½É´õ.",È¯ÀÚ´Â Ç×ÀÀ°í Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.
+,"µÎ ¹øÂ° ÀÔ¿øÇßÀ» ¶§, °¡²û¾¿ ¿ÞÂÊ ÆÈÀÌ Âõ¾îÁöµíÀÌ ¾ÆÇÂ °Å¶û, ¿À¸¥ÂÊ ´« Ä§Ä§ÇÑ °Å, ±×¸®°í Áý¿¡¼­ ³Ñ¾îÁø °Å¸¦ ¾ê±âÇß½É´õ.",È¯ÀÚ´Â °£ÇæÀûÀ¸·Î ÆÈ ÅëÁõÀ» °Þ°í ÀÖ½É´õ.
+,"µÎ ¹øÂ° ÀÔ¿øÇßÀ» ¶§, °¡²û¾¿ ¿ÞÂÊ ÆÈÀÌ Âõ¾îÁöµíÀÌ ¾ÆÇÂ °Å¶û, ¿À¸¥ÂÊ ´« Ä§Ä§ÇÑ °Å, ±×¸®°í Áý¿¡¼­ ³Ñ¾îÁø °Å¸¦ ¾ê±âÇß½É´õ.",È¯ÀÚ´Â ºÒÆíÇÑ °Å ¾ø´Ù°í ÇÕ´Ï´õ.
+,"µÎ ¹øÂ° ÀÔ¿øÇßÀ» ¶§, °¡²û¾¿ ¿ÞÆÈÀÌ Âõ¾îÁöµíÀÌ ¾ÆÇÂ °Å¶û, ¿À¸¥ÂÊ ´« Ä§Ä§ÇÑ °Å, ±×¸®°í Áý¿¡¼­ ³Ñ¾îÁø °Å¸¦ ¾ê±âÇß½É´õ.",È¯ÀÚ´Â Çù½ÉÁõÀ» ¾Î°í ÀÖ½É´õ.
+,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹éÇ÷±¸ ¼öÄ¡°¡ 16.8 K°í, ¿ÞÂÊ ÀÌµ¿ÀÌ 92P 2B·Î ³ª¿Ô½É´õ. ±× ¿Ü »ýÈ­ÇÐ °Ë»ç, °£ ±â´É °Ë»ç, ½ÉÀüµµ´Â ´Ù Á¤»óÀÔ´Ï´õ.",È¯ÀÚÇÑÅ× °¨¿° Áõ°Å°¡ ³ªÅ¸³µ½É´õ.
+,"°Ë»ç½Ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹éÇ÷±¸ ¼öÄ¡°¡ 16.8K°í, ¿ÞÂÊÀ¸·Î ½ò¸° ±â 92P 2B·Î ³ª¿Ô½É´õ. ±× ¸»°í´Â È­ÇÐ °Ë»ç, °£ ±â´É °Ë»ç, ½ÉÀüµµ´Â ´Ù Á¤»óÀÔ´Ï´õ.",È¯ÀÚ ½ÉÀüµµ¿¡¼­ ST ¿Ã¶ó°£ ±â º¸¿´½É´õ.
+,"°Ë»ç½Ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹éÇ÷±¸ ¼öÄ¡°¡ 16.8K°í, ¿ÞÂÊÀ¸·Î ½ò¸° ±â 92P 2B·Î º¸ÀÎ´Ù´Â °Ì´Ï´õ. ±× ¸»°í´Â È­ÇÐ °Ë»ç, °£ ±â´É °Ë»ç, ½ÉÀüµµ´Â ´Ù Á¤»óÀÔ´Ï´õ.",È¯ÀÚ´Â °£°æº¯ ¾ø½É´õ.
+,"Áý¿¡¼­ 3L »ê¼Ò ÇÏ°í ÀÖ´Âµ¥, PFTs [**2949**]´Â Á¦ÇÑÀû ÆÐÅÏÀ» º¸ÀÌ°í, Æó °íÇ÷¾ÐÀº 15·Î ³ª¿Ô½É´õ.",È¯ÀÚ´Â Áý¿¡¼­ »ê¼Ò Ä¡·á ¹ÞÀ¸¸é¼­ Æó°íÇ÷¾ÐÀ» ¾Î°í ÀÖ½É´õ.
+,"Áý¿¡¼­ 3L »ê¼Ò ÇÏ°í ÀÖ´Âµ¥, PFTs [**2949**]¿¡¼­ Á¦ÇÑ ÆÐÅÏÀÌ º¸¿´°í, Æó °íÇ÷¾Ð 15¸¦ º¸¿´½É´õ.",È¯ÀÚ Æó´Â Á¤»óÀÔ´Ï´õ.
+,"Áý¿¡¼­ 3L »ê¼Ò ÇÏ°í ÀÖ´Âµ¥, PFTs [**2949**]¿¡¼­ Á¦ÇÑ ÆÐÅÏÀ» º¸ÀÌ°í, Æó°íÇ÷¾Ð 15·Î ³ª¿É´Ï´õ.",È¯ÀÚ´Â ´ã¹è ÇÌ´Ï´õ.
+,ÀÔ¿øÇÏ´Â ³¯ ¼ÅÆ²¿¡¼­ [**Hospital6 1900**]À¸·Î °É¾î°¡´Âµ¥ ¶Ç °¡½¿ÀÌ ¾ÆÆÄ¿Ô½É´õ.,¿òÁ÷ÀÏ ¶§ °¡½¿ÀÌ ¾ÆÆÍ½É´õ.
+,ÀÔ¿øÇÏ´Â ³¯ ¼ÅÆ²¿¡¼­ [**Hospital6 1900**]À¸·Î °É¾î°¡´Âµ¥ ¶Ç °¡½¿ÀÌ ¾ÆÆÄ¿Ô½É´õ.,Àü¿¡´Â ½ÉÀå ¾ÆÇÂ Àû ¾ø¾ú½É´õ.
+,ÀÔ¿øÇÏ´Â ³¯ ¼ÅÆ²¿¡¼­ [**Hospital6 1900**]À¸·Î °É¾î°¡´Âµ¥ ¶Ç °¡½¿ÀÌ ¾ÆÆÄ¿Ô½É´õ.,°ü»óµ¿¸Æ ÁúÈ¯ ¾ÎÀº Àû ÀÖ½É.
+,"½ÉÀå Ä«Å×ÅÍ ½Ã¼úÀ» Çß´Âµ¥, ±×°É·Î ´ÜÀÏ Ç÷°ü LAD ÁúÈ¯ÇÏ°í 60% ISR, ±×¸®°í Áø´Ü ½ºÅÙÆ®ÇÏ°í 95% ISRÀÌ È®ÀÎµÆ½É´õ.",°ü»óµ¿¸ÆÀÌ ¸·ÇûÀ½.
+,"½ÉÀå Ä«Å×ÅÍ ½Ã¼úÀ» ¹Þ¾Ò´Âµ¥, ´ÜÀÏ °ü»óµ¿¸Æ LAD ÁúÈ¯¿¡ 60% ³»ºÎ ÀçÇùÂø(ISR)ÀÌ ÀÖ°í Áø´Ü¿ë ½ºÅÙÆ®¿¡ 95% ³»ºÎ ÀçÇùÂø(ISR)ÀÌ ÀÖ´Â °É·Î ³ª¿Ô½É´õ.",½ÉÀå ±â´É Á¤»ó.
+,"½ÉÀå Ä«Å×ÅÍ ½Ã¼úÀ» ¹Þ¾Ò´Âµ¥, ´ÜÀÏ Ç÷°ü LAD ÁúÈ¯¿¡ 60% ISR, Áø´Ü ½ºÅÙÆ®¿¡ 95% ISRÀÌ ÀÖ´Â °É·Î ³ª¿Ô½É´õ.",°íÁöÇ÷Áõ ¾ÎÀº Àû ÀÖ½É.
+,"ÀÌ ¾ç¹ÝÀÌ 20´ë ¶§ HCV Áø´ÜÀ» ¹Þ¾Ò°í, HCV 2°¡ Àç¹ßÇÏ´Â °£°æº¯Áõ ¶«¿¡ [**3116-1-25**]¿¡ Á¤À§ °£ ÀÌ½Ä ¼ö¼úÀ» ¹Þ¾Ò½É´õ.",ÀÌ ¾ç¹ÝÀº °£ ÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"ÀÌ ¾ç¹ÝÀÌ 20´ë ¶§ HCV Áø´ÜÀ» ¹Þ¾Ò°í, HCV 2°¡ Àç¹ßÇÏ´Â °£°æº¯Áõ È¯ÀÚ¶ó¼­ [**3116-1-25**]¿¡ Á¤À§Ä¡ °£ ÀÌ½ÄÀ» ¹Þ¾Ò½É´õ.",ÀÌ ¾ç¹ÝÀº °£ ÁúÈ¯ ¾ÎÀº Àû ¾ø½É´õ.
+,"ÀÌ ¾ç¹ÝÀÌ 20´ë ¶§ HCV Áø´ÜÀ» ¹Þ¾Ò°í, HCV 2°¡ ÀÚ²Ù Àç¹ßÇÏ´Â °£°æº¯Áõ ¾Î°í ³ª¼­ [**3116-1-25**]¿¡ Á¤À§Ä¡ °£ ÀÌ½ÄÀ» ¹Þ¾Ò½É´õ.",ÀÌ ¾ç¹Ý È²´Þ ¿Ô½É´õ.
+,"[**6-28**]¿¡ È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾à ¾øÀÌµµ ÀÇÇÐÀûÀ¸·Î ¾ÈÁ¤µÆ°í, ÆÐÇ÷Áõ Áõ»óµµ ÀÌ¹Ì ¾ø¾îÁ®°¡ ÀÏ¹Ý OMED º´µ¿À¸·Î ¿Åƒ…½É´õ.",È¯ÀÚ »óÅÂ°¡ ÁÁ¾ÆÁ®°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Åƒ…½É´õ.
+,"[**6-28**]¿¡ È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾à ¾øÀÌµµ ¾ÈÁ¤ÀûÀÌ¾ú°í, ÆÐÇ÷Áõ Áõ»óµµ ´õ´Â ¾ø¾ú½É´õ. ±×·¡°¡ ÀÏ¹Ý OMED º´µ¿À¸·Î ¿Åƒ…½É´õ.",È¯ÀÚ´Â ÁýÀ¸·Î Åð¿øÇß½É´õ.
+,"[**6-28**]¿¡ È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾à ¾øÀÌµµ ¾ÈÁ¤ÀûÀÌ¾ú°í, ÆÐÇ÷Áõ Áõ»óµµ ÀÌ¹Ì ´õ´Â ¾È º¸¿©¼­ ÀÏ¹Ý OMED º´µ¿À¸·Î ¿Åƒ…½É´õ.",È¯ÀÚ´Â ÆÐÇ÷Áõ ¼îÅ© ¶«¿¡ ÁßÈ¯ÀÚ½Ç¿¡¼­ Ä¡·á¹Þ¾Ò½É´õ.
+,Á÷Àå °Ë»ç¿¡¼­ BRBPR(¼±È«»ö Ç÷º¯)ÀÌ º¸¿´½É´õ.,È¯ÀÚ°¡ ¶Ë²¿¿¡¼­ »õ»¡°£ ÇÇ°¡ ³ª¿Ô´Ù Ä°´Ï´õ.
+,Á÷Àå °Ë»ç¿¡¼­ BRBPR(¼±È«»ö Ç÷º¯)ÀÌ º¸¿´½É´õ.,È¯ÀÚ´Â À§Àå ÃâÇ÷ Áõ°Å´Â ¾ø½É´õ.
+,Á÷Àå °Ë»ç¿¡¼­ BRBPR(¼±È«»ö Ç÷º¯)ÀÌ º¸¿´½É´õ.,È¯ÀÚ´Â Ä¡ÁúÀÌ ÀÖ½É´õ.
+,"°á±¹, ±× ¾ÆÁö¸Å Ç÷¾ÐÀº ¼öÃà±â 140-160 ¼±¿¡¼­ ¾ÈÁ¤µÆ°í, 70% ÆäÀÌ½º ¸¶½ºÅ© ³¢°í ÀÖÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 90%¿´½É´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
+,"°á±¹, ±× ¾ÆÁö¸Å Ç÷¾ÐÀº ¼öÃà±â 140´ë-160´ë¿¡¼­ ¾ÈÁ¤µÆ°í, 70% ÆäÀÌ½º ¸¶½ºÅ© ³¢°í ÀÖÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 90%¿´½É´õ.",È¯ÀÚ »ýÃ¼½ÅÈ£´Â Á¤»óÀÔ´Ï´õ.
+,"°á±¹, ±× ¾ÆÁö¸Å Ç÷¾ÐÀº ¼öÃà±â 140´ë-160´ë¿¡¼­ ¾ÈÁ¤µÆ°í, 70% ÆäÀÌ½º ¸¶½ºÅ© ³¢°í ÀÖÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 90%¿´½É´õ.",È¯ÀÚ´Â ¸Ç °ø±â¸¸À¸·Î´Â »ê¼Ò °ø±ÞÀÌ Àß ¾È µË´Ï´õ.
+,"ÀÌ¿Ï±â ½ÉºÎÀü, ÁÂ½É½Ç ¹æÃâ°è¼ö >70% 2006³â 2¿ù 10ÀÏ.",È¯ÀÚ ÀÌ¿Ï±â ÃæÀüÀÌ °¨¼ÒÇß½É´õ.
+,"ÀÌ¿Ï±â ½ÉºÎÀü, ÁÂ½É½Ç ¹èÃâ°è¼ö >70% 2006³â 2¿ù 10ÀÏ.",È¯ÀÚ´Â Çù½ÉÁõÀÌ ÀÖ½É´õ.
+,"ÀÌ¿Ï±â ½ÉºÎÀü, 2006³â 2¿ù 10ÀÏ ÁÂ½É½Ç ¹ÚÃâ°è¼ö >70%.",È¯ÀÚ ¿¡ÄÚ(ÃÊÀ½ÆÄ) °á°ú°¡ ÀÌ»óÇÏ°Ô ³ª¿Ô½É´õ.
+,"È¯ÀÚ´Â ½É±Ù°æ»öÀº ¾Æ´Ï¶óÄ«´Âµ¥, ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ [**Hospital1 58**]·Î º¸³Â½É´õ.",È¯ÀÚ´Â ±Þ¼º ½ºÅÛÀÌ´Â ¾ø¾ú½É´õ.
+,"È¯ÀÚ´Â ½É±Ù°æ»ö ÆÇÁ¤Àº ¾È ¹Þ¾Ò´Âµ¥, ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ [**Hospital1 58**]·Î º¸³Â½É´õ.",È¯ÀÚ´Â °¡½¿ ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"È¯ÀÚ´Â ½É±Ù°æ»ö ÆÇÁ¤Àº ¾È ¹Þ¾Ò´Âµ¥, ½ÉÀå Ä«Å×ÅÍ °Ë»ç ¶«¿¡ [**º´¿ø1 58**]·Î º¸³Â½É´õ.",È¯ÀÚ´Â Çù½ÉÁõÀÌ ÀÖ½É´õ.
+,¸Ó¸® CT °Ë»ç¿¡¼­´Â ±Þ¼º µÎ°³³» °úÁ¤Àº ¹ß°ß ¾È µÆ½É´õ.,"¸Ó¸® CT °á°ú, ±ÞÇÑ º´ Áõ»óÀº ¾È º¸¿´½É´õ."
+,¸Ó¸® CT °Ë»ç¿¡¼­´Â ±Þ¼º µÎ°³³» °úÁ¤Àº ¹ß°ß ¾È µÆ½É´õ.,"¸Ó¸® CT °á°ú, ÇÇ ³ª´Â °Ô º¸¿´½É´õ."
+,¸Ó¸® CT °Ë»ç¿¡¼­´Â ±Þ¼º µÎ°³³» °úÁ¤Àº ¹ß°ß ¾È µÆ½É´õ.,È¯ÀÚ°¡ Á¤½ÅÀ» ¸ø Â÷¸³´Ï´õ.
+,"[**10/2802**]¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ È¤ ¶«¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò´Âµ¥, ±×±â ¾ç¼º °áÀý 4·Î ³ª¿Ô½É´õ.",È¯ÀÚÇÑÅ× È¤ÀÌ ÀÖ½É´õ.
+,"[**10/2802**]¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ È¤ ¶«¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò´Âµ¥, ±×±â ¾ç¼º °áÀý 4·Î È®ÀÎµÆ½É´õ.",È¯ÀÚ °¡½¿ CT °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"[**10/2802**]¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ È¤ ¶«¿¡ ¿ÞÂÊ Æó ¾Æ·¡ÂÊ ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò´Âµ¥, ±×±â ¾ç¼º °áÀý 4·Î ³ª¿Ô½É´õ.",È¯ÀÚÇÑÅ× º´ÀÌ ´Ù¸¥ µ¥·Î ÆÛÁ³½É´õ.
+,"¾ÆÆÍ´ø °Å´Â È¯ÀÚÇÏ°í ¼Õ³àµþÀÌ ¾ê±âÇØÁá´Âµ¥, ±× ÀÏ ÀÖÀ» ¶§ ¼Õ³àµþµµ °°ÀÌ ÀÖ¾ú´Ù Ä°´Ï´õ.",È¯ÀÚ°¡ ¾ÆÆÍ´ø °Å ¾ê±â¸¦ ¾È Çß½É´õ.
+,"¾ÆÆÍ´ø °Å´Â È¯ÀÚÇÏ°í ¼Õ³àµþÀÌ ¾ê±âÇØÁá´Âµ¥, ±× ÀÏ ÀÖÀ» ¶§ °°ÀÌ ÀÖ¾ú´Ù Ä°´Ï´õ.",È¯ÀÚ°¡ ¾ÆÆÍ´ø °Å ¾ê±âÇß½É´õ.
+,º´·ÂÀº È¯ÀÚÇÏ°í ±× ¼Õ³àµþÀÌ ±× ÀÏ ÀÖÀ» ¶§ ºÃ´ø ´ë·Î ÀûÇô ÀÖ½É´õ.,È¯ÀÚ°¡ ¾ÆÆÍ´ø °Å ¾ê±â¸¦ ¸ø ÇÕ´Ï´õ.
+,¸î ´Þ Àü¿¡ ¸¶Èç¾ÆÈ© »ì ¹¬Àº ³²ÀÚ°¡ ½ÉÀå¿¡ ÀâÀ½ÀÌ ÀÖ´Ù´Â °É ¾Ë°Ô µÆ½É´õ.,È¯ÀÚ´Â ½ÉÀå¿¡ ÀâÀ½ÀÌ ÀÖ½É´õ.
+,¸î ´Þ Àü¿¡ ¸¶Èç¾ÆÈ© »ì ¹¬Àº ³²ÀÚ°¡ ½ÉÀå¿¡ ÀâÀ½ÀÌ ÀÖ´Ù´Â °É ¾Ë°Ô µÆ½É´õ.,±× »ç¶÷Àº ½ÉÀå ¼Ò¸®°¡ Á¤»óÀÔ´Ï´õ.
+,¸î ´Þ Àü¿¡ ½ÉÀå ÀâÀ½ÀÌ ¹ß°ßµÈ ¸¶Èç¾ÆÈ© »ì ³²ÀÚÀÔ´Ï´õ.,±× »ç¶÷Àº ½ÉÀå¿¡ ¹æ°ø°³ÁõÀÌ ÀÖ½À´Ï´õ.
+,½ÉºÎÀüÁõ,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯À» °®°í ÀÖ½À´Ï´õ.
+,½ÉºÎÀüÁõ,È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½É´õ.
+,½ÉºÎÀüÁõ,È¯ÀÚ´Â ÀÌÃâ·üÀÌ ³·½É´õ.
+,½ÉºÎÀüÁõ,È¯ÀÚ´Â ÀÌ»óÇÑ ½É¹æÃàÃâ°è¼ö¸¦ °®°í ÀÖ½À´Ï´õ.
+,½ÉºÎÀüÁõ,È¯ÀÚ ¿¡ÄÚ°Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,½ÉºÎÀüÁõ,È¯ÀÚ´Â ÆóºÎÁ¾À» ¾Î°í ÀÖ½À´Ï´õ.
+,½ÉºÎÀüÁõ,½ÉÀå ÁúÈ¯
+,½ÉºÎÀüÁõ,Á¤»óÀûÀÎ ½ÉÀå ±â´É
+,½ÉºÎÀüÁõ,ºÎÁ¾°ú ±âÄ§
+,"È¯ÀÚ´Â ¹ßÀÛ »çÀÌ¿¡ Àá±ñ 'Á¶´Â' °Í °°¾Ò´Âµ¥, ±×·¯°í ³ª¼­´Â Æò¼Ò´ë·Î µ¹¾Æ¿Â °Í °°¾Ò½É´õ.",È¯ÀÚ°¡ ¹ßÀÛÀ» ÇÏ°í ÀÖ½É´õ.
+,"È¯ÀÚ´Â ±× µÚ¿¡ 'Á¶´Â' °Í °°¾Ò´Âµ¥, ¹ßÀÛÇÏ´Â »çÀÌ¿¡´Â ´Ù½Ã Æò¼Ò´ë·Î µ¹¾Æ¿Â °Í °°¾Ò½É´õ.",È¯ÀÚ´Â ¹ßÀÛÇß´ø ÀûÀÌ ¾ø½É´õ.
+,"È¯ÀÚ´Â ±× µÚ¿¡ 'Á¶´Â' °Í °°¾Ò´Âµ¥, ¹ßÀÛÇÏ´Â »çÀÌ¿¡´Â ´Ù½Ã Æò¼Ò´ë·Î µ¹¾Æ¿Â °Í °°¾Ò½É´õ.",È¯ÀÚ´Â ³ú¿¡ Á¾¾çÀÌ ÀÖ½É´õ.
+,½Å°æ¼º ¹æ±¤ÀÌ ÇÕº´µÅ¼­ ÀÏ·¹¾Ë ·çÇÁ ¹è¼³·Î°¡ ÇÊ¿äÇÕ´Ï´õ '[**74**].,È¯ÀÚ´Â ¹è ¼ö¼úÀ» ¹Þ¾Ò½É´õ.
+,½Å°æ¼º ¹æ±¤ ÇÕº´Áõ ¶«¿¡ ÀÏ·¹¾Ë ·çÇÁ ¿ìÈ¸¼úÀÌ ÇÊ¿äÇß½É´õ '[**74**].,È¯ÀÚ´Â ¾Æ¹« ¼ö¼úµµ ¾È ¹Þ¾Ò½É´õ.
+,'[**74**] ½Å°æ¼º ¹æ±¤ ¶«¿¡ ÀÏ·¹¾Ë ·çÇÁ ¿ìÈ¸¼úÀÌ ÇÊ¿äÇÑ º¹ÀâÇÑ »óÈ²ÀÔ´Ï´õ.,È¯ÀÚ´Â ½ºÅä¸¶°¡ ÀÖ½É´õ.
+,º¹ºÎ CT °á°ú´Â ±Þ¼º ºñÇÕº´¼º µð¹öÆ¼Å§¶óÀÌÆ¼½º¸¦ È®ÀÎÇß½É´õ.,¹è CT ÂïÀº °á°ú°¡ ÀÌ»óÇß½É´õ.
+,º¹ºÎ CT °á°ú´Â ±Þ¼º ºñÇÕº´¼º µð¹öÆ¼Å§¶ó¿°À» È®ÀÎÇß½É´õ.,¹è CT ÂïÀº °á°ú´Â Æ¯ÀÌ»çÇ×ÀÌ ¾ø¾ú½É´õ.
+,º¹ºÎ CT °á°ú´Â ±Þ¼º ºñÇÕº´¼º µð¹öÆ¼Å§¶óÀÌÆ¼½º¸¦ È®ÀÎÇß½É´õ.,È¯ÀÚ´Â ¹èµµ ¾ÆÇÁ°í ÅäÇß½É´õ.
+,"ÆÈ´Ù¸®´Â ´Ù ¿òÁ÷ÀÌ°í, °¡½¿»À¸¦ ¹®Áö¸£ÀÌ±î ¹ÝÀÀÇÕ´Ï´õ.",È¯ÀÚ´Â ÀÚ±ØÀ» ÁÖÀÌ±î Á¤»óÀûÀ¸·Î ¹ÝÀÀÇß½É´õ.
+,"¿Â ÆÈ´Ù¸®¸¦ ´Ù ¿òÁ÷ÀÌ°í, °¡½É»À¸¦ ¹®¶§´Ï±î ¹ÝÀÀÇÕ´Ï´õ.",È¯ÀÚ°¡ ¹ÝÀÀÀÌ ¾ø½É´õ.
+,"¿Â ÆÈ´Ù¸®¸¦ ´Ù ¿òÁ÷ÀÌ°í, Èä°ñ ¸¶Âû¿¡ ¹ÝÀÀÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
+,»ê¸ð´Â [**9-13**]ÀÏ ¿ÀÀü 9½Ã¿¡ ¾Ö ³º´Ù°¡ ¾ç¼ö°¡ ÅÍÁø Ã¤·Î º´¿ø¿¡ ¿Ô½É´õ.,È¯ÀÚ´Â ÀÚ¹ßÀûÀ¸·Î °üÀý ¿îµ¿ ¹üÀ§¸¦ º¸¿´½É´õ.
+,"»ê¸ð´Â [**9-13**]ÀÏ ¿ÀÀü 9½Ã¿¡ ¾Ö ³ºÀ»¶ó°í º´¿ø¿¡ ¿Ô´Âµ¥, ¾ç¼ö°¡ ÅÍÁ³½É´õ.",È¯ÀÚ´Â ¾ç¸·À» ÅÍ¶ß·Á¾ß ÇÕ´Ï´õ.
+,»ê¸ð´Â [**9-13**] ¿ÀÀü 9½Ã¿¡ ¾ç¼ö°¡ ÅÍÁø Ã¤·Î ¾Ö ³ºÀ» Â¡Á¶¸¦ º¸¿´½É´õ.,È¯ÀÚ´Â °¨¿°ÁõÀÌ ¾ø½É´õ.
+,ÀÌ ÀçÈ° ÀÔ¿ø ÈÄ¿¡ È¯ÀÚ´Â [**2725-10-26**]¿¡ ±Þ¼º ½ÉºÎÀü(CHF)ÇÏ°í ÃÖ¼Ò ÇÑ ¹øÀÇ ½ÉÁ¤Áö(PEA)·Î ´Ù¸¥ º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â ½ÉÀå ±â´ÉÀÌ ¾È ÁÁ½É´õ.
+,ÀÌ ÀçÈ° ÀÔ¿ø ÈÄ¿¡ È¯ÀÚ´Â [**2725-10-26**]¿¡ ±Þ¼º ½ÉºÎÀü(CHF)ÇÏ°í Àû¾îµµ ÇÑ ¹øÀÇ ½ÉÁ¤Áö(PEA)·Î ´Ù¸¥ º´¿ø(OSH)À¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ ½ÉÀåÀº Á¤»óÀÔ´Ï´õ.
+,ÀÌ ÀçÈ° ÀÔ¿ø ÈÄ¿¡ È¯ÀÚ´Â [**2725-10-26**]¿¡ ±Þ¼º ½ÉºÎÀü(CHF)ÇÏ°í ÃÖ¼Ò ÇÑ ¹øÀÇ ½ÉÁ¤Áö(PEA)·Î ´Ù¸¥ º´¿ø(OSH)À¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½É´õ.
+,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯À» ÇÑ 3³â Àü¿¡ Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚ Æó¿¡ ÀÌ»óÀÌ ÀÖ½É´õ.
+,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯À» ÇÑ 3³â Àü¿¡ Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚ Æó´Â Á¤»óÀÔ´Ï´õ.
+,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯À» ÇÑ 3³â Àü¿¡ Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚ´Â ¸¸¼º Èí¿¬ÀÚÀÔ´Ï´õ.
+,"[**1-13**] Àü¿¡ À§Àå°ü ÃâÇ÷·Î ÀÔ¿øÇß¾úÀ½: À§³»½Ã°æ¿¡¼­ À§¿°, ½Äµµ¿°ÀÌ È®ÀÎµÆ°í, Á÷Àå¿°À¸·Î »¡°²°Ô µÇ°í ÀÛÀº ±Ë¾çÀÌ ÀÖ¾ú½É´õ. ´ëÀå³»½Ã°æ¿¡¼­´Â µð¹öÆ¼Å§·Î½ºÁõÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â À§Àå ÃâÇ÷ÀÌ ÀÖ¾ú½É´õ.
+,"[**1-13**] Àü¿¡ ÀÔ¿øÇß´ø À§Àå ÃâÇ÷: À§³»½Ã°æ¿¡¼­ º¸ÀÎ À§¿°, ½Äµµ¿°, Á÷Àå¿° ¶«¿¡ »¡°³Áø °Å¶û ÀÛÀº ±Ë¾ç, ´ëÀå³»½Ã°æ¿¡¼­ ¹ß°ßµÈ µð¹öÆ¼Å§·Î½º.",È¯ÀÚ´Â À§Àå ÃâÇ÷ °ÞÀº ÀûÀÌ ¾ø¾ú½É´õ.
+,"[**1-13**] Àü¿¡ À§Àå ÃâÇ÷·Î ÀÔ¿øÇß¾úÀ½: À§³»½Ã°æ¿¡¼­ À§¿°ÇÏ°í ½Äµµ¿°ÀÌ ¹ß°ßµÆ°í, Á÷Àå¿°À¸·Î »¡°³Áø °Å¶û ÀÛÀº ±Ë¾çÀÌ ÀÖ¾ú½É´õ. ´ëÀå³»½Ã°æ¿¡¼­´Â µð¹öÆ¼Å§·Î½ºÁõÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â Ç÷¾ÐÀÌ ³·¾Ò½É´õ.
+,"ÇöÀç º´·Â: È¯ÀÚ´Â 66¼¼ ³²ÀÚ·Î, [**3327-9-26**]¿¡ °¡½¿ ¾ÆÇÂ °Å¶û ¼û Âù Áõ»óÀ¸·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
+,"ÇöÀç º´·Â: È¯ÀÚ´Â 66¼¼ ³²ÀÚ·Î, [**3327-9-26**]¿¡ Çù½ÉÁõÇÏ°í ¼ûÀÌ Â÷¼­ ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
+,"ÇöÀç º´·Â: È¯ÀÚ´Â 66¼¼ ³²ÀÚ·Î, [**3327-9-26**]¿¡ Çù½ÉÁõÇÏ°í ¼ûÀÌ Â÷¼­ ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â ±Þ¼º ½É±Ù°æ»öÁõÀÌ ÀÖ½É´õ.
+,È¯ÀÚ´Â ¸Ô´Â Æä³ì½Ãº¥ÀÚ¹ÎÇÏ°í ´ÏÆäµðÇÉÀ» ¹¬°í ³ª¼­ ½ÉÀå ¹Úµ¿¼öÇÏ°í µÎÅëÀÌ Á» ³ª¾ÆÁ³½É´õ.,È¯ÀÚ´Â ½ë Ç÷¾Ð¾àÀ» ¹¬¾ú½É´õ.
+,È¯ÀÚ´Â ¸Ô´Â Æä³ì½Ãº¥ÀÚ¹ÎÇÏ°í ´ÏÆäµðÇÉÀ» ¹¬°í ³ª¼­ ½ÉÀå ¹Úµ¿¼öÇÏ°í µÎÅëÀÌ Á» ³ª¾ÆÁ³½É´õ.,È¯ÀÚ Áõ»óÀÌ ¾à Åõ¿© ÈÄ¿¡ ´õ ½ÉÇØÁ³½É´õ.
+,È¯ÀÚ´Â ¸Ô´Â Æä³ì½Ãº¥ÀÚ¹ÎÇÏ°í ´ÏÆäµðÇÉÀ» ¹¬°í ³ª¼­ ½ÉÀå ¹Úµ¿¼öÇÏ°í µÎÅëÀÌ Á¶±Ý ³ª¾ÆÁ³½É´õ.,È¯ÀÚ´Â Æä¿ÀÅ©·Î¸ð½ÃÅä¸¶°¡ ÀÖ½É´õ.
+,»ìÂ¦ ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ùÁõ.,½ÉÀå ÆÇ¸· ±â´É Àå¾Ö
+,»ìÂ¦ ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ùÁõ.,Á¤»ó ½ÉÀå ±â´É
+,ÂÉ¸Å ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ùÁõ.,½ÉÀå ÀâÀ½
+,"±× »ç¶÷Àº ±ÞÇÏ°Ô Æ©ºê ²Å°í, ¿À¸¥ÂÊ ´ëÅðºÎ¿¡ ÄÚ¸£µð½º¸¦ ¹Ú¾Ò½Ê´Ï´õ.",È¯ÀÚÇÑÅ× ±â°ü »ð°üÀÌ µÅ ÀÖ½Ê´Ï´õ.
+,"±× »ç¶÷Àº ±ÞÇÏ°Ô Æ©ºê ²Å°í, ¿À¸¥ÂÊ ´ëÅðºÎ¿¡ ÄÚ¸£µð½º¸¦ ¹Ú¾Ò½Ê´Ï´õ.",È¯ÀÚÇÑÅ×´Â ±â°ü ³» Æ©ºê°¡ ¾ø½Ê´Ï´õ.
+,"±× »ç¶÷Àº ±ÞÇÏ°Ô Æ©ºê ²Å°í, ¿À¸¥ÂÊ ´ëÅðºÎ¿¡ ÄÚ¸£µð½º¸¦ ¹Ú¾Ò½Ê´Ï´õ.",È¯ÀÚÇÑÅ× Áß½ÉÁ¤¸Æ Ä«Å×ÅÍ°¡ µå°¡ ÀÖ½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â Á¤½Å ÀÒ´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ´Ã Á¤½ÅÀÌ ¸ÖÂÄÇß½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â ÀÇ½Ä Àå¾Ö´Â ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ Á¤½ÅÀ» ÀÒ¾ú½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â Á¤½Å ÀÒÀº Àû ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¸Ó¸® ´ÙÄ£ µ¥´Â ¾ø¾ú½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÀÀÚ ¸»ÀÚ ¹Ù·Î Á¤½Å Â÷›½Ê´Ï´õ.,±× ¿©ÀÚ´Â Àü¿¡ Á¤½ÅÀ» ÀÒÀº ÀûÀÌ ÀÖ¾ú½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÀÀÚ ¸»ÀÚ ¹Ù·Î Á¤½Å Â÷›½Ê´Ï´õ.,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÔÀ» ¶§µµ °è¼Ó Á¤½ÅÀ» ÀÒ°í ÀÖ¾ú½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â ÀÇ·áÁøÀÌ ¿ÀÀÚ ¸»ÀÚ ¹Ù·Î Á¤½Å Â÷›½Ê´Ï´õ.,±× ¿©ÀÚ´Â ¿Ü»óÀ» ÀÔ¾ú½Ê´Ï´õ.
+,20³âÂ° ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
+,20³âÂ° ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ A1c ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
+,20³âÂ° ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ Ç÷´ç ¼öÄ¡°¡ ¿Ã¶ú½Ê´Ï´õ.
+,Ç÷´ç 626.,È¯ÀÚ´Â °íÇ÷´çÀÌ ÀÖ½Ê´Ï´õ.
+,Ç÷´ç 626.,È¯ÀÚ A1c ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
+,Ç÷´ç 626.,È¯ÀÚ´Â 1Çü ´ç´¢¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â ±× µÚ¿¡ [**Hospital1 18**]·Î ¿Å°Ü°¡ ´õ Àü¹®ÀûÀÎ Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.,È¯ÀÚ°¡ ÀÔ¿øÇß½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â ±× µÚ¿¡ ´õ Á¦´ë·Î Ä¡·á ¹ÞÀ»¶ó°í [**Hospital1 18**]·Î ¿Å°å½Ê´Ï´õ.,È¯ÀÚ´Â ¿Ü·¡·Î Ä¡·á ´ó±é´Ï´õ.
+,±× ¿©ÀÚ´Â ±× µÚ¿¡ [**Hospital1 18**]·Î ¿Å°ÜÁ®°¡ ´õ Àü¹®ÀûÀÎ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â Å« º´ÀÌ ÀÖ½É´õ.
+,È®Àå ¹× ¼ÒÆÄ¼ú ÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â ¿ä»õ ¾Ö °¡Á³¾ú½É´õ.
+,È®Àå ¹× ¼ÒÆÄ¼ú ÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â °¨¿°µÉ À§ÇèÀº ¾ø½É´õ.
+,È®Àå ¹× ¼ÒÆÄ¼ú ÇÏ°í ³­ µÚ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â Ä§½ÀÀû ½Ã¼úÀ» ¹Þ¾Ò½É´õ.
+,"È¯ÀÚ´Â ¸Ó¸® ¾ÆÇÁ°Å³ª, ¸¶ºñ ¿À°Å³ª, µû²û°Å¸®°Å³ª, °ãÃÄ º¸ÀÌ´Â °Ç ¾ø´Ù Äº½É´õ.",È¯ÀÚ´Â °ãÃÄ º¸ÀÌ´Â °Ç ¾Æ´Ï¶ó Äº½É´õ.
+,"È¯ÀÚ´Â ¸Ó¸® ¾ÆÇÁ°Å³ª, ¸¶ºñ ¿À°Å³ª, Àú¸®°Å³ª, °ãÃÄ º¸ÀÌ´Â °Ç ¾ø´Ù Äº½É´õ.",È¯ÀÚ´Â ÆÈ´Ù¸®¿¡ °¨°¢ÀÌ ¾ø¾îÁ³½É´õ.
+,"È¯ÀÚ´Â ¸Ó¸® ¾ÆÇÁ°Å³ª, ¸¶ºñ ¿À°Å³ª, Àú¸®°Å³ª, °ãÃÄ º¸ÀÌ´Â °Ç ¾ø´Ù Äº½É´õ.",È¯ÀÚ´Â ³úÁ¹Áß ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"¿¹¼øµÎ »ì ³²ÀÜµ¥, Áö³­ ÇÑ ÀÏ ³â ¹Ý µ¿¾È ¼û Â÷´Â °Å¶û ÇÇ°ïÇÑ ±â ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â ¸Ç³¯ ¼ûÀÌ Â÷´Ù Ä°´Ï´õ.
+,"¿¹¼øµÎ »ì ³²ÀÜµ¥, Áö³­ ÇÑ ÀÏ ³â ¹Ý µ¿¾È ¼û Â÷´Â °Å¶û ÇÇ°ïÇÑ ±â ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â ¼û Â÷´Â °Ç ¾Æ´Ï¶ó Ä°´Ï´õ.
+,"¿¹¼øµÎ »ì ³²ÀÜµ¥, Áö³­ ÇÑ ÀÏ ³â ¹Ý µ¿¾È ¼û Â÷´Â °Å¶û ÇÇ°ïÇÑ ±â ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â °£Áú¼º ÆóÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
+,"[**8-23**]¿¡ ´Ù½Ã ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ¿ä¹ø¿¡´Â ¹° Âù ±â ´õ ´Ã¾î³­ °Ô º¸¿´°í¿¹, ÀÌ°Å´Â Áß°£¿¡¼­ Å« Á¤µµ·Î ÆÇ´ÜµÆ½É´õ.",È¯ÀÚ´Â ½É³¶¿¡ ¹°ÀÌ Ã¡½É´õ.
+,"[**8-23**]¿¡ ´Ù½Ã ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ¿ä¹ø¿¡´Â ¹° Âù ±â ´õ ´Ã¾î³­ °Ô º¸¿´°í¿¹, ÀÎÀÚ´Â Áß°£¿¡¼­ Å« Á¤µµ·Î ÆÇ´ÜµÆ½É´õ.",½ÉÀå ¸ð¾çÀº Á¤»óÀÔ´Ï´õ.
+,"[**8-23**]¿¡ ´Ù½Ã ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ¹°ÀÌ ´õ Â÷¿À¸£´Â °Ô º¸¿´°í¿¹, Áö±ÝÀº Áß°£¿¡¼­ Å« Á¤µµ·Î ÆÇ´ÜµÆ½É´õ.",È¯ÀÚ´Â ½É³¶¿°À» ¾Î°í ÀÖ½É´õ.
+,25. ¸¸¼º ½É¹æ¼¼µ¿ - È¯ÀÚ´Â ÀÌ°Å ¶«¿¡ ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ¾Ò½É´õ.
+,25. ¸¸¼º ½É¹æ¼¼µ¿ - È¯ÀÚ´Â ÀÌ°Å ¶«¿¡ ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.,È¯ÀÚÇÑÅ× ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á¸¦ Çß½É´õ.
+,25. ¸¸¼º ½É¹æ¼¼µ¿ - È¯ÀÚ´Â ÀÌ°Å ¶«¿¡ ÇÇ ¹±°Ô ÇÏ´Â Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.,È¯ÀÚ´Â ³Ñ¾îÁú À§ÇèÀÌ ÀÖ½É´õ.
+,±× ¶§´Â ½Äµµ À§ ³»½Ã°æÀº ¾È Çß½É´õ.,È¯ÀÚ´Â À§ ³»½Ã°æ °Ë»ç´Â ¾È ¹Þ¾Ò½É´õ.
+,±× ¶§´Â À§ ³»½Ã°æ(EGD)Àº ¾È Çß½É´õ.,È¯ÀÚ´Â À§ ³»½Ã°æ °Ë»ç¸¦ ¹Þ¾Ò½É´õ.
+,±× ¶§´Â À§ ³»½Ã°æ(EGD)Àº ¾È Çß½É´õ.,È¯ÀÚ´Â À§»êÀÌ ³Ñ¾î¿À´Â Áõ»óÀÌ ÀÖ½É´õ.
+,±× ¿©ÀÚ´Â °Å±â ÀÖÀ» ¶§ µÎ ¹ø ÅäÇß½É´õ.,È¯ÀÚ°¡ ÅäÇÏ°í ÀÖ½É´õ.
+,°¼´Â °Å±â ÀÖÀ» ¶§ µÎ ¹ø ÅäÇß½É´õ.,È¯ÀÚ´Â Åä ¾È Çß´Ù°í ÇÕ´Ï´õ.
+,°¼´Â °Å±â ÀÖÀ» ¶§ µÎ ¹ø ÅäÇß½É´õ.,È¯ÀÚ°¡ ¸Ó¸® ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,"»ê¼ÒÆ÷È­µµ°¡ Àá±ñ 90´ë·Î ¿Ã¶ó°¬´Ù°¡, ´Ù½Ã 80´ë·Î ¶³¾îÁö°¡²¿ °¼ÇÑÅ× ¿Å±â±â Àü¿¡ º¤·ç·Î´½ 10mgÀ» ³ù½É´õ.",È¯ÀÚ´Â Æó¿¡ º´ÀÌ ÀÖ½É´õ.
+,"Æ÷È­µµ°¡ Àá±ñ 90´ë·Î ¿Ã¶ó°¬´Ù°¡, ´Ù½Ã 80´ë·Î ¶³¾îÁö°¡²¿ °¼´Â ¿Å±â±â Àü¿¡ º¤·ç·Î´½ 10mg ¸Â¾Ò½É´õ.",È¯ÀÚ Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"Æ÷È­µµ°¡ Àá±ñ 90´ë·Î ¿Ã¶ó°¬´Ù°¡, ´Ù½Ã 80´ë·Î ¶³¾îÁö°¡²¿ °¼´Â ¿Å±â±â Àü¿¡ º¤·ç·Î´½ 10mg ¸Â¾Ò½É´õ.",È¯ÀÚ°¡ Æ©ºê »ð°üÀ» Çß½É´õ.
+,°¼´Â ±× µÚ·Î »õ»¡°£ ÇÇ ¼¯ÀÎ °ËºÓÀº ¶ËÀ» ¿­ ¹ø ´õ ½Õ½É´õ.,°¼´Â ÇÇ¶ËÀ» ½Õ½É´õ.
+,°¼´Â ±× µÚ·Î »õ»¡°£ ÇÇ ¼¯ÀÎ °ËºÓÀº ¶ËÀ» ¿­ ¹ø ´õ ½Õ½É´õ.,¶Ë ¸ð¾çÀº ±¦Âú¾Ò½É´õ.
+,°¼´Â ±× µÚ·Î »õ»¡°£ ÇÇ ¼¯ÀÎ ¹ã»ö ¶ËÀ» ¿­ ¹ø ´õ ½Õ½É´õ.,°¼´Â Ä¡ÁúÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â À¯µÎ»ó °©»ó¼±¾ÏÀ¸·Î °©»ó¼± ¶¼³»´Â ¼ö¼úÀ» ¹ÞÀº ÀûÀÌ ÀÖ°í, ÄÝ·¹½ºÅ×·Ñ ¼öÄ¡µµ ³ô°í, °íÇ÷¾Ð, ¿¾³¯¿¡ ´ã¹èµµ Æñ°í, 2Çü ´ç´¢¶û »ç¸£ÄÚÀÌµåÁõµµ ¾Î¾Ò½É´õ.",È¯ÀÚ´Â ¿© ¿©·¯ ±ºµ¥ ¾ÆÇÂ µ¥°¡ ÀÖ½É´õ.
+,"È¯ÀÚ´Â Àü¿¡ À¯µÎ»ó °©»ó¼±¾ÏÀ» ¾Î¾Æ°¡ °©»ó¼± ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò½Ê´Ï´õ. ¶Ç ÄÝ·¹½ºÅ×·Ñ ¼öÄ¡µµ ³ô°í, °íÇ÷¾Ð, ¿¾³¯¿¡ ´ã¹èµµ Æñ°í, 2Çü ´ç´¢¶û »ç¸£ÄÚÀÌµåÁõµµ ¾Î¾Ò½É´õ.",È¯ÀÚ´Â Àü¿¡ ¾ÆÇÂ ÀûÀÌ ¾ø½É´õ.
+,"È¯ÀÚ´Â Àü¿¡ À¯µÎ»ó °©»ó¼±¾ÏÀ» ¾Î¾Æ°¡ °©»ó¼± ¶¼³»´Â ¼ö¼úÀ» ¹Þ¾Ò½Ê´Ï´õ. ¶Ç ÄÝ·¹½ºÅ×·Ñ ¼öÄ¡µµ ³ô°í, °íÇ÷¾Ð, ¿¾³¯¿¡ ´ã¹è ÇÇ¿ì´Â ¹ö¸©µµ ÀÖ¾ú°í, 2Çü ´ç´¢¶û »ç¸£ÄÚÀÌµåÁõµµ ¾Î¾Ò½É´õ.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â ASA 325mg, ¶ó½Ä½º 80mg Á¤¸Æ ÁÖ»ç, »ê¼Ò, NTG ÁÖÀÔ Ä¡·á¸¦ ¹Þ¾Ò°í, ºñÄ§½ÀÀû ÀÎ°øÈ£ÈíÀ» ½ÃÀÛÇß½É´õ. ±×·¡¼­ ÅëÁõÀÌ ´úÇØÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀü ¾ÇÈ­ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â ASA 325mg, ¶ó½Ä½º 80mg Á¤¸Æ ÁÖ»ç, »ê¼Ò, NTG ÁÖÀÔ Ä¡·á¸¦ ¹Þ¾Ò°í, ºñÄ§½ÀÀû ÀÎ°øÈ£ÈíÀ» ½ÃÀÛÇß½É´õ. ±× °á°ú·Î ¾ÆÇÂ °Ô ¾ø¾îÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀ¸·Î Ä¡·á¹Þ¾Ò½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â ASA 325mg, ¶ó½Ä½º 80mg Á¤¸Æ ÁÖ»ç, »ê¼Ò, NTG ÁÖÀÔ Ä¡·á¸¦ ¹Þ°í ºñÄ§½ÀÀû ÀÎ°øÈ£ÈíÀ» ½ÃÀÛÇß°í, ¾ÆÇÂ °Ô ¾ø¾îÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀüÁõÀÌ ÀÖ½É´õ.
+,"Áö±Ý [**Location 4245**]¿¡¼­ [**First Name5 (NamePattern1) 4246**] [**Last Name (NamePattern1) 4247**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]13, ±Û°í [**First Name8 (NamePattern2) 694**] [**Last Name (NamePattern1) 4249**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]32ÇÑÅ× Áø·á¸¦ ¹Þ°í ÀÖ°í, [**Hospital3 4243**] º´¿ø¿¡¼­ Åð¿øÇÑ µÚ¿¡ The Center¿¡¼­ ³· Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.",È¯ÀÚ°¡ ÀÔ¿øÇß½É´õ.
+,"Áö±Ý [**Location 4245**]¿¡¼­ [**First Name5 (NamePattern1) 4246**] [**Last Name (NamePattern1) 4247**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]13, ±Û°í [**First Name8 (NamePattern2) 694**] [**Last Name (NamePattern1) 4249**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]32ÇÑÅ× Ä¡·á¸¦ ¹Þ°í ÀÖ°í, [**Hospital3 4243**] º´¿ø¿¡¼­ Åð¿øÇÑ µÚ¿¡ The Center¿¡¼­ ³· ½Ã°£ Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.",È¯ÀÚ´Â ÀÔ¿ø ¾È Çß½É´õ.
+,"Áö±Ý [**Location 4245**]¿¡¼­ [**First Name5 (NamePattern1) 4246**] [**Last Name (NamePattern1) 4247**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]13, ±Û°í [**First Name8 (NamePattern2) 694**] [**Last Name (NamePattern1) 4249**] ÀÇ»ç, [**Telephone/Fax (1) 4248**]32ÇÑÅ× Ä¡·á¸¦ ¹Þ°í ÀÖ°í, [**Hospital3 4243**] º´¿ø¿¡¼­ Åð¿øÇÑ µÚ¿¡ The Center¿¡¼­ ³· Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.",È¯ÀÚ´Â »óÅÂ°¡ ¸¶ÀÌ ¾È ÁÁ¾Ò½É´õ.
+,ÀÀ±Þ½Ç¿¡ °¡¼­ ½É±Ù°æ»öÁõ Áø´ÜÀ» ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â ½ÉÀå ±ÙÀ°À¸·Î ÇÇ°¡ Àß ¾È °¬½É´õ.
+,ÀÀ±Þ½Ç¿¡ °¡¼­ ½É±Ù°æ»öÁõ Áø´ÜÀ» ¹Þ¾Ò½É´õ.,È¯ÀÚ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡ °¬°í, ½É±Ù°æ»öÁõÀ¸·Î Áø´ÜµÆ½É´õ.",È¯ÀÚ ½ÉÀüµµ °Ë»ç °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ±× µÚ¿¡ ¾à 3¹ÌÅÍ ¶³¾î£°í, ÀÇ½ÄÀ» ÀÒ¾ú´ÂÁö´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ. ±× µÚ·Î È­¸¦ ³»¹È¼­ Á¡Â÷ Á¤½Å »óÅÂ º¯È­°¡ ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚ´Â ¿Ü»óÀ» ÀÔ¾ú½Ê´Ï´õ.
+,"È¯ÀÚ´Â ±× µÚ¿¡ ¾à 3¹ÌÅÍ ¶³¾î£°í, ÀÇ½Ä ÀÒ¾ú´ÂÁö´Â ¾Ë ¼ö ¾ø¾ú½Ê´Ï´õ. ±× µÚ·Î, È¯ÀÚ´Â °ø°ÝÀûÀÎ Çàµ¿À» º¸ÀÌ¹È¼­ Á¡Â÷ Á¤½Å »óÅÂ º¯È­°¡ ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ±× µÚ¿¡ ¾à 3¹ÌÅÍ ¶³¾î£°í, Á¤½Å ÀÒ¾ú´ÂÁö´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ. ±× µÚ·Î, Â÷Ãû Á¤½Å »óÅÂ º¯È­°¡ ³ªÅ¸³ª¹È¼­ °ø°ÝÀûÀÎ Çàµ¿À» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ½Ç½ÅÇß½Ê´Ï´õ.
+,ÀÌ ¾ÆÀÇ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡ÀÌ¶û 9Á¡ÀÌ¾ú½Ê´Ï´õ.,È¯ÀÚ È£ÈíÀº Á¤»óÀÌ¾ú½Ê´Ï´õ.
+,ÀÌ ¾ÆÀÇ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡ÀÌ¶û 9Á¡ÀÌ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¸¶ÀÌ ¾ÆÆÄÇÏ°í ÀÖ¾ú½Ê´Ï´õ.
+,ÀÌ ¾ÆÀÇ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8ÇÏ°í 9¿´½Ê´Ï´õ.,ºÐ¸¸Àº Á¤»óÀûÀ¸·Î µÆ½Ê´Ï´õ.
+,Åä¸¦ ³Ñ ½ÉÇÏ°Ô ÇØ¼­ TPN(ÀüÃ¼ ºÎÀ§ ¿µ¾ç)ÀÌ ÇÊ¿äÇÕ´Ï´õ.,È¯ÀÚ´Â ¿µ¾ç½ÇÁ¶ÀÔ´Ï´õ.
+,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPN(ÀüÃ¼ ºÎÀ§ ¿µ¾ç °ø±Þ)ÀÌ ÇÊ¿äÇÔ.,È¯ÀÚÇÑÅ× Áö±Ý Á¤¸ÆÁÖ»ç ¾È ³õ°í ÀÖ½Ê´Ï´õ.
+,½ÉÇÑ ±¸Åä ¶«¿¡ TPN(ÀüÃ¼ ºÎÀ§ ¿µ¾ç)ÀÌ ÇÊ¿äÇÔ.,È¯ÀÚ´Â ÀÓ½Å ÁßÀÔ´Ï´õ.
+,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPNÀÌ ÇÊ¿äÇÔ.,È¯ÀÚ´Â ±¸Åä Áõ»ó ¶«¿¡ ¿µ¾ç Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.
+,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPNÀÌ ÇÊ¿äÇÔ.,»ìÂ¦ ÅäÇÏ´Â Áõ»óÀº ¸Ô´Â ¾àÀ¸·Î Ä¡·áÇß½Ê´Ï´õ.
+,±¸Åä¸¦ ½ÉÇÏ°Ô ÇØ¼­ TPNÀÌ ÇÊ¿äÇÕ´Ï´õ.,È¯ÀÚ Ã¼ÁßÀÌ ÁÙ¾ú½Ê´Ï´õ.
+,±×³à°¡ ´ëµ¿¸Æ ½Äµµ ´©°øÀÌ °ÆÁ¤µÅ°¡²¿ ±ÞÇÏ°Ô [**Hospital1 1499**]·Î ¿Å°ÜÁ®¼­ Ãß°¡ Æò°¡¸¦ ¹Þ°Ô µÆ½Ê´Ï´õ.,È¯ÀÚ°¡ ´ëµ¿¸ÆÇÏ°í Àå »çÀÌ¿¡ ¿¬°áÀÌ ÀÖ´Â °É·Î ¿ì·ÁµÇ°í ÀÖ½Ê´Ï´õ.
+,±×³à´Â ´ëµ¿¸Æ-Àå·çÁõÀÌ °ÆÁ¤µÅ°¡²¿ ±ÞÇÏ°Ô [**Hospital1 1499**]·Î ¿Å°ÜÁ®¼­ Ãß°¡ Æò°¡¸¦ ¹Þ°Ô µÆ½Ê´Ï´õ.,È¯ÀÚ ´ëµ¿¸ÆÀº Á¤»óÀ¸·Î º¸ÀÔ´Ï´õ.
+,±×³à°¡ ´ëµ¿¸Æ-Àå·çÁõÀÌ °ÆÁ¤µÅ°¡²¿ ±ÞÇÏ°Ô [**Hospital1 1499**]·Î ¿Å°ÜÁ®¼­ Ãß°¡ Æò°¡¸¦ ¹Þ°Ô µÆ½Ê´Ï´õ.,È¯ÀÚ´Â º¹ºÎ ¿Ü»óÀ» ÀÔ¾ú½Ê´Ï´õ.
+,"¾çÂÊ ´«µ¿ÀÚ°¡ ¶È°°ÀÌ µ¿±×¶þ°í, ºûÀ» ºñÃßÀÌ 5mm¿¡¼­ 3mm·Î ÁÙ¾îµì´Ï´õ.",È¯ÀÚ ´«µ¿ÀÚ Å©±â°¡ ¶È°°´Ù.
+,"¾çÂÊ ´«µ¿ÀÚ°¡ ¶È°°ÀÌ µ¿±×¶þ°í, ºû¿¡ ¹ÝÀÀÇØ¼­ 5mm¿¡¼­ 3mm·Î ÁÙ¾îµì´Ï´õ.",È¯ÀÚ µ¿°ø ¹ÝÀÀÀÌ ¾ø½Ê´Ï´õ.
+,"¾çÂÊ ´«µ¿ÀÚ´Â ¶È°°°í µ¿±×¶ó¸ç, ºû¿¡ ¹ÝÀÀÇØ¼­ 5mm¿¡¼­ 3mm·Î ÁÙ¾îµì´Ï´õ.",È¯ÀÚ°¡ È¥¼ö »óÅÂÀÔ´Ï´õ.
+,"±×³à´Â ¿À´Ã ¿ÀÈÄ¿¡ ±â°üÀý°³°üÀ» ¹Ù±÷°í, ±×¶ó¹È¼­ ±â°üÀý°³°ü Å©±â¸¦ 6 »çÀÌÁî ¹«¸·ÇüÀ¸·Î ´Ù½Ã ÁÙ¿´½Ê´Ï´õ.",È¯ÀÚ´Â ±â°üÀý°³¼úÀ» ¹Þ¾Ò½Ê´Ï´õ.
+,"±×³à´Â ¿À´Ã ¿ÀÈÄ¿¡ ±â°üÀý°³°üÀ» ±³Ã¼Çß°í, ±× °úÁ¤¿¡¼­ ±â°üÀý°³°üÀ» 6 uncuffed·Î ´Ù½Ã ÁÙ¿´½Ê´Ï´õ.",È¯ÀÚ È£ÈíÀº Á¤»óÀÔ´Ï´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â ¿À´Ã ¿ÀÈÄ¿¡ Æ®¶óÅ°¾î½ºÅä¹Ì¸¦ °¥¾Ò°í, °í °úÁ¤¿¡¼­ Æ®¶óÅ°¾î½ºÅä¹Ì °üÀ» 6 uncuffed·Î ´Ù½Ã ÁÙ¿´½É´õ.",È¯ÀÚ´Â ÈÄµÎ¾Ï º´·ÂÀÌ ÀÖ½É´õ.
+,"´ç´¢ Áø´Ü ¹Þ°í ½Ê ³â Áö³µ°í, ½ÄÀÌ °ü¸®°¡ ¾ÈµÅ°¡ ±Û¸®³ªÁ¦·Î Á¶ÀýÇß½É´õ.",È¯ÀÚ´Â 2Çü ´ç´¢¸¦ ¾Î°í ÀÖ½É´õ.
+,"´ç´¢ Áø´Ü ¹Þ°í ½Ê ³âÀÌ Áö³ª°í, ½ÄÀÌ °ü¸®°¡ ¾ÈµÈ µÚ¿¡´Â ±Û¸®³ªÁ¦·Î Á¶ÀýÇß½É´õ.",È¯ÀÚ´Â ¸Ç³¯ Á¤»ó Ç÷´ç ¼öÄ¡¸¦ À¯ÁöÇÕ´Ï´õ.
+,"´ç´¢ Áø´Ü ¹Þ°í ½Ê ³â Áö³µ°í¿¹, ½ÄÀÌ¿ä¹ý ¾ÈµÅ°¡ ±Û¸®³ªÁ¦·Î °ü¸®ÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â °úÃ¼ÁßÀÔ´Ï´õ.
+,"±× ¾Æ(³²ÀÚ)´Â ¿À¸¥ÂÊ ±â°üÁö µ¿¸Æ ¿¥º¼¸®Á¦ÀÌ¼Ç(330-550 ¸¶ÀÌÅ©·Ð)À» ¹Þ¾Ò°í, °í °úÁ¤¿¡¼­ º¹ÀâÇÑ ¹®Á¦´Â ¾ø¾ú½É´õ.",È¯ÀÚ´Â ±â°üÁö µ¿¸Æ »öÀü¼úÀ» ¹Þ¾Ò½É´õ.
+,"±× ¾Æ(³²ÀÚ)´Â ¿À¸¥ÂÊ ±â°üÁö µ¿¸Æ ¿¥º¼¸®Á¦ÀÌ¼Ç(330-550 ¸¶ÀÌÅ©·Ð)À» ¹Þ¾Ò°í, °í °úÁ¤¿¡¼­ º¹ÀâÇÑ ¹®Á¦´Â ¾È »ý°å½É´õ.",È¯ÀÚ ÈäºÎ CT °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"±× ¾Æ(³²ÀÚ)´Â ¿À¸¥ÂÊ ±â°üÁö µ¿¸Æ ¿¥º¼¸®Á¦ÀÌ¼Ç(330-550 ¸¶ÀÌÅ©·Ð)À» ¹Þ¾Ò°í, °í °úÁ¤¿¡¼­ º¹ÀâÇÑ ¹®Á¦´Â ¾ø¾ú½É´õ.",È¯ÀÚ´Â Æó¾ÏÀ» ¾Î°í ÀÖ½É´õ.
+,ºñÀÎ½¶¸° ÀÇÁ¸¼º ´ç´¢º´.,Ç÷´ç ³ô¾Ò´ø °ú°Å·Â.
+,ºñÀÎ½¶¸° ÀÇÁ¸¼º ´ç´¢º´.,´ç´¢ º´·ÂÀº ¾ø½É´õ.
+,ºñÀÎ½¶¸° ÀÇÁ¸¼º ´ç´¢º´.,ºñ¸¸ ÀÌ·Â.
+,Å»¶ó¹«½º ³úÁ¹Áß ([**3339-11-18**] - ±× ¾Æ(¿©ÀÚ) ¿À¸¥ÂÊ Å»¶ó¹«½º °ü·Ã ³ú°æ»ö ¶«¿¡ ¸ö ¿ÞÂÊ¿¡ ¸¶ºñ Áõ»óÀÌ »ý°åÀ½) 9.,È¯ÀÚ´Â ³úÁ¹Áß ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,Å»¶ó¹«½º ³úÁ¹Áß ([**3339-11-18**] - ±× ¾Æ(¿©ÀÚ) ¿À¸¥ÂÊ Å»¶ó¹«½º¸¦ Ä§¹üÇÏ´Â ³ú°æ»ö ¶«¿¡ ¸ö ¿ÞÂÊ¿¡ ¸¶ºñ Áõ»óÀÌ »ý°åÀ½) 9.,È¯ÀÚ ½Å°æÇÐÀû ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,Å»¶ó¹«½º ³úÁ¹Áß ([**3339-11-18**] - ±× ¾Æ(¿©ÀÚ) ¿À¸¥ÂÊ Å»¶ó¹«½º °ü·Ã ³ú°æ»ö ¶«¿¡ ¸ö ¿ÞÂÊ¿¡ ¸¶ºñ Áõ»óÀÌ ³ªÅ¸³µÀ½) 9.,È¯ÀÚ´Â ÈÙÃ¼¾î¿¡ ÀÇÁ¸ÇÏ°í ÀÖ½É´õ.
+,"È¯ÀÚ´Â Áö±Ý ¿À¸¥ÂÊ ¾Æ·¡ÅÎ»À ÆíÆò¼¼Æ÷¾ÏÀÌ ÀüÀÌµÅ°¡ Àç¹ßÀ» º¸ÀÌ°í, ¸²ÇÁÀý Ä§½Àµµ ±¤¹üÀ§ÇÏ°Ô ÀÖ½É´õ.",È¯ÀÚ´Â ÀÎµÎ¾ÏÀ» ¾Î°í ÀÖ½É´õ.
+,È¯ÀÚ´Â Áö±Ý ¿À¸¥ÂÊ ¾Æ·¡ÅÎ»À ÆíÆò¼¼Æ÷¾ÏÀÌ ±¤¹üÀ§ÇÑ ¸²ÇÁÀý Ä§½ÀÀ» µ¿¹ÝÇØ°¡ ÀüÀÌ¼º Àç¹ßÀ» º¸ÀÌ°í ÀÖ½É´õ.,È¯ÀÚ´Â ¾Ç¼º Á¾¾ç ¾ÎÀº ÀûÀº ¾ø½É´õ.
+,È¯ÀÚ´Â Áö±Ý ¿À¸¥ÂÊ ¾Æ·¡ÅÎ»À ÆíÆò¼¼Æ÷¾ÏÀÌ ±¤¹üÀ§ÇÑ ¸²ÇÁÀý Ä§½ÀÀ» µ¿¹ÝÇØ°¡ ÀüÀÌ¼º Àç¹ßÀ» º¸ÀÌ°í ÀÖ½É´õ.,È¯ÀÚ´Â ´ã¹è ÇÉ Àû ÀÖ½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â µü ºÁµµ ¿À¸¥ÂÊÀ¸·Î ¸öÀ» ±â¿ïÀÌ°í ÀÖ¾ú°í, ÀÔ¿¡ °ÅÇ° ¹°°í ÅÎÀ» ²Ë ±ú¹°°í ÀÖ¾ú½É´õ.",±× ¾Æ(¿©ÀÚ) ÀÔÀÌ¶û ÅÎÀÌ ÀÌ»óÇØ º¸¿´½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â µü ºÁµµ ¿À¸¥ÂÊÀ¸·Î ±â¿ï¾îÁ® ÀÖ¾ú°í, ÀÔ¿¡¼­ °ÅÇ°ÀÌ ³ª¿À¸é¼­ ÅÎÀ» ²Ë ±ú¹°°í ÀÖ¾ú½É´õ.",±× ¾Æ(¿©ÀÚ) ÀÔÀÌ¶û ÅÎÀº Á¤»óÀ¸·Î º¸¿´½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â ºÐ¸íÈ÷ ¿À¸¥ÂÊÀ¸·Î ±â¿ï¾îÁ® ÀÖ¾ú°í, ÀÔ¿¡¼­ °ÅÇ°ÀÌ ³ª¿À¸é¼­ ÅÎÀ» ²Ë ±ú¹°°í ÀÖ¾ú½É´õ.",±× ¾Æ(¿©ÀÚ)´Â ¹ßÀÛÇÑ ÀûÀÌ ÀÖ½É´õ.
+,"´ÙÀ½ º´¿ø ¿Â ³¯¿¡ ÇÑ ±â°ü°æ°Ë»ç¿¡¼­ ºÐºñ¹°ÀÌ ÂØ¸Å ³ª¿Ô°í, Æó·ÅÀÌ Àç¹ßÇÑ °É·Î ÃßÁ¤µÅ°¡ È¯ÀÚÇÑÅ× ¸Þ·ÎÆä³ÛÀÌ¶û ¹Ù³ªÄÚ¸¶ÀÌ½ÅÀ» Ã³¹æÇÏ±â ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â Æó·ÅÀ» °ÆÁ¤ÇÏ°í ÀÖ½É´õ.
+,"´ã º´¿ø ³¯¿¡ ÇÑ ±â°ü°æ °Ë»ç¿¡¼± ºÐºñ¹°ÀÌ ÂØ¸Å ³ª¿Ô°í, Àç¹ß¼º Æó·ÅÀÌ¶ó ÃßÁ¤µÅ°¡ È¯ÀÚÇÑÅ× ¸Þ·ÎÆä³ÛÇÏ°í ¹Ù³ªÄÚ¸¶ÀÌ½ÅÀ» Ã³¹æÇÏ±â ½ÃÀÛÇß½Ê´Ï´õ.",È¯ÀÚ Æó´Â ±ú²ýÇÕ´Ï´õ.
+,"´ã º´¿ø ³¯¿¡ ÇÑ ±â°ü°æ°Ë»ç¿¡¼± ºÐºñ¹°ÀÌ ÂØ¸Å ³ª¿Ô°í, È¯ÀÚ´Â Àç¹ß¼º Æó·ÅÀÌ¶ó º¸°í ¸Þ·ÎÆä³ÛÇÏ°í ¹Ù³ªÄÚ¸¶ÀÌ½ÅÀ» Ã³¹æ¹Þ±â ½ÃÀÛÇß½Ê´Ï´õ.",È¯ÀÚ´Â º´¿ø¼º Æó·ÅÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"±Û°í °£Æó ÁõÈÄ±º ¾ÎÀº ÀûÀÌ ÀÖ°í, MELD Á¡¼ö´Â 27ÀÔ´Ï´õ.",È¯ÀÚ´Â °£ ±â´ÉÀÌ ¾È ÁÁ½Ê´Ï´õ.
+,"±Û°í, °£Æó ÁõÈÄ±º ¾Î¾Ò´ø °Å¶û MELD Á¡¼ö°¡ 27ÀÎ ±â È®ÀÎµÆ½Ê´Ï´õ.",È¯ÀÚ °£ ±â´É °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,±Û°í °£Æó ÁõÈÄ±º ¾ÎÀº Àû ÀÖ°í MELD Á¡¼ö´Â 27ÀÔ´Ï´õ.,È¯ÀÚ´Â ¾ËÄÚ¿Ã¼º °£°æº¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,¼ú Áßµ¶ ¶«¿¡ »ý±â´Â [** À§Ä¡ **]ÀÇ ¼¶¸ÁÀÌ¶û °æ·Ã (µÎ ´Þ Àü¿¡ Å©°Ô °æ±âÇßÀ½),È¯ÀÚ´Â »çÈ¸·ÂÀÌ º¹ÀâÇÕ´Ï´õ.
+,¼ú Áßµ¶À¸·Î ¿À´Â [** À§Ä¡ **]ÀÇ ¼¶¸ÁÀÌ¶û °æ·Ã (µÎ ´Þ Àü¿¡ ½ÉÇÏ°Ô »»»»ÇØÁö´Â ¹ßÀÛ ÀÖ¾úÀ½),È¯ÀÚ´Â °ú°Å¿¡ ¾ÎÀº º´Àº ¾ø½Ê´Ï´õ.
+,¼ú Áßµ¶À¸·Î ¿À´Â [** À§Ä¡ **] ¼¶¸ÁÀÌ¶û °æ·Ã (µÎ ´Þ Àü¿¡ Å©°Ô °æ±âÇßÀ½),È¯ÀÚ´Â °£°æº¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"È¯ÀÚ ¸¶´©¶ó ¸»·Î´Â, ¹ã»õ È¯ÀÚ°¡ ÀÏ¾î³ª°¡ ¼ÒÆÄ¿¡¼­ Àä´ÙÄ°´Ï´õ(¹ã¿¡ ´õ¿ì¸é ÀÚÁÖ ±×¶õ´Ù³×¿¹).",È¯ÀÚ´Â °áÈ¥Çß½Ê´Ï´õ.
+,"È¯ÀÚ ¸¶´©¶ó ¸»·Î´Â, ¹ã»õ È¯ÀÚ°¡ ÀÏ¾î³ª°¡ Ä§´ë¿¡¼­ ³ª¿Í°¡ ¼ÒÆÄ¿¡¼­ Àä´ÙÄ°´Ï´õ(¹ã¿¡ ´õ¿ì¸é ÀÚÁÖ ±×¶õ´Ù³×¿¹).",°áÈ¥ ¾È Çß½Ê´Ï´õ.
+,"È¯ÀÚ ¸¶´©¶ó ¸»·Î´Â, ¹ã»õ È¯ÀÚ°¡ ÀÏ¾î³ª°¡ Ä§´ë¿¡¼­ ¾È ÀÚ°í ¼ÒÆÄ¿¡¼­ Àä´ÙÄ°´Ï´õ(¹ã¿¡ ´õ¿öÁö¸é ÀÚÁÖ ±×·´´Ï´õ).",È¯ÀÚ´Â Ä¡¸Å¸¦ ¾Î°í ÀÖ½Ê´Ï´õ.
+,"È¯ÀÚ ³²Æí ¸»·Î´Â, ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®°Å³ª, ¹ã¿¡ Ãä°Å³ª, ¹ã¿¡ ¶¡³ª°Å³ª, °¡½¿ ¾ÆÇÂ °Å´Â ÀüÇô ¾ø¾ú´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â °¡½¿ ¾ÆÇÂ µ¥´Â ¾ø½Ê´Ï´õ.
+,"È¯ÀÚ ³²Æí ¸»·Î´Â, ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®°Å³ª, ¹ã¿¡ Ãä°Å³ª, ¹ã¿¡ ¶¡³ª°Å³ª, °¡½¿ ¾ÆÇÂ ÀûÀº ¾ø¾ú´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,"È¯ÀÚ ³²Æí ¸»·Î´Â, ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®°Å³ª, ¹ã¿¡ Ãä°Å³ª, ¹ã¿¡ ¶¡³ª°Å³ª, °¡½¿ ¾ÆÇÂ °Å´Â ¾ø¾ú´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ¿­Àº ¾ø½Ê´Ï´õ.
+,ÀÌ ¾ç¹ÝÀÌ [**¿ù**] ÃÊºÎÅÍ ¸öÀÌ ÇÇ°ïÇÏ´ÙÄ«±â ½ÃÀÛÇß½Ê´Ï´õ.,È¯ÀÚ°¡ ÇÇ°ïÇØ ÇÕ´Ï´õ.
+,ÀÌ ¾ç¹ÝÀÌ [**¿ù**] ÃÊºÎÅÍ ÇÇ°ïÇØÇÏ±â ½ÃÀÛÇß½Ê´Ï´õ.,È¯ÀÚ´Â Æò¼Ò¶û ¶È°°ÀÌ °Ç°­ÇÕ´Ï´õ.
+,ÀÌ ¾ç¹ÝÀÌ [**¿ù**] ÃÊºÎÅÍ ÇÇ°ïÇÏ´ÙÄ«±â ½ÃÀÛÇß½Ê´Ï´õ.,È¯ÀÚ°¡ ¾Ï Áø´ÜÀ» ¹Þ¾Ò½Ê´Ï´õ.
+,"ÀÌ ¾ç¹ÝÀº ¼Òº¯ ¾çÀº È®ÀÎ ¾È µÆ´Âµ¥(°£È£»çµéÀÌ Ã¼Å© ¾È ÇÔ) ¶ó½Ä½º¸¦ ¸Â¾Ò°í, ·¹º¸/ÇÃ¶óÁú ÇÑ ¹ø ¸Ô°í, 100% NRB·Î ¾ÈÁ¤Àº µÆ´Âµ¥ ´õ ³ª¾ÆÁöÁø ¾Ê¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉºÎÀüÀÌ ´õ ³ªºüÁ³½Ê´Ï´õ.
+,"ÀÌ ¾ç¹ÝÀº ¼Òº¯ ¾çÀº È®ÀÎ ¾È µÆ´Âµ¥(°£È£»çµéÀÌ Ã¼Å© ¾È ÇÔ) ¶ó½Ä½º¸¦ ¸Â¾Ò°í, ·¹º¸/ÇÃ¶óÁúµµ ÇÑ ¹ø ¸Â¾Ò½Ê´Ï´õ. 100% NRB·Î ¾ÈÁ¤Àº µÆÁö¸¸ ´õ ³ª¾ÆÁöÁø ¾Ê¾Ò½Ê´Ï´õ.",È¯ÀÚ °¡½¿ ÅëÁõ ¾øÀ½.
+,"ÀÌ ¾ç¹ÝÀº °£È£»çµéÀÌ Ã¼Å©¸¦ ¾È ÇØ°¡ ¼Òº¯ ¾çÀº ¸ð¸£´Âµ¥ ¶ó½Ä½º¸¦ ¸Â¾Ò°í, ·¹º¸/ÇÃ¶óÁúµµ ÇÑ ¹ø ¸Â¾Ò½Ê´Ï´õ. ±Û°í »óÅÂ´Â 100% NRB·Î ¾ÈÁ¤Àº µÆÁö¸¸ ´õ ³ª¾ÆÁöÁø ¾Ê¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â »ó±âµµ °¨¿°À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"[**º´¿ø**] º´¿ø¿¡¼­ ÂïÀº MRI ½ºÄµ °á°ú, C3-C4 ÀÖ´Âµ¥¼­ ¿À¸¥ÂÊ Ã´Ãß ¹Ù±ùÂÊ¿¡ ½ÉÇÏ°Ô Ã´¼ö ¾Ð¹ÚÇÏ´Â Ã´Ãß¿Ü Ç÷Á¾À¸·Î ÀÇ½ÉµÇ´Â µ¢¾î¸®°¡ ¹ß°ßµÆ½Ê´Ï´õ.",È¯ÀÚ´Â ±Þ¼º Ã´¼ö ÁõÈÄ±ºÀ» ¾Î°í ÀÖ½É´õ.
+,"[**º´¿ø**] º´¿ø¿¡¼­ ÂïÀº MRI ½ºÄµ °á°ú, C3-C4 ÀÖ´Âµ¥¼­ ¿À¸¥ÂÊ Ã´Ãß ¹Ù±ùÂÊ¿¡ ÀÖ´Â ¾ï¼ö·Î Å« Ç÷Á¾À¸·Î º¸ÀÌ´Â Ã´Ãß¿Ü °ø°£ Á¾¾çÀÌ È®ÀÎµÆ°í, ÀÌ°Í ¶«¿¡ Ã´¼ö ¾Ð¹ÚÀÌ ½É°¢ÇÏ°Ô ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚ ½Å°æÇÐÀû °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"[**º´¿ø**] º´¿ø¿¡¼­ ÂïÀº MRI ½ºÄµ °á°ú, C3-C4 ÀÖ´Âµ¥¼­ ¿À¸¥ÂÊ Ã´Ãß ¹Ù±ùÂÊ¿¡ Å« µ¢¾î¸®°¡ ¹ß°ßµÆ´Âµ¥, ÀÌ°Å´Â Ã´¼ö¸¦ ½ÉÇÏ°Ô ´©¸£´Â Ã´Ãß¿Ü Ç÷Á¾ÇÏ°í Áõ»óÀÌ ¶È°°¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â Ä¡·á°¡ ÇÊ¿äÇÕ´Ï´õ.
+,"±¸±ÞÂ÷¿¡¼­ ½ÉÀå°ú Àü¹®ÀÇ º¸°í¸¦ º¸ÀÌ, ÃÊ±â ¸®µë ½ºÆ®¸³Àº Á¤»óÀûÀÎ »çÀÎ ¸®µëÀ» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ºÎÁ¤¸ÆÀÌ ¾ø¾ú½Ê´Ï´õ.
+,"±¸±ÞÂ÷¿¡¼­ ½ÉÀå°ú Àü¹®ÀÇ º¸°í¸¦ º¸ÀÌ, ÃÊ±â ¸®µë ½ºÆ®¸³Àº Á¤»óÀûÀÎ ½ÅÈ£ ¸®µëÀ» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ½É½Ç ¼¼µ¿À» °Þ¾ú½Ê´Ï´õ.
+,"±¸±ÞÂ÷ ¾È¿¡¼­ ½ÉÀå°ú Àü¹®ÀÇ º¸°í¸¦ º¸ÀÌ, ÃÊ±â ¸®µë ½ºÆ®¸³Àº Á¤»óÀûÀÎ ½ÅÈ£ ¸®µëÀ» º¸¿´½Ê´Ï´õ.",È¯ÀÚ´Â ½É±Ù°æ»öÁõÀ» ¾È °Þ¾ú½Ê´Ï´õ.
+,"È¯ÀÚ°¡ ÀÚ±â º´·ÂÀ» Á¦´ë·Î ¼³¸íÀ» ¸óÇÏ°í, ¾ÈÅ¸±õ°Ôµµ ±× ¾ç¹Ý ÀÇ·á ±â·ÏÀ» È®ÀÎÇÒ ¼ö ÀÖ´Â ±â·ÏÀÌ °ÅÀÇ ¾ø½É´õ.",È¯ÀÚ´Â ÀÎÁö ±â´É Àå¾Ö°¡ ÀÖ½É´õ.
+,"È¯ÀÚ°¡ ÀÚ±â º´·ÂÀ» Á¦´ë·Î ¼³¸íÀ» ¸óÇÏ°í, ¾ÈÅ¸±õ°Ôµµ ±× ¾ç¹Ý ÀÇ·á ±â·ÏÀ» È®ÀÎÇÒ ¼ö ÀÖ´Â ±â·ÏÀÌ °ÅÀÇ ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â º´¿ø¿¡¼­ ¿©·µ Â÷·Ê ÀÇ·áÁøÇÏ°í »ó´ãÀ» ¹Þ¾Ò½Ê´Ï´õ.
+,"È¯ÀÚ°¡ ÀÚ±â º´·ÂÀ» ¶Èµð ±â¾ï ¸óÇÏ°í, ¾ÈÅ¸±õ°Ôµµ ±× ¾ç¹Ý ÀÇ·á ±â·ÏÀ» È®ÀÎÇÒ ¼ö ÀÖ´Â ±â·ÏÀÌ °ÅÀÇ ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â Ä¡¸Å¸¦ ¾Î°í ÀÖ½É´õ.
+,±× ¾ç¹ÝÀÌ ¿ÀÀü¿¡ ¸¶ÀÏ¶õÅ¸¸¦ ¹¬¾îºÃÁö¸¸ È¿°ú¸¦ ¸ø ºÃ½É´õ.,È¯ÀÚ°¡ °¡½¿ÀÌ ºÒÆíÇÏ´Ù²¿ ÇÕ´Ï´õ.
+,±× ¾ç¹ÝÀÌ ¿ÀÀü¿¡ ¸¶ÀÏ¶õÅ¸¸¦ ¹¬¾îºÃÁö¸¸ È¿°ú¸¦ ¸ø ºÃ½É´õ.,È¯ÀÚ´Â ¾È ¾ÆÇÁ´Ù²¿ ÇÕ´Ï´õ.
+,±× ¾ç¹ÝÀÌ ¿ÀÀü¿¡ ¸¶ÀÏ¶õÅ¸¸¦ ¹¬¾îºÃÁö¸¸ È¿°ú¸¦ ¸ø ºÃ½É´õ.,È¯ÀÚ´Â À§½Äµµ¿ª·ùÁúÈ¯(GERD)À» ¾Î°í ÀÖ½É´õ.
+,"È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü¿¡ º´µ¿¿¡¼­ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¸½Ê´Ï´õ: Ç÷¾Ð 130/70, ½É¹Ú¼ö´Â Ä§´ë¿¡ ´© ÀÖÀ» ¶§ 90 (¼­ ÀÖÀ» ¶§´Â 120s-160s).",È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü¿¡ ÁÖ¿ä »ýÃ¼ ½ÅÈ£¸¦ Àî½Ê´Ï´õ.
+,"È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü¿¡ º´µ¿¿¡¼­ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¸½Ê´Ï´õ: Ç÷¾Ð 130/70, ½É¹Ú¼ö´Â ½¯ ¶§ 90 (¼­ ÀÖÀ» ¶§´Â 120-160).",È¯ÀÚ »ýÃ¼ ½ÅÈ£°¡ ºÒ¾ÈÁ¤Çß½Ê´Ï´õ.
+,"È¯ÀÚ°¡ ÁßÈ¯ÀÚ½Ç·Î °¡±â Àü »ýÃ¼ ½ÅÈ£´Â ÀÌ·¸½Ê´Ï´õ: Ç÷¾Ð 130/70, ½É¹Ú¼ö´Â Ä§´ë¿¡ ´© ÀÖÀ» ¶§ 90 (¼­ ÀÖÀ» ¶§´Â 120s-160s).",È¯ÀÚ È£Èí ¼Óµµ´Â Á¤»ó ¹üÀ§ ¾È¿¡ ÀÖ¾ú½Ê´Ï´õ.
+,Æó´Â ´Ù¸¥ µ¥´Â Á¤»óÀÔ´Ï´õ.,È¯ÀÚ´Â °¡½¿ ¿µ»ó Áø´ÜÀ» ¹Þ¾Ò½Ê´Ï´õ.
+,Æó´Â ´Ù¸¥ µ¥´Â Á¤»óÀÔ´Ï´õ.,È¯ÀÚ Æó´Â ÈäºÎ X-¼±¿¡¼­ ¿ÏÀüÈ÷ »Ñ¿¸°Ô º¸ÀÔ´Ï´õ.
+,Æó´Â ´Ù¸¥ µ¥´Â Á¤»óÀÔ´Ï´õ.,È¯ÀÚ´Â Æó·ÅÀÌ ¾ø½É´õ.
+,"±× ¾ÆÁö¸Å´Â ÃÖ±Ù¿¡ ¾ÎÀº ÀûÀÌ ¾ø°í, ±× ¾ÆÁö¸Å [** À§Ä¡ **]¹Ì±¹ ÀÇ·á ±â·ÏÀº º°´Ù¸¥ ±â ¾ø½É´õ.",È¯ÀÚ´Â Æò¼Ò °Ç°­ »óÅÂ ±×´ë·ÎÀÔ´Ï´õ.
+,"±× ¾ÆÁö¸Å´Â ÃÖ±Ù¿¡ ¾ÎÀº ÀûÀÌ ¾ø°í, ±× ¾ÆÁö¸Å [** À§Ä¡ **]¹Ì±¹ ÀÇ·á ±â·ÏÀº º°´Ù¸¥ ±â ¾ø½É´õ.",È¯ÀÚ´Â Àü¿¡ ´ç´¢º´À» ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"±× ¿©ÀÚ´Â ÃÖ±Ù¿¡ ¾ÎÀº Àû ¾ø°í, ±× ¿©ÀÚ [** À§Ä¡ **]¹Ì±¹ ÀÇ·á ±â·ÏÀº ±âº»ÀûÀ¸·Î º° °Å ¾ø½¿´Ï´õ.",±× ¿©ÀÚ´Â ¼ö¼úÇÑ Àû ¾ø½¿´Ï´õ.
+,°¡½ÉÆÅ ¾ÆÇÁ°Å³ª ¹è ¾ÆÇÂ °Å ¾Æ´Ï¶ó Ä°´Ï´õ.,È¯ÀÚ´Â °¡½ÉÆÅÀÌ ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,°¡½ÉÆÅ ¾ÆÇÁ°Å³ª ¹è ¾ÆÇÂ °Å ¾Æ´Ï¶ó Ä°´Ï´õ.,È¯ÀÚ°¡ °¡½ÉÆÅ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,°¡½ÉÆÅÀÌ³ª ¹è´Â ¾È ¾ÆÇÁ´Ù ÇÔ.,È¯ÀÚ´Â ½É±Ù°æ»ö ¾ÆÀÓ´Ï´õ.
+,"¾Ö ³º´Â ¹æ¿¡¼­, ¾Æ´Â ¿ì··Â÷°Ô ¿ï¸é¼­ ÅÂ¾î³µ°í, »¡¾Æ³»°í ¸öµµ ¸»¸®°í, »ê¼Òµµ °ø±Þ¹Þ¾Ò½É´õ.",¾Æ°¡ ¼û ½¬¸é¼­ ÅÂ¾î³µ½É´õ.
+,"¾Ö ³º´Â ¹æ¿¡¼­, ¾Æ´Â ¿ì··Â÷°Ô ¿ï¸é¼­ ÅÂ¾î³µ°í, »¡¾Æ³Â½É´õ. ±Û°í ¾Æ ¸öµµ ¸»¸®ÁÖ°í, »ê¼Òµµ °£Á¢ÀûÀ¸·Î °ø±Þ¹Þ¾Ò½É´õ.",±× ¾Æ´Â ºñ¸®ÇÏ°Ô ¿ï¸é¼­ ÅÂ¾î³µ½É´õ.
+,"¾Ö ³º´Â ¹æ¿¡¼­, ¾Æ´Â Àß ¿ï¸é¼­ ÅÂ¾î³µ°í, »¡¾Æ³»°í ºÎµå·´°Ô ´Û¾ÆÁá½É´õ. ±Û°í »ê¼Òµµ °£Á¢ÀûÀ¸·Î °ø±Þ¹Þ¾Ò½É´õ.",¾ÆÇÁ°¡¸£ Á¡¼ö´Â Á¤»óÀÌ¾ú½É´õ.
+,¾ö¸¶´Â [**3148**]³â¿¡ º¸°íµÈ ´Ü¼øÆ÷Áø(HSV) ¾ÎÀº Àû ÀÖ½É´õ.,¾ö¸¶´Â ´Ü¼øÆ÷Áø ¾ÎÀº Àû ÀÖ½É´õ.
+,¾ö¸¶´Â [**3148**]³â¿¡ º¸°íµÈ ´Ü¼øÆ÷Áø(HSV) ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.,´Ü¼øÆ÷Áø ¾ÎÀº Àû ¾ø½É´õ.
+,¾ö¸¶´Â [**3148**]³â¿¡ º¸°íµÈ ´Ü¼øÆ÷Áø(HSV) ¾ÎÀº Àû ÀÖ½É´õ.,¾ö¸¶´Â Ç×¹ÙÀÌ·¯½ºÁ¦ ¹¬Àº Àû ÀÖ½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­, È¯ÀÚ´Â ¿­ÀÌ È­¾¾ 103.0µµ±îÁö ¿Ã¶ú°í, °¡½ÉÆÅ ÅëÁõ, ÅäÇÏ´Â °Å, ¸Ó¸® ¾ÆÇÂ °Å, ¼³»çÇÑ´Ù°í Äº½É´õ.",È¯ÀÚ°¡
+,"ÀÀ±Þ½Ç¿¡¼­, È¯ÀÚ´Â ¿­ÀÌ È­¾¾ 103.0µµ±îÁö ¿Ã¶ú°í, °¡½ÉÆÅ ÅëÁõ, ÅäÇÏ´Â °Å, ¸Ó¸® ¾ÆÇÂ °Å, ¼³»çÇÑ´Ù°í Äº½É´õ.",È¯ÀÚ´Â ¿­ ¾ø½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­, È¯ÀÚ´Â Ã¼¿ÂÀÌ È­¾¾ 103.0µµ±îÁö ¿Ã¶ú°í, °¡½ÉÆÅ ÅëÁõ, ÅäÇÏ´Â °Å, ¸Ó¸® ¾ÆÇÂ °Å, ¼³»çÇÑ´Ù°í Äº½É´õ.",È¯ÀÚ´Â ¼¼±Õ¼º Æó·ÅÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ¿ù, ¼ö, ±Ý¿¡ Ç÷¾×Åõ¼®À» ¹Þ¾Æ¾ß ÇÏ°í, º´¿ø¿¡ ÀÔ¿øÇØ ÀÖ´Â µ¿¾È¿¡´Â °è¼Ó ÇØ¾ß µË´Ï´õ.",È¯ÀÚ´Â ¸»±â ½ÅºÎÀüÁõÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ¿ù, ¼ö, ±Ý¿¡ Ç÷¾×Åõ¼®À» ¹Þ¾Æ¾ß ÇÏ°í, º´¿ø¿¡ ÀÔ¿øÇØ ÀÖ´Â µ¿¾È °è¼Ó ÇØ¾ß µË´Ï´õ.",È¯ÀÚ ÄáÆÏ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ¿ù, ¼ö, ±Ý¿¡ Ç÷¾×Åõ¼®À» ¹Þ¾Æ¾ß ÇÏ°í, º´¿ø¿¡ ÀÔ¿øÇØ ÀÖ´Â µ¿¾È¿¡´Â °è¼Ó ÇØ¾ß µË´Ï´õ.",È¯ÀÚ´Â °íÄ®·ýÇ÷ÁõÀÔ´Ï´õ.
+,°¡½ÉÆÅ ÅëÁõ ¾øÀ½.,È¯ÀÚ´Â °¡½ÉÆÅ ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,°¡½ÉÆÅ ÅëÁõ ¾øÀ½.,È¯ÀÚ°¡ °¡½ÉÆÅ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,°¡½ÉÆÅ ÅëÁõ ¾øÀ½.,½ÉÀüµµ´Â Á¤»óÀÔ´Ï´õ.
+,Àü¿¡ ¹¹ ¾Î¾Ò´ÂÁö ¸ð¸£´Â 37»ì ³²ÀÚ°¡ ´Ù¸¥ º´¿ø¿¡¼­ ¾Æ¼¼Æ®¾Æ¹Ì³ëÆæ/µðÆæÈ÷µå¶ó¹Î ¸¹ÀÌ ¹¬°í ½Ç·Á¿Ô½É´õ.,È¯ÀÚ´Â °£ ¼Õ»óÀÌ ÀÖ½É´õ.
+,µüÈ÷ ¾ÎÀº º´ ¾ø´Â ¼­¸¥ÀÏ°ö »ì ³²ÀÚ°¡ ¾Æ¼¼Æ®¾Æ¹Ì³ëÆæ/µðÆä´Ïµå¶ó¹Î °ú´Ùº¹¿ëÀ¸·Î µý º´¿ø¿¡¼­ ÀÌ¼ÛµÅ ¿Ô½Ê´Ï´õ.,È¯ÀÚ °£ ±â´É °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,µüÈ÷ ¾ÎÀº º´ ¾ø´Â ¼­¸¥ÀÏ°ö »ì ³²ÀÚ°¡ µý º´¿ø¿¡¼­ ¾Æ¼¼Æ®¾Æ¹Ì³ëÆæ/µðÆä´Ïµå¶ó¹Î °ú´Ùº¹¿ë ¶«¿¡ ÀÌ¼ÛµÅ ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â Á¤½Å°ú º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,ÀÚ²Ù ¾îÁö·´°í À­¹è°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â À­¹è°¡ ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,ÀÚ²Ù ¾îÁö·´°í À­¹è°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â ¹è´Â ¾È ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,ÀÚ²Ù ¾îÁö·´°í À­¹è°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â À§±Ë¾çÀÌ ÀÖ½Ê´Ï´õ.
+,¸¶ÃëÁ¦ ÇÁ·ÎÆ÷Æú ¸Â°í ¸¶ºñµÈ Ã¤·Î [**º´¿ø1 68**]·Î ÀÌ¼ÛµÆ½Ê´Ï´õ.,È¯ÀÚ »óÅÂ°¡ ¸¶ÀÌ ¾È ÁÁ½Ê´Ï´õ.
+,¸¶ÃëÁ¦ ÇÁ·ÎÆ÷Æú ¸Â°í ¸¶ºñµÈ Ã¤·Î [**º´¿ø1 68**]·Î ÀÌ¼ÛµÆ½Ê´Ï´õ.,"È¯ÀÚ´Â ¸»µµ ÇÒ ¼ö ÀÖ°í, º´·ÂÀ» ÀüºÎ ´Ù ¸»ÇÒ ¼ö ÀÖ½Ê´Ï´õ."
+,¸¶ÃëÁ¦ ÇÁ·ÎÆ÷Æú ¸Â°í ¸¶ºñµÈ Ã¤·Î [**º´¿ø1 68**]·Î ÀÌ¼ÛµÆ½Ê´Ï´õ.,È¯ÀÚ´Â Ç÷¾Ð À¯ÁöÇÒ¶ó²¿ ½Â¾ÐÁ¦°¡ ÇÊ¿äÇÕ´Ï´õ.
+,"¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡, 8Á¡ÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â Á¤»óÀÔ´Ï´õ.
+,"¾ÆÇÁ°¡ Á¡¼ö´Â 8Á¡, 8Á¡ÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ ¾ÆÇÁ°¡¸£ Á¡¼ö°¡ ³·½Ê´Ï´õ.
+,"¾ÆÇÁ°¡¸£ Á¡¼ö´Â 8Á¡, 8Á¡ÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ´Â ¿©ÀÚ ¾ÆÀÔ´Ï´õ.
+,À§³»½Ã°æ(EGD) ÇÏ±â Àü¿¡´Â ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â À§³»½Ã°æ °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.
+,À§³»½Ã°æ(EGD) ÇÏ±â Àü¿¡´Â ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â À§³»½Ã°æ ÇÏ±â Àü¿¡ ÅäÇÒ¶ó Äº½Ê´Ï´õ.
+,EGD ÇÏ±â Àü¿¡´Â ÅäÇÏ°Å³ª ¼ÓÀÌ ¹Ì½»°Å¸®´Â Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¸¸¼º º¹ÅëÀÌ ÀÖ½Ê´Ï´õ.
+,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å´Â ¹êµå ¾ø´Â WBC 10.5, Hct 32.2(¿¹Àü ±âÁØÄ¡´Â 20´ë ÁßÈÄ¹Ý), Cr 0.9, CE 1È¸ À½¼º, ±Û°í ¶ôÅ×ÀÌÆ® 1.5ÀÔ´Ï´õ.",È¯ÀÚ´Â ºóÇ÷Àº ¾ø½Ê´Ï´õ.
+,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å·Î´Â ¹êµå ¾ø´Â WBC 10.5, Hct 32.2(¿¹Àü ±âÁØÄ¡´Â 20´ë ÁßÈÄ¹Ý), Cr 0.9, CE ºÎÁ¤ X 1, ±Û°í ¶ôÅ×ÀÌÆ® 1.5°¡ ÀÖ½Ê´Ï´õ.",È¯ÀÚ´Â ½ÅºÎÀü »óÅÂÀÔ´Ï´õ.
+,"°Ë»ç °á°ú¿¡¼­ º¼ ¸¸ÇÑ °Å·Î´Â ¹êµå ¾ø´Â ¹éÇ÷±¸ ¼öÄ¡ 10.5, Çì¸¶ÅäÅ©¸´ ¼öÄ¡ 32.2(¿¹Àü ±âÁØÄ¡´Â 20´ë ÁßÈÄ¹Ý), Å©·¹¾ÆÆ¼´Ñ 0.9, CE 1È¸ À½¼º, ±Û°í ¶ôÅ×ÀÌÆ® 1.5°¡ ÀÖ½Ê´Ï´õ.",È¯ÀÚ´Â °¨¿°Àº ¾ø½Ê´Ï´õ.
+,"¿À¸¥ÂÊ À¯¹æ¾Ï, °©»ó¼± ±â´É ÀúÇÏÁõ",¾Ï º´·Â
+,"¿À¸¥ÂÊ À¯¹æ¾Ï, °©»ó¼± ±â´É ÀúÇÏÁõ",¾Ï º´·Â ¾øÀ½
+,"¿À¸¥ÂÊ À¯¹æ¾Ï, °©»ó¼± ±â´É ÀúÇÏÁõ",À¯¹æÀýÁ¦ ¼ö¼ú·Â
+,"MICU·Î ¿Å±â±â Àü¿¡ È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: ¿­ ¾ø°í, ½É¹Ú¼ö 92, Ç÷¾Ð 123/74, 6¸®ÅÍ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ´Â ¿­ÀÌ ¾ø½É´õ.
+,"MICU·Î ¿Å±â±â Àü¿¡ È¯ÀÚ »óÅÂ´Â ÀÌ·¨½É´õ: ¿­³ª´Â Áõ»ó ¾ø°í, ½É¹Ú¼ö 92, Ç÷¾Ð 123/74, 6¸®ÅÍ »ê¼Ò °ø±ÞÇÒ ¶§ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ´Â ½Ç³» °ø±â·Î Á¤»óÀûÀ¸·Î »ê¼Ò °ø±Þ ¹Þ°í ÀÖ½É´õ.
+,"MICU·Î ¿Å±â±â Àü¿¡ È¯ÀÚ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: ¿­ ¾ø°í, ½É¹Ú¼ö 92, Ç÷¾Ð 123/74, 6¸®ÅÍ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ´Â °¨¿°ÀÌ ¾ø½É´õ.
+,±× ¿©ÀÚ°¡ ±× ³²ÀÚÇÑÅ× ´Ù½Ã »ê¼ÒÈ£Èí±â ´Þ¾Ò½É´õ.,È¯ÀÚ°¡ »ê¼Ò Ä¡·á ¹Þ°í ÀÖ½É´õ.
+,±× ¿©ÀÚ°¡ ±× ³²ÀÚÇÑÅ× ´Ù½Ã »ê¼ÒÈ£Èí±â ´Þ¾Ò½É´õ.,È¯ÀÚ´Â ½Ç³» °ø±â·Î ¼û ½¬°í ÀÖ½É´õ.
+,±× ¿©ÀÚ°¡ ±× ³²ÀÚÇÑÅ× ´Ù½Ã »ê¼ÒÈ£Èí±â ´Þ¾Ò½É´õ.,È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,±× »ç¶÷ ¸¶´©¶ó°¡ ÇÑ 2-3ºÐ µ¿¾È ±× »ç¶÷ÀÌ ºÎµéºÎµé ¶³°í °ÅÇ° ¹«´Â °É ºÃ´Ù Ä°´Ï´õ.,È¯ÀÚ°¡ ¹ßÀÛ Áõ»óÀ» º¸¿´½É´õ.
+,±× »ç¶÷ ¸¶´©¶ó°¡ ÇÑ 2-3ºÐ µ¿¾È ±× »ç¶÷ÀÌ ¾ï¼ö·Î ¶³°í °ÅÇ° ¹«´Â °É ºÃ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ½Å°æÇÐÀû Áõ»óÀÌ ÇÏ³ªµµ ¾ø½É´õ.
+,±× »ç¶÷ ¸¶´©¶ó°¡ ÇÑ 2-3ºÐ µ¿¾È ±× »ç¶÷ÀÌ ºÎµéºÎµé ¶³°í °ÅÇ° ¹«´Â °É ºÃ´Ù Ä°´Ï´õ.,È¯ÀÚ°¡ ¹ßÀÛÀ» Çß½É´õ.
+,"±× ¿©ÀÚÇÑÅ× ¸ðµç Ä¡·á ¹æ¹ýÀ» ¾Ë·ÁÁá´Âµ¥, ¿ÞÂÊ ½ÅÀå ¿ÏÀü ÀýÁ¦¼úÇÏ°í ÁÖÀ§ ¸²ÇÁÀý Á¦°Å¼úÀ» ÇØ´Þ¶óÄº½É´õ.",È¯ÀÚ´Â ¿ÞÂÊ ÄáÆÏ¿¡ ¾Ç¼º Á¾¾çÀÌ ÀÖ½É´õ.
+,"±× ¿©ÀÚÇÑÅ× ¸ðµç Ä¡·á ¹æ¹ýÀ» ¾Ë·ÁÁá´Âµ¥, ¿ÞÂÊ ½ÅÀå ¿ÏÀü ÀýÁ¦¼úÇÏ°í ÁÖÀ§ ¸²ÇÁÀý Á¦°Å¼úÀ» ÇØ´Þ¶óÄº½É´õ.",È¯ÀÚ ¿ÞÂÊ ÄáÆÏÀº Á¤»óÀÔ´Ï´õ.
+,"±× ¿©ÀÚÇÑÅ× ¸ðµç Ä¡·á ¹æ¹ýÀ» ¾Ë·ÁÁá´Âµ¥, ¿ÞÂÊ ½ÅÀå ¿ÏÀü ÀýÁ¦¼úÇÏ°í ÁÖÀ§ ¸²ÇÁÀý Á¦°Å¼úÀ» ÇØ´Þ¶óÄº½É´õ.",È¯ÀÚ ¿À¸¥ÂÊ ÄáÆÏÀº Á¤»óÀÔ´Ï´õ.
+,"±× »ç¶÷ Ã¼¿ÂÀÌ 101.8±îÁö È® ¿Ã¶ó°¡ ¹ÝÄÚ¸¶ÀÌ½ÅÇÏ°í ·¹º¸ÇÃ·Ï»ç½ÅÀ» Ã³¹æÇß°í, ¸µ°Å·Î ¶ó½Ä½º 40mgÇÏ°í »ý¸®½Ä¿°¼ö 1¸®ÅÍ¸¦ ³ù½É´õ. ±×·¡¼­ ³ª¿Â ¿ÀÁÜ ¾çÀÌ 540ml¿´½É´õ.",È¯ÀÚ°¡ ¿­ÀÌ ³ª°í ÀÖ½É´õ.
+,"±× »ç¶÷ Ã¼¿ÂÀÌ 101.8±îÁö È® ¿Ã¶ó°¡ ¹ÝÄÚ¸¶ÀÌ½ÅÇÏ°í ·¹º¸ÇÃ·Ï»ç½ÅÀ» Ã³¹æ¹Þ¾Ò°í, ¸µ°Å·Î ¶ó½Ä½º 40mgÇÏ°í »ý¸®½Ä¿°¼ö 1¸®ÅÍ¸¦ ¸Â¾Ò½É´õ. ±× °á°ú·Î ¿ÀÁÜÀÌ 540ml ³ª¿Ô½É´õ.",È¯ÀÚ´Â °¨¿°ÀÌ ¾ø½É´õ.
+,"±× »ç¶÷ Ã¼¿ÂÀÌ 101.8±îÁö È® ¿Ã¶ó°¡ ¹ÝÄÚ¸¶ÀÌ½ÅÇÏ°í ·¹º¸ÇÃ·Ï»ç½ÅÀ» Ã³¹æ¹Þ¾Ò°í, ¸µ°Å·Î ¶ó½Ä½º 40mgÇÏ°í »ý¸®½Ä¿°¼ö 1¸®ÅÍ¸¦ ¸Â¾Ò½É´õ. ±× °á°ú·Î ¿ÀÁÜÀÌ 540ml ³ª¿Ô½É´õ.",È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½É´õ.
+,±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀÌ ÀÖ¾ú½É´õ.,È¯ÀÚ´Â ±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀ» ¹Þ¾Ò½É´õ.
+,±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀÌ ÁøÇàµÆ½É´õ.,È¯ÀÚ ÇÇ°Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,±ÞÇÏ°Ô Ç÷¾×ÇÐ°ú »ó´ãÀÌ ÁøÇàµÆ½É´õ.,È¯ÀÚ´Â ÇìÆÄ¸° À¯¹ß¼º Ç÷¼ÒÆÇ°¨¼ÒÁõÀ» ¾Î°í ÀÖ½É´õ.
+,±× »ç¶÷Àº Ä¡·á ´õ ¹ÞÀ»¶ó°í [**Hospital1 22**]·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â µý º´¿ø¿¡¼­ Ä¡·á¸¦ ¹Þ¾Ò½É´õ.
+,±× »ç¶÷Àº Ä¡·á ´õ ¹ÞÀ»¶ó°í [**Hospital1 22**]·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â º´¿ø¿¡¼­ Ä¡·á ¾È ¹Þ¾Ò½É´õ.
+,±× ¾Æ´Â Ãß°¡ Ä¡·á¸¦ À§ÇØ¼­ [**Hospital1 22**]·Î ÀÌ¼ÛµÆ½É´õ.,È¯ÀÚ´Â ´õ ³ôÀº ¼öÁØÀÇ Ä¡·á°¡ ÇÊ¿äÇß½É´õ.
+,±× ¾Æ´Â [**3354**]³âµµ¿¡ ¿À¸¥ÂÊ ¾î±ú Bankart º¹±¸ ¼ö¼úÀ» ¹Þ°í ³­ µÚÀÔ´Ï´õ.,±× ¾Æ´Â ¾î±ú°¡ ºüÁ³¾ú½É´õ.
+,±× ¾Æ´Â [**3354**]³âµµ¿¡ ¿À¸¥ÂÊ ¾î±ú Bankart º¹±¸ ¼ö¼úÀ» ¹Þ°í ³­ µÚÀÔ´Ï´õ.,±× ¾Æ´Â ¾î±ú ±â´É¿¡ ¹®Á¦ ÀÖ¾ú´ø ÀûÀÌ ¾ø½É´õ.
+,±× ¾Æ´Â [**3354**]³âµµ¿¡ ¿À¸¥ÂÊ ¾î±ú Bankart º¹±¸ ¼ö¼úÀ» ¹Þ°í ³­ µÚÀÔ´Ï´õ.,±× ¾Æ´Â ÃÖ±Ù¿¡ ¾îµð¼­ ¶³¾îÁ³½É´õ.
+,"¸Ó¸® µÑ·¹ 30.5cm, 25-50 ¹éºÐÀ§¼ö.",È¯ÀÚ ¸Ó¸® µÑ·¹´Â Á¤»óÀÔ´Ï´õ.
+,"¸Ó¸® µÑ·¹ 30.5cm, 25-50 ¹éºÐÀ§¼ö.",È¯ÀÚ´Â °Å´ëµÎÁõÀÌ ÀÖ½É´õ.
+,"¸Ó¸® µÑ·¹ 30.5cm, 25-50 ¹éºÐÀ§¼ö.",È¯ÀÚ Ã¼ÁßÀº Á¤»ó ¹üÀ§ÀÔ´Ï´õ.
+,"¿­´Ù¼¸ »ìÂ¥¸® ¾ÆµéÀÌ ±× ¾Æ¸¦ µµ¿ÍÁÖ°í ÀÖ´Âµ¥, ÀÌ°Ô È¯ÀÚÇÑÅ×´Â ¹®Á¦°¡ µÇ´Â °©½Ê´Ï´õ. È¯ÀÚ°¡ ¾Æµé µî °Ç°­À» °ÆÁ¤ÇÏµçÁö, ¾Æ´Ï¸é ¸Ç³¯ ÇÊ¿äÇÑ µµ¿òÀ» ´Ù ¸ø ¹Þ¾Æ¼­ ±×·² ¼öµµ ÀÖ°Ú³×¿¹. ÀÌ ºÎºÐÀº È®½ÇÄ¡°¡ ¾Ê½É´õ.",È¯ÀÚ°¡ µµ¿òÀÌ ÇÊ¿äÇÕ´Ï´õ.
+,"±× ¾Æ¸¦ µµ¿ÍÁÖ´Â ¿­´Ù¼¸ »ìÂ¥¸® ¾ÆµéÀÌ ÀÖ´Âµ¥, È¯ÀÚ°¡ ¾Æµé µî °Ç°­À» °ÆÁ¤ÇÏµçÁö, ¾Æ´Ï¸é ¸Ç³¯ ÇÊ¿äÇÑ µµ¿òÀ» ´Ù ¸ø ¹Þ¾Æ¼­ ±×°Ô È¯ÀÚÇÑÅ×´Â ¹®Á¦°¡ µÇ´Â °©½Ê´Ï´õ. ÀÌÀ¯´Â È®½ÇÄ¡°¡ ¾Ê³×¿¹.",È¯ÀÚ´Â ¾Æ¹« µµ¿òµµ ¸ø ¹Þ¾Ò½É´õ.
+,"±× ¾Æ¸¦ µµ¿ÍÁÖ´Â ¿­´Ù¼¸ »ìÂ¥¸® ¾ÆµéÀÌ ÀÖ´Âµ¥, È¯ÀÚ°¡ ¾Æµé µî °Ç°­À» °ÆÁ¤ÇÏµçÁö, ¾Æ´Ï¸é ¸Ç³¯ ÇÊ¿äÇÑ µµ¿òÀ» ´Ù ¸ø ¹Þ¾Æ¼­ ±×°Ô È¯ÀÚÇÑÅ×´Â ¹®Á¦°¡ µÇ´Â °©½Ê´Ï´õ. Á¤È®ÇÑ ÀÌÀ¯´Â È®½ÇÄ¡°¡ ¾Ê½É´õ.",È¯ÀÚ ¿Å±â´Â µ¥ µµ¿òÀÌ ÇÊ¿äÇÕ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ½É¹Ú¼ö 77È¸, Ç÷¾Ð 145/82mmHg, È£Èí ¼ö 22È¸, ½Ç³» °ø±â »ê¼Ò Æ÷È­µµ 98%¿´°í, Ç÷´çÄ¡´Â À§ÇèÇÒ Á¤µµ·Î ³ô¾Ò½É´õ.",È¯ÀÚ´Â °íÇ÷´çÁõÀÌ ÀÖ½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ½É¹Ú¼ö 77È¸, Ç÷¾Ð 145/82mmHg, È£Èí¼ö 22È¸, ½Ç³» °ø±â »ê¼ÒÆ÷È­µµ 98%¿´°í, Ç÷´çÄ¡´Â ¾öÃ» ³ô¾Ò½É´õ.",È¯ÀÚ Ç÷´ç ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ½É¹Ú¼ö 77È¸, Ç÷¾Ð 145/82mmHg, È£Èí¼ö 22È¸, ½Ç³» °ø±â »ê¼Ò Æ÷È­µµ 98%¿´°í, Ç÷´çÄ¡´Â À§ÇèÇÒ Á¤µµ·Î ³ô¾Ò½É´õ.",È¯ÀÚ´Â ´ç´¢º´ÀÌ ÀÖ½É´õ.
+,½Ä±¸µéÀÌ »õº® 3½ÃÂë¿¡ ±× ¾Æ¸¦ ¹Ù´Ú¿¡¼­ ¹ß°ßÇß½É´õ.,È¯ÀÚ´Â ¹Ù´Ú¿¡¼­ ¹ß°ßµÆ½É´õ.
+,½Ä±¸µéÀÌ »õº® 3½ÃÂë¿¡ ±× ¾Æ¸¦ ¹Ù´Ú¿¡¼­ ¹ß°ßÇß½É´õ.,È¯ÀÚ´Â Æò¼Ò °Ç°­ »óÅÂ ±×´ë·ÎÀÔ´Ï´õ.
+,½Ä±¸µéÀÌ »õº® 3½ÃÂë¿¡ ±× ¾Æ¸¦ ¹Ù´Ú¿¡¼­ ¹ß°ßÇß½É´õ.,È¯ÀÚ°¡ ½ÉÀå¸¶ºñ°¡ ¿Ô¾ú½É´õ.
+,"# °£Áú¼º ÆóÁúÈ¯ # °ü»óµ¿¸ÆÁúÈ¯ # ¸¸¼º ½ÅÀå ÁúÈ¯, ±âÀú Å©·¹¾ÆÆ¼´Ñ 1.7 # ´ç´¢º´ 2Çü, ¾È°úÇÐÀû ÇÕº´Áõ # °íÄÝ·¹½ºÅ×·ÑÇ÷Áõ # °íÇ÷¾Ð # ½Äµµ ¿ª·ù # °ñ°üÀý¿° # Ã´Ãß ÇùÂøÁõ, ·¡¹Ì³ØÅä¹Ì ¼ö¼ú ÈÄ # °©»ó¼± °áÀý # ´ëÀå Æú¸³ # Àü¸³¼± ºñ´ë # ¹é³»Àå # ³ì³»Àå # À§ÀåÇì¸£´Ï¾Æ # ºñ¸¸ # ¹ß±âºÎÀü # ¹é³»Àå # ¸Á¸· Ç÷°ü Æó¼â # Ã»·Â ¼Õ½Ç # ¿ø¹ß¼º °³¹æ°¢ ³ì³»Àå # °ñ°üÀý¿° # Àü¸³¼± ºñ´ë # Ã¶ °áÇÌ¼º ºóÇ÷",È¯ÀÚ´Â ¿©·¯ °¡Áö º´ÀÌ ÀÖ½É´õ.
+,"# °£Áú¼º ÆóÁúÈ¯ # °ü»óµ¿¸ÆÁúÈ¯ # ¸¸¼º ½ÅÀå ÁúÈ¯, ±âÀú Å©·¹¾ÆÆ¼´Ñ ¼öÄ¡ 1.7 # ´ç´¢º´ 2Çü, ¾È°úÇÐÀû ÇÕº´Áõ # °íÁöÇ÷Áõ # °íÇ÷¾Ð # ½Äµµ ¿ª·ù # °ñ°üÀý¿° # Ã´Ãß ÇùÂøÁõ, Ã´Ãß ÀýÁ¦¼ú ÈÄ # °©»ó¼± °áÀý # ´ëÀå ¿ëÁ¾ # Àü¸³¼± ºñ´ëÁõ # ¹é³»Àå # ³ì³»Àå # À§ÀåÇã´Ï¾Æ # ºñ¸¸ # ¹ß±âºÎÀü # ¹é³»Àå # ¸Á¸· Ç÷°ü Æó¼â # Ã»·Â ¼Õ½Ç # ¿ø¹ß¼º °³¹æ°¢ ³ì³»Àå # °ñ°üÀý¿° # Àü¸³¼± ºñ´ëÁõ # Ã¶ °áÇÌ¼º ºóÇ÷",È¯ÀÚ°¡ Ç÷¾×Åõ¼® ¹Þ°í ÀÖ½É´õ.
+,"# °£Áú¼º ÆóÁúÈ¯ # °ü»óµ¿¸ÆÁúÈ¯ # ¸¸¼º ½ÅÀå ÁúÈ¯, ±âÀú Å©·¹¾ÆÆ¾ ¼öÄ¡ 1.7 # ´ç´¢º´ 2Çü, ¾È°úÇÐÀû ÇÕº´Áõ # °íÄÝ·¹½ºÅ×·ÑÇ÷Áõ # °íÇ÷¾Ð # ½Äµµ ¿ª·ù # °ñ°üÀý¿° # Ã´Ãß ÇùÂøÁõ, Ã´Ãß ÀýÁ¦¼ú ÈÄ # °©»ó¼± °áÀý # ´ëÀå Æú¸³ # Àü¸³¼± ºñ´ë # ¹é³»Àå # ³ì³»Àå # À§ÀåÇì¸£´Ï¾Æ # ºñ¸¸ # ¹ß±âºÎÀü # ¹é³»Àå # ¸Á¸· Ç÷°ü Æó¼â # Ã»·Â ¼Õ½Ç # ¿ø¹ß¼º °³¹æ°¢ ³ì³»Àå # °ñ°üÀý¿° # Àü¸³¼± ºñ´ë # Ã¶°áÇÌ¼º ºóÇ÷",È¯ÀÚ´Â ºñ¸¸ÀÔ´Ï´õ.
+,¾ÆÈ© »ì ¶§ºÎÅÍ 1Çü ´ç´¢¸¦ ¾Î°í ÀÖ½É´õ.,È¯ÀÚ´Â ¾î¸± ¶§ºÎÅÍ 1Çü ´ç´¢¸¦ ¾Î°í ÀÖ½É´õ.
+,9»ì¶§ºÎÅÍ 1Çü ´ç´¢º´À» ¾ËÄÚ ÀÖ½É´õ.,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯ÀÌ ¾ø½É´õ.
+,9»ì¶§ºÎÅÍ 1Çü ´ç´¢º´À» ¾ËÄÚ ÀÖ½É´õ.,È¯ÀÚ´Â ´ç´¢º´¼º ÄÉÅä»êÁõÀ» ¾Ë¾Ò½É´õ.
+,CCU·Î ¿Å±âÁö°¡ Ãß°¡ Ä¡·á¸¦ ¹Þ°Ô µÆ½É´õ.,È¯ÀÚ´Â ÁýÁß Ä¡·á°¡ ÇÊ¿äÇß½É´õ.
+,´õ ²Ä²ÄÇÏÀÌ °ü¸®ÇÒ¶ó°í ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ°¡ ÁýÀ¸·Î Åð¿øÇß½É´õ.
+,°è¼Ó °ü¸®ÇÒ¶ó°í CCU·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â Æ®·ÎÆ÷´Ñ ¼öÄ¡°¡ ¿Ã¶ú½É´õ.
+,"±× µÚ¿¡, ¾Æ´Â ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç·Î ¿Å±âÁö°¡ ÁöÄÑº¸°Ô µÆ½É´õ.",È¯ÀÚ´Â °«³­¾ÆÀÔ´Ï´õ.
+,"±× µÚ¿¡, ¾Æ´Â ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç·Î ¿Å±âÁö°¡ ÁöÄÑº¸°Ô µÆ½É´õ.",È¯ÀÚ °æ°ú°¡ ±¦Âú¾Ò½É´õ.
+,"±× µÚ¿¡, ¾Æ´Â ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç·Î ¿Å±âÁö°¡ ÁöÄÑº¸°Ô µÆ½É´õ.",È¯ÀÚ´Â Á¶»ê¾ÆÀÓ´Ï´õ.
+,±× ¿©ÀÚ´Â Áö±Ý²¯ ¹è°¡ ºÒÆíÇÏ°Å³ª Ã¼ÇÑ ÀûÀÌ ÇÑ¹øµµ ¾ø¾ú´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â ¹è ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,±× ¿©ÀÚ´Â Áö±Ý²¯ ¹è°¡ ºÒÆíÇÏ°Å³ª Ã¼ÇÑ ÀûÀÌ ÇÑ¹øµµ ¾ø¾ú´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â ¹è°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,±× ¿©ÀÚ´Â Áö±Ý²¯ ¹è°¡ ºÒÆíÇÏ°Å³ª Ã¼ÇÑ ÀûÀÌ ÇÑ¹øµµ ¾ø¾ú´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"°í¸§ÁýÀº ¾È º¸ÀÌ°í, [** À§Ä¡ **]ÀÌ³ª ¹®¸ÆÁ¤¸Æ Ç÷ÀüÁõÀº ¾ø½É´õ.",È¯ÀÚ´Â ¹®¸ÆÁ¤¸Æ ¾È¿¡ Ç÷ÀüÀÌ ¾ø½É´õ.
+,"°í¸§ÁýÀº ¾È º¸ÀÌ°í, [** À§Ä¡ **]ÀÌ³ª ¹®¸ÆÁ¤¸Æ Ç÷ÀüÁõÀº ¾ø½É´õ.",È¯ÀÚ´Â ¹®¸ÆÁ¤¸Æ¿¡ Ç÷ÀüÀÌ ÀÖ½É´õ.
+,"°í¸§ÁýÀº ¾È º¸ÀÌ°í, [** À§Ä¡ **]ÀÌ³ª ¹®¸ÆÁ¤¸Æ Ç÷ÀüÁõÀº ¾ø½É´õ.",È¯ÀÚ´Â °£¿¡ º´º¯ÀÌ ÇÏ³ªµµ ¾ø½É´õ.
+,"ÇÑ 3ÁÖ Âë Àü¿¡, È¯ÀÚ°¡ °¡½¿ÀÌ '´ä´äÇÏÀÌ' '¾ÆÇÂ'±â À­°¡½¿ÀÌ¶û ¸ñÀ¸·Î Âß ÆÛÁö°í, ¾çÂÊ ÆÈ¶Ò±îÁö ÂÍ ¶¯°å´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Çù½ÉÁõÀ» ¾ËÄÚ ÀÖ¾ú½É´õ.
+,"ÇÑ 3ÁÖ Âë Àü¿¡, È¯ÀÚ°¡ °¡½¿ÀÌ '´ä´äÇÏÀÌ' '¾ÆÇÂ'±â À­°¡½¿ÀÌ¶û ¸ñÀ¸·Î ¶ì µÎ¸¥ °ÍÃ³·³ ÆÛÁö°í, ¾çÂÊ ÆÈ±îÁö ÂÍ ¶¯°å´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ½ÉÀå ÂÊÀ¸·Î ¾ÆÇÂ ÀûÀº ¾ø¾ú´Ù Ä°´Ï´õ.
+,"ÇÑ 3ÁÖ Âë Àü¿¡, È¯ÀÚ°¡ °¡½¿ÀÌ '´ä´äÇÏÀÌ' '¾ÆÇÂ'±â À­°¡½¿ÀÌ¶û ¸ñÀ¸·Î ¶ì µÎ¸¥ °ÍÃ³·³ ÆÛÁö°í, ¾çÂÊ ÆÈ¶Ò±îÁö ÂÍ ¶¯°å´Ù Ä°´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯À» ¾ËÄÚ ÀÖ½É´õ.
+,"±× »ç¶÷Àº ¹ÝÄÚ 1g ¸Â°í, ±Û°í³ª¼­ Ç÷°ü°ú¿¡¼­ ¹ß »óÅÂ º¼¶ó°í °Ë»ç ¹Þ¾Ò´Âµ¥, Ç×»ýÁ¦´Â ²÷´Â ±â ÁÁ°Ú´Ù Äº½É´õ.",È¯ÀÚ´Â ¹ß¿¡ »óÃ³°¡ ³µ½É´õ.
+,"±× »ç¶÷Àº ¹ÝÄÚ 1g ¸Â°í, ±Û°í³ª¼­ Ç÷°ü Àü¹®ÀÇÇÑÅ× ¹ß °Ë»ç ¹Þ¾Ò´Âµ¥, Ç×»ýÁ¦´Â ²÷´Â ±â ÁÁ°Ú´Ù°í ±Ç°í ¹Þ¾Ò½É´õ.",È¯ÀÚ ¹ß °Ë»ç °á°ú´Â Á¤»óÀÓ´Ï´õ.
+,"±× »ç¶÷Àº ¹ÝÄÚ 1g ¸Â°í, ±Û°í³ª¼­ Ç÷°ü Àü¹®ÀÇÇÑÅ× ¹ß ÁøÂû¹ÞÀ¸·¯ °¬´Âµ¥, Ç×»ýÁ¦´Â ²÷´Â ±â ÁÁ°Ú´Ù°í ±Ç°í ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ´ç´¢º´À» ¾ËÄÚ ÀÖ½É´õ.
+,È¯ÀÚ´Â ¼ú ¾È ¹¬¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¼ú ¾È ¹¬½Ê´Ï´õ.
+,È¯ÀÚ´Â ¼ú ¹¬Àº °Å ¾Æ´Ï¶ó Ä°´Ï´õ.,È¯ÀÚ°¡ ¼úÀ» ¸¶ÀÌ ¹¬°í ÀÖ½Ê´Ï´õ.
+,È¯ÀÚ´Â ¼ú ¾È ¹¬¾ú´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¾à °°Àº °Å ÇÔºÎ·Î ¹¬Àº Àû ¾ø½Ê´Ï´õ.
+,±× ¿©ÀÚ´Â »ý¸® Áß¿¡ ÇÇ ÂÍ ¼¯ÀÎ Åä¸¦ ÇÏ°í ¹°¶ËÀ» ÇÑ ¹ø ½Õ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ¾ÆÁ÷ »ý¸®ÇÒ ³ªÀÔ´Ï´õ.
+,±× ¿©ÀÚ´Â »ý¸® Áß¿¡ ÇÇ ÂÍ ¼¯ÀÎ Åä¶û °°ÀÌ ¹°¶ËÀ» ÇÑ ¹ø ´³´Ù Ä°´Ï´õ.,È¯ÀÚ´Â Æó°æÇß½É´õ.
+,±× ¿©ÀÚ´Â »ý¸® Áß¿¡ ÇÇ ÂÍ ¼¯¿© ³ª¿Â Åä¶û ¹°¶ËÀ» ÇÑ ¹ø ½Õ´Ù Ä°´Ï´õ.,È¯ÀÚ°¡ °ñ¹ÝÀÌ ¾ÆÇÁ´Ù Ä«³×¿¹.
+,"±× »ç¶÷ ¸¶´©¶ó ¸»ÀÌ, °ÉÀ»¶ó Ä«´Âµ¥ ¿ÞÂ¥·Î ³Ñ¾îÁö´Â °É ºÃ´Ù Äº°í, ±×·¡°¡ ´õ °Ë»çÇØº¼¶ó°í [**Hospital1 52**]·Î º¸³Â½Ê´Ï´õ.",±× »ç¶÷Àº °È´Â±â Á¤»óÀÌ ¾ÆÀÌ¾ú½Ê´Ï´õ.
+,"±× »ç¶÷ ¸¶´©¶ó ¸»ÀÌ, °ÉÀ»¶ó Ä«´Âµ¥ ¿ÞÂ¥·Î ³Ñ¾îÁö´Â °É ºÃ´Ù Äº°í, ±×·¡°¡ ´õ °Ë»çÇØº¼¶ó°í [**Hospital1 52**]·Î º¸³Â½Ê´Ï´õ.",±× »ç¶÷Àº °È´Â±â Á¤»óÀÔ´Ï´õ.
+,"±× »ç¶÷ ¸¶´©¶ó°¡, °ÉÀ»¶ó Ä«´Âµ¥ ¿ÞÂ¥·Î ³Ñ¾îÁö´Â °É ºÃ°í, ±×·¡°¡ [**Hospital1 52**]·Î º¸³»°¡ ´õ °Ë»ç¹Þ¾Ò½Ê´Ï´õ.",±× »ç¶÷Àº ½É¹æ¼¼µ¿ÇÏ°í °íÇ÷¾ÐÀÌ ÀÖ¾ú½Ê´Ï´õ.
+,Æ¯È÷ ±× »ç¶÷Àº [**Hospital1 68**]¿¡¼­ È£Èí±â °¨¿°ÀÌ¶û ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ÀÌ ½ÉÇØÁ®°¡ [**9-23**]¿¡ Åð¿øÇß½Ê´Ï´õ.,È¯ÀÚ´Â Æóº´ÀÌ ÀÖ½Ê´Ï´õ.
+,"Æ¯È÷ ¾Ë¾ÆµÖ¾ß ÇÒ ³¤µ¥, [**Hospital1 68**]¿¡¼­ »ó±âµµ °¨¿°ÀÌ¶û ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ÀÌ ½ÉÇØÁ®°¡ [**9-23**]¿¡ Åð¿øÇß½Ê´Ï´õ.",È¯ÀÚ Æó ±â´ÉÀº ±¦Âú½Ê´Ï´õ.
+,¾Ë¾ÆµÖ¾ß ÇÒ ²ô´Â ±× »ç¶÷ÀÌ [**Hospital1 68**]¿¡¼­ »ó±âµµ °¨¿°ÇÏ°í ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ ½ÉÇØÁ®°¡ [**9-23**]¿¡ Åð¿øÇß´Ù´Â °Ì´Ï´õ.,È¯ÀÚ´Â ´ã¹è ÇÉ ÀûÀÌ ÀÖ½Ê´Ï´õ.
+,¾Ö ³º´Â °Ç ÇÇÅä½Å ½á°¡ À¯µµÇß½Ê´Ï´õ.,È¯ÀÚ°¡ Áö±Ý ¾Ö ³º°í ÀÖ½Ê´Ï´õ.
+,ÇÇÅä½Å ½á°¡ ¾Ö ³ºµµ·Ï À¯µµÇß½Ê´Ï´õ.,È¯ÀÚ´Â Á¦¿ÕÀý°³ ¼ö¼úÇß½Ê´Ï´õ.
+,ÇÇÅä½Å ½á°¡ ¾Ö ³º°Ô²û À¯µµÇß½Ê´Ï´õ.,È¯ÀÚ ¾Ö ³º´Â±â ÁøÇàÀÌ ¾È µË´Ï´õ.
+,ÄáÆÏ ±â´É Àå¾Ö ÀÖÀ» ¶§ »ý±â´Â ¹ßÀÛ Àå¾Ö.,ÄáÆÏ ±â´É Àå¾Ö.
+,½ÅºÎÀüÁõ ÀÖÀ» ¶§ »ý±â´Â ¹ßÀÛ Àå¾Ö.,ÄáÆÏ ±â´É Á¤»ó.
+,½ÅºÎÀüÁõ ÀÖÀ» ¶§ »ý±â´Â ¹ßÀÛ Àå¾Ö.,È¯ÀÚ´Â ÇÇ Åõ¼®ÇÏ°í ÀÖ½Ê´Ï´õ.
+,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ ÀÎÁö ´É·ÂÀÌ ¶³¾îÁý´Ï´õ.
+,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ MMSE °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ ³ú MRI °á°ú°¡ ÀÌ»óÇÕ´Ï´õ.
+,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3±â,È¯ÀÚ´Â Ä¡¸Å¸¦ ¾Î°í ÀÖ½À´Ï´õ.
+,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ ÀÎÁö ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,¾ËÃ÷ÇÏÀÌ¸Ó Ä¡¸Å 3´Ü°è.,È¯ÀÚ´Â ¿ä¾ç¿ø¿¡¼­ Áö³»°í ÀÖ½À´Ï´õ.
+,È¯ÀÚ´Â º¸Åë ¾Æ¹« µµ¿ò ¾øÀÌ °È½À´Ï´õ.,È¯ÀÚ´Â ±âº»ÀûÀ¸·Î ´ó±æ ¼ö ÀÖ´Â »óÅÂÀÔ´Ï´õ.
+,È¯ÀÚ´Â º¸Åë ¾Æ¹« µµ¿ò ¾øÀÌ °ÉÀ» ¼ö ÀÖ½À´Ï´õ.,È¯ÀÚ´Â ÈÙÃ¼¾î¿¡ ÀÇÁöÇÏ°í ÀÖ½À´Ï´õ.
+,È¯ÀÚ´Â º¸Åë ¾Æ¹« µµ¿ò ¾øÀÌ °ÉÀ» ¼ö ÀÖ½À´Ï´õ.,È¯ÀÚ´Â ÀÏ»ó»ýÈ°À» È¥ÀÚ¼­ ´Ù ÇÕ´Ï´õ.
+,"¾à¹° ½ÃÇè¿¡´Â ÀÌ·± ¾àµéÀÌ Æ÷ÇÔµË´Ï´õ: Å×±×·¹Åç, ¿¡Æå¼­, µ¥ÆÄÄÚÆ®, ¸®Æ¬.",È¯ÀÚ´Â ¿©·¯ °¡Áö ¾àÀ» ½á ºÃ½À´Ï´õ.
+,"¾à¹° ½ÃÇè¿¡´Â Å×±×·¹Åç, ¿¡Æå¼­, µ¥ÆÄÄÚÆ®, ¸®Æ¬ÀÌ Æ÷ÇÔµË´Ï´õ.",È¯ÀÚ´Â ¾à¹° Ä¡·á¸¦ ÇÑ ¹øµµ ¹Þ¾Æ º» ÀûÀÌ ¾ø½À´Ï´õ.
+,"¾à¹° ½ÃÇè¿¡´Â ÀÌ·± ¾àµéÀÌ Æ÷ÇÔµË´Ï´õ: Å×±×·¹Åç, ¿¡Æå¼­, µ¥ÆÄÄÚÆ®, ¸®Æ¬.",È¯ÀÚ´Â Á¶¿ïÁõÀÌ ÀÖ½À´Ï´õ.
+,±× »ç¶÷ [**5-16**]ÀÏÀÚ °¡½¿ X-¼± °á°ú¸¦ º¸´Ï ½ÉÀåÀÌ Ä¿Áö°í ÆóºÎÁ¾ÀÌ ½ÉÇØÁ³½À´Ï´õ. ±Û°í ¿ÞÂÊ ¾Æ·¡ Æó¿¡ ¿°Áõ ¹¶Ä£ °Å¶û Èä¸·¿¡ ¹° Âù °Íµµ º¸¿´½À´Ï´õ.,È¯ÀÚ´Â ½ÉºÎÀüÁõÀÌ ÀÖ½À´Ï´õ.
+,±× »ç¶÷ [**5-16**]ÀÏÀÚ °¡½¿ X-¼± °á°ú¸¦ º¸´Ï ½ÉÀåÀÌ Ä¿Áö°í ÆóºÎÁ¾ÀÌ ½ÉÇØÁ³½À´Ï´õ. ±Û°í ¿ÞÂÊ ¾Æ·¡ Æó¿¡ ¿°Áõ ¹¶Ä£ °Å¶û Èä¸·¿¡ ¹° Âù °Íµµ º¸¿´½À´Ï´õ.,È¯ÀÚ ½ÉÀåÀº Á¤»óÀÔ´Ï´õ.
+,±× »ç¶÷ [**5-16**]ÀÏÀÚ °¡½¿ X-¼± °á°ú¸¦ º¸´Ï ½ÉÀåÀÌ Ä¿Áö°í ÆóºÎÁ¾ÀÌ ½ÉÇØÁ³½À´Ï´õ. ±Û°í ¿ÞÂÊ ¾Æ·¡ Æó¿¡ ¿°Áõ ¹¶Ä£ °Å¶û Èä¸·¿¡ ¹° Âù °Íµµ º¸¿´½À´Ï´õ.,È¯ÀÚ´Â Æó·Å¿¡ °É·È½À´Ï´õ.
+,´ÙÀ½Àº [**3079**]³â¿¡ ¿ÞÂÊÀÌ ½ÉÇÏ°Ô ¾àÇØÁö´Â Áõ»óÀÌ ³ªÅ¸³µ½À´Ï´õ.,È¯ÀÚÇÑÅ× ³úÁ¹Áß Â¡ÈÄ°¡ º¸ÀÔ´Ï´õ.
+,"´ÙÀ½ »ç·Ê´Â [**3079**]³â¿¡ ÀÖ¾ú´ø ÀÏÀÎµ¥, ¿ÞÂÊ ¸ö¿¡ ½ÉÇÑ ¸¶ºñ Áõ»óÀÌ ÀÖ¾ú½À´Ï´õ.",È¯ÀÚ ½Å°æ°è °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,´ÙÀ½Àº [**3079**]³â¿¡ ¿ÞÂÊ ºÎºÐÀÌ ½ÉÇÏ°Ô ¾àÇØÁö´Â Áõ»óÀÌ ³ªÅ¸³µ½À´Ï´õ.,È¯ÀÚ´Â ÀÏ°ú¼º ³úÇãÇ÷¹ßÀÛ(TIA)À» °Þ¾ú½À´Ï´õ.
+,"±× »ç¶÷ÀÌ º´µ¿¿¡ ¿ÔÀ» ¶§, °è¼Ó ¾îÁö·´´Ù°í Çß½À´Ï´õ. ±× »ç¶÷ ¸»ÀÌ ""¸ðµç °Ô ´Ù »ßµüÇÑ °Í °°´Ù""°í ÇÏ°í, ¸Ó¸®µµ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.",È¯ÀÚÇÑÅ× ÀüÁ¤±â´É Àå¾Ö Áõ»óÀÌ º¸ÀÔ´Ï´õ.
+,"±× »ç¶÷ÀÌ º´µ¿¿¡ ¿ÔÀ» ¶§, °è¼Ó ¾îÁö·´´Ù°í Çß½À´Ï´õ. ¸ðµç °Ô ´Ù »ßµüÇÑ °Í °°´Ù°í ¸»Çß°í, ¸Ó¸®µµ ¾ÆÆÍ½À´Ï´õ.",È¯ÀÚ´Â ÀüÁ¤±â´É Àå¾Ö Áõ»óÀÌ ¾ø½À´Ï´õ.
+,"±× »ç¶÷ÀÌ º´µ¿¿¡ ¿ÔÀ» ¶§, °è¼Ó ¾îÁö·´´Ù°í Çß´Ù-- ""¸¶Ä¡ ¸ðµç °Ô ´Ù »ßµüÇÑ °ÍÃ³·³""-- ±Û°í ¸Ó¸®µµ ¾ÆÆÄÇß´Ù.",È¯ÀÚ´Â ¼Ò³ú ³úÁ¹ÁßÀ» °Þ¾ú½À´Ï´õ.
+,È¯ÀÚ´Â Àü¿¡ DVT¸¦ ¾ÎÀº ÀûÀÌ ÀÖ¾î¼­ Äí¸¶µòÀ» ¸Ô°í ÀÖ½À´Ï´õ.,È¯ÀÚ´Â ÇÇ ¾È ±»°Ô ÇÏ´Â Ä¡·á¸¦ ¹Þ°í ÀÖ½À´Ï´õ.
+,È¯ÀÚ´Â DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ) ¾ÎÀº ÀûÀÌ ÀÖ¾î°¡ Äí¸¶µòÀ» ¹¬°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ´Â ÇÇ ´õ ³¯ À§ÇèÀº ¾ø½Ê´Ï´õ.
+,È¯ÀÚ´Â DVT ¾ÎÀº ÀûÀÌ ÀÖ¾î°¡ CoumadinÀ» ¹¬°í ÀÖ½Ê´Ï´õ.,È¯ÀÚ´Â ÇÇ°¡ ³Ê¹« Àß ±»´Â »óÅÂÀÔ´Ï´õ.
+,"½ÉÀåÀº ÂÉ¸Å¼­ Áß°£ Á¤µµ·Î Ä¿Á® ÀÖ´Âµ¥, Å©°Ô ¹Ù²ï °Å´Â ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉÀåºñ´ëÁõÀÌ ÀÖ½Ê´Ï´õ.
+,"½ÉÀåÀº ÂÉ¸Å¼­ Áß°£ Á¤µµ·Î Ä¿Á® ÀÖ´Âµ¥, Å©°Ô º¯ÇÑ °Å´Â ¾ÆÀÔ´Ï´õ.",È¯ÀÚ´Â ½ÉÀåÀÌ ÀÛ½Ê´Ï´õ.
+,"½ÉÀåÀº ÂÉ¸Å¼­ Áß°£ Á¤µµ·Î Ä¿Á® ÀÖ´Âµ¥, Å©°Ô ¹Ù²ï °Å´Â ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÔ´Ï´õ.
+,¾Æ´Â ÅÂ¾î³ª±â Àü¿¡ 4½Ã°£µµ ¾È µÇ°Ô Ä¡·á¹Þ°í »óÅÂ º¼¶ó°í ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç¿¡ µé¾î¿Ô½Ê´Ï´õ.,È¯ÀÚ°¡ °¨¿°µÆ½Ê´Ï´õ.
+,¾Æ´Â ÅÂ¾î³ª±â Àü¿¡ 4½Ã°£µµ ¾È µÇ°Ô Ä¡·á¹Þ°í »óÅÂ º¼¶ó°í ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç¿¡ µé¾î¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â °Ç°­ÇÑ °«³­¾ÆÀÔ´Ï´õ.
+,¾Æ´Â ÅÂ¾î³ª±â Àü¿¡ 4½Ã°£µµ ¾È µÇ°Ô Ä¡·á¹Þ°í »óÅÂ º¼¶ó°í ½Å»ý¾Æ ÁßÈ¯ÀÚ½Ç¿¡ µé¾î¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â Á¶»ê¾ÆÀÔ´Ï´õ.
+,¿ÀÁÜº¸ ¹®Á¦ µþ¸° Àü¸³¼±ºñ´ëÁõ ¶«¿¡ ¼Òº¯ÁÙ ²È¾Æ¾ß Çß´ø ÀûÀÌ ÀÖ½Ê´Ï´õ.,Àü¸³¼±ÀÌ Ä¿Á³½Ê´Ï´õ.
+,¿ÀÁÜº¸ ¹®Á¦ µþ¸° Àü¸³¼±ºñ´ë ¶«¿¡ ¼Òº¯ÁÙ ²È¾Æ¾ß Çß´ø ÀûÀÌ ÀÖ½Ê´Ï´õ.,¿ÀÁÜ ´©´Â µ¥ ºÒÆíÇÑ °Å ¾øÀ½.
+,¿ÀÁÜº¸ ¹®Á¦ µþ¸° Àü¸³¼±ºñ´ëÁõ ¶«¿¡ ¼Òº¯ÁÙ ²È¾Æ¾ß Çß´ø ÀûÀÌ ÀÖ½Ê´Ï´õ.,PSA ¼öÄ¡°¡ ³ô°Ô ³ª¿É´Ï´õ.
+,"ÀÎ½¶¸° ¸Â¾Æ¾ß µÇ´Â ´ç´¢º´ÀÌ°í, ¿­¼¼ »ì ¶§ Áø´Ü¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ¿À·¡µÈ º´À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"ÀÎ½¶¸° ¸Â¾Æ¾ß µÇ´Â ´ç´¢º´ÀÌ°í, ¿­¼¼ »ì ¶§ Áø´Ü¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ A1c ¼öÄ¡´Â Á¤»óÀÔ´Ï´õ.
+,"ÀÎ½¶¸° ¸Â¾Æ¾ß µÇ´Â ´ç´¢º´ÀÌ°í, ¿­¼¼ »ì ¶§ Áø´Ü¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ Ç÷´ç ¼öÄ¡°¡ ¿Ã¶ó°¬½Ê´Ï´õ.
+,È¯ÀÚ ÇÃ¶óºñ½º ¹¬´Â ±â [**2564-5-31**]¿¡ ³¡³ª´Â °É·Î ´Ù ÇØ°¡ 30ÀÏ °èÈ¹µÅ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ÇÇ ¹±°Ô ÇÏ´Â ¾àÀ» ¹¬°í ÀÖ½Ê´Ï´õ.
+,È¯ÀÚ ÇÃ¶óºñ½º ¹¬´Â ±â [**2564-5-31**]¿¡ ³¡³ª´Â °É·Î 30ÀÏ °èÈ¹µÅ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ Ç÷¼ÒÆÇ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,È¯ÀÚ ÇÃ¶óºñ½º ¹¬´Â ±â [**2564-5-31**]¿¡ ³¡³ª´Â °É·Î 30ÀÏ °èÈ¹µÅ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ÃÖ±Ù¿¡ ³úÁ¹ÁßÀ» °Þ¾ú½Ê´Ï´õ.
+,"±×ºÐ Ç÷¾ÐÀÌ 97¿¡ 52±îÁö ¶³¾îÁ³´Ù°¡, ³ªÁß¿¡´Â 197¿¡ 92±îÁö ¿Ã¶ú½Ê´Ï´õ (¾ï¼ö·Î ºÒ¾ÈÁ¤ÇÕ´Ï´õ).",È¯ÀÚ´Â °¡²û¾¿ Ç÷¾ÐÀÌ ¶³¾îÁý´Ï´õ.
+,"±×ºÐ Ç÷¾ÐÀÌ 97¿¡ 52±îÁö ¶³¾îÁ³´Ù°¡, ³ªÁß¿¡´Â 197¿¡ 92±îÁö ¿Ã¶ú½Ê´Ï´õ (¾ï¼ö·Î ºÒ¾ÈÁ¤ÇÕ´Ï´õ).",È¯ÀÚ Ç÷¾ÐÀº ¾ÈÁ¤ÀûÀÔ´Ï´õ.
+,"±×ºÐ Ç÷¾ÐÀÌ 97¿¡ 52±îÁö ¶³¾îÁ³´Ù°¡, ³ªÁß¿¡´Â 197¿¡ 92±îÁö ¿Ã¶ú½Ê´Ï´õ(¾ï¼ö·Î ºÒ¾ÈÁ¤ÇÕ´Ï´õ).",È¯ÀÚ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
+,"¿¡ÄÚ¿¡¼­ »ìÂ¦ ´ëµ¿¸Æ ÇùÂøÁõÀÌ º¸¿´°í¿¹, ¿¹Àü¿¡ ±âÀýÇÏ´Â Áõ»óÀÌ ¾ÆÈ© ¹ø ÀÖ¾ú½É´õ.",¿¡ÄÚ°Ë»ç °á°ú¿¡¼­ ´ëµ¿¸Æ Á¼¾ÆÁø ±â º¸¿´½É´õ.
+,"¿¡ÄÚ¿¡¼­ »ìÂ¦ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ¹ß°ßµÆ°í, ¿¾³¯¿¡ ±âÀý Áõ»óÀÌ ¾ÆÈ© ¹ø ÀÖ¾ú¾î¿¹.",¿¡ÄÚ°Ë»ç¿¡¼­ º°´Ù¸¥ ÀÌ»óÀº ¾ø¾ú½É´õ.
+,"¿¡ÄÚ°Ë»ç¿¡¼­ »ìÂ¦ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ¹ß°ßµÆ°í, ¿¾³¯¿¡´Â ±âÀý Áõ»óÀÌ ¾ÆÈ© ¹ø ÀÖ¾ú½É´õ.",³Ñ¾îÁø Àû ÀÖÀ½.
+,"ÁÖ±âÀûÀ¸·Î ¸»¸®°í, »¡¾Æ³»°í, ÀÚ±ØÀ» ÁÝ´Ï´õ.",±× ¾Æ´Â ÀÎÀÚ ¸· ÅÂ¾î³µ½É´õ.
+,"ÁÖ±âÀûÀ¸·Î ¸»¸®°í, »¡¾Æ³»°í, ÀÚ±ØÀ» ÁÝ´Ï´õ.",È¯ÀÚ ¾ö¸¶´Â ¾ÆÁï ¾Æ¸¦ ¾È ³º¾Ò½É´õ.
+,"ÁÖ±âÀûÀ¸·Î ¸»¸®°í, »¡¾Æ³»°í, ÀÚ±ØÇÔ.",ºÐ¸¸Àº Á¤»óÀûÀ¸·Î ÀÚ¿¬ºÐ¸¸À¸·Î ÁøÇàµÆ¾î¿¹.
+,2³â ³Ñ°Ô ÇÇ ¾È ³ª´Â ¼ö¹Ú À§ÁõÇÏ°í À§Á¤¸Æ È®ÀåÁõ.,È¯ÀÚ´Â Áö±Ý ´çÀå ÇÇ ³ª´Â °Å´Â ¾ø½É´õ.
+,2³â ³Ñ°Ô ÇÇ ¾È ³ª´Â ¼ö¹Ú À§ÁõÇÏ°í À§Á¤¸Æ È®ÀåÁõ.,È¯ÀÚ´Â ÇÇ¸¦ ÅäÇÏ°í ÀÖ½É´õ.
+,2³â ³Ñ°Ô ÇÇ ¾È ³ª´Â ¼ö¹Ú À§ÁõÇÏ°í À§Á¤¸Æ·ù°¡ ÀÖ½É´õ.,È¯ÀÚ´Â °£°æº¯ÁõÀÌ ÀÖ½É´õ.
+,"±× »ç¶÷ÀÌ ¿À´Ã ¿ä¾ç¿ø¿¡¼­ ¼û½¬±â Èûµé´Ù Äº°í, ¹Ù±ù °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ°¡ 80%´ë·Î Àú»ê¼ÒÁõÀ» º¸¿´½É´õ. ±×¸®°í »ê¼Ò 6¸®ÅÍ¸¦ ÁÖÀÌ±î »ê¼ÒÆ÷È­µµ°¡ 90%·Î ³ª¿Ô¾î¿¹. ±× »ç¶÷ ¹éÇ÷±¸ °Ë»ç¿¡¼­ ¹êµåÇü ¼¼Æ÷Áõ°¡ÁõÀÌ ³ª¿Í°¡²¿, ÀÀ±Þ½Ç·Î ½Ç·Á¿Ô½É´õ.",±× »ç¶÷ »ê¼ÒÆ÷È­µµ ¼öÄ¡°¡ ³·½É´õ.
+,"±× »ç¶÷ÀÌ ¿À´Ã ¿ä¾ç¿ø¿¡¼­ ¼û½¬±â Èûµé´Ù Äº°í, ¹Ù±ù °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ°¡ 80%´ë·Î Àú»ê¼ÒÁõÀ» º¸¿´¾î¿¹. ¶Ç, »ê¼Ò 6¸®ÅÍ¸¦ ¹ÞÀ¸ÀÌ±î »ê¼ÒÆ÷È­µµ°¡ 90%·Î ³ª¿Ô½É´õ. ±× »ç¶÷ ¹éÇ÷±¸¿¡¼­ ¹êµåÇü ¼¼Æ÷Áõ°¡ÁõÀÌ º¸¿©°¡, ÀÀ±Þ½Ç·Î ½Ç·Á¿Ô½É´õ.",¼û ½¬´Â ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"±× »ç¶÷ÀÌ ¿À´Ã ¿ä¾ç¿ø¿¡¼­ ¼û½¬±â Èûµé´Ù Äº°í, ¹Ù±ù °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ°¡ 80´ë·Î Àú»ê¼ÒÁõÀ» º¸¿´½É´õ. »ê¼Ò 6¸®ÅÍ¸¦ ÁÖÀÌ±î »ê¼ÒÆ÷È­µµ´Â 90%¿´¾î¿¹. ±× »ç¶÷ ¹éÇ÷±¸¿¡¼­ ¹êµåÇü ¼¼Æ÷Áõ°¡ÁõÀÌ ³ª¿Í°¡²¿, ÀÀ±Þ½Ç·Î ½Ç·Á¿Ô½É´õ.",±× »ç¶÷Àº ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"±× »ç¶÷Àº ¶ó½Ä½º 40mgÀ» ´Ù½Ã Ã³¹æ¹Þ¾Ò°í, ÀÏÁÖÀÏ µÚ¿¡ °æ°ú º¼¶ó²¿ °Ë»çÇÒ ³§´Ï´õ.",±× »ç¶÷Àº ´Ù½Ã ÀÌ´¢Á¦¸¦ ¸Ô±â ½ÃÀÛÇß½É´õ.
+,"±× »ç¶÷Àº ¶ó½Ä½º 40mgÀ» ´Ù½Ã Ã³¹æ¹Þ¾Ò°í, ÀÏÁÖÀÏ µÚ¿¡ ÃßÀû °Ë»ç ¹ÞÀ» ³§´Ï´õ.",±× »ç¶÷Àº ÀÌ´¢Á¦¸¦ ²÷¾ú½É´õ.
+,"±× »ç¶÷Àº ¶ó½Ä½º 40mgÀ» ´Ù½Ã Ã³¹æ¹Þ¾Ò°í, ÀÏÁÖÀÏ µÚ¿¡ °æ°ú º¼¶ó²¿ °Ë»çÇÒ ³§´Ï´õ.",±× »ç¶÷Àº ½ÅÀåº´ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"±× ¿©ÀÚºÐ ±âÄ§ ¶«¿¡ °¡½¿ ¿¢½º·¹ÀÌ¸¦ Âï¾ú´Âµ¥, ±× °á°ú ¸²ÇÁÀýÀÌ º×°í Æó¿¡ °áÀýÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â Æó °áÀýÇÏ°í ¸²ÇÁ¼±º´ÁõÀÌ ÀÖ½É´õ.
+,"±× ¿©ÀÚºÐ ±âÄ§ ¶«¿¡ °¡½¿ ¿¢½º·¹ÀÌ¸¦ Âï¾ú´Âµ¥, ±× °á°ú ¸²ÇÁÀýÀÌ º×°í Æó °áÀýÀÌ ³ª¿Ô½É´õ.",È¯ÀÚºÐ °¡½¿ ¿¢½º·¹ÀÌ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,±× ¿©ÀÚºÐ ±âÄ§ ¶«¿¡ °¡½¿ ¿¢½º·¹ÀÌ¸¦ Âï¾ú°í ±× °á°ú¿¡¼­ ¸²ÇÁÀýÀÌ º×°í Æó °áÀýÀÌ ¹ß°ßµÆ½É´õ.,È¯ÀÚ´Â Æó¾ÏÀÔ´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ ½ÉÀüµµ °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â Á¤»ó ½Å°æ¸Æµ¿ÀÔ´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â Çù½ÉÁõÀ» ¾Î°í ÀÖ½À´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â °¡²û ½ÉÀå ¸®µëÀÌ ÀÌ»óÇÕ´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ°¡ °¡½¿ÀÌ µÎ±Ù°Å¸°´Ù ÇÕ´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,ºÎÁ¤¸Æ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,"½ÉÀå ¸Æ¹ÚÇÏ°í ¸®µëÀº Á¤»óÀÌ°í, ºÎÁ¤¸Æ ¾Î¾Ò´ø ÀûÀº ¾ø½É´õ."
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,È¯ÀÚ´Â º£Å¸ Â÷´ÜÁ¦ ¹¬°í ÀÖ½À´Ï´õ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,ºÎÁ¤¸Æ.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,Á¤»ó ½ÅÈ£ ¸®µë.
+,¹ßÀÛ¼º ½É¹æ¼¼µ¿.,°íÇ÷¾Ð º´·Â.
+,ÃÖ±Ù¿¡ ¿­ ³ª°Å³ª Ãä°Å³ª °æ·Ã ÀÖ¾ú´ø ÀûÀº ¾ø´ÙÄ°´Ï´õ.,È¯ÀÚ´Â ¿­ ³ª´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.
+,ÃÖ±Ù¿¡ ¿­ ³ª°Å³ª Ãä°Å³ª °æ·Ã ÀÖ¾ú´ø ÀûÀº ¾ø´ÙÄ°´Ï´õ.,È¯ÀÚ´Â ¿­ ³ª´Â Áõ»óÀÌ ÀÖ½À´Ï´õ.
+,ÃÖ±Ù¿¡ ¿­ ³ª°Å³ª Ãä°Å³ª °æ·Ã ÀÖ¾ú´ø ÀûÀº ¾ø´ÙÄ°´Ï´õ.,È¯ÀÚ´Â »ì ºüÁö´Â °Ç ¾ø´ÙÄ°´Ï´õ.
+,"°¡½¿ ¾ÆÇÁ°Å³ª, ¼û Â÷°Å³ª, ¿­ ³ª°Å³ª, Ãä°Å³ª, ÅäÇÏ´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.",È¯ÀÚ´Â Æó·Å Áõ»óÀº ¾ø½À´Ï´õ.
+,"°¡½¿ ¾ÆÇÁ°Å³ª, ¼û Â÷°Å³ª, ¿­ ³ª°Å³ª, Ãä°Å³ª, ÅäÇÏ°Å³ª ¼Ó ¹Ì½Ä°Å¸®´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.",È¯ÀÚ°¡ Æó·Å Áõ»óÀ» º¸ÀÌ°í ÀÖ½À´Ï´õ.
+,"°¡½¿ ¾ÆÇÁ°Å³ª, ¼û Â÷°Å³ª, ¿­ ³ª°Å³ª, Ãä°Å³ª, ÅäÇÏ´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.",È¯ÀÚ´Â Æó·ÅÀº ¾ÆÀÔ´Ï´õ.
+,¹è ¾ÆÇÁ°Å³ª ¼³»çÇÏ´Â Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ´Â º¹ÅëÀº ¾ø½À´Ï´õ.
+,¹è ¾ÆÇÁ°Å³ª ¼³»çÇÏ´Â Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ°¡ ¼³»çÇÏ°í ÀÖ½À´Ï´õ.
+,¹è ¾ÆÇÁ°Å³ª ¼³»çÇÏ´Â Áõ»óÀº ¾ø½É´õ.,È¯ÀÚ´Â °¡½¿ ÅëÁõÀº ¾ø½À´Ï´õ.
+,"½ÊÀÌÁöÀå ±Ë¾ç/Èæº¯Áõ, [**2608-10-28**], Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® À½¼º.",È¯ÀÚ´Â ½ÊÀÌÁöÀå ±Ë¾çÀÌ ÀÖ½À´Ï´õ.
+,"½ÊÀÌÁöÀå ±Ë¾ç/Èæº¯Áõ, [**2608-10-28**], Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® À½¼º.",È¯ÀÚ ½ÊÀÌÁöÀåÀº Á¤»óÀÔ´Ï´õ.
+,"½ÊÀÌÁöÀå ±Ë¾ç/Èæº¯Áõ, [**2608-10-28**], Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® À½¼º.",È¯ÀÚ´Â °¡½ºÆ®¸®³ë¸¶°¡ ÀÖ½Ê´Ï´õ.
+,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, °©»ó¼±±â´ÉÇ×ÁøÁõ, ´ç´¢º´, ÀÚ²Ù »ý±â´Â Èä¸· »ïÃâ(6ÁÖ Àü¿¡ [**º´¿ø**]¿¡¼­ ¹° »°À½) 8»ì ¶§ ¸ÍÀå ¼ö¼ú ÀÌ·ÂÀÌ ÀÖ½Ê´Ï´õ.",È¯ÀÚ´Â ¿¹Àü¿¡ ¼ö¼ú ¹ÞÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
+,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, °©»ó¼±±â´ÉÇ×ÁøÁõ, ´ç´¢º´, ÀÚ²Ù »ý±â´Â Èä¸· »ïÃâ(6ÁÖ Àü [**º´¿ø**]¿¡¼­ ¹° »°À½) 8»ì ¶§ ¸ÍÀå ¼ö¼ú ÀÌ·Â ÀÖ½¿.",È¯ÀÚ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
+,"°íÇ÷¾Ð, ½É¹æ¼¼µ¿, °©»ó¼±±â´ÉÇ×ÁøÁõ, ´ç´¢º´, ÀÚ²Ù Àç¹ßÇÏ´Â Èä¸· »ïÃâ(6ÁÖ Àü [**º´¿ø**]¿¡¼­ ¹° »°À½) 8»ì ¶§ ¸ÍÀå ¼ö¼ú ÀÌ·Â ÀÖ½¿.",Ç÷´çÀÌ ¿Ã¶ó°¬½Ê´Ï´õ.
+,11ÀÏ Àü¿¡ ¸ÍÀå ¼ö¼úÀ» ¹ÞÀº »óÅÇ´Ï´õ.,¼ö¼ú ÀÌ·Â¿¡ ¸ÍÀå ¶¾ ¼ö¼úÀÌ Æ÷ÇÔµÅ ÀÖ½Ê´Ï´õ.
+,11ÀÏ Àü ¸ÍÀå ¼ö¼ú ÈÄ »óÅÇ´Ï´õ.,¼ö¼úÇÑ Àû ¾ø½¿.
+,11ÀÏ Àü¿¡ ¸ÍÀå ¼ö¼úÀ» ¹ÞÀº »óÅÇ´Ï´õ.,È¯ÀÚ´Â ´ëº¯¼®ÀÌ ¸·Èù ¸ÍÀå¿° º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷.,ÀûÇ÷±¸¸¦ ºÐÇØ½ÃÅ°´Â º´ÀÔ´Ï´õ.
+,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷.,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷ÀÌ ÀÖ´Ù²¿ ÇØ¼­ ´Ù¸¥ ÀÚ°¡¸é¿ª ÁúÈ¯ À§ÇèÀÌ ´õ ¿Ã¶ó°¡´Â °Ç ¾ÆÀÔ´Ï´õ.
+,ÀÚ°¡¸é¿ª¼º ¿ëÇ÷¼º ºóÇ÷.,ÀÌ º´ÀÌ ÀÖ´Â È¯ÀÚµéÀº ´Ù¸¥ ÀÚ°¡¸é¿ª ÁúÈ¯µµ °°ÀÌ ¾Î°í ÀÖ½Ê´Ï´õ.
+,±× È¯ÀÚ´Â Ä§»ó ¾ÈÁ¤ ±ÇÀ¯¹Þ°í Å×¸£ºÎÅ»¸°À¸·Î Ä¡·á¹ÞÀ¸¸é¼­ Åð¿øÇß½Ê´Ï´õ.,È¯ÀÚ´Â ÀÎÀÚ ÀÔ¿ø ÁßÀÌ ¾ÆÀÔ´Ï´õ.
+,"±× È¯ÀÚ´Â ´©¿ö¼­ Ç« ½¬¶ó°í ÇÏ°í Åð¿øÇß°í, Å×¸£ºÎÅ»¸°À¸·Î Ä¡·á¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ°¡ ÀÎÀÚ ¾àÀ» ¾È ¸Ô½Ê´Ï´õ.
+,±× È¯ÀÚ´Â Ä§»ó ¾ÈÁ¤ ±ÇÀå¹Þ°í Å×¸£ºÎÅ»¸°À¸·Î Ä¡·á¹ÞÀ¸¸é¼­ Åð¿øÇß½Ê´Ï´õ.,È¯ÀÚ´Â ´ã¹ø Áø·á ¿¹¾àÀÌ ÀâÇô ÀÖ½Ê´Ï´õ.
+,"Áö±Ý È¯ÀÚ´Â ÇÇ°ïÇØÇÏ°í, ±âÄ§ÇÏ¸é¼­ °¡½¿µµ °è¼Ó ºÒÆíÇÏ´Ù Ä°´Ï´õ. ¼û½¬±â Èûµç °Ç ¾ø°í¿ä.",È¯ÀÚ ROS °á°ú°¡ ¾ç¼ºÀÔ´Ï´õ.
+,"Áö±Ý È¯ÀÚ´Â ÇÇ°ïÇØÇÏ°í, ±âÄ§ÇÏ¸é¼­ °¡½¿µµ °è¼Ó ºÒÆíÇÏ´Ù Ä°´Ï´õ. ±Ùµð ¼ûÀÌ Â÷Áö´Â ¾Ê´Ù³×¿¹.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾îÇÕ´Ï´õ.
+,"Áö±Ý È¯ÀÚ´Â ÇÇ°ïÇØÇÏ°í, ±âÄ§ÇÏ¸é¼­ °¡½¿µµ °è¼Ó ºÒÆíÇÏ´Ù Ä°´Ï´õ. ±Ùµð ¼ûÀÌ °¡»ÚÁö´Â ¾Ê´Ù³×¿¹.",È¯ÀÚ »ê¼ÒÆ÷È­µµ´Â Á¤»óÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ½ÅÃ¼ °Ë»ç»ó Á¤»óÀÌ¾ú°í, Á÷Àå¿¡¼­ '¸á·¹³ª'°¡ º¸ÀÎ´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚ Á÷Àå ¾È¿¡¼­ ÇÇ°¡ ¹ß°ßµÆ½Ê´Ï´õ.
+,"È¯ÀÚ´Â ½ÅÃ¼ °Ë»ç»ó Á¤»óÀÌ¾ú°í, Á÷Àå¿¡¼­ '¸á·¹³ª'°¡ º¸ÀÎ´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚ´Â À§Àå ÃâÇ÷Àº ¾ø½Ê´Ï´õ.
+,"È¯ÀÚ´Â ½ÅÃ¼ °Ë»ç»ó Á¤»óÀÌ¾ú°í, Á÷Àå¿¡¼­ '¸á·¹³ª', ´Ù½Ã ¸»ÇØ °ËÀº ¶ËÀÌ º¸ÀÎ´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚ´Â À§Àå ÃâÇ÷ÀÌ ÀÖ½Ê´Ï´õ.
+,È¯ÀÚ´Â ¿ä»õ ½¯ ¶§ °¡½ÉÀÌ ´ä´äÇÏ°í ÂÉÀÌ´Â °Í °°Àº Áõ»óÀÌ »ý±â±â ½ÃÀÛÇß½É´õ.,È¯ÀÚ´Â ¿ä»õ °¡½ÉÀÌ ¾ÆÇÁ´Ù ÇÕ´Ï´õ.
+,È¯ÀÚ´Â ¿ä»õ ½¯ ¶§ °¡½ÉÀÌ ´ä´äÇÏ°í ÂÉÀÌ´Â °Í °°Àº Áõ»óÀÌ º¸ÀÌ±â ½ÃÀÛÇß½É´õ.,È¯ÀÚ´Â °¡½É ¾ÆÇÂ °Ç ¾ÆÀÌ¶ó°í ÇÕ´Ï´õ.
+,È¯ÀÚ´Â ¿ä»õ ½¯ ¶§ °¡½ÉÀÌ ´ä´äÇÏ°í ÂÉÀÌ´Â °Í °°Àº Áõ»óÀÌ »ý±â±â ½ÃÀÛÇß½É´õ.,È¯ÀÚ´Â °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀ» ¾ÎÀº ÀûÀÌ ÀÖ½É´Ï´õ.
+,¸¸¼º ¿ÞÂÊ °æ¸·ÇÏ Ç÷Á¾.,È¯ÀÚ´Â ¸¸¼ºÀûÀ¸·Î ¸Ó¸® ¾È¿¡ ÇÇ°¡ ³ª´Â Áõ¼¼°¡ ÀÖ½É´Ï´õ.
+,¸¸¼º ¿ÞÂÊ °æ¸·ÇÏ Ç÷Á¾.,È¯ÀÚ ³ú MRI °á°ú´Â ¾Æ¹« ÀÌ»ó ¾ø½É´õ.
+,¸¸¼º ¿ÞÂÊ °æ¸·ÇÏ Ç÷Á¾.,Áß¾Ó¼± ÀÌµ¿ÀÌ ÀÖ½É´õ.
+,±× »ç¶÷ ¾Æ¹Ì¿À´Ù·Ð ¸Ô´Â ¾çÀÌ ´Ã¾ú½É´õ (200-->300).,È¯ÀÚ´Â ½ÉÀå ºÎÁ¤¸ÆÀÌ ÀÖ½É´õ.
+,±× »ç¶÷ ¾Æ¹Ì¿À´Ù·Ð ¸Ô´Â ¾çÀÌ ´Ã¾ú½É´õ (200-->300).,È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
+,±× »ç¶÷ ¾Æ¹Ì¿À´Ù·Ð ¸Ô´Â ¾çÀÌ ´Ã¾ú½É´õ (200-->300).,È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â Æ¯º°È÷ ¾ÎÀº Àû ¾ø´Â 57¼¼ ¿©ÀÚºÐÀÎµ¥, ¶×¶×ÇÏ°í, ÁÖÂ÷Àå¿¡¼­ ¿À¸¥ÂÊ ¸öÀ» ¸ø ¾²´Â Áõ»óÀ¸·Î ¹ß°ßµÅ°¡ [**3259-12-9**]¿¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ BMI Áö¼ö°¡ ³ô½É´õ.
+,"È¯ÀÚ´Â 57¼¼ ¿©ÀÚºÐÀÎµ¥, Æ¯º°È÷ ¾ÎÀº Àû ¾ø°í, ¶×¶×ÇÏ°í, ÁÖÂ÷Àå¿¡¼­ ¿À¸¥ÂÊ ¸öÀ» ¸ø ¾²´Â Áõ»óÀ¸·Î ¹ß°ßµÅ°¡ [**3259-12-9**]¿¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ ¸ö¹«°Ô´Â Á¤»óÀÔ´Ï´õ.
+,"È¯ÀÚ´Â Æ¯º°È÷ ¾ÎÀº Àû ¾ø´Â 57¼¼ ¿©ÀÚºÐÀÎµ¥, ¶×¶×ÇÏ°í, ÁÖÂ÷Àå¿¡¼­ ¿À¸¥ÂÊ ¸öÀ» ¸ø ¾²´Â Áõ»óÀ¸·Î ¹ß°ßµÅ°¡ [**3259-12-9**]¿¡ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚÇÑÅ× ³úÁ¹Áß Áõ»óÀÌ ³ªÅ¸³ª°í ÀÖ½É´õ.
+,È¯ÀÚ´Â ½Å°æ¿Ü°ú µµ¿ò ¹Þ¾Æ°¡ Ã´Ãß°­ ÃµÀÚ ÇÏ·Á°í ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â ¿äÃß ÃµÀÚ°¡ ÇÊ¿äÇÕ´Ï´õ.
+,È¯ÀÚ´Â ½Å°æ¿Ü°ú µµ¿ò ¹Þ¾Æ°¡ Ã´Ãß°­ ÃµÀÚ ÇÏ·Á°í ¿Å°ÜÁ³½É´õ.,"È¯ÀÚ´Â ½Å°æÇÐÀû Áõ»óÀº ¾ø°í, ¿äÃß ÃµÀÚ ÇÒ ÇÊ¿ä´Â ¾ø°Ú½É´õ."
+,È¯ÀÚ´Â ½Å°æ¿Ü°ú µµ¿ò ¹Þ¾Æ°¡ Ã´Ãß°­ ÃµÀÚ ÇÏ·Á°í ¿Å°ÜÁ³½É´õ.,È¯ÀÚ°¡ ¸Ó¸® ¾ÆÇÁ´Ù ÇÕ´Ï´õ.
+,"¿ä ¸çÄ¥ µ¿¾È ±× »ç¶÷ÀÌ ¶ËÀ» Àß ¸ó ´³½É´õ. ¿ø·¡ ÇÏ·ç¿¡ ÇÑ ¹ø¾¿Àº ´©´Âµ¥, ¸¶Áö¸·À¸·Î ¶Ë ´« Áö°¡ ³ªÈê ÀüÀÔ´Ï´õ.",±× »ç¶÷ º¯ºñ ÀÖ½É´õ.
+,"¿ä ¸çÄ¥ µ¿¾È ±× »ç¶÷ÀÌ ¶ËÀ» Àß ¸ó ´³½É´õ. ¿ø·¡ ÇÏ·ç¿¡ ÇÑ ¹ø¾¿Àº ´©´Âµ¥, ¸¶Áö¸·À¸·Î ¶Ë ´« Áö°¡ ³ªÈê ÀüÀÔ´Ï´õ.",±× »ç¶÷ ¼³»çÇÕ´Ï´õ.
+,"¿ä ¸çÄ¥ µ¿¾È ±× »ç¶÷ÀÌ ¶ËÀ» Àß ¸ó ´³½É´õ. ¿ø·¡ ÇÏ·ç¿¡ ÇÑ ¹ø¾¿Àº ´©´Âµ¥, ¸¶Áö¸·À¸·Î ¶Ë ´« Áö°¡ ³ªÈê ÀüÀÌ¾ú½É´õ.",±× »ç¶÷ Ä¡Áú ÀÖ½É´õ.
+,"±× »ç¶÷Àº Èä¸·¿¡ ¹°ÀÌ Â÷°í, ÃÊÀ½ÆÄ ½ÉÀå ³»½Ã°æÀ¸·Î º¸´Ï±î ½É³¶¿¡µµ ¹°ÀÌ Âù °Ô È®ÀÎµÆ´Âµ¥, ½ÉÀåÀÌ ´­¸®´Â Áõ°Å´Â ¾ø¾ú½É´õ.",±× »ç¶÷Àº Èä¸·ÇÏ°í ½É³¶¿¡ ¹°ÀÌ Â÷ ÀÖ½É´õ.
+,"±× »ç¶÷Àº Èä¸·¿¡ ¹° Âù °Å¶û ÃÊÀ½ÆÄ ½ÉÀå ³»½Ã°æÀ¸·Î È®ÀÎµÈ ½É³¶¿¡ ¹° Âù ±â µ¿½Ã¿¡ ÀÖ¾ú´Âµ¥, ½ÉÀåÀÌ ´­¸®´Â Áõ°Å´Â ¹ß°ß ¾È µÆ½É´õ.",½ÉÀåÀÌ ´­¸®°í ÀÖ½É´õ.
+,"±× »ç¶÷Àº Èä¸· »ïÃâÀÌ¶û ÃÊÀ½ÆÄ ½ÉÀå ³»½Ã°æÀ¸·Î È®ÀÎµÈ ½É³¶ »ïÃâÀÌ ÀÖ´Â °É·Î ³ª¿Ô°í¿¹, Å½Æ÷³×ÀÌµå Áõ°Å´Â ¾ø¾ú½É´õ.",±× »ç¶÷Àº ½ÉºÎÀü ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"±× ¿©ÀÚ´Â ±×¶§ °æ·ÃÀÌ³ª ÅëÁõ, ±¸Åä, ¾Æ´Ô ´Ù¸¥ Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.",È¯ÀÚ ROS(½ÅÃ¼°èÅëÁ¶»ç) °á°ú´Â ÀÌ»ó ¾ø½É´õ.
+,"±× ¿©ÀÚ´Â ±×¶§ °æ·ÃÀÌ³ª ÅëÁõ, ±¸Åä, ¾Æ´Ô ´Ù¸¥ Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.",È¯ÀÚ°¡ ¹è ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"±× ¿©ÀÚ´Â ±×¶§ °æ·ÃÀÌ³ª ÅëÁõ, ±¸Åä, ¾Æ´Ô ´Ù¸¥ Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾ú½É´õ.",È¯ÀÚ ½ÅÃ¼ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,±× »ç¶÷Àº [**3354-10-12**] ¿ÀÀü¿¡ ÁöÄÑº¸°í °Ë»çÇÒ¶ó°í º´µ¿À¸·Î ¿Å°ÜÁ³½É´õ.,±× »ç¶÷Àº ÀÔ¿øÇØ¾ß Çß½É´õ.
+,±× »ç¶÷Àº [**3354-10-12**] ¿ÀÀü¿¡ ÁöÄÑº¸°í °Ë»çÇÒ¶ó°í º´µ¿À¸·Î ¿Å°ÜÁ³½É´õ.,±× »ç¶÷Àº ÁýÀ¸·Î Åð¿øÇß½É´õ.
+,±× »ç¶÷Àº [**3354-10-12**] ¿ÀÀü¿¡ ÁöÄÑº¸°í °Ë»çÇÒ¶ó°í º´µ¿À¸·Î ¿Å°ÜÁ³½É´õ.,±× »ç¶÷ ¹ÙÀÌÅ»Àº ¾ÈÁ¤ÀûÀÌ¾ú½É´õ.
+,"½Ã¼úÇÏ°í ¸î ½Ã°£ µÚ¿¡, È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä«¸é¼­ ¹ßÀ» ¸ó ¿òÁ÷¿´½É´õ.",È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®¿¡ ÈûÀÌ ºüÁ³½É´õ.
+,"½Ã¼úÇÏ°í ¸î ½Ã°£ µÚ¿¡, È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä«¸é¼­ ¹ßÀ» ¸ó ¿òÁ÷¿´½É´õ.",È¯ÀÚ´Â ¿ÞÂÊ ´Ù¸®¸¦ ¸¶À½´ë·Î ´Ù ¿òÁ÷ÀÏ ¼ö ÀÖ¾ú½É´õ.
+,"½Ã¼úÇÏ°í ¸î ½Ã°£ µÚ¿¡, È¯ÀÚ°¡ ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä«¸é¼­ ¹ßÀ» ¸ó ¿òÁ÷¿´½É´õ.",È¯ÀÚ´Â ÃÖ±Ù¿¡ ³úÁ¹ÁßÀÌ ¿Ô¾ú½É´õ.
+,"ÀÏ¿äÀÏ¿¡ Á» ÅäÇÒ¶ó Äº°í, º´¿ø ¿Â ³¯¿¡µµ ±×·¨½É´õ.",È¯ÀÚ°¡ À§Àå ÂÊÀ¸·Î ¾È ÁÁÀº Áõ»óÀ» º¸ÀÔ´Ï´õ.
+,"ÀÏ¿äÀÏ¿¡ Á» ÅäÇÒ¶ó Äº°í, º´¿ø ¿Â ³¯¿¡µµ ±×·¨½É´õ.",È¯ÀÚ´Â À§Àå ÂÊÀ¸·Î ¾Æ¹« Áõ»ó ¾ø½É´õ.
+,"ÀÏ¿äÀÏ¿¡ Á» ÅäÇÒ¶ó Äº°í, ±× ¿©ÀÚ°¡ º´¿ø ¿Â ³¯¿¡µµ ¶È°°¾Ò½É´õ.",È¯ÀÚ´Â ÃéÀå¿°À» ¾Î°í ÀÖ½É´õ.
+,È¯ÀÚ´Â ½ÉÀåÀÌ ÇÑ ¹ø ¸Ü¾ú¾ú½É´õ.,È¯ÀÚ°¡ ½ÉÆó¼Ò»ý¼úÀ» ¹Þ°í ÀÖ¾ú½É´õ.
+,È¯ÀÚ´Â Àü±â Ãæ°ÝÀ» ÇÑ ¹ø ¹Þ¾Ò½É´õ.,È¯ÀÚ´Â PEA(¹«¸Æ¼º Àü±â È°µ¿) ¶§¹®¿¡ ½ÉÀåÀÌ ¸ÜÀº »óÅÂ¿´½É´õ.
+,È¯ÀÚ´Â ½ÉÀüµµ¸¦ ÇÑ ¹ø Âï¾ú½É´õ.,È¯ÀÚ´Â ½É½Çºó¸ÆÀÌ ¿Ô½É´õ.
+,"89¼¼ ³²ÀÚ È¯ÀÚ·Î ÀÔ¿ø ¿©·¯ ¹ø Çß°í¿¹, ½ÉºÎÀüÁõ(CHF), ½É¹æ¼¼µ¿(AF), ÆÄÅ²½¼º´(PD), °©»ó¼± ±â´É ÀúÇÏÁõ, ±×¸®°í ¿À¸¥ÂÊ ´Ù¸® ±Ë¾çÀÌ ÀÖ´Âµ¥, ¿ÀÁÜ ¾ç ÁÙ°í ¿­ ³ª¼­ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ¿­ÀÌ ³³´Ï´õ.
+,"89¼¼ ³²ÀÚ È¯ÀÚ·Î ÀÔ¿ø ¿©·¯ ¹ø Çß°í, ½ÉºÎÀüÁõ(CHF), ½É¹æ¼¼µ¿(AF), ÆÄÅ²½¼º´(PD), °©»ó¼± ±â´É ÀúÇÏÁõ, ±×¸®°í ¿À¸¥ÂÊ ´Ù¸® ±Ë¾çÀ» ¾Î°í ÀÖ½É´õ. Áö±ÝÀº ¿ÀÁÜ ¾çÀÌ ÁÙ°í ¿­ÀÌ ³ª´Â Áõ»óÀ» º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â ¿­ ¾ø½É´õ.
+,"89¼¼ ³²ÀÚ È¯ÀÚ·Î, ÀÔ¿ø ¿©·¯ ¹ø Çß°í, ½ÉºÎÀüÁõ(CHF), ½É¹æ¼¼µ¿(AF), ÆÄÅ²½¼º´(PD), °©»ó¼± ±â´É ÀúÇÏÁõ, ±×¸®°í ¿À¸¥ÂÊ ´Ù¸® ±Ë¾çÀ» ¾Î°í ÀÖ½É´õ. Áö±Ý ¿ÀÁÜ ¾ç ÁÙ°í ¿­ ³ª¼­ º´¿ø¿¡ ¿Ô½É´õ.",È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ ÀîÀ» ¶§ ¹ÙÀÌÅ»Àº ÀÌ·¨½É´õ: Ã¼¿Â 96.8¢µ, ¸Æ¹Ú 72È¸/ºÐ, Ç÷¾Ð 97/68 mmHg, È£Èí 20È¸/ºÐ, »ê¼ÒÆ÷È­µµ 93%¿¡ »ê¼Ò 3¸®ÅÍ ÁÖ°í ÀÖ¾ú½É´õ.",È¯ÀÚ »ê¼ÒÆ÷È­µµ°¡ ³·½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 96.8µµ, ½É¹Ú¼ö 72È¸, Ç÷¾Ð 97/68, È£Èí¼ö 20È¸, »ê¼ÒÆ÷È­µµ 93%, »ê¼Ò °ø±Þ·® 3L.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ Ã·¿¡ Àé »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 96.8µµ, ½É¹Ú¼ö 72È¸, Ç÷¾Ð 97/68mmHg, È£Èí¼ö 20È¸, »ê¼ÒÆ÷È­µµ 93%, »ê¼Ò °ø±Þ·® 3L.",È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD) º´·ÂÀÌ ÀÖ½É´õ.
+,¾ÆÇÁ±â Àü¿¡´Â È¯ÀÚ°¡ º° ¾î·Á¿ò ¾øÀÌ ¸î ºí·ÏÀº °É¾î ´óƒ…½É´õ.,¾ÆÇÁ±â Àü¿¡´Â È¯ÀÚ°¡ °É¾î ´ó±æ ¼ö ÀÖ¾ú½É´õ.
+,Áõ»ó »ý±â±â Àü¿¡´Â È¯ÀÚ°¡ º° ¾î·Á¿ò ¾øÀÌ ¸î ºí·ÏÀº °ÉÀ» ¼ö ÀÖ¾ú½É´õ.,¾ÆÇÁ±â ÀüºÎÅÍ È¯ÀÚ´Â °È´Â °É Èûµé¾îÇß½É´õ.
+,¾ÆÇÁ±â Àü¿¡´Â È¯ÀÚ°¡ º° ¾î·Á¿ò ¾øÀÌ ¸î ºí·ÏÀº °É¾î ´óƒ…½É´õ.,¾ÆÇÁ°í ³ª¼­´Â È¯ÀÚ°¡ °È´Â °É Èûµé¾î ÇÕ´Ï´õ.
+,±× »ç¶÷Àº ¼ûÀ» ¾È ½¬°í ¾ó±¼»öµµ ¾È ÁÁ¾Ò½É´õ.,È¯ÀÚ´Â ¼ûÀ» ¾È ½¬°í ÀÖ¾ú½É´õ.
+,±× »ç¶÷Àº ¼ûÀÌ ¸Ü¾ú°í ÇÇºÎ»öµµ ¾È ÁÁ¾Ò½É´õ.,È¯ÀÚ È£ÈíÀº ±¦Âú¾Ò½É´õ.
+,±× »ç¶÷Àº ¼ûÀ» ¾È ½¬°í ¾ó±¼»öµµ ¾È ÁÁ¾Ò½É´õ.,È¯ÀÚ´Â ¸Ó¸®¸¦ ´ÙÃÆ½É´õ.
+,±×¶§ ±× »ç¶÷Àº Ç÷¾Ð ¶³¾îÁö°í »ê¼Ò ºÎÁ·À¸·Î ¹ÝÀÀÀÌ ¾ø¾îÁ³½É´õ.,±×¶§ ±× »ç¶÷ Ç÷¾ÐÇÏ°í »ê¼Ò Æ÷È­µµ°¡ ³·¾Ò½É´õ.
+,±×¶§ ±× »ç¶÷Àº Ç÷¾Ð ¶³¾îÁö°í »ê¼Ò ºÎÁ·À¸·Î ¹ÝÀÀÀÌ ¾ø¾îÁ³½É´õ.,±×¶§ ±× »ç¶÷ »ýÃ¼ ½ÅÈ£´Â ±¦Âú¾Ò½É´õ.
+,±×¶§ ±× »ç¶÷Àº Ç÷¾Ð ³·°í »ê¼Ò ºÎÁ·ÇØ¼­ ¹ÝÀÀÀÌ ¾ø¾ú½É´õ.,±× »ç¶÷Àº ´ÙÃÆ½É´õ.
+,"È¯ÀÚ°¡ Áý¿¡¼­ Ç÷¾ÐÀ» ÀçºÃ´Âµ¥, 69/51ÀÌ ³ª¿Ô½É´õ.",±× »ç¶÷ Ç÷¾ÐÀÌ ³·¾Ò½É´õ.
+,"È¯ÀÚ°¡ Áý¿¡¼­ Ç÷¾ÐÀ» ÀçºÃ´Âµ¥, 69/51ÀÌ ³ª¿Ô½É´õ.",±× »ç¶÷ Ç÷¾ÐÀÌ ³ô¾Ò½É´õ.
+,"È¯ÀÚ°¡ Áý¿¡¼­ Ç÷¾ÐÀ» ÀçºÃ´Âµ¥, 69/51ÀÌ ³ª¿Ô½É´õ.",È¯ÀÚ°¡ ¾îÁö·´´Ù°í ÇÕ´Ï´õ.
+,"¾î¹«ÀÌ´Â ´Ü¼øÆ÷Áø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸¶Áö¸·À¸·Î ¾ÆÆÍ´ø °Ô [**3374-11-24**]·Î ±â·ÏµÅ ÀÖ½É´õ.",¾î¹«ÀÌ´Â Çì¸£Æä½º ´Ü¼ø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"¾î¹«ÀÌ´Â ´Ü¼øÆ÷Áø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸¶Áö¸·À¸·Î ¾ÆÆÍ´ø °Ô [**3374-11-24**]·Î ±â·ÏµÅ ÀÖ½É´õ.",¾î¹«ÀÌ´Â ¸¸¼ºÁúÈ¯Àº ¾ø½É´õ.
+,"¾î¹«ÀÌ´Â ´Ü¼øÆ÷Áø¹ÙÀÌ·¯½º(HSV)¸¦ ¾ÎÀº ÀûÀÌ ÀÖ°í, ¸¶Áö¸·À¸·Î ¾ÆÆÍ´ø °Ô [**3374-11-24**]·Î ±â·ÏµÅ ÀÖ½É´õ.",¾î¹«ÀÌ´Â Ç×¹ÙÀÌ·¯½º Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.
+,±× »ç¶÷Àº ´ÚÅÍÇï±â Å¸°í [**Hospital1 22**]·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â Çï±â Å¸°í º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.
+,±× »ç¶÷Àº ÀÇ·á Çï±â Å¸°í [**Hospital1 22**]·Î ÀÌ¼ÛµÆ½É´õ.,È¯ÀÚ´Â Ä¡·á¹ÞÀ¸·¯ ÀÌ¼ÛµÇÁø ¾Ê¾Ò½É´õ.
+,±× »ç¶÷Àº ´ÚÅÍÇï±â·Î [**Hospital1 22**]¿¡ ÀÌ¼ÛµÆ½É´õ.,È¯ÀÚ »óÅÂ°¡ ¸¶ÀÌ ¾È ÁÁ½É´õ.
+,"±× »ç¶÷Àº Èä¸· »ïÃâ¹° Á¦°Å, À¯Âø¹° Á¦°Å ¹× ºÎºÐÀûÀÎ Æó °¨½Î°³ Á¦°Å¸¦ À§ÇØ°¡ ÈäºÎ°æ °Ë»ç ¹ÞÀ¸·Á°í ÀÔ¿øÇß½Ê´Ï´õ.",±× »ç¶÷Àº Æó ÀÌ»ó¿¡ ´ëÇÑ Ä¡·á¸¦ ¹Þ¾Ò½Ê´Ï´õ.
+,"±× »ç¶÷Àº Èä¸· »ïÃâ¹° Á¦°Å, À¯Âø¹° Á¦°Å ¹× ºÎºÐÀûÀÎ Æó °¨½Î°³ Á¦°Å¸¦ À§ÇØ°¡ ÈäºÎ ³»½Ã°æ ¼ö¼ú ¹ÞÀ¸·Á°í ÀÔ¿øÇß½Ê´Ï´õ.",Á¤»óÀûÀÎ Æó ±â´É
+,"±× »ç¶÷Àº Èä¸· »ïÃâ¹° Á¦°Å, À¯Âø¹° Á¦°Å ¹× ºÎºÐÀûÀÎ Æó °¨½Î°³ Á¦°Å¸¦ À§ÇØ°¡ ÈäºÎ°æ °Ë»ç ¹ÞÀ»¶ó°í ÀÔ¿øÇß½Ê´Ï´õ.",±× »ç¶÷Àº Æó¾Ï º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,"MRI °á°ú¿¡¼­ ""¿À¸¥ÂÊ »óºÎ ÀüµÎÈ¸¿Í ¿ÞÂÊ Áß¾Ó ¼Ò³ú¹Ý±¸¿¡ ³¶Á¾/³ú¿¬È­ º¯È­°¡ º¸¿´À¸³ª °­È­µÇ´Â Áõ°Å´Â ¾ø¾ú½Ê´Ï´õ."" MRA °á°ú¿¡¼­´Â Àü/ÈÄ ¼øÈ¯¿¡ ¹®Á¦°¡ ¾ø´Â °É·Î ³ª¿Ô½Ê´Ï´õ.",È¯ÀÚºÐ ³ú MRI °á°ú°¡ ºñÁ¤»óÀÔ´Ï´õ.
+,"MRI °á°ú¿¡¼­ ""¿À¸¥ÂÊ »óºÎ ÀüµÎÈ¸¿Í ¿ÞÂÊ Áß¾Ó ¼Ò³ú¹Ý±¸¿¡¼­ ³¶Á¾/³ú¿¬È­ º¯È­°¡ °üÂûµÇ¾úÀ¸³ª, °­È­µÈ Áõ°Å´Â ¾ø¾ú½Ê´Ï´õ."" MRA °á°ú¿¡¼­´Â Àü/ÈÄ ¼øÈ¯°è°¡ Á¤»óÀûÀ¸·Î Æ¯ÇãµÇ¾î ÀÖÀ½À» º¸¿©Áá½Ê´Ï´õ.",È¯ÀÚºÐÀº ±Þ¼º ³úÁ¹ÁßÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"MRI °á°ú¿¡¼­ ""¿ìÃø »óºÎ ÀüµÎÈ¸¿Í ÁÂÃø Áß¾Ó ¼Ò³ú¹Ý±¸¿¡¼­´Â ³¶Á¾/³ú¿¬È­ º¯È­°¡ º¸¿´À¸³ª, °­È­µÈ Áõ°Å´Â ¾ø¾ú½Ê´Ï´õ."" MRA °á°ú¿¡¼­´Â Àü/ÈÄ ¼øÈ¯¿¡ ¹®Á¦°¡ ¾ø´Â °É·Î ³ª¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº ¿¹Àü¿¡ ½É±Ù°æ»öÁõÀ» ¾Î¾Ò½Ê´Ï´õ.
+,"°Ë»ç °á°ú¿¡¼­ ´«¿¡ ¶ç´Â °Å´Â K(Ä®·ý)ÀÌ 6.6ÀÌ°í, ¿äºÐ¼® °á°ú´Â °¨¿°À» ½Ã»çÇÏ°í ÀÖ½Ê´Ï´õ.",°Ë»ç °á°ú¿¡ µû¸£¸ð ¿ä·Î °¨¿°ÀÌ ³ª¿Ô½Ê´Ï´õ.
+,"°Ë»ç °á°ú¿¡¼­ ´«¿¡ ¶ç´Â °Å´Â Ä®·ý ¼öÄ¡°¡ 6.6À¸·Î ³ª¿Ô°í, ¿äºÐ¼® °á°ú´Â °¨¿°À» ½Ã»çÇÏ°í ÀÖ½Ê´Ï´õ.",¿äºÐ¼® °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.
+,"°Ë»ç °á°ú¿¡¼­ ´«¿¡ ¶ç´Â °Å´Â K(Ä®·ý)ÀÌ 6.6ÀÌ°í, ¿äºÐ¼® °á°ú´Â °¨¿°À» ½Ã»çÇÏ°í ÀÖ½Ê´Ï´õ.",½ÅÀå ÁúÈ¯ º´·Â
+,"°£´ÜÈ÷ ¸»ÇÏ¸ð, 79¼¼ ³²ÀÚ ¿ä¾ç¿ø »ç´Â ºÐÀ¸·Î Ä¡¸Å¶û °ú°Å¿¡ ¾ÈÀåÇü Æó»öÀüÁõ, ¸ÞÆ¼½Ç¸° ³»¼º È²»öÆ÷µµ¾Ë±Õ °¨¿°, Ç÷ÀüÇÙ ¾ø´Â ½É¹æ¼¼µ¿À» ¾Î¾Ò´Âµ¥, ÀÌ°Å´Â ¾Æ¸¶ ÃøµÎ¿± ÃâÇ÷ ¶§¹®ÀÎ °É·Î ÃßÁ¤µË´Ï´õ. ¶Ç ¿ä·Î Á¤Ã¼¶û Àç¹ß¼º ¿ä·Î°¨¿°ÁõÀ» °Þ°í ÀÖ°í, Áö±ÝÀº ¿ä·Î ÆÐÇ÷ÁõÀ¸·Î ³ªÅ¸³ª°í ÀÖ½Ê´Ï´õ.",È¯ÀÚºÐÀº ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"°£´ÜÈ÷ ¸»ÇÏ¸ð, 79¼¼ ³²ÀÚ ¿ä¾ç¿ø »ç´Â ºÐÀ¸·Î Ä¡¸Å, °ú°Å¿¡ ¾ÈÀåÇü Æó»öÀüÁõ, ¸ÞÆ¼½Ç¸° ³»¼º È²»öÆ÷µµ¾Ë±Õ °¨¿°, Äí¸¶µò ¾È ¸Ô´Â ½É¹æ¼¼µ¿ÀÌ ÀÖ¾ú°í ÀÌ°Å´Â ¾Æ¸¶ ÃøµÎ¿± ÃâÇ÷ ¶§¹®ÀÎ °É·Î ÃßÁ¤µË´Ï´õ. ¶Ç ¿ä·Î Á¤Ã¼¶û Àç¹ß¼º ¿ä·Î °¨¿°ÁõÀÌ ÀÖ¾î°¡ ÀÌ ¶«¿¡ ¿ä·Î ÆÐÇ÷ÁõÀ¸·Î ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚºÐ »ýÃ¼ ½ÅÈ£´Â Á¤»óÀÔ´Ï´õ.
+,"°£´ÜÈ÷ ¸»ÇÏ¸ð, 79¼¼ ³²ÀÚ ¿ä¾ç¿ø »ç´Â ºÐÀ¸·Î Ä¡¸Å¶û °ú°Å¿¡ ¾ÈÀåÇü Æó»öÀüÁõ, È²»öÆ÷µµ»ó±¸±Õ °¨¿°, Coumadin ¾È ¸Ô´Â ½É¹æ¼¼µ¿À» ¾Î°í ÀÖ¾ú°í, ÀÌ°Å´Â ¾Æ¸¶ ÃøµÎ¿± ÃâÇ÷ ¶§¹®ÀÏ °É·Î ÃßÁ¤µË´Ï´õ. ¶Ç ¿ä·Î Á¤Ã¼¶û Àç¹ß¼º ¿ä·Î °¨¿°ÁõÀ» °Þ°í ÀÖ°í, Áö±ÝÀº ¿ä·Î ÆÐÇ÷ÁõÀ¸·Î ³ªÅ¸³µ½Ê´Ï´õ.",È¯ÀÚºÐÀº ´ëÀå±Õ Ç÷¾× °¨¿°À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"61¼¼ ¿©ÀÚ È¯ÀÚºÐÀ¸·Î ¸¸¼º ½ÅÀå ÁúÈ¯(CKD), ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦ ¼ö¼ú ÈÄ À¯¹æ¾Ï, °íÇ÷¾Ð °ú°Å º´·ÂÀÌ ÀÖ½Ê´Ï´õ. ÀÌ È¯ÀÚºÐÀº ¹è²Å Çì¸£´Ï¾Æ ¼ö¼úÇÒ¶ó°í [**Hospital1 18**]¿¡ ¿Ü·¡ ¼ö¼ú ¿¹¾àÇÏ°í ¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº º¹ºÎ Àü¹æ º® °á¼ÕÀÌ ÀÖ½Ê´Ï´õ.
+,"61¼¼ ¿©ÀÚ È¯ÀÚºÐÀ¸·Î ¸¸¼º ½ÅÀå ÁúÈ¯(CKD), ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦¼ú ÈÄ À¯¹æ¾Ï, °íÇ÷¾Ð °ú°Å º´·ÂÀÌ ÀÖ½Ê´Ï´õ. ÀÌ È¯ÀÚºÐÀº ¹è²Å Çì¸£´Ï¾Æ ¼ö¼úÇÒ¶ó°í [**Hospital1 18**]¿¡ ¿Ü·¡ ¼ö¼ú ¿¹¾àÇÏ°í ¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÇÑÅ×´Â º¹ºÎ Àü¹æ º® °á¼ÕÀÌ ¾ø½Ê´Ï´õ.
+,"61¼¼ ¿©ÀÚ È¯ÀÚºÐÀ¸·Î ¸¸¼º ½ÅÀå ÁúÈ¯, À¯¹æ¾ÏÀ¸·Î ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦ ¼ö¼úÀ» ¹ÞÀº µÚ¿¡ °íÇ÷¾ÐÀ» ¾Î°í ÀÖ½Ê´Ï´õ. ÀÌ È¯ÀÚºÐÀº [**Hospital1 18**]¿¡ ¹è²Å Çì¸£´Ï¾Æ ¼ö¼úÇÒ¶ó°í ¿Ü·¡ ¼ö¼ú ¿¹¾àÇÏ°í ¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº Áö¹æÀ» Æ÷ÇÔÇÏ´Â ¹è²Å Çì¸£´Ï¾Æ°¡ ÀÖ½Ê´Ï´õ.
+,"MRI °á°ú¿¡¼­ ¿À¸¥ÂÊ ¼Ò³ú º´º¯ÀÌ È®ÀÎµÆ°í, ÁÖº¯ °­Á¶ Çö»óÀÌ ³ªÅ¸³ª°¡ ÀÌ°Å´Â ÀüÀÌ¼º ÁýÁßºÎ¸¦ ½Ã»çÇÕ´Ï´õ.",È¯ÀÚºÐ ¿µ»ó Áø´Ü °á°ú°¡ ÀÖ½Ê´Ï´õ.
+,"MRI °á°ú·Î ¿ìÃø ¼Ò³ú º´º¯ÀÌ È®ÀÎµÆ°í, ÁÖº¯ °­Á¶ Çö»óÀ¸·Î º¸ÀÌ ÀüÀÌ¼º ÁýÁßºÎ¸¦ ½Ã»çÇÕ´Ï´õ.",È¯ÀÚºÐ ³ú MRI °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"MRI °á°ú¿¡ µû¸£¸ð, µÑ·¹ °­Á¶°¡ ÀÖ´Â ¿À¸¥ÂÊ ¼Ò³ú º´º¯ÀÌ È®ÀÎµÆ°í, ÀÌ°Å´Â ÀüÀÌ¼º º´¼Ò¸¦ ½Ã»çÇÕ´Ï´õ.",È¯ÀÚºÐÇÑÅ× ¾ÏÀÌ Áø´ÜµÆ½Ê´Ï´õ.
+,±× ¿©ÀÚºÐÀº µÎ ¹øÂ° ½ÅÀå ÀÌ½ÄÀÌ ½ÇÆÐÇÑ µÚ·Î [**3048-1-29**]ºÎÅÍ Ç÷¾×Åõ¼®À» ¹Þ°í ÀÖ½Ê´Ï´õ.,±× ¿©ÀÚºÐÀº ¸»±â ½ÅºÎÀüÁõÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
+,±× ¿©ÀÚºÐÀº µÎ ¹øÂ° ½ÅÀå ÀÌ½ÄÀÌ ½ÇÆÐÇÑ µÚ·Î [**3048-1-29**]ºÎÅÍ Ç÷¾×Åõ¼®À» ¹Þ°í ÀÖ½Ê´Ï´õ.,È¯ÀÚºÐ ½Å±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,±× ¾ÆÁö¸Å´Â µÎ ¹øÂ° ½ÅÀå ÀÌ½ÄÀÌ ½ÇÆÐÇÏ°í ³ª¼­ [**3048-1-29**]ºÎÅÍ Ç÷¾×Åõ¼® ¹Þ°í ÀÖ½Ê´Ï´õ.,±× ¾ÆÁö¸Å ´ç´¢º´ È¯ÀÚÀÔ´Ï´õ.
+,È¯ÀÚ°¡ 1¸®ÅÍ Á¤»ó »ïÅõ¾Ð ¼ö¿ë¾× ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚºÐ ¼ö¾× ¸Â¾Ò½Ê´Ï´õ.
+,È¯ÀÚ°¡ 1¸®ÅÍ Á¤»ó »ïÅõ¾Ð ¼ö¿ë¾× ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚ´Â ¼ö¾× ¾È ¸Â¾Ò½Ê´Ï´õ.
+,È¯ÀÚ°¡ 1¸®ÅÍ Á¤»ó »ïÅõ¾Ð ¼ö¿ë¾× ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚ ÀúÇ÷¾ÐÀÔ´Ï´õ.
+,"±× ¾ÆÁö¸Å´Â [**6-/2929**]¿¡ ÀüÀÌ¼º ÁúÈ¯ Áø´Ü¹Þ¾Ò°í¿¹, ÁÖ¿ä Ç¥ÀûÀº Her2+°í, ER+ÀÔ´Ï´õ.",È¯ÀÚ À¯¹æ¾Ï ÀÖ½Ê´Ï´õ.
+,"±× ¾ÆÁö¸Å´Â [**6-/2929**]¿¡ ÀüÀÌ¼º ÁúÈ¯ Áø´Ü¹Þ¾Ò°í¿¹, ±âº»ÀûÀ¸·Î Her2+°í, ER+ÀÔ´Ï´õ.",È¯ÀÚ ¿µ»ó °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"±× ¾ÆÁö¸Å´Â [**6-/2929**]¿¡ ÀüÀÌ¼º ÁúÈ¯ Áø´Ü¹Þ¾Ò´Âµ¥¿¹, ÁÖ¿ä º´º¯Àº Her2+, ER+¿´½Ê´Ï´õ.",È¯ÀÚ »À ÀüÀÌ ÀÖ½Ê´Ï´õ.
+,±× »çÀÌ¿¡ ±× ¾ç¹ÝÀº ÇÑ 72½Ã°£ µ¿¾È ÀÎ°øÈ£Èí±â ¾È ½è½Ê´Ï´õ.,È¯ÀÚ´Â Àü¿¡ È£Èí º¸Á¶ ¹Þ¾Ò¾ú½Ê´Ï´õ.
+,±× »çÀÌ¿¡ ±× ¾ç¹ÝÀº ÇÑ 72½Ã°£ µ¿¾È ÀÎ°øÈ£Èí±â ¾È ½è½Ê´Ï´õ.,È¯ÀÚ Æ©ºê»ð°ü Çß½Ê´Ï´õ.
+,±× »çÀÌ¿¡ ±× ¾ç¹ÝÀº ÇÑ 72½Ã°£ µ¿¾È ÀÎ°øÈ£Èí±â ¾È ½è½Ê´Ï´õ.,È¯ÀÚ »ýÃ¼Â¡ÈÄ´Â Á¤»ó ¹üÀ§ ¾È¿¡ ÀÖ½Ê´Ï´õ.
+,"±× ¾ÆÁö¸Å ¸çÄ¥ Àü¿¡ ³Ñ¾îÁö°í ³ª¼­ ""¿Â¸öÀÌ ´Ù ¾¥½Å´Ù""°í ÇÕ´Ï´õ.",È¯ÀÚ°¡ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
+,"±× ¾ÆÁö¸Å ¸çÄ¥ Àü¿¡ ³Ñ¾îÁö°í ³ª¼­ ""¿Â¸öÀÌ ´Ù ¾¥½Å´Ù""°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ºÒÆíÇÑ °Å ¾ø´Ù°í ÇÕ´Ï´õ.
+,"±× ¾ÆÁö¸Å ¸çÄ¥ Àü¿¡ ³Ñ¾îÁö°í ³ª¼­ ""¿Â¸öÀÌ ´Ù ¾¥½Å´Ù""°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ¹°¸®Ä¡·á »ó´ã¹Þ´Â ±â µµ¿òÀÌ µÉ ³§´Ï´õ.
+,"±×¸®°í¿¹, ±× ¾ç¹ÝÀÌ È¸»öÀÌ³ª ³ë¶õ»ö °¡·¡ ¼¯ÀÎ ±âÄ§À» 2.5ÁÖ µ¿¾È Çß´Ù°í ÇÕ´Ï´õ.",±× ¾ç¹Ý °¡·¡ ²ú´Â ±âÄ§ÇÑ´Ù°í ÇÕ´Ï´õ.
+,"±×¸®°í¿¹, ±× ¾ç¹ÝÀÌ È¸»öÀÌ³ª ³ë¶õ»ö °¡·¡ ¼¯ÀÎ ±âÄ§À» 2.5ÁÖ µ¿¾È Çß´Ù°í ÇÕ´Ï´õ.",±× ¾ç¹Ý ±âÄ§µµ ¾È ÇÏ°í °¡·¡µµ ¾ø´Ù°í ÇÕ´Ï´õ.
+,"°Å±â´Ù °¡, ±× ¾ç¹ÝÀÌ È¸»öÀÌ³ª ³ë¶õ»ö °¡·¡ ¼¯ÀÎ ±âÄ§À» 2.5ÁÖ µ¿¾È Çß´Ù°í ÇÕ´Ï´õ.",±× ¾ç¹Ý ¼û½¬±â Èûµé´Ù°í ÇÕ´Ï´õ.
+,°È°Å³ª ÀÏ¾î³ª´Â ±â ¸¶ÀÌ Èûµé¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ ¿òÁ÷ÀÌ´Â °É Èûµé¾îÇÕ´Ï´õ.
+,°È°Å³ª ÀÏ¾î³ª´Â ±â ¸¶ÀÌ Èûµé¾ú½Ê´Ï´õ.,È¯ÀÚ´Â °È´Â µ¥ ¹®Á¦ ¾ø½Ê´Ï´õ.
+,°É¾î ´ó±â°Å³ª ¾É¾Ò´Ù ÀÏ¾î³ª´Â ±â ¸¶ÀÌ Èûµé¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ ¾ÆÆÄÇÕ´Ï´õ.
+,±× ¾ÆÁö¸Å ¼öÃà±â Ç÷¾ÐÀÌ 80-90À¸·Î ³·¾Æ°¡ ÀÀ±Þ½Ç¿¡¼­ ¼ö¾×À» 8¸®ÅÍ ¸Â¾Ò½Ê´Ï´õ.,È¯ÀÚ ÀúÇ÷¾Ð ÀÖ½Ê´Ï´õ.
+,"±× ¿©ÀÚ´Â ¼öÃà±â Ç÷¾ÐÀÌ 80-90À¸·Î ³·¾Æ°¡, ÀÀ±Þ½Ç¿¡¼­ Á¤¸ÆÀ¸·Î ¼ö¾×À» 8¸®ÅÍ ¸Â¾Ò½Ê´Ï´õ.",È¯ÀÚ Ç÷¾ÐÀº Á¤»óÀÔ´Ï´õ.
+,"±× ¿©ÀÚ´Â ¼öÃà±â Ç÷¾ÐÀÌ 80-90À¸·Î ³·¾Æ°¡, ÀÀ±Þ½Ç¿¡¼­ Á¤¸ÆÀ¸·Î ¼ö¾×À» 8¸®ÅÍ ÁÖÀÔ¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ºó¸ÆÀÌ ÀÖ½Ê´Ï´õ.
+,"Áõ»óÀÌ È¥Àâ¼º ½ÉºÎÀüÀÌ°í, ½É¹ÚÃâ·üÀÌ Á¤»óÀÎ °É·Î ºÁ¼­ ÀÌ¿Ï±â ±â´ÉÀå¾Ö·Î º¸ÀÔ´Ï´õ.",È¯ÀÚ´Â ½ÉÀå ÁúÈ¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"È¥Å¹¼º ½ÉºÎÀüÀÌ°í, ÀÌÃâ ºÐÈ¹ÀÌ Á¤»óÀÎ °É·Î º¸ÀÌ ÀÌ¿Ï±â ±â´É Àå¾Ö·Î º¸ÀÔ´Ï´õ.",½ÉÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"Áõ»óÀÌ ³ªÅ¸³­ ½ÉºÎÀüÀÌ°í, ½É¹æÃàÃâ°è¼ö°¡ Á¤»óÀÎ °É·Î º¸ÀÌ ÀÌ¿Ï±â ±â´É Àå¾Ö·Î º¸ÀÔ´Ï´õ.",°íÇ÷¾ÐÀÌ¶û ½É±Ù°æ»ö º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,È¯ÀÚ´Â ¶³¾îÁö´Â »ç°í ¶«¿¡ ¿ÞÂÊ ¾Õ´Ï°¡ ±úÁ³½Ê´Ï´õ.,È¯ÀÚ°¡ ¶³¾îÁö´Â »ç°í¸¦ ´çÇß½Ê´Ï´õ.
+,È¯ÀÚ´Â ¶³¾îÁö´Â »ç°í ¶«¿¡ ¿ÞÂÊ ¾Õ´Ï°¡ ±úÁö´Â »óÃ³¸¦ ÀÔ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ¶³¾îÁø »ç°í °ÞÀº Àû ¾ø½Ê´Ï´õ.
+,È¯ÀÚ´Â ¶³¾îÁö°¡ ¿ÞÂÊ ¾Õ´Ï°¡ ±úÁ®»Ö½Ê´Ï´õ.,È¯ÀÚ´Â ¾È¸é °ñÀý»óÀ» ÀÔ¾ú½Ê´Ï´õ.
+,"¸»ÃÊ Ç÷°ü ÁúÈ¯ ¶«¿¡ Æè-[**ÀÇ»ç ¼º**] ¼ö¼ú ¹ÞÀº È¯ÀÚ »óÅÂ, ¾çÂÊ °æµ¿¸Æ ÇùÂøÁõ.",Ç÷°ü ¼öÃà·Â °¨¼Ò º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,"¸»ÃÊ Ç÷°ü ÁúÈ¯ ¶«¿¡ Æè-[** ÀÇ»ç ¼º **] ¿ìÈ¸ ¼ö¼ú ¹ÞÀº ÈÄ »óÅÂ, ¾çÂÊ °æµ¿¸Æ ÇùÂøÁõ.",Ç÷°ü ÁúÈ¯ º´·ÂÀº ¾ø½Ê´Ï´õ.
+,"¸»ÃÊ Ç÷°ü ÁúÈ¯ ¶«¿¡ Æè-[**ÀÇ»ç ¼º**] ¼ö¼ú ¹ÞÀº È¯ÀÚ »óÅÂ, ¾çÂÊ °æµ¿¸Æ ÇùÂøÁõ.",°íÁöÇ÷Áõ º´·ÂÀÌ ÀÖ½Ê´Ï´õ.
+,"»ê¸ð »êÀü °Ë»ç °á°ú, Ç÷¾×ÇüÀº ABÇü Rh(D) ¾ç¼ºÀÌ°í Ç×Ã¼´Â À½¼º, ¸Åµ¶(RPR)Àº ºñ¹ÝÀÀ¼º, Ç³Áø ¸é¿ª ÀÖ²¿, BÇü °£¿° Ç¥¸é Ç×¿øÀº À½¼º, ±×¸®°í ±×·ì º£Å¸ ¿¬¼â±¸±Õ »óÅÂ´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ.",¾î¹«ÀÌ Ç÷¾×ÇüÀº AB ÇÃ·¯½ºÀÔ´Ï´õ.
+,"»ê¸ð ÅÂ¾Æ ¼±º° °Ë»ç °á°ú, Ç÷¾×ÇüÀº ABÇü ¾ç¼ºÀÌ°í Ç×Ã¼´Â À½¼ºÀÔ´Ï´õ. ¸Åµ¶(RPR)Àº ºñ¹ÝÀÀ¼ºÀÌ°í, Ç³Áø ¸é¿ª »óÅÂÀÔ´Ï´õ. BÇü °£¿° Ç¥¸é Ç×¿øÀº À½¼ºÀÌ°í, ±×·ì º£Å¸ ¿¬¼â±¸±Õ »óÅÂ´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ.",È¯ÀÚ´Â RPR ¹ÝÀÀÀÌ ÀÖ½Ê´Ï´õ.
+,"ÀÓ½Å ÃÊ±â »ê¸ð °Ë»ç °á°ú, Ç÷¾×ÇüÀº ABÇü Rh(D) À½¼º, Ç×Ã¼´Â À½¼º, ¸Åµ¶Àº ¹«¹ÝÀÀ, Ç³Áø ¸é¿ª ÀÖ°í, BÇü °£¿° Ç¥¸éÇ×¿øÀº À½¼º, ±×¸®°í ±×·ì º£Å¸ ¿¬¼â±¸±Õ »óÅÂ´Â ¾Ë ¼ö ¾ø½Ê´Ï´õ.",»ê¸ð´Â BÇü ¿¬¼â±¸±Õ ¾ç¼ºÀÔ´Ï´õ.
+,"Áý¿¡¼­´Â ¿­Àº ¾ø¾ú°í, Åä´Â ¾È Çß´Âµ¥ (ÀÀ±Þ½Ç¿¡´Â ÅäÇß´Ù°í ÇßÀ½), °¡½¿ÀÌ ´ä´äÇÏ°Å³ª ¼ûÂ÷´Â °Ç ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ´Â ¿­ ¾ø½Ê´Ï´õ.
+,"Áý¿¡¼­´Â ¿­Àº ¾ø¾ú°í, Åä´Â ¾È Çß´Âµ¥ (ÀÀ±Þ½Ç¿¡´Â ÅäÇß´Ù°í ÇßÀ½), °¡½¿ÀÌ ´ä´äÇÏ°Å³ª ¼û½¬±â Èûµç °Ç ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.
+,"Áý¿¡¼­´Â ¿­Àº ¾ø¾ú°í, Åä´Â ¾È Çß´Âµ¥ (ÀÀ±Þ½Ç¿¡´Â ÅäÇß´Ù°í ÇßÀ½), °¡½¿ÀÌ ´ä´äÇÏ°Å³ª ¼û Â÷´Â Áõ»óµµ ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ´Â ¿°Áõ¼º ÀåÁúÈ¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"¾Ö±â´Â ÇÇºÎ»öµµ ÁÁ°í ¿ì··Â÷°Ô ¿ï¸é¼­ ÅÂ¾î³µ°í, ÀÔÀÌ¶û ÄÚ ÈíÀÎÇß½Ê´Ï´õ.",È¯ÀÚ ¾ÆÇÁ°¡¸£ Á¡¼ö´Â Á¤»óÀÔ´Ï´õ.
+,"¾Ö±â´Â ÇÇºÎ»öµµ ÁÁ°í Àß ¿ï¸é¼­ ÅÂ¾î³µ°í, ÀÔÇÏ°í ÄÚ ÈíÀÎÇß½Ê´Ï´õ.",È¯ÀÚ °Ë»ç °á°ú°¡ ºñÁ¤»óÀÔ´Ï´õ.
+,"¾Ö±â´Â »óÅÂµµ ÁÁ°í Àß ¿ï¾ú°í, ÀÔÇÏ°í ÄÚ ÈíÀÎÇß½Ê´Ï´õ.",È¯ÀÚ´Â ³²ÀÚÀÔ´Ï´õ.
+,"¹Ù±ù º´¿ø¿¡¼­ ½ÉÀåÃÊÀ½ÆÄ °Ë»çÇß´õ¸¶´Â, ½É¹ÚÃâ·üÀÌ 25%¶óÄ°´Ï´õ.",½ÉÀå ½É¹æÃàÃâ°è¼ö°¡ ³·½Ê´Ï´õ.
+,"¹Ù±ù º´¿ø¿¡¼­ ÇÑ ½ÉÀåÃÊÀ½ÆÄ °Ë»ç °á°ú, ½É¹ÚÃâ·üÀÌ 25%·Î ³ª¿Ô½Ê´Ï´õ.",½ÉÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"¹Ù±ù º´¿ø¿¡¼­ ÇÑ ½ÉÃÊÀ½ÆÄ °Ë»ç °á°ú, ½É¹ÚÃâ·üÀÌ 25%·Î ³ª¿Ô½Ê´Ï´õ.",½ÉºÎÀüÇÏ°í ½É±Ù°æ»ö ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
+,"±× ¿©ÀÚºÐ Á¼Àº º¹ÇÕÃ¼ÇÏ°í Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¶ó¼­, Áö±ÝÀº ÀÓ½Ã Àü¼±ÀÌ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.",Áö±ÝÀ¸·Î¼­´Â ½ÉÀå °ü·Ã ½Ã¼úÀº ÇÊ¿ä¾ø´Ù°í ÆÇ´ÜµÆ½Ê´Ï´õ.
+,"±× ¿©ÀÚºÐ Á¼Àº º¹ÇÕÃ¼ÇÏ°í Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¶ó¼­, ¿ä¹ø¿¡´Â ÀÓ½Ã Àü¼±ÀÌ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ°¡ ºÒ¾ÈÁ¤Çß½Ê´Ï´õ.
+,"±× ¿©ÀÚºÐ Á¼Àº º¹ÇÕÃ¼ÇÏ°í Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¶ó¼­, ¿ä¹ø¿¡´Â ÀÓ½Ã Àü¼±ÀÌ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.","È¯ÀÚ Áõ»óÀÌ ±¦Âú¾ÆÁ³°í, ½ÉÀüµµÇÏ°í »ýÃ¼ ½ÅÈ£µµ Á¤»óÀÌ¾ú½Ê´Ï´õ."
+,"ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·Â(LVEDP)Àº 20ÀÌ°í, Æò±Õ Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº 27ÀÌ¾ú½Ê´Ï´õ.",Æò±Õ Æó¸ð¼¼°ü ¿þÁö ¾Ð·ÂÀÌ ºñÁ¤»óÀÔ´Ï´õ.
+,"ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·Â(LVEDP)Àº 20ÀÌ°í, Æò±Õ Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº 27ÀÌ¾ú½Ê´Ï´õ.",¿ÞÂÊ½É½Ç ÀÌ¿Ï±â ¾Ð·ÂÇÏ°í Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº Á¤»óÀÔ´Ï´õ.
+,"ÁÂ½É½Ç Á¾¸» ÀÌ¿Ï±â ¾Ð·Â(LVEDP)Àº 20ÀÌ°í, Æò±Õ Æó¸ð¼¼Ç÷°ü ¿þÁö ¾Ð·ÂÀº 27ÀÌ¾ú½Ê´Ï´õ.",°ü»óµ¿¸Æ ÁúÈ¯ ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
+,°ü ²Å°í ³ª¼­ Ä¡·á¹ÞÀ¸ÀÌ ¸Æ¹ÚÀÌ ´Ù½Ã µ¹¾Æ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ½ÉÀå¸¶ºñ°¡ ¿Ô¾ú½Ê´Ï´õ.
+,°ü ²Å°í ³ª¼­ Ä¡·á¹ÞÀ¸ÀÌ ¸Æ¹ÚÀÌ ´Ù½Ã µ¹¾Æ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ½Ç³» °ø±â·Î ¼û ½¬°í ÀÖ½Ê´Ï´õ.
+,°ü ²Å°í ³ª¼­ Ä¡·á¹ÞÀ¸ÀÌ ¸Æ¹ÚÀÌ ´Ù½Ã µ¹¾Æ¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ³ú»ê¼ÒºÎÁ·Áõ¿¡ °É·È½Ê´Ï´õ.
+,"±× È¯ÀÚºÐÀº DNR/DNI¿´´Âµ¥, ¾Æµå´ÔÀÌ ¹ã»õµµ·Ï ±â°ü»ð°üÀ» ¿äÃ»Çß½Ê´Ï´õ. CXR¿¡¼­ ¿©·¯ ±ºµ¥¼­ Ã¼¾×ÀÌ »õ³ª¿À´Â °É·Î È®ÀÎµÆÁö¸¸, Ä§½À¼º °¨¿°Àº ¾ø¾ú½Ê´Ï´õ. ¼Òº¯°Ë»ç °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚÇÑÅ× È£Èí°üÀ» »ðÀÔÇß½Ê´Ï´õ.
+,"±× È¯ÀÚºÐÀº DNR/DNI¿´´Âµ¥, ¾Æµå´ÔÀÌ ¹ã»õµµ·Ï Æ©ºê »ð°üÀ» ¿äÃ»Çß½Ê´Ï´õ. CXR¿¡¼­ ¿©·¯ ±ºµ¥¼­ Ã¼¾×ÀÌ »õ³ª¿À´Â °É·Î È®ÀÎµÆÁö¸¸, Ä§½À¼º º´º¯Àº ¾ø¾ú½Ê´Ï´õ. ¿äµµ°Ë»ç °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.",°Ë»ç½Ç ºÐ¼®¿¡¼­ ¿ä·Î °¨¿°ÀÌ ¹ß°ßµÆ½Ê´Ï´õ.
+,"±× È¯ÀÚºÐÀº DNR/DNI¿´´Âµ¥, ¾Æµå´ÔÀÌ ¹ã»õµµ·Ï ÀÎÅõº£ÀÌ¼ÇÀ» ¿äÃ»Çß½Ê´Ï´õ. CXR¿¡¼­ ¿©·¯ ±ºµ¥¼­ Ã¼¾×ÀÌ »õ³ª¿À´Â °É·Î È®ÀÎµÆÁö¸¸, Ä§½À¼º °¨¿°Àº ¾ø¾ú½Ê´Ï´õ. ¿äµµ°Ë»ç °á°ú´Â Á¤»óÀÌ¾ú½Ê´Ï´õ.",È¯ÀÚ Á¤½Å »óÅÂ°¡ ¾È ÁÁ½Ê´Ï´õ.
+,"È¯ÀÚ´Â ¹Ù·Î ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³°í, Ç÷¼ÒÆÇ ¼öÇ÷ÇÏ°í Á¤¸ÆÀ¸·Î µ¥Ä«µå·ÐÀ» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â µ¦»ç¸ÞÅ¸¼ÕÀ» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.
+,"È¯ÀÚ´Â ¹Ù·Î ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³°í, Ç÷¼ÒÆÇ ¼öÇ÷ÇÏ°í Á¤¸ÆÀ¸·Î µ¥Ä«µå·Ð(Decadron)À» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ¾î¶² ÀÇ·áÀû Á¶Ä¡µµ ÇÊ¿ä ¾ø¾ú½Ê´Ï´õ.
+,"È¯ÀÚ´Â ¹Ù·Î ÁßÈ¯ÀÚ½Ç·Î ¿Å°ÜÁ³°í, Ç÷¼ÒÆÇ ¼öÇ÷ÇÏ°í Á¤¸ÆÀ¸·Î µ¥Ä«µå·ÐÀ» Åõ¿©¹Þ¾Ò½Ê´Ï´õ.",È¯ÀÚ´Â ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,±× ¾ç¹Ý °¡·¡ ¸¹ÀÌ ¹ñ´Â °É Èûµé¾îÇÏ½Ê´Ï´õ.,È¯ÀÚ°¡ °¡·¡ ¹ñ´Â °É Èûµé¾îÇÏ½Ê´Ï´õ.
+,±× ¾ç¹Ý °¡·¡ ¸¹ÀÌ ¹ñ´Â °É Èûµé¾îÇÏ½Ê´Ï´õ.,È¯ÀÚ°¡ °¡·¡¸¦ ¸¹ÀÌ ¹ñ°í ÀÖ½Ê´Ï´õ.
+,±× ¾ç¹ÝÀº °¡·¡¸¦ ¸¹ÀÌ ¹ñ¾î³»´Âµ¥ Èûµé¾î ÇÕ´Ï´õ.,±× ¾ç¹ÝÀº ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"ÅäÇÏ´Â °Å, ¶¡ Èê¸®´Â °Å, ¶Ë »óÅÂ ¹Ù²î´Â °Å´Â ¾ø´Ù°í Çß½Ê´Ï´õ.",È¯ÀÚºÐ °Ë»ç °á°ú´Â ÀÌ»ó ¾ø½Ê´Ï´õ.
+,"ÅäÇÏ´Â °Å, ¶¡ Èê¸®´Â °Å, ¶Ë »óÅÂ ¹Ù²î´Â °Å´Â ¾ø´ÙÄ¯.",È¯ÀÚºÐÀº À§¾ÏÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
+,"ÅäÇÏ´Â °Å, ¶¡ Èê¸®´Â °Å, ¶Ë ¹Ù²î´Â °Å´Â ¾ø´ÙÄ¯.",È¯ÀÚºÐ °Ë»ç °á°ú´Â À½¼ºÀÔ´Ï´õ.
+,"µµÇÃ·¯·Î Àçº¸ÀÌ ½É¹Ú¼ö°¡ 120±îÁö ¿Ã¶ó°¡°í, ¼öÃà±â Ç÷¾ÐÀº 80´ë·Î ³ª¿Ô½Ê´Ï´õ.",È¯ÀÚºÐÀº ½ÉÀåÀÌ »¡¸® ¶Ù¾î¼­ Èûµé¾î ÇÕ´Ï´õ.
+,"µµÇÃ·¯·Î Àç´Ï±î ½É¹Ú¼ö°¡ 120À¸·Î ¿Ã¶ó°¬°í, ¼öÃà±â Ç÷¾ÐÀº 80´ë·Î ÃøÁ¤µÆ½Ê´Ï´õ.",È¯ÀÚºÐ ½É¹Ú¼ö´Â Á¤»óÀÔ´Ï´õ.
+,µµÇÃ·¯·Î Àçº¸ÀÌ ½É¹Ú¼ö°¡ 120À¸·Î ¿Ã¶ó°¡°í ¼öÃà±â Ç÷¾ÐÀÌ 80´ë·Î ÃøÁ¤µÆ½Ê´Ï´õ.,È¯ÀÚºÐÀº Æó»öÀüÁõÀÌ ÀÖ½Ê´Ï´õ.
+,"ÀÌ°ÍÀú°Í ´Ù ¹°¾îº¸ÀÌ, ±× È¯ÀÚºÐÀº ¿­³ª°í Ãä°í ¶³¸®´Â °Å, ¾îÁö·¯¿î °Å, °¡½¿ ¾ÆÇÂ °Å, ¼û½¬±â Èûµç °Å, ÅäÇÏ´Â °Å, ¹è ¾ÆÇÂ °Å, ¼³»ç, ¶Ë ¸ø ´©´Â °Å, ¿ÀÁÜ ´©±â Èûµç °Å, ÇÇ¿ÀÁÜ ´©´Â °Å, ´Ù¸® ¾ÆÇÁ°Å³ª º×´Â °Å °°Àº Áõ»óÀº ¾ø´Ù°í Çß½Ê´Ï´õ.","È¯ÀÚºÐ Áõ»ó ÀÌ°ÍÀú°Í ¹°¾îº» °á°ú, Æ¯º°ÇÑ °Ç ¾ø½Ê´Ï´õ."
+,"ÀÌ°ÍÀú°Í ´Ù ¹°¾îº¸ÀÌ, ±× È¯ÀÚºÐÀº ¿­³ª°í Ãä°í ¶³¸®´Â °Å, ¾îÁö·¯¿î °Å, °¡½¿ ¾ÆÇÂ °Å, ¼û½¬±â Èûµç °Å, ÅäÇÏ´Â °Å, ¹è ¾ÆÇÂ °Å, ¼³»ç, ¶Ë ¸ø ´©´Â °Å, ¿ÀÁÜ ´©±â Èûµç °Å, ÇÇ¿ÀÁÜ ´©´Â °Å, ´Ù¸® ¾ÆÇÁ°Å³ª º×´Â °Å °°Àº Áõ»óÀº ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"ÀÌ°ÍÀú°Í ´Ù ¹°¾îº¸ÀÌ, ±× È¯ÀÚºÐÀº ¿­³ª°í Ãä°í ¶³¸®´Â °Å, ¾îÁö·¯¿î °Å, °¡½¿ ¾ÆÇÂ °Å, ¼û½¬±â Èûµç °Å, ÅäÇÏ´Â °Å, ¹è ¾ÆÇÂ °Å, ¼³»ç, ¶Ë ¸ø ´©´Â °Å, ¿ÀÁÜ ´©±â Èûµç °Å, ÇÇ¿ÀÁÜ ´©´Â °Å, ´Ù¸® ¾ÆÇÁ°Å³ª º×´Â °Å °°Àº Áõ»óÀº ¾ø´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀº µüÈ÷ ºÒÆíÇÑ °Ç ¾ø´Ù°í Çß½Ê´Ï´õ.
+,DVT Àü¿¡ ¾ÎÀº Àû ÀÖÀ½.,È¯ÀÚºÐÀº ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõÀ» ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
+,DVT Àü¿¡ ¾ÎÀº Àû ÀÖÀ½.,È¯ÀÚºÐÀº ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõÀ» ¾ÎÀº ÀûÀº ¾ø½Ê´Ï´õ.
+,DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ) Àü¿¡ ¾ÎÀº Àû ÀÖÀ½.,È¯ÀÚºÐÇÑÅ×´Â ÇÏºÎ ´ëÁ¤¸Æ ÇÊÅÍ°¡ ¼³Ä¡µÅ ÀÖ½Ê´Ï´õ.
+,"½ÉÀå ÂÊÀ¸·Î ÀÚ¼¼È÷ ¹°¾îº¸ÀÌ °¡½¿ ¾ÆÇÂ °Å, ¿îµ¿ÇÒ ¶§ ¼ûÂù °Å, ¹ã¿¡ ÀÚ´Ù°¡ °©ÀÚ±â ¼ûÂù °Å, ´©¿ì¸é ¼ûÂù °Å, ¹ß¸ñ º×´Â °Å, ½ÉÀåÀÌ µÎ±Ù°Å¸®´Â °Å, ±âÀýÇÏ°Å³ª ±âÀýÇÒ »·ÇÑ °Å °°Àº Áõ»óÀº ¾ø´Â °Ô Æ¯Â¡ÀÔ´Ï´õ.",È¯ÀÚºÐÀº °¡½¿ ¾ÆÇÂ °Ç ¾Æ´Ï¶ó Ä°´Ï´õ.
+,"½ÉÀå ÂÊÀ¸·Î ÀÚ¼¼È÷ ¹°¾îº¸ÀÌ °¡½¿ ¾ÆÇÂ °Å, ¿îµ¿ÇÒ ¶§ ¼ûÂù °Å, ¹ã¿¡ ÀÚ´Ù°¡ °©ÀÚ±â ¼ûÂù °Å, Àß ¶§ ¼ûÂù °Å, ¹ß¸ñ º×´Â °Å, ½ÉÀåÀÌ µÎ±Ù°Å¸®´Â °Å, ±âÀýÇÏ°Å³ª ±âÀýÇÒ »·ÇÑ °Å °°Àº Áõ»óÀº ¾ø´Â °Ô Æ¯Â¡ÀÔ´Ï´õ.",È¯ÀÚºÐÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"½ÉÀå ÂÊÀ¸·Î ÀÚ¼¼È÷ ¹°¾îº» °á°ú, °¡½¿ ¾ÆÇÂ °Å, ¿îµ¿ÇÒ ¶§ ¼ûÂù °Å, ¹ã¿¡ °©ÀÚ±â ¼ûÂù °Å, Àß ¶§ ¼ûÂù °Å, ¹ß¸ñ º×´Â °Å, ½ÉÀåÀÌ µÎ±Ù°Å¸®´Â °Å, ±âÀýÇÏ°Å³ª ±âÀýÇÒ »·ÇÑ °Å °°Àº Áõ»óÀº ¾ø´Â °Ô Æ¯Â¡ÀÔ´Ï´õ.",½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"ÄáÆÏ °á¼®, ¾çÂÊ ¹é³»Àå ¼ö¼ú, ¸ÍÀå ¼ö¼ú, Æíµµ¼± ¼ö¼ú, ¼â¼®¼ú ¹Þ¾ÒÀ½.",È¯ÀÚºÐÀº ¿¹Àü¿¡ ÄáÆÏ °á¼®À» ¾ÎÀº ÀûÀÌ ÀÖ½Ê´Ï´õ.
+,"ÄáÆÏ °á¼®, ¾çÂÊ ¹é³»Àå ¼ö¼ú, ¸ÍÀå ¼ö¼ú, Æíµµ¼± ¼ö¼ú, ¼â¼®¼ú ¹Þ¾ÒÀ½.",È¯ÀÚºÐÀº ÄáÆÏ °á¼®À» ¾ÎÀº ÀûÀº ¾ø½Ê´Ï´õ.
+,"ÄáÆÏ °á¼®, ¾çÂÊ ¹é³»Àå ¼ö¼ú, ¸ÍÀå ¼ö¼ú, Æíµµ¼± ¼ö¼ú, ¼â¼®¼ú ¹Þ¾ÒÀ½.",È¯ÀÚºÐÀÌ Çã¸®°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"È¯ÀÚºÐÀÌ ÀÔ¿øÇÏ±â Àü³¯ ¾ÆÄ§ 10½ÃºÎÅÍ ¹è°¡ ¾ÆÇÁ±â ½ÃÀÛÇß´Âµ¥, °è¼Ó ¾ÆÇÁ°í ÇÏ³ªµµ ¾È ³ª¾ÆÁ³´Ù°í ÇÕ´Ï´õ.",È¯ÀÚºÐÀÌ ¹è°¡ ¾ÆÆÄ¼­ Èûµé¾î ÇÕ´Ï´õ.
+,"È¯ÀÚ´Â ÀÔ¿ø Àü³¯ ¾ÆÄ§ ¿­ ½Ã¿¡ ¹è°¡ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡, °è¼Ó ¾ÆÇÁ°í ³´Áú ¾È Çß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ¼ÒÈ­Á¦ ¹¬°í ³ª¼­ Á» ³ª¾ÆÁ³½Ê´Ï´õ.
+,"È¯ÀÚ´Â ÀÔ¿ø Àü³¯ ¾ÆÄ§ ¿­ ½Ã¿¡ ¹è°¡ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡, °è¼Ó ¾ÆÇÁ°í ³´Áú ¾È Çß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â À§±Ë¾çÀÌ ÀÖ½Ê´Ï´õ.
+,±× »ç¶÷Àº ¸öÀ» ¸»¸®°í µû½Ã°Ô ÇÏ°í ½ê°Ô ÀÚ±ØÀ» Çß´Âµ¥µµ ¾Æ¹« ¼Ò¿ëÀÌ ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ Á¤½ÅÀÌ °¡¹°°¡¹°ÇØÁ³½Ê´Ï´õ.
+,±× »ç¶÷Àº ¸öÀ» ¸»¸®°í µû½Ã°Ô ÇÏ°í ½ê°Ô ÀÚ±ØÀ» Çß´Âµ¥µµ ¾Æ¹« ¼Ò¿ëÀÌ ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ°¡ ÀÚ±Ø¿¡ ¹ÝÀÀÀ» Çß½Ê´Ï´õ.
+,±× »ç¶÷Àº ¸öÀ» ¸»¸®°í µû½Ã°Ô ÇÏ°í ½ê°Ô ÀÚ±ØÀ» Çß´Âµ¥µµ ¾Æ¹« ¼Ò¿ëÀÌ ¾ø¾ú½Ê´Ï´õ.,È¯ÀÚ´Â ÀúÃ¼¿ÂÁõÀÌ¾ú½Ê´Ï´õ.
+,"[**9-12**]¿¡ È¯ÀÚ´Â Ä¿ÇÇ Âî²¨±â °°Àº °É µÎ ¹ø ÅäÇß´Âµ¥, ½Ã»¹°Ç ÇÇ°¡ ¼¯¿´´ÂÁö´Â Àß ¸ð¸£°Ú´Ù Äº½Ê´Ï´õ.",È¯ÀÚ´Â »óºÎ À§Àå°ü¿¡ ÃâÇ÷ÀÌ ÀÖ½Ê´Ï´õ.
+,"[**9-12**]¿¡ È¯ÀÚ´Â Ä¿ÇÇ Âî²¨±â °°Àº °É µÎ ¹ø ÅäÇß´Âµ¥, ½Ã»¹°Ç ÇÇ°¡ ¼¯¿´´ÂÁö´Â È®½ÇÇÏÁö ¾Ê´Ù°í Äº½Ê´Ï´õ.",È¯ÀÚ´Â º¹ºÎ ÃâÇ÷Àº ¾ø½Ê´Ï´õ.
+,"[**9-12**]¿¡ È¯ÀÚ´Â Ä¿ÇÇ Âî²¨±â °°Àº °É µÎ ¹ø ÅäÇß´Âµ¥, ½Ã»¹°Ç ÇÇ°¡ ¼¯¿´´ÂÁö´Â Àß ¸ð¸£°Ú´Ù Äº½Ê´Ï´õ.",È¯ÀÚ´Â ¹®¸Æ °íÇ÷¾ÐÀÌ ÀÖ½Ê´Ï´õ.
+,"NH¿¡¼­ °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº»²², ¾çÂÊ Æó ¾Æ·¡ÂÊ¿¡ ¿°ÁõÀÌ º¸¿©°¡, ±× ¿©ÀÚ´Â ¹ÚÆ®¸²À» ¸Â°Ô µÆ½Ê´Ï´õ.",°¡½¿ ¿¢½º·¹ÀÌ °á°ú°¡ Á¤»óÀÌ ¾Æ´Ï¾ú½Ê´Ï´õ.
+,"NH¿¡¼­ °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº»²², ¾çÂÊ Æó ¾Æ·¡ÂÊ¿¡ ¿°ÁõÀÌ º¸¿©°¡, ±× ¿©ÀÚ´Â ¹ÚÆ®¸²À» ¸Â°Ô µÆ½Ê´Ï´õ.",°¡½¿ ¿¢½º·¹ÀÌ °á°ú´Â ¾Æ¹« ÀÌ»ó ¾ø¾ú½Ê´Ï´õ.
+,"NH¿¡¼­ °¡½¿ ¿¢½º·¹ÀÌ Âï¾îº»²², ¾çÂÊ Æó ¾Æ·¡ÂÊ¿¡ ¿°ÁõÀÌ º¸¿©°¡, ±× ¿©ÀÚ´Â ¹ÚÆ®¸²À» ¸Â°Ô µÆ½Ê´Ï´õ.",È¯ÀÚ´Â Æó·ÅÀÔ´Ï´õ.
+,"È¯ÀÚ´Â ´ÙÀ½³¯ ¿ø·¡ °¡´ø º´¿ø¿¡ °¡°¡ ¾ÆÅ×³î·Ñ ¾àÀ» ²÷¾ú´Âµ¥, [** À§Ä¡ **]¿¡¼­ ³Ñ¾îÁø °Å¿¡ ´ëÇØ¼­ ´Ù¸¥ °Ë»ç(½ºÄµÀÌ³ª ¿¢½º·¹ÀÌ °°Àº °Å)´Â ¾È Çß½Ê´Ï´õ.",¾ÆÅ×³î·ÑÀº Ç÷¾ÐÀ» ¶³¾î¶ß¸± ¼ö ÀÖ¾î°¡ ²÷¾ú½Ê´Ï´õ.
+,"È¯ÀÚ´Â ´ÙÀ½³¯ ¿ø·¡ °¡´ø º´¿ø¿¡ °¡°¡ ¾ÆÅ×³î·Ñ ¾àÀ» ²÷¾ú´Âµ¥, [** À§Ä¡ **]¿¡¼­ ³Ñ¾îÁø °Å¿¡ ´ëÇØ¼­ ´Ù¸¥ °Ë»ç(½ºÄµÀÌ³ª ¿¢½º·¹ÀÌ °°Àº °Å)´Â ¾È Çß½Ê´Ï´õ.",È¯ÀÚ´Â º£Å¸ Â÷´ÜÁ¦¸¦ °è¼Ó ¹¬°í ÀÖ½Ê´Ï´õ.
+,"È¯ÀÚ´Â ´ÙÀ½³¯ ¿ø·¡ °¡´ø º´¿ø¿¡ °¡°¡ ¾ÆÅ×³î·Ñ ¾àÀ» ²÷¾ú´Âµ¥, [** À§Ä¡ **]¿¡¼­ ³Ñ¾îÁø °Å¿¡ ´ëÇØ¼­ ´Ù¸¥ °Ë»ç(½ºÄµÀÌ³ª ¿¢½º·¹ÀÌ °°Àº °Å)´Â ¾È Çß½Ê´Ï´õ.",È¯ÀÚ´Â ±â¸³¼º ÀúÇ÷¾ÐÀÌ ÀÖ½Ê´Ï´õ.
+,"È¯ÀÚ´Â ¿¹Àü¿¡ °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀÌ ÀÖ¾ú´ø 64¼¼ ³²ÀÜµ¥, ±×³¯ ¹ã 10½Ã ¹ÝÂë ¿µÈ­ º¸°í ³ª¼­ °¡½¿ÀÌ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡²¿ »õº® 1½Ã ¹Ý¿¡ [**Hospital1 170**] ÀÀ±Þ½Ç·Î ¿Ô½Ê´Ï´õ.",È¯ÀÚ´Â ±Þ¼º °ü»óµ¿¸Æ ÁõÈÄ±ºÀÌ °ÆÁ¤µË´Ï´õ.
+,"È¯ÀÚ´Â °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀ» ¾Î°í ÀÖ´Â 64¼¼ ³²ÀÜµ¥, ±×³¯ ¹ã 10½Ã ¹ÝÂë ¿µÈ­ º¸°í ³ª¼­ °¡½¿ÀÌ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡²¿ »õº® 1½Ã ¹Ý¿¡ [**Hospital1 170**] ÀÀ±Þ½Ç·Î ¿Ô½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉÀåº´ °É¸± ¸¸ÇÑ ±â ÇÏ³ªµµ ¾ø½Ê´Ï´õ.
+,"È¯ÀÚ´Â ¿¹Àü¿¡ °íÁöÇ÷ÁõÇÏ°í °íÇ÷¾ÐÀÌ ÀÖ¾ú´ø 64¼¼ ³²ÀÜµ¥, ±×³¯ ¹ã 10½Ã ¹ÝÂë ¿µÈ­ º¸°í ³ª¼­ °¡½¿ÀÌ ¾ÆÇÁ±â ½ÃÀÛÇØ°¡²¿ »õº® 1½Ã ¹Ý¿¡ [**Hospital1 170**] ÀÀ±Þ½Ç·Î ¿Ô½Ê´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯ÀÌ ÀÖ½Ê´Ï´õ.
+,¿ÀÁÜ¿¡¼­ ´çÇÏ°í ÄÉÅæÀÌ ³ª¿Ô½Ê´Ï´õ.,È¯ÀÚ´Â ´ç´¢°¡ ÀÖ½Ê´Ï´õ.
+,¿ÀÁÜ¿¡¼­ ´çÇÏ°í ÄÉÅæÀÌ ³ª¿Ô½Ê´Ï´õ.,È¯ÀÚ Ç÷´çÀº Á¤»óÀÔ´Ï´õ.
+,¿ÀÁÜ¿¡¼­ ´çÇÏ°í ÄÉÅæÀÌ ³ª¿Ô½Ê´Ï´õ.,È¯ÀÚ°¡ È¥¼ö »óÅÂÀÔ´Ï´õ.
+,"°¼´Â ½ºÆ®·¹½º Å×½ºÆ®¸¦ ¹Þ¾Ò´Âµ¥, °á°ú°¡ ¾ç¼ºÀ¸·Î ³ª¿Í°¡²¿ ´ç¿¬È÷ ½ÉÀåÄ«Å×ÅÍ °Ë»ç¸¦ ¹Þ°Ô µÆ½À´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½À´Ï´õ.
+,"°¼´Â ½ºÆ®·¹½º Å×½ºÆ®¸¦ ¹Þ¾Ò´Âµ¥, ±× °á°ú°¡ ¾ç¼ºÀÌ¶ó¼­ ±× ¶§¹®¿¡ Ä«Å×ÅÍ ¼ö¼úÀ» ¹Þ°Ô µÆ½À´Ï´õ.",È¯ÀÚ ½ºÆ®·¹½º Å×½ºÆ® °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"°¼´Â ½ºÆ®·¹½º Å×½ºÆ®¸¦ ¹Þ¾Ò´Âµ¥, °á°ú°¡ ¾ç¼ºÀÌ¶ó¼­ ´ç¿¬È÷ Ä«Å×ÅÍ ¼ö¼úÀ» ¹Þ°Ô µÆ½À´Ï´õ.",È¯ÀÚ´Â ¸»ÃÊµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½À´Ï´õ.
+,±× ¶§ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â 0.475¿´½À´Ï´õ.,È¯ÀÚ Æ®·ÎÆ÷´Ñ ¼öÄ¡°¡ ¿Ã¶ó°¬½À´Ï´õ.
+,±× ¶§ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â 0.475¿´½À´Ï´õ.,È¯ÀÚ Æ®·ÎÆ÷´ÑÀº À½¼ºÀÔ´Ï´õ.
+,±× ¶§ Æ®·ÎÆ÷´Ñ ¼öÄ¡´Â 0.475¿´½À´Ï´õ.,È¯ÀÚ´Â ¼ö¿ä¼º ÇãÇ÷ÀÌ ÀÖ½À´Ï´õ.
+,"ÀÀ±Þ½Ç ÁÖÀÓÀÌ ºñ°­³»½Ã°æ °Ë»ç¸¦ ÇØº¸ÀÌ±î, ¾Æ¸®Å×³ëÀÌµå, ¼º´ë, »ó¼º¹®ºÎ¿¡ ºÎÁ¾ÀÌ ³ªÅ¸³µ½À´Ï´õ.",È¯ÀÚ´Â ±âµµ ºÎÁ¾ÀÌ ÀÖ½À´Ï´õ.
+,"ÀÀ±Þ½Ç Àü¹®ÀÇ°¡ ºñ°­³»½Ã°æ °Ë»ç¸¦ ÇØº¸ÀÌ±î, ¾Æ¸®Å×³ëÀÌµå, ¼º´ë, »óÈÄµÎºÎ¿¡ ºÎÁ¾ÀÌ ¹ß°ßµÆ½À´Ï´õ.",È¯ÀÚ ³»½Ã°æ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"ÀÀ±Þ½Ç Àü¹®ÀÇ°¡ ºñ°­°æ °Ë»ç¸¦ ÇØº¸ÀÌ±î, ¾Æ¸®Å×³ëÀÌµå, ¼º´ë, »ó¼º¹®ºÎ¿¡ ºÎÁ¾ÀÌ ³ªÅ¸³µ½À´Ï´õ.",È¯ÀÚ°¡ °¨¿°µÆ½À´Ï´õ.
+,"¼ö¼úÇÏ°í 9ÀÏÂ° µÇ´Â ³¯ È¯ÀÚ´Â ¿­ ¾øÀÌ ½É¹Ú¼ö 63È¸·Î Á¤»ó ½É¹Ú ¸®µëÀ» À¯ÁöÇß°í, È£Èí¼ö´Â 18È¸, »ê¼Ò Æ÷È­µµ´Â 3¸®ÅÍ¿¡¼­ 96%, Ç÷¾ÐÀº 122/70À» ±â·ÏÇß½À´Ï´õ.",È¯ÀÚ´Â ¼ö¼úÇÑ ÈÄ »óÅÂÀÔ´Ï´õ.
+,"¼ö¼úÇÏ°í 9ÀÏÂ° µÇ´Â ³¯ È¯ÀÚ´Â ¿­ ¾øÀÌ ½É¹Ú¼ö 63À¸·Î Á¤»ó ½ÅÈ£ ¸®µëÀ» À¯ÁöÇß°í, È£Èí¼ö´Â 18, »ê¼ÒÆ÷È­µµ´Â 3¸®ÅÍ¿¡¼­ 96%, Ç÷¾ÐÀº 122/70À» ±â·ÏÇß½À´Ï´õ.",È¯ÀÚ Ç÷¿ªÇÐÀû »óÅÂ°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
+,"¼ö¼úÇÏ°í 9ÀÏÂ° µÇ´Â ³¯ È¯ÀÚ´Â ¿­ ¾øÀÌ ½É¹Ú¼ö 63À¸·Î Á¤»ó ½É¹Ú ¸®µëÀ» À¯ÁöÇß°í, È£Èí¼ö´Â 18È¸, »ê¼ÒÆ÷È­µµ´Â 3¸®ÅÍ¿¡¼­ 96%, Ç÷¾ÐÀº 122/70À» ±â·ÏÇß½À´Ï´õ.",È¯ÀÚ »óÃ³´Â Àß ¾Æ¹°°í ÀÖ½À´Ï´õ.
+,¹è´Â ¾È ¾ÆÇÁ´Ù Ä«´Âµ¥ ¹è´Â °íÇÁ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ÀÔ¸ÀÀÌ ÀÖ´ä´Ï´õ.
+,¹è´Â ¾È ¾ÆÇÁ´Ù Ä«´Âµ¥ ¹è´Â °íÇÁ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ÀÔ¸ÀÀÌ ¾ø´ä´Ï´õ.
+,¹è´Â ¾È ¾ÆÇÁ´Ù Ä«´Âµ¥ ¹è´Â °íÇÁ´Ù Ä°´Ï´õ.,È¯ÀÚ´Â ±Ý½Ä ÁßÀÔ´Ï´õ.
+,"¼ö¼úÇÏ°í 7ÀÏÂ° µÇ´Â ³¯ °¼´Â ÀúÇ÷¾Ð »óÅÂ¿´°í, ¿À¸¥ÂÊ Æóµ¿¸Æ¿¡ Ä«Å×ÅÍ¸¦ ²Å¾Ò½À´Ï´õ. ±×¸®°í ½É±Ù°æ»öÀº ¾Æ´Ï¶ó Äº½À´Ï´õ.",È¯ÀÚ´Â Ç÷¾ÐÀÌ ³·½À´Ï´õ.
+,"¼ö¼úÇÏ°í 7ÀÏÂ° µÇ´Â ³¯ °¼´Â ÀúÇ÷¾Ð »óÅÂ¿´°í, ¿À¸¥ÂÊ Æóµ¿¸Æ¿¡ Ä«Å×ÅÍ¸¦ ²Å¾Ò½À´Ï´õ. °¼´Â ½É±Ù°æ»öÀ¸·Î Áø´Ü¹ÞÁö´Â ¾Ê¾Ò½À´Ï´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÔ´Ï´õ.
+,"¼ö¼úÇÏ°í 7ÀÏÂ° µÇ´Â ³¯ °¼´Â ÀúÇ÷¾Ð »óÅÂ¿´°í, ¿À¸¥ÂÊ Æóµ¿¸Æ¿¡ Ä«Å×ÅÍ¸¦ ²Å¾Ò½À´Ï´õ. ±×¸®°í ½É±Ù°æ»öÀº ¾Æ´Ï¶ó Äº½À´Ï´õ.",È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ½À´Ï´õ.
+,Á¤¸Æ·ù; ¼ö¼úÇÏ°í 4ÁÖ µÈ »óÅÂ,È¯ÀÚ´Â Á¤¸Æ·ù ¼ö¼úÀ» ¹Þ¾Ò½À´Ï´õ.
+,Á¤¸Æ·ù; ¼ö¼úÇÏ°í 4ÁÖ µÈ »óÅÂÀÔ´Ï´õ.,È¯ÀÚ´Â ¾ÆÁ÷ °íÈ¯ ¼ö¼úÀº ¾È ¹Þ¾Ò½À´Ï´õ.
+,Á¤¸Æ·ù; ¼ö¼úÇÏ°í 4ÁÖ µÆ½É´õ.,È¯ÀÚ´Â À½³¶ ºÎÁ¾ÀÌ ÀÖ¾ú½É´õ.
+,À§¿¡ º» °Í ¸ÇÅ°·Î ±â°üÁö¿¡¼­ »ý±ä ¾ÏÀÏ °¡´É¼ºÀÌ ³ô¾Æ º¸ÀÔ´Ï´õ.,È¯ÀÚ´Â Æó¾ÏÀ» ¾Î°í ÀÖ½É´õ.
+,À§¿¡ º» °Í ¸ÇÅ°·Î ±â°üÁö¿¡¼­ »ý±ä ¾ÏÀÏ °¡´É¼ºÀÌ ³ô¾Æ º¸ÀÔ´Ï´õ.,È¯ÀÚ °¡½¿ CT °á°ú´Â ÀÌ»ó ¾ø½É´õ.
+,À§¿¡ º» °Í ¸ÇÅ°·Î ±â°üÁö¾ÏÀÏ °¡´É¼ºÀÌ ³ô¾Æ º¸ÀÔ´Ï´õ.,È¯ÀÚ´Â ¿Â¸ö¿¡ ¾ÏÀÌ ´Ù ÆÛÁ®ÀÖ´Â »óÅÂÀÔ´Ï´õ.
+,¿© ¿Í¼­ ÇÒ ¼ö ÀÖ´Â °Ç ÇØº¼¶ó²¿ ¿Å°å½É´õ.,±× »ç¶÷Àº Ä¡·á¸¦ ¹Þ¾Æ¾ß Çß½É´õ.
+,¿© ¿Í¼­ ÇÒ ¼ö ÀÖ´Â °Ç ÇØº¼¶ó²¿ ¿Å°å½É´õ.,±× »ç¶÷Àº ÁýÀ¸·Î Åð¿øÇß½É´õ.
+,¿© ¿Í¼­ ÇÒ ¼ö ÀÖ´Â °Ç ÇØº¼¶ó²¿ ¿Å°å½É´õ.,±× »ç¶÷ÀÌ °¡½¿ÀÌ ¾ÆÇÁ´Ù Äº½É´õ.
+,"¿©ÅÂ±îÁö °Ë»çÇØº» ¹Ù·Î´Â, ÀÌ°Ô ¿ø·¡ ÀÖ´ø ¾Ï¿¡¼­ À¯ÀÏÇÏ°Ô ÀüÀÌµÈ °Å¶óÄ°´Ï´õ.",È¯ÀÚÇÑÅ×´Â ÁÖ¿ä ¾Ç¼º Á¾¾çÀÌ ÀÖ½É´õ.
+,"Áö±Ý±îÁö º´±â Áø´ÜÇØº» °á°ú, ÀÌ°Ô ¿ø·¡ ¾Ï¿¡¼­ À¯ÀÏÇÏ°Ô ÆÛÁø ¾ÏÀÌ¶óÄ°´Ï´õ.",È¯ÀÚ´Â ¾ÏÀÌ ´Ù¸¥ µ¥·Î ÆÛÁöÁø ¾Ê¾Ò½É´õ.
+,"¿©ÅÂ±îÁö °Ë»çÇØº» ¹Ù·Î´Â, ÀÌ°Ô ¿ø·¡ ÀÖ´ø ¾Ï¿¡¼­ À¯ÀÏÇÏ°Ô ÀüÀÌµÈ °Å¶óÄ°´Ï´õ.",È¯ÀÚ´Â 4±â ÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
+,"ÃÖ±Ù¿¡ ÇÑ °¡½¿ ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ½ÉÇÏ´Ù Äº°í, ´ëµ¿¸Æ ÆÇ¸· ¸éÀûÀº 0.7 Á¦°ö¼¾Æ¼¹ÌÅÍ¿´½É´õ.",È¯ÀÚ´Â À¯Ãâ ÇùÂøÁõÀÌ ½ÉÇÕ´Ï´õ.
+,"ÃÖ±Ù¿¡ ÇÑ ½ÉÀå ÃÊÀ½ÆÄ °Ë»ç¿¡¼­, ´ëµ¿¸Æ ÇùÂøÁõÀÌ ½ÉÇÏ´Ù Äº°í ´ëµ¿¸Æ ÆÇ¸· ¸éÀûÀº 0.7 Á¦°ö¼¾Æ¼¹ÌÅÍ¿´½É´õ.",È¯ÀÚ ¿¡ÄÚ °Ë»ç °á°ú´Â ÀÌ»ó ¾ø½É´õ.
+,"ÃÖ±Ù¿¡ ÇÑ °¡½¿ ÃÊÀ½ÆÄ °Ë»ç¿¡¼­ ´ëµ¿¸Æ ÇùÂøÁõÀÌ ½ÉÇÑ °É·Î ³ª¿Ô°í, ´ëµ¿¸Æ ÆÇ¸· ¸éÀûÀÌ 0.7 Á¦°ö¼¾Æ¼¹ÌÅÍ·Î ³ª¿Ô½É´õ.",È¯ÀÚ´Â ½ÉºÎÀüÁõÀ» ¾Î°í ÀÖ½É´õ.
+,"¼ûÀÌ Â÷°Å³ª ´©¿ì¸é ¼ûÀÌ ´õ Âù °Íµµ ¾ø°í, °¡½¿ÀÌ ¾ÆÇÁ°Å³ª ºÒÆíÇÑ °Íµµ ¾ø½É´õ.",È¯ÀÚ´Â °¡½¿ ¾ÆÇÂ µ¥´Â ¾ø½É´õ.
+,"¼ûÀÌ Â÷°Å³ª ´©¿ì¸é ¼ûÀÌ ´õ Âù °Íµµ ¾ø°í, °¡½¿ÀÌ ¾ÆÇÁ°Å³ª ºÒÆíÇÑ °Íµµ ¾ø½É´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"¼ûÀÌ Â÷°Å³ª ´©¿ì¸é ¼û½¬±â Èûµç °Íµµ ¾ø°í, °¡½¿ÀÌ ¾ÆÇÁ°Å³ª ºÒÆíÇÑ °Íµµ ¾ø½É´õ.",°¡½¿ ¿¢½º·¹ÀÌ ÂïÀº °Å´Â ÀÌ»ó ¾ø½É´õ.
+,±× È¯ÀÚ´Â ÀÌÆ² Àü¿¡ ÈÖÇÃ ¼ö¼ú Àü °Ë»ç ¶«¿¡ ´º¿å¿¡ ÀÖ´Â NYP º´¿ø¿¡ ´ó°Ü¿Ô½É´õ.,È¯ÀÚ´Â ¼ö¼úÇØ¾ß µË´Ï´õ.
+,È¯ÀÚ´Â ÀÌÆ² Àü¿¡ ÈÖÇÃ ¼ö¼ú Àü °Ë»ç ¶«¿¡ ´º¿å¿¡ ÀÖ´Â NYP º´¿ø¿¡ ´ó°Ü¿Ô½É´õ.,È¯ÀÚ´Â º´¿ø¿¡¼­ Áø·á ¾È ¹Þ¾Ò½É´õ.
+,È¯ÀÚ´Â ÀÌÆ² Àü¿¡ ÈÖÇÃ ¼ö¼ú Àü °Ë»ç ¶«¿¡ ´º¿å¿¡ ÀÖ´Â NYP º´¿ø¿¡ ´ó°Ü¿Ô½É´õ.,È¯ÀÚÇÑÅ× ÃéÀå Á¾¾çÀÌ ÀÖ½É´õ.
+,±× ¿©ÀÚ´Â ¸î ´ÞÂ° ¿­ÀÌ ¿À¸£¶ô³»¸®¶ô ÇÕ´Ï´õ.,È¯ÀÚ´Â °¡²û¾¿ ¿­ÀÌ ³ª´Â Áõ¼¼°¡ ÀÖ½É´õ.
+,±× ¾ÆÁö¸Å´Â ¸î ´Þ µ¿¾È ¿­ÀÌ ³µ´Ù ¾È ³µ´Ù ÇÕ´Ï´õ.,È¯ÀÚ´Â ¿­ ³ª´Â Áõ»óÀº ¾ø´ÙÄ°´Ï´õ.
+,±× ¾ÆÁö¸Å´Â ¸î ´Þ µ¿¾È µû¹®µû¹® ¿­ÀÌ ³µ½É´õ.,È¯ÀÚ´Â ¸²ÇÁÁ¾À» ¾Î°í ÀÖ½É´õ.
+,¾Æ´Â ½ÉÀå¹Úµ¿ÀÌ ¾È ÁÁ¾Æ°¡ ±ÞÇÏ°Ô ¹è Â°°¡ ³º¾Ò½É´õ.,ÀÌ ¾Æ´Â ¼û½¬±â Èûµé¾îÁú À§ÇèÀÌ ³ô½É´õ.
+,¾Æ´Â ½ÉÀå¹Úµ¿ÀÌ ¾È ÁÁ¾Æ¼­ ±ÞÇÏ°Ô ¹è Â°´Â ¼ö¼ú·Î ³º¾Ò½É´õ.,±× ¾Æ´Â ÀÚ¿¬ºÐ¸¸À¸·Î ³º¾Ò½É´õ.
+,¾Æ´Â ½ÉÀå¹Úµ¿ÀÌ ¾È ÁÁ¾Æ°¡²¿ ±ÞÇÏ°Ô ¹è Â°°¡ ³º¾Ò½É´õ.,ÅÂ¾Æ °Ë»çÇÒ ¶§ º¸ÀÌ±î ¾Æ ½É¹Ú¼ö°¡ ´Ê°Ô ¶³¾îÁ³½É´õ.
+,"[**Hospital1 47**]¿¡ ÀÔ¿øÇßÀ» ¶§, CT ´Ù½Ã Âï¾îº¸ÀÌ±î ¿À¸¥ÂÊ Á¤¼ö¸®ºý Å¸¹Ú»óÀÌ¶û ¾çÂÊ ¾Õ´ë°¡¸® ÂÊ ³ú¸· ÃâÇ÷ÀÌ ÀÖ´Â °É·Î ³ª¿Ô½É´õ.",È¯ÀÚÇÑÅ× Å»ÀåÀÌ »ý°å½É´õ.
+,"[**Hospital1 47**]¿¡ ÀÔ¿øÇÏ°í ³ª¼­, CT ´Ù½Ã Âï¾îº¸ÀÌ±î ¿À¸¥ÂÊ Á¤¼ö¸®ºý Å¸¹Ú»óÀÌ¶û ¾çÂÊ ¾Õ´ë°¡¸®¿¡ ³ú¸· ÃâÇ÷ÀÌ ÀÖ¾ú½É´õ.",È¯ÀÚ ÀÎÁö °Ë»ç´Â Á¤»óÀÔ´Ï´õ.
+,"[**Hospital1 47**]¿¡ ÀÔ¿øÇßÀ» ¶§, CT ´Ù½Ã Âï¾îº¸ÀÌ±î ¿À¸¥ÂÊ °üÀÚ³îÀÌ ÂÊ ³úÁøÅÁÀÌ¶û ¾çÂÊ ¾Õ´ë°¡¸® ÂÊ¿¡ ³ú¸· ÃâÇ÷ÀÌ º¸¿´½É´õ.",È¯ÀÚ´Â ±³Åë»ç°í¸¦ ´çÇß½É´õ.
+,±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´Ù¸® ¾ÆÇÂ °Å °Ë»çÇÏ·¯ [**3434-12-2**]¿¡ [**Hospital6 3057**]¿¡ ÀÔ¿øÇß½É´õ.,È¯ÀÚ´Â ¿ÞÂÊ ´Ù¸®°¡ ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´Ù¸® ¾ÆÇÂ °Å °Ë»çÇÏ·¯ [**3434-12-2**]¿¡ [**Hospital6 3057**]¿¡ ÀÔ¿øÇß½É´õ.,È¯ÀÚ´Â ¾ÆÇÂ µ¥´Â ¾ø´ÙÄ°´Ï´õ.
+,±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´Ù¸® ¾ÆÇÂ °Å °Ë»çÇÏ·¯ [**3434-12-2**]¿¡ [**Hospital6 3057**]¿¡ ÀÔ¿øÇß½É´õ.,È¯ÀÚ´Â »À°¡ »Ñ¶óÁ³½É´õ.
+,"°¡Á·µé ¸»·Î´Â, ¹¹°¡ µ¸´Â ±â Àû¾îµµ ÀÏÁÖÀÏ ÀüºÎÅÍ ½ÃÀÛµÆ´ÙÄ°´Ï´õ.",È¯ÀÚ °Ë»çÇØº¸ÀÌ±î ÇÇºÎ¿¡ ÀÌ»óÀÌ ÀÖ¾ú½É´õ.
+,"°¡Á·µé ¸»·Î´Â, ¹¹°¡ µ¸Àº ±â Àû¾îµµ ÀÏÁÖÀÏ µ¿¾È °è¼ÓµÆ´ÙÄ°´Ï´õ.",È¯ÀÚ ´Ù¸¥ µ¥´Â °Ë»çÇØº¸ÀÌ±î ´Ù ±¦Âú´ÙÄ°´Ï´õ.
+,"°¡Á·µé ¸»·Î´Â, ¹¹°¡ µ¸Àº ±â Àû¾îµµ ÀÏÁÖÀÏ µ¿¾È °è¼ÓµÆ´ÙÄ°´Ï´õ.",È¯ÀÚ´Â ´ë»óÆ÷Áø¿¡ °É›½É´õ.
+,"±× ¾Æµé ¸»·Î´Â, ¾ö¸¶´Â",È¯ÀÚ´Â ¾ÆµéÀÌ ÀÖ½É´õ.
+,"±× ¾Æµé ¸»·Î´Â, ¾ö¸¶´Â",È¯ÀÚ´Â ¾ÆµéÀÌ ¾ø½É´õ.
+,"±× ¾Æµé ¸»·Î´Â, ¾ö¸¶´Â",±× ¾ç¹Ý ¾ÆµéÀº ´Ù ÄÇ½É´õ.
+,"¾Æ´Â ½º¹°¿©´ü »ì, Ã¹ ÀÓ½Å¿¡ Ãâ»êÀº ¾ø°í À¯»ê ¼¼ ¹ø ÇÑ ¾ö¸¶ÇÑÅ×¼­ ÅÂ¾î³µ´Âµ¥¿¹, »êÀü °Ë»ç °á°ú Ç÷¾×ÇüÀº BÇü, Ç×Ã¼ À½¼º, ¸Åµ¶ ¹ÝÀÀ ¾øÀ½, Ç³Áø ¸é¿ª ÀÖÀ½, BÇü °£¿° Ç×¿ø À½¼º, B±º ¿¬¼â±¸±ÕÀº È®ÀÎ ¾È µÆ½É´õ.",È¯ÀÚ´Â °«³­¾ÆÀÔ´Ï´õ.
+,"¾Æ´Â ½º¹°¿©´ü »ì ¹¬Àº, G1, ÆÄ¶ó 0-3ÀÎ ¾ö¸¶ÇÑÅ×¼­ ÅÂ¾î³µ´Âµ¥¿¹, »êÀü °Ë»ç °á°ú Ç÷¾×ÇüÀº BÇü, Ç×Ã¼ À½¼º, RPR ¹ÝÀÀ ¾øÀ½, Ç³Áø ¸é¿ª ÀÖÀ½, BÇü °£¿° Ç×¿ø À½¼º, ±×¸®°í GBS´Â ¸ð¸¥´Ù Çß½É´õ.",¾ö¸¶´Â BÇü °£¿°¿¡ °É›½É´õ.
+,"¾Æ´Â ½º¹°¿©´ü »ì ¹¬Àº, G1, ÆÄ¶ó 0-3ÀÎ ¾ö¸¶ÇÑÅ×¼­ ÅÂ¾î³µ´Âµ¥¿¹, »êÀü °Ë»ç¿¡´Â Ç÷¾×Çü BÇü, Ç×Ã¼ À½¼º, RPR ¹ÝÀÀ ¾øÀ½, Ç³Áø ¸é¿ª, BÇü °£¿° Ç×¿ø À½¼º, ±×¸®°í GBS ¹ÌÈ®ÀÎÀÌ Æ÷ÇÔµÅ ÀÖ¾ú½É´õ.",¾ö¸¶´Â Ç³Áø ¿¹¹æÁÖ»ç¸¦ ¸Â¾Ò½É´õ.
+,- ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ - ºñ¸¸ - ¹ÌÁ¤ÀÇ Àú»ê¼ÒÁõ - ÁßÃß½Å°æ°è ¸²ÇÁÁ¾À¸·Î ÀÎÇÑ ³úÁ¹Áß 3¹ø(ÈÄ¹æ ¼øÈ¯) ¹× ¹ßÀÛ Àå¾Ö - Äí¸¶µò ¹¬´Ù°¡ »ý±ä ³úÃâÇ÷ ÀÌ·Â - ÀÌ¿Ï±â ½ÉºÎÀü - °ü»óµ¿¸ÆÁúÈ¯ - ½É¹æ¼¼µ¿ - °íÇ÷¾Ð - °íÁöÇ÷Áõ - ÁßÁõ ¼ö¸é¹«È£ÈíÁõ(¿¾³¯¿¡ CPAP¸¦ ¸ó Âü¾ÒÀ½) - ¿ø¹ß¼º ºÎ°©»ó¼±±â´ÉÇ×ÁøÁõ/ºñÅ¸¹Î D 25 °áÇÌÀ¸·Î ÀÎÇÑ ½Åµ¹ - µ¶¼º ´Ù¹ß¼º °áÀý¼º °©»ó¼±°ú Àáº¹¼º °©»ó¼±±â´ÉÇ×ÁøÁõ - ½Å»ýÇ÷°ü¼º ³ì³»ÀåÀ¸·Î ÀÎÇÑ ¿À¸¥ÂÊ ´« ½Ç¸í,È¯ÀÚ BMI Áö¼ö°¡ ³ô½É´õ.
+,- ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ - ºñ¸¸ - ¹ÌÁ¤ÀÇ Àú»ê¼ÒÁõ - ÁßÃß½Å°æ°è¸²ÇÁÁ¾À¸·Î ÀÎÇÑ ³úÁ¹Áß 3¹ø(ÈÄ¼øÈ¯) ¹× ¹ßÀÛ Àå¾Ö - Äí¸¶µò ¹¬´Ù°¡ »ý±ä ³úÃâÇ÷ ÀÌ·Â - ÀÌ¿Ï±â½ÉºÎÀü - °ü»óµ¿¸ÆÁúÈ¯ - ½É¹æ¼¼µ¿ - °íÇ÷¾Ð - °íÁöÇ÷Áõ - ÁßÁõ ¼ö¸é¹«È£ÈíÁõ(¿¾³¯¿¡ CPAP¸¦ ¸ó Âü¾ÒÀ½) - ¿ø¹ß¼º ºÎ°©»ó¼±±â´ÉÇ×ÁøÁõ/25-ºñÅ¸¹Î D °áÇÌÀ¸·Î ÀÎÇÑ ½Å¼®Áõ - µ¶¼º ´Ù¹ß°áÀý¼º °©»ó¼±°ú Àáº¹±â °©»ó¼±±â´ÉÇ×ÁøÁõ - ½Å»ýÇ÷°ü¼º ³ì³»ÀåÀ¸·Î ÀÎÇÑ ¿À¸¥ÂÊ ´« ½Ç¸í,È¯ÀÚ´Â ÇÑºÐµµ ³úÁ¹ÁßÀ» °Þ¾îº» Àû ¾ø½É´õ.
+,- ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ - ºñ¸¸ - ¹ÌÁ¤ÀÇ Àú»ê¼ÒÁõ - ÁßÃß½Å°æ°è ¸²ÇÁÁ¾À¸·Î ÀÎÇÑ ³úÁ¹Áß 3¹ø(ÈÄ¼øÈ¯) ¹× ¹ßÀÛ Àå¾Ö - Äí¸¶µò ¹¬´Ù°¡ »ý±ä °æµ¿¸ÆÃâÇ÷ ÀÌ·Â - ÀÌ¿Ï±â ½ÉºÎÀü - °ü»óµ¿¸ÆÁúÈ¯ - ½É¹æ¼¼µ¿ - °íÇ÷¾Ð - °íÁöÇ÷Áõ - ÁßÁõ ¼ö¸é¹«È£ÈíÁõ(¿¾³¯¿¡ CPAP¸¦ ¸ó Âü¾ÒÀ½) - ¿ø¹ß¼º ºÎ°©»ó¼±±â´ÉÇ×ÁøÁõ/ºñÅ¸¹Î D °áÇÌÁõÀ¸·Î ÀÎÇÑ ½Åµ¹ - µ¶¼º ´Ù¹ß°áÀý¼º °©»ó¼±°ú Àáº¹¼º °©»ó¼±±â´ÉÇ×ÁøÁõ - ½Å»ýÇ÷°ü¼º ³ì³»ÀåÀ¸·Î ÀÎÇÑ ¿À¸¥ÂÊ ´« ½Ç¸í,È¯ÀÚ´Â ¾Ç¼º Á¾¾ç °ú°Å·ÂÀÌ ÀÖ½É´õ.
+,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí °ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â °©ÀÚ±â ¼ûÀÌ Â÷±â ½ÃÀÛÇß½É´õ.
+,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â ¼û½¬´Â µ¥ ¾î·Á¿ò ¾ø¾ú½É´õ.
+,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ) º´·ÂÀÌ ÀÖ½É´õ.
+,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
+,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ ±Þ¼º È£Èí°ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â È£Èí°ï¶õÀº ¾Æ´Ï¶ó²¿ ÇÕ´Ï´õ.
+,È¯ÀÚ´Â ¹ßÇ¥ ´çÀÏ¿¡ ±Þ¼º È£Èí °ï¶õÀ¸·Î ²£½É´õ.,È¯ÀÚ´Â Æó»öÀüÁõÀÌ ÀÖ½É´õ.
+,È¯ÀÚ´Â ¹ÝÀÀ¼º ±âµµ ÁúÈ¯À» ¾Î°í ÀÖ´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)ÀÌ³ª Ãµ½ÄÀ» ¾Î°í ÀÖ½É´õ.
+,È¯ÀÚ´Â ¹ÝÀÀ¼º ±âµµ ÁúÈ¯ÀÌ ÀÖ´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ Æó ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,È¯ÀÚ´Â ¹ÝÀÀ¼º ±âµµ ÁúÈ¯ÀÌ ÀÖ´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ´Â ÈíÀÔ±â¸¦ ¾¹´Ï´õ.
+,°ú°Å¿¡ Å¬¶ó¹Ìµð¾Æ °¨¿°·Â °ú°Å·ÂÀÌ º¸°íµÆ½É´õ.,È¯ÀÚ´Â ¿¹Àü¿¡ °¨¿°À» ¾Î¾Ò½É´õ.
+,°ú°Å¿¡ Å¬¶ó¹Ìµð¾Æ °¨¿°·ÂÀÌ ÀÖ¾ú´Ù²¿ º¸°íÇß½É´õ.,È¯ÀÚ´Â °ú°Å º´·ÂÀÌ ¾ø½É´õ.
+,°ú°Å¿¡ Å¬¶ó¹Ìµð¾Æ °¨¿°·ÂÀÌ ÀÖ¾ú´Ù²¿ º¸°íÇß´Ù.,È¯ÀÚ´Â ¾Æ¹« Áõ»óµµ ¾È º¸ÀÔ´Ï´õ.
+,"¿ä¹ø ÀÔ¿ø ½Ã Ã·À¸·Î ÀÀ±Þ½Ç¿¡ ¿ÔÀ» ¶§, »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 100.1, ½É¹Ú¼ö 133, Ç÷¾Ð 118/77, È£Èí¼ö 14, °ø±â Áß »ê¼Ò Æ÷È­µµ 96%.",È¯ÀÚ´Â ºó¸ÆÀÌ ÀÖ½É´õ.
+,"¿ä¹ø ÀÔ¿ø ½Ã Ã·¿¡ ÀÀ±Þ½Ç µµÂøÇßÀ» ¶§ ±× »ç¶÷ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 100.1, ½É¹Ú¼ö 133, Ç÷¾Ð 118/77, È£Èí¼ö 14, RA »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ »ý¸íÃ¼Â¡Àº Á¤»óÀÔ´Ï´õ.
+,"¿ä¹ø ÀÔ¿ø ½Ã Ã·¿¡ ÀÀ±Þ½Ç ¿ÔÀ» ¶§, ±× »ç¶÷ »ýÃ¼ ½ÅÈ£´Â ÀÌ·¨½É´õ: Ã¼¿Â 100.1, ½É¹Ú¼ö 133, Ç÷¾Ð 118/77, È£Èí¼ö 14, ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ 96%.",È¯ÀÚ°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,Á¦ÀÏ ÃÖ±Ù¿¡ Åð¿øÇÑ È¯ÀÚ´Â [**Hospital1 5908**] ÀçÈ° º´¿øÀ¸·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â °è¼Ó Ä¡·á°¡ ÇÊ¿äÇÕ´Ï´õ.
+,Á¦ÀÏ ÃÖ±Ù¿¡ Åð¿øÇÑ È¯ÀÚ´Â [**Hospital1 5908**] ÀçÈ°¼¾ÅÍ·Î ¿Å°ÜÁ³½É´õ.,È¯ÀÚ´Â ´õ ÀÌ»ó ÈÄ¼Ó Ä¡·á´Â ÇÊ¿ä ¾ø½É´õ.
+,Á¦ÀÏ ¸¶Áö¸·¿¡ Åð¿øÇß´Â È¯ÀÚ´Â [**Hospital1 5908**] ÀçÈ°¼¾ÅÍ·Î ¿Å±âÁ³½Ê´Ï´õ.,±Ù°ñ°Ý°è ÂÊÀ¸·Î ´ÙÄ£ ±â·Ï.
+,[**6-11**] Ä«Å×ÅÍÈ­·Î È®ÀÎµÈ Áßµîµµ ¹ÌÆ®¶öÆÇ¸· ¿ª·ùÁõ 4+¶û 1+ ´ëµ¿¸ÆÆÇ¸· ºÒ¿ÏÀü Æó¼âÁõÀÌ ³ªÅ¸³µ½Ê´Ï´õ.,È¯ÀÚ´Â ½ÉºÎÀüÁõÀ» ¾Î°í ÀÖ½Ê´Ï´õ.
+,[**6-11**] Ä«Å×ÅÍÈ­·Î È®ÀÎµÈ Áßµîµµ ¹ÌÆ®¶öÆÇ¸· ¿ª·ùÁõ 4+¶û 1+ ´ëµ¿¸ÆÆÇ¸· ºÒ¿ÏÀü Æó¼âÁõÀÌ ³ªÅ¸³µ½Ê´Ï´õ.,È¯ÀÚ ½ÉÀåÀº Á¤»óÀÔ´Ï´õ.
+,[**6-11**] Ä«Å×ÅÍÈ­´Â 4+ ¹ÌÆ®¶ö ÆÇ¸· ¿ª·ù¶û 1+ ´ëµ¿¸ÆÆÇ¸· ºÒ¿ÏÀü Æó¼â¸¦ º¸¿©ÁÝ´Ï´õ.,È¯ÀÚ´Â È°µ¿ÇÒ ¶§ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
+,±× È¯ÀÚ´Â Çì¸¶Å×¸Þ½Ã½º(ÇÇÅä) Áõ»óÀº ¾ø¾ú½Ê´Ï´õ.,±× È¯ÀÚ´Â ÇÇÅä ¾È Çß½Ê´Ï´õ.
+,±× È¯ÀÚ´Â ÇÇÅäÇÑ Àû ¾ø½Ê´Ï´õ.,±× È¯ÀÚ´Â ÇÇÅä¸¦ ÇÏ°í ÀÖ¾ú½Ê´Ï´õ.
+,±× È¯ÀÚ´Â ÇÇÅäÇÑ Àû ¾ø½Ê´Ï´õ.,±× È¯ÀÚ´Â À§Àå¿°À» ¾Î¾Ò½Ê´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â Äí½º¸ð¿ï È£ÈíÀ» º¸ÀÌ°í ÀÖ¾ú°í, ½É¹Ú¼öµµ »¡¶ú½Ê´Ï´õ.",È¯ÀÚ°¡ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â Äí½º¸¶¿ï È£ÈíÀ» º¸ÀÌ°í ÀÖ¾ú°í, ½É¹Ú¼öµµ »¡¶ú½Ê´Ï´õ.",È¯ÀÚ È£Èí ¼Óµµ´Â Á¤»óÀÔ´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ È¯ÀÚ´Â Äí½º¸ð¿ï È£ÈíÀ» º¸ÀÌ°í ÀÖ¾ú°í, ½É¹Ú¼öµµ »¡¶ú½Ê´Ï´õ.",È¯ÀÚ´Â ºñÁ¤»óÀûÀÎ ½É¹Úµ¿ÀÌ ÀÖ½Ê´Ï´õ.
+,±× È¯ÀÚ ´Ù¸® ÂÊ¿¡ ÁÖº¯ÀûÀÎ ±ÁÈû Çö»óÀÌ ÀÖ¾ú½Ê´Ï´õ.,±× È¯ÀÚ ´Ù¸® °üÀýÀÌ ±¸ºÎ·¯Á® ÀÖ¾ú½Ê´Ï´õ.
+,±× È¯ÀÚ ´Ù¸® ÂÊ¿¡ ÁÖº¯ÀûÀÎ ±ÁÈû Çö»óÀÌ ÀÖ¾ú½Ê´Ï´õ.,´Ù¸® °üÀýÀº ¾È ±¸ºÎ·¯Á® ÀÖ¾ú½Ê´Ï´õ.
+,±× È¯ÀÚ ´Ù¸® ÂÊ¿¡ ÁÖº¯ÀûÀÎ ±ÁÈû Çö»óÀÌ ÀÖ¾ú½Ê´Ï´õ.,È¯ÀÚ´Â °ÉÀ» ¼ö ÀÖ½Ê´Ï´õ.
+,"±× È¯ÀÚ´Â °è¼Ó ¾È ¾ÆÆÄÇß°í, ½ÉÀå Ä«Å×ÅÍ °Ë»çÇÏ·¯ [**Hospital1 47**]·Î ¿Å°ÜÁ³½Ê´Ï´õ.",È¯ÀÚ´Â °¡½¿Àº ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"±× È¯ÀÚ´Â °è¼Ó ¾È ¾ÆÆÄÇß°í, ½ÉÀå Ä«Å×ÅÍ °Ë»çÇÏ·¯ [**Hospital1 47**]·Î ¿Å°ÜÁ³½Ê´Ï´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,±× È¯ÀÚ´Â ¾È ¾ÆÇÂ Ã¤·Î [**Hospital1 47**]·Î ¿Å°ÜÁ®°¡ ½ÉÀå Ä«Å×ÅÍ °Ë»ç¸¦ ¹Þ¾Ò½Ê´Ï´õ.,È¯ÀÚ ½ÉÀüµµ °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,±× È¯ÀÚ´Â Áý¿¡¼­ ¼³»ç¸¦ ÂÍ Çß´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ°¡ ¼³»çÇÕ´Ï´õ.
+,±× È¯ÀÚ´Â Áý¿¡¼­ ¼³»ç¸¦ ÂÍ Çß´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ°¡ º¯ºñ°¡ ÀÖ½Ê´Ï´õ.
+,±× È¯ÀÚ´Â Áý¿¡¼­ ¼³»ç¸¦ ÂÍ Çß´Ù°í ÇÕ´Ï´õ.,È¯ÀÚ´Â Å¬·Î½ºÆ®¸®µð¿ò µðÇÇ½Ç¿¡ °¨¿°µÆ½Ê´Ï´õ.
+,"±× È¯ÀÚ´Â ÀÀ±Þ½Ç¿¡¼­ ½ÉÀåÀÌ ¾È ¶Ù´Â »óÅÂ(asystolic arrest)·Î ¹ß°ßµÆ°í, ¾ÆÆ®·ÎÇÉÀ» ¿©·¯ ¹ø ¸Â¾Ò½Ê´Ï´õ. ±×·¡¼­ ½É½Ç ¼¼µ¿ arrest »óÅÂ·Î ¹Ù²î¾ú°í, ±× µÚ·Î´Â ½É½Ç ºó¸Æ »óÅÂ·Î º¯Çß½Ê´Ï´õ.",È¯ÀÚ´Â ½ÉÆó¼Ò»ý¼úÀ» ¹Þ¾Ò½Ê´Ï´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ ±× ¿©ÀÚ´Â ½ÉÀå¸Æ¹ÚÀÌ ¾ø´Â »óÅÂ·Î ¹ßÀÛÀ» ÇØ°¡²¿, ¾ÆÆ®·ÎÇÉÀ» ¿©·¡ ¹ø ¸Â°í ½É½Ç ¼¼µ¿À¸·Î ¹Ù…ó´Ù°¡ ´Ù½Ã ½É½Ç ºó¸ÆÀ¸·Î ¹Ù…ó½É´õ.",È¯ÀÚ´Â Á¤»óÀûÀÎ ½ÉÀüµµ¸¦ º¸¿´½É´õ.
+,"ÀÀ±Þ½Ç¿¡¼­ ±× ¿©ÀÚ´Â ½ÉÀåÀÌ ¸Ü¾î°¡, ¾ÆÆ®·ÎÇÉÀ» ¿©·¡ ¹ø ¸Â°í ½É½Ç ¼¼µ¿À¸·Î ¹Ù…ó´Ù°¡, ±× µÚ¿¡ ½É½Ç ºó¸ÆÀ¸·Î ¹Ù…ó½É´õ.",È¯ÀÚ´Â ST »ó½Â ½É±Ù°æ»öÀÌ ¿Ô½É´õ.
+,"Æó±âÁ¾, °ñ´Ù°øÁõ, 1±â À¯¹æ¾ÏÀ¸·Î ¿À¸¥ÂÊ À¯¹æ ÀýÁ¦¼úÀÌ¶û ¾È¿Í ¸²ÇÁÀý Á¦°Å¼úÇÏ°í ¹æ»ç¼± Ä¡·á [**2510**]¸¦ ¹Þ¾Ò°í, °ÇÃÊ¿°, Èæ»öÁ¾À¸·Î ÀýÁ¦¼ú ¹Þ¾Ò°í, °Ô½ÇÁõ, MRSA °¨¿°µÆ´ø °ú°Å·Â, ÆíµµÀýÁ¦¼ú, ÀÚ±Ã°æºÎ¶û ÀÚ±Ã°­ ¼ÒÆÄ¼ú(D&C), ´ëÀå³»½Ã°æÀ¸·Î ¿ëÁ¾ 4°³ Á¦°ÅÇßÀ½.",¾Ï º´·Â ÀÖÀ½.
+,"Æó±âÁ¾, °ñ´Ù°øÁõ, 1±â À¯¹æ¾ÏÀ¸·Î ¿À¸¥ÂÊ À¯¹æÀýÁ¦¼úÀÌ¶û ¾È¿Í¸²ÇÁÀý Á¦°Å¼úÇÏ°í ¹æ»ç¼± Ä¡·á [**2510**] ¹ÞÀº µÚ¿¡, °ÇÃÊ¿°, Èæ»öÁ¾À¸·Î ÀýÁ¦¼ú ¹ÞÀº µÚ¿¡, ´ëÀå °Ô½ÇÁõ, MRSA °¨¿°µÆ´ø °ú°Å·Â, ÆíµµÀýÁ¦¼ú, ÀÚ±Ã°æºÎ ¹× ÀÚ±Ã°­ ¼ÒÆÄ¼ú, ´ëÀå³»½Ã°æÀ¸·Î ¿ëÁ¾ 4°³ Á¦°ÅÇßÀ½.",Æó ÁúÈ¯ ¾ÎÀº Àû ¾øÀ½.
+,"Æó±âÁ¾, °ñ´Ù°øÁõ, 1±â À¯¹æ¾Ï ¼ö¼ú µÚ ¿À¸¥ÂÊ À¯¹æÁ¾¾ç Á¦°Å¶û ¾È¿Í¸²ÇÁÀý ÀýÁ¦¼úÇÏ°í ¹æ»ç¼± Ä¡·á [**2510**], Á¡¾×³¶¿°, Èæ»öÁ¾ ÀýÁ¦¼ú µÚ, ´ëÀå °Ô½ÇÁõ, MRSA °¨¿° ÀÌ·Â, ÆíµµÀýÁ¦¼ú, ÀÚ±Ã°æºÎ¶û ÀÚ±Ã°­ ¼ÒÆÄ¼ú, ´ëÀå³»½Ã°æÀ¸·Î ¿ëÁ¾ 4°³ Á¦°Å.",´ã¹è ÇÉ Àû ÀÖÀ½.
+,"±× ¿©ÀÚ´Â ¼ûÀ» ÂÉ¸Å ½¬±â Èûµé¾îÇß°í, È£Èí ¼Óµµ´Â 24¿´°í, »ê¼Ò 4¸®ÅÍ¸¦ ¸ÂÀ¸ÀÌ »ê¼Ò Æ÷È­µµ°¡ 96%¿´½É´õ.",±× ¿©ÀÚ È£Èí ¼Óµµ°¡ ³ô¾Ò½É´õ.
+,"±× ¿©ÀÚ´Â ¼ûÀ» ÂÉ¸Å ½¬±â Èûµé¾îÇß°í, È£Èí ¼Óµµ´Â 24¿´°í, »ê¼Ò 4¸®ÅÍ ¸ÂÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 96%¿´½É´õ.",±× ¿©ÀÚ »ýÃ¼ ½ÅÈ£¶û »ê¼Ò Æ÷È­µµ ¼öÄ¡´Â Á¤»óÀÌ¾ú½É´õ.
+,"±× ¿©ÀÚ´Â ¼ûÀ» ÂÉ¸Å ½¬±â Èûµé¾îÇß°í, È£Èí ¼Óµµ´Â 24¿´°í, »ê¼Ò 4¸®ÅÍ ¸ÂÀ» ¶§ »ê¼Ò Æ÷È­µµ´Â 96%¿´½É´õ.","±× ¿©ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ°í, ´ã¹è ÇÉ Àû ÀÖ½É´õ."
+,ÃÖ±Ù¿¡ º¯ º¸´Â °Å³ª ¼Òº¯ º¸´Â ½À°ü¿¡ º¯È­´Â ¾ø½É´õ.,È¯ÀÚ º¯ º¸´Â °Ç ¾ÈÁ¤ÀûÀÔ´Ï´õ.
+,ÃÖ±Ù¿¡ ¶Ë ´©´Â °Å³ª ¿ÀÁÜ ´©´Â °Å¿¡ ¹Ù²ï °Ç ¾ø½É´õ.,È¯ÀÚ°¡ »õ·Î ¼³»ç Áõ»óÀÌ »ý°å½É´õ.
+,ÃÖ±Ù¿¡ ¶Ë ´©´Â °Å³ª ¿ÀÁÜ ´©´Â °Å¿¡ ¹Ù²ï °Ç ¾ø½É´õ.,È¯ÀÚ´Â ¿ä·Î °¨¿°Àº ¾ø½É´õ.
+,"CT/Ç÷°üÁ¶¿µ¼ú °á°ú, ¿ÞÂÊ ¾Æ·¡ÂÊ Æó¿¡ Æó·ÅÀÌ º¸ÀÌ°í, Æó»öÀüÁõÀº ¾ø¾ú½É´õ. ±×¸®°í BÈú¶ó¸²ÇÁÀýÀÌ 1cm·Î º¸ÀÌ°í, ½ÉÇÑ Æó±âÁ¾µµ È®ÀÎµÆ½É´õ.","¿µ»ó Áø´Ü °á°ú, °¨¿°ÁõÀÌ¶û ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯ÀÌ È®ÀÎµÆ½É´õ."
+,"CT/Ç÷°üÁ¶¿µ¼ú °á°ú ¿ÞÂÊ ¾Æ·¡ÂÊ Æó·Å, Æó»öÀüÁõÀº ¾ø°í, BÈú¶ó¸²ÇÁÀý¿¡ 1cmÂ¥¸® ¸²ÇÁÀýÀÌ ÀÖ°í, ½ÉÇÑ Æó±âÁ¾µµ È®ÀÎµÆ½É´õ.",Á¤»óÀûÀÎ Æó ±â´É.
+,"CT/Ç÷°üÁ¶¿µ¼ú °á°ú ¿ÞÂÊ ¾Æ·¡ÂÊ Æó¿¡ Æó·ÅÀÌ È®ÀÎµÆ°í, Æó»öÀüÁõÀº ¾ø¾ú½É´õ. ±×¸®°í BÈú¶ó¸²ÇÁÀý¿¡¼­ 1cmÂ¥¸® ¸²ÇÁÀýÀÌ º¸¿´°í, ½ÉÇÑ Æó±âÁ¾µµ È®ÀÎµÆ½É´õ.",´ã¹è ÇÉ ÀÌ·Â.
+,Æ¯È÷ ÀÌ È¯ÀÚ´Â ÃÖ±Ù¿¡ [**Hospital1 18**]¿¡¼­ ¹è ¾ÆÆÄ°¡²¿ [**1-6**]¿¡ ÀÔ¿øÇÑ Àû ÀÖ½É´õ.,¹è ¾ÆÇÂ Àû ÀÖÀ½.
+,"Æ¯È÷, È¯ÀÚ´Â ÃÖ±Ù [**Hospital1 18**]¿¡¼­ ¹è ¾ÆÆÄ¼­ [**1-6**]¿¡ ÀÔ¿øÇÑ Àû ÀÖ½É´õ.",¹è ¾ÆÇÂ Àû ¾ø½É´õ.
+,"Æ¯È÷, È¯ÀÚ´Â ÃÖ±Ù [**Hospital1 18**]¿¡¼­ ¹è ¾ÆÆÄ¼­ ÀÔ¿øÇÑ Àû ÀÖ½É´õ.",È¯ÀÚ´Â Ãæ¼ö¿°À» ¾Î°í ÀÖ¾ú½É´õ.
+,"60¼¼ ³²ÀÚ È¯ÀÚÀÎµ¥, ¿¹Àü¿¡ DVT(½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ), HIV(ÀÎ°£¸é¿ª°áÇÌ¹ÙÀÌ·¯½º), CÇü °£¿°, HCC(°£¼¼Æ÷¾Ï), RCC(½Å¼¼Æ÷¾Ï)¸¦ ¾Î¾Ò°í, Æó·Î ÀüÀÌµÈ »óÅÂÀÔ´Ï´õ. ÃÖ±Ù ÀÌÆ² Àü¿¡ »çÀÌ¹ö³ªÀÌÇÁ ¼ö¼úÀ» ¹Þ¾Ò½É´õ. Áö±Ý À­¹è¶û °¡½¿ÀÌ ¾ÆÇÁ´ÙÄ«°í, ¹¹ »ïÅ³ ¶§ ´õ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ½Äµµ¿° Áõ»óÀ» º¸ÀÌ°í ÀÖ½É´õ.
+,"60¼¼ ³²ÀÚ È¯ÀÚ´Â ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ(DVT), ÀÎ°£¸é¿ª°áÇÌ¹ÙÀÌ·¯½º(HIV), CÇü °£¿°(Hep C), °£¼¼Æ÷¾Ï(HCC), ½ÅÀå¼¼Æ÷¾Ï(RCC) Áø´ÜÀ» ¹Þ¾Ò°í, Æó·Î ÀüÀÌµÈ »óÅÂÀÔ´Ï´õ. ÃÖ±Ù ÀÌÆ² Àü¿¡ »çÀÌ¹ö³ªÀÌÇÁ Ä¡·á¸¦ ¹Þ¾Ò½É´õ. Áö±Ý À­¹è¶û °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä«°í, ¹¹ »ïÅ³ ¶§ ÅëÁõÀÌ ´õ ½ÉÇØÁý´Ï´õ.",È¯ÀÚ´Â À§½Äµµ Áõ»óÀÌ ÇÏ³ªµµ ¾ø½É´õ.
+,"60¼¼ ³²ÀÚ È¯ÀÚÀÎµ¥, ¿¹Àü¿¡ ½ÉºÎÁ¤¸ÆÇ÷ÀüÁõ(DVT), ÀÎ°£¸é¿ª°áÇÌ¹ÙÀÌ·¯½º(HIV), CÇü °£¿°(Hep C), °£¼¼Æ÷¾Ï(HCC), ½ÅÀå¼¼Æ÷¾Ï(RCC) º´·ÂÀÌ ÀÖ°í, Æó·Î ÀüÀÌµÈ »óÅÂÀÔ´Ï´õ. »çÀÌ¹ö³ªÀÌÇÁ Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥(¸¶Áö¸· Ä¡·á´Â ÀÌÆ² Àü¿¡ ¹Þ¾Ò½É´õ), À­¹è¶û °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä«°í, ¹¹ »ïÅ³ ¶§ ´õ ¾ÆÇÁ´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ´Â ¹æ»ç¼± À¯¹ß ½Äµµ¿°À» ¾Î°í ÀÖ½É´õ.
+,"È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¾ú°í, Ãß°¡ Áø´ÜÀ» À§ÇØ ÀÔ¿øÇß½É´Ï´õ.",È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÔ´Ï´õ.
+,"È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¾ú°í, Ãß°¡ Áø·á¸¦ À§ÇØ ÀÔ¿øÇß½É´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â Ç÷¿ªÇÐÀûÀ¸·Î ¾ÈÁ¤ÀûÀÌ¾ú°í, Ãß°¡ Áø·á¸¦ À§ÇØ ÀÔ¿øÇß½É´Ï´õ.",È¯ÀÚ´Â ¾È ¾ÆÇÁ´Ù Ä¯´õ.
+,ÀÓ½ÅÀÌ »ê¸ð Ç÷¾ÐÀÌ ¿Ã¶ó°¡ º¹ÀâÇØÁ³½É´Ï´õ.,"""»ê¸ð °íÇ÷¾ÐÀÌ ÀÖ½É´Ï´õ."""
+,ÀÓ½ÅÀÌ »ê¸ð Ç÷¾ÐÀÌ ¿Ã¶ó°¡ º¹ÀâÇØÁ³½É´Ï´õ.,»ê¸ð Ç÷¾ÐÀº Á¤»óÀÔ´Ï´õ.
+,ÀÓ½ÅÀÌ »ê¸ð Ç÷¾ÐÀÌ ¿Ã¶ó°¡ º¹ÀâÇØÁ³½É´Ï´õ.,ÀüÀÚ°£ÁõÀÌ ÀÖ½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â [**º´¿ø**] ÀçÈ°¼¾ÅÍ·Î [**2926-7-27**]¿¡ Åð¿øÇßÁö¸¸, ÀÚ²Ù °í¿­ÀÌ ³ª °¡Áö°í ¿©ÀüÈ÷ ÀÎ°øÈ£Èí±â¿¡ ÀÇÁ¸ÇÏ°í ÀÖ¾ú½É´õ.",È¯ÀÚ°¡ ÀÚ²Ù ¿­ÀÌ ³³´Ï´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â [**º´¿ø **] ÀçÈ°¼¾ÅÍ·Î [**2926-7-27**]¿¡ Åð¿øÇßÁö¸¸, ÀÚ²Ù °í¿­ÀÌ ³ª¸é¼­ ¿©ÀüÈ÷ ÀÎ°øÈ£Èí±â¿¡ ÀÇÁ¸ÇÏ°í ÀÖ¾ú½É´õ.",È¯ÀÚ´Â ¿­ ¾ø½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â [**2926-7-27**]¿¡ [**º´¿ø**] ÀçÈ°¼¾ÅÍ·Î Åð¿øÇßÁö¸¸, ÀÚ²Ù °í¿­ÀÌ ³ª¸é¼­ °è¼Ó ÀÎ°øÈ£Èí±â¿¡ ÀÇÁ¸ÇÏ°í ÀÖ¾ú½É´õ.",È¯ÀÚ´Â ¸¸¼º °¨¿°ÀÌ ÀÖ½É´õ.
+,"82¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, ¼î±×·»ÁõÈÄ±º, Ç÷°ü¿°, À§Àå°ü ÃâÇ÷, °íÇ÷¾ÐÀÌ ÀÖ°í¿¹, À§Àå°ü ÃâÇ÷ Áõ»óÀ¸·Î ¿Ô½É´õ.",È¯ÀÚ´Â À§Àå°ü ÃâÇ÷ÀÌ ÀÖ½É´õ.
+,"82¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, ¼î±×·»ÁõÈÄ±º, Ç÷°ü¿°, À§Àå°ü ÃâÇ÷, °íÇ÷¾ÐÀÌ ÀÖ°í¿¹, À§Àå°ü ÃâÇ÷ Áõ»óÀÌ ³ªÅ¸³µ½É´õ.",È¯ÀÚ À§Àå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"82¼¼ ¿©ÀÚ È¯ÀÚºÐÀÎµ¥, ¼î±×·»ÁõÈÄ±º, Ç÷°ü¿°, À§Àå°ü ÃâÇ÷, °íÇ÷¾ÐÀÌ ÀÖ°í¿¹, À§Àå°ü ÃâÇ÷ Áõ»óÀ¸·Î ¿Ô½É´õ.",È¯ÀÚ´Â ÇÇ ÅäÇÏ´Â Áõ»óÀ¸·Î ¿Ô½É´õ.
+,"ÀÀ±Þ½Ç·Î °¡´Â ±æ¿¡, ±× ¾Æ(¿©ÀÚ)´Â µý µ¥·Î »¸Ä¡´Â Áõ»ó ¾øÀÌ ¸íÄ¡ ÂÊ ÅëÁõÀÌ ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´Ù Ä¯´õ.
+,"ÀÀ±Þ½Ç·Î °¡´Â ±æ¿¡, ±× ¾Æ(¿©ÀÚ)´Â µý µ¥·Î »¸Ä¡´Â Áõ»ó ¾øÀÌ ¸íÄ¡ ÂÊ °¡½¿ ÅëÁõÀÌ ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â °¡½¿ ¾È ¾ÆÇÁ´Ù Ä¯´õ.
+,"ÀÀ±Þ½Ç·Î °¡´Â ±æ¿¡, ±× ¾Æ(¿©ÀÚ)´Â µý µ¥·Î »¸Ä¡´Â Áõ»ó ¾øÀÌ °¡½¿ ÇÑ°¡¿îµ¥ ÅëÁõÀÌ ´õ ½ÉÇØÁ³½É´õ.",È¯ÀÚ´Â ±Þ¼º ½É±Ù°æ»öÁõÀÌ ÀÖ½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â PRBCs 4À¯´ÖÇÏ°í NS 3¸®ÅÍ·Î ¿ë·® º¹¿øÀ» ¹Þ¾Ò½É´õ. Âü°í·Î, PRBCs´Â Packed Red Blood CellsÀÇ ¾àÀÚ·Î, ³óÃà ÀûÇ÷±¸¸¦ ´ãÀº Ç÷¾×Á¦Ç°À» ¸»ÇÏ°í, NS´Â Normal SalineÀÇ ¾àÀÚ·Î, Á¤»ó »ý¸®½Ä¿°¼ö¸¦ ¸»ÇÏ´Â±é´Ï´õ. ÀÌ°ÍµéÀº È¯ÀÚ Ç÷¾×·®À» È¸º¹½ÃÅ°´Â µ¥ ¾¹´Ï´õ.",±× ¾Æ(¿©ÀÚ)´Â Ã¼¾×°¨¼ÒÁõÀ¸·Î Ä¡·á¹Þ¾Ò½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â ÀûÇ÷±¸ ³óÃà¾×(Packed Red Blood Cells, PRBCs) 4À¯´ÖÇÏ°í Á¤»ó »ý¸®½Ä¿°¼ö(Normal Saline, NS) 3¸®ÅÍ·Î ¿ë·® º¹¿øÀ» ¹Þ¾Ò½É´õ.",±× ¾Æ(¿©ÀÚ)´Â ¹° ´õ ¸¶½Ç ÇÊ¿ä´Â ¾ø¾ú½É´õ.
+,"±× ¾Æ(¿©ÀÚ)´Â PRBCs 4À¯´ÖÇÏ°í NS 3¸®ÅÍ·Î ¿ë·® º¹¿øÀ» ¹Þ¾Ò½É´õ. Âü°í: PRBCs´Â 'Packed Red Blood Cells'ÀÇ ¾àÀÚ·Î, ³óÃàµÈ ÀûÇ÷±¸¸¦ ¸»ÇÏ°í, NS´Â 'Normal Saline'ÀÇ ¾àÀÚ·Î, Á¤»ó »ý¸®½Ä¿°¼ö¸¦ ¸»ÇÏ´Â±é´Ï´õ.",±× ¾Æ(¿©ÀÚ)´Â ÀúÇ÷¾ÐÀÌ ÀÖ½É´õ.
+,È¯ÀÚ´Â ÇÇ ³¯ ¶§ È¥¼ö »óÅÂ¿¡´Ù ¹ÝÀÀµµ ¾ø¾ú´ø °É·Î È®ÀÎµÆ½É´õ.,È¯ÀÚÇÑÅ× ³ú³»ÃâÇ÷ÀÌ ¹ß»ýÇß½É´õ.
+,È¯ÀÚ´Â ÇÇ ³¯ ¶§ È¥¼ö »óÅÂ¿¡´Ù ¹ÝÀÀµµ ¾ø¾ú´ø °É·Î È®ÀÎµÆ½É´õ.,È¯ÀÚ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,È¯ÀÚ´Â ÇÇ Èê¸± ¶§ È¥¼ö »óÅÂ°í ¹ÝÀÀµµ ¾ø¾ú´Ù´Â±â È®ÀÎµÆ½É´Ï´õ.,È¯ÀÚ CT ¿µ»óÀÌ ºñÁ¤»óÀÔ´Ï´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 35912**]Àº ¿©µç³× »ì ³²ÀÚ·Î, 10³â Àü¿¡ Áø´Ü¹ÞÀº Claudication(Àý¶Ò°Å¸²) Áõ»óÀ» º¸ÀÌ´Â ¸»ÃÊÇ÷°üÁúÈ¯(PVD) °ú°Å·ÂÀÌ ÀÖ½É´Ï´õ. ¿ä ¸çÄ¥ µ¿¾È °È´Â ´É·ÂÀÌ ÁÙ¾ú´Ù´Â °É ¾Ë¾ÆÃ«´ÙÄ°´Ï´õ.",È¯ÀÚ Àý¶Ò°Å¸®´Â Áõ»óÀÌ ´õ ³ªºüÁö°í ÀÖ½É´Ï´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 35912**]Àº ¿©µç³× »ì ³²ÀÚ·Î, 10³â Àü¿¡ Áø´ÜµÈ µ¿Åë Áõ»óÀ» º¸ÀÌ´Â ¸»ÃÊÇ÷°üÁúÈ¯(PVD) °ú°Å·ÂÀÌ ÀÖ½É´Ï´õ. ¿ä ¸çÄ¥ µ¿¾È °È´Â ´É·ÂÀÌ ÁÙ¾ú´Ù´Â °É ¾Ë°Ô µÆ´ÙÄ°´Ï´õ.",È¯ÀÚ´Â °È´Â µ¥ ¾Æ¹« ¹®Á¦ ¾ø½É´Ï´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 35912**]Àº ¿©µç³× »ì ³²ÀÚ·Î, 10³â Àü¿¡ Áø´ÜµÈ µ¿ÅëÀ» Áõ»óÀ¸·Î º¸ÀÌ´Â ¸»ÃÊÇ÷°üÁúÈ¯(PVD) °ú°Å·ÂÀÌ ÀÖ½É´Ï´õ. ÃÖ±Ù ¸çÄ¥ µ¿¾È °È´Â ´É·ÂÀÌ ÁÙ¾ú´Ù´Â °É ¾Ë°Ô µÆ´ÙÄ°´Ï´õ.",È¯ÀÚ´Â Ç÷ÀüÀÌ »ý±ä µ¿¸ÆÀ» °®°í ÀÖ½É´Ï´õ.
+,"±× ÀÔ¿ø ±â°£ µ¿¾È ¿µ»ó Áø´Ü¿¡¼­ ¿ÞÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿ÏÀüÇÑ Æó¼â¶û ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿øÀ§ºÎ °¡Áö°¡ ³ªÅ¸³µ½É´Ï´õ. ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿øÀ§ºÎ¶û ÁÖ¿ä Æ÷ÅÐ Á¤¸ÆÀº Åë·Î°¡ ¿­·Á ÀÖ¾ú°í, TIPS(°æÁ¤¸Æ°£ »þ¿îÆ®)µµ ¿­·Á ÀÖ¾ú°í ÀûÀýÇÏ°Ô °­È­µÇ¾ú½É´Ï´õ.",È¯ÀÚ´Â °£ ÁúÈ¯ÀÌ ÀÖ½É´Ï´õ.
+,"±× ÀÔ¿ø ±â°£ µ¿¾È ¿µ»ó Áø´Ü¿¡¼­ ¿ÞÂÊ Æ÷Å» Á¤¸ÆÀÌ ¿ÏÀüÈ÷ ¸·Èù °Å¶û ¿À¸¥ÂÊ Æ÷Å» Á¤¸Æ ¿øÀ§ºÎ °¡Áö°¡ È®ÀÎµÇ¾ú½É´Ï´õ. ¿øÀ§ºÎ ¿À¸¥ÂÊ Æ÷Å» Á¤¸ÆÀÌ¶û ÁÖ¿ä Æ÷Å» Á¤¸ÆÀº Åë·Î°¡ È®º¸µÅ ÀÖ¾ú°í, TIPS(°æÁ¤¸Æ°£ »þ¿îÆ®)µµ Åë·Î°¡ È®º¸µÅ¼­ ÀûÀýÇÏ°Ô °­Á¶µÇ¾ú½É´Ï´õ.",È¯ÀÚ °£ ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,"±× ÀÔ¿ø ±â°£ µ¿¾È ¿µ»ó Áø´Ü °á°ú, ¿ÞÂÊ Æ÷ÅÐ Á¤¸ÆÀÌ¶û ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ¿øÀ§ ºÐÁö´Â ¿ÏÀüÈ÷ ¸·Çô ÀÖ¾ú½É´Ï´õ. ¹Ý¸é¿¡ ¿À¸¥ÂÊ Æ÷ÅÐ Á¤¸ÆÀÇ ±ÙÀ§ ºÎºÐÀÌ¶û ÁÖ Æ÷ÅÐ Á¤¸ÆÀº Åë·Î°¡ ¿­·ÁÀÖ¾ú°í, TIPS(°æÁ¤¸Æ°£ »þ¿îÆ®)´Â Á¦´ë·Î ¿­·Á ÀÖ¾î°¡ ÀûÀýÈ÷ °­Á¶µÇ¾ú½É´Ï´õ.",¾ËÄÚ¿Ã ³²¿ë ÀÌ·Â ÀÖÀ½
+,"±×´Â [**Location (un) 18**] ¿ÜºÎ º´¿ø¿¡¼­ 2¸®ÅÍ Á¤»ó »ïÅõ¾Ð »ý¸®½Ä¿°¼ö, Æ¼¾Æ¹Î, ¿±»ê, Á¾ÇÕºñÅ¸¹Î, Ä«ÀÌ¿¢¼¿·¹ÀÌÆ®, ¿°È­Ä®½·, ÀÎ½¶¸°, ±×¸®°í ¹ÙÀÌÄ«º¸³×ÀÌÆ®¸¦ Åõ¿©¹Þ¾Ò½É´Ï´õ.",È¯ÀÚ´Â »êÁõ »óÅÂ¿´½É´Ï´õ.
+,"±×´Â [**Location (un) 18**] ¿ÜºÎ º´¿ø¿¡¼­ 2¸®ÅÍ Á¤»ó »ì¸°¼ö, Æ¼¾Æ¹Î, ¿±»ê, Á¾ÇÕºñÅ¸¹Î, Kayexalate, ¿°È­Ä®½·, ÀÎ½¶¸°, ±×¸®°í ¹ÙÀÌÄ«ºê¸¦ Åõ¿©¹Þ¾Ò½É´Ï´õ.",È¯ÀÚ´Â ¼ú ¸¶½Å Àû ¾ø´ÙÄ°´Ï´õ.
+,"±×´Â [**Location (un) 18**] ¿ÜºÎ º´¿ø¿¡¼­ 2¸®ÅÍ Á¤»ó »ì¸°, Æ¼¾Æ¹Î, ¿±»ê, Á¾ÇÕºñÅ¸¹Î, Kayexalate, ¿°È­Ä®½·, ÀÎ½¶¸°, ±×¸®°í ¹ÙÀÌÄ«ºê¸¦ Åõ¿©¹Þ¾Ò½É´Ï´õ.",È¯ÀÚ´Â ¾ËÄÚ¿Ã Áßµ¶ÀÔ´Ï´õ.
+,È¯ÀÚ´Â ÇöÀå¿¡¼­ Æ©ºê»ð°üÀ» ¹Þ¾Ò½É´Ï´õ.,È¯ÀÚ°¡ È£Èí¿ë Æ©ºê¸¦ ¹Þ¾Ò½É´Ï´õ.
+,È¯ÀÚ´Â ÇöÀå¿¡¼­ Æ©ºê»ð°üÀ» ¹Þ¾Ò½É´Ï´õ.,È¯ÀÚ´Â È£Èí Áö¿øÀÌ ÇÊ¿ä ¾ø¾ú½É´Ï´õ.
+,È¯ÀÚ´Â ÇöÀå¿¡¼­ Æ©ºê»ð°üÀ» ¹Þ¾Ò½É´Ï´õ.,È¯ÀÚ´Â È£Èí ºÎÀü »óÅÂ¿´½É´Ï´õ.
+,±× ¿©ÀÚ´Â ÀÔ¸Àµµ ¾ø°í Àáµµ Àß ¸ø ÀÜ´ÙÄº½É´Ï´õ.,È¯ÀÚ°¡ ÀáÀ» Àß ¸ø ÀÚ°í ÀÖ½É´Ï´õ.
+,±× ¿©ÀÚ´Â ÀÔ¸Àµµ ¾ø°í Àáµµ Àß ¸ø ÀÜ´Ù°í ¸»Çß½É´Ï´õ.,È¯ÀÚ´Â ¾îµð ºÒÆíÇÏ´Ù´Â ¸»Àº ¾È Çß½É´Ï´õ.
+,±× ¿©ÀÚ´Â ÀÔ¸Àµµ ¾ø°í Àáµµ Àß ¸ø ÀÜ´Ù°í ¸»Çß½É´Ï´õ.,È¯ÀÚ°¡ ¸öÀÌ °è¼Ó ¾ÆÆÍ´ÙÄ°´Ï´õ.
+,´ÙÀ½Àº °£´ÜÇÏ°Ô ¿ä¾àÇÑ Åð¿ø ¿ä¾à¼­¸¦ °ËÅäÇÑ ³»¿ëÀÔ´Ï´õ.,È¯ÀÚ°¡ ÀÔ¿øÇß½É´Ï´õ.
+,´ÙÀ½Àº °£´ÜÇÏ°Ô ¿ä¾àµÈ Åð¿ø ¿ä¾à¼­¸¦ °ËÅäÇÑ ³»¿ëÀÔ´Ï´õ.,È¯ÀÚ´Â ÀÔ¿ø ¾È Çß½É´Ï´õ.
+,"""Åð¿ø ¿ä¾à¼­¸¦ °ËÅäÇß°í, ¾Æ·¡¿¡ °£´ÜÇÏ°Ô ¿ä¾àÇß½É´Ï´õ.""",È¯ÀÚ´Â ±Þ¼º °ü»óµ¿¸Æ ÁõÈÄ±ºÀ¸·Î ÀÔ¿øÇß½É´Ï´õ.
+,°ú°Å ÀÇ·á ÀÌ·Â: [**12-19**]¿¡ Æ®¶óÅ°¿À½ºÅä¹Ì »ðÀÔÀÌ ÁÖ¿ä »çÇ×À¸·Î ±â·ÏµÅ ÀÖ½É´Ï´õ.,È¯ÀÚÇÑÅ× Æ®¶óÅ°¿À½ºÅä¹Ì°¡ ½Ç½ÃµÆ½É´Ï´õ.
+,°ú°Å ÀÇ·á ÀÌ·Â: [**12-19**]¿¡ Æ®¶óÅ°¿À½ºÅä¹Ì »ðÀÔÀ» Çß´Â °É·Î Áß¿äÇÏ°Ô ÀûÇôÀÖ½É´Ï´õ.,È¯ÀÚ È£Èí ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,°ú°Å ÀÇ·á ÀÌ·Â: [**12-19**]¿¡ Æ®¶óÅ°¿À½ºÅä¹Ì »ðÀÔÀ» Çß´Â °É·Î Áß¿äÇÏ°Ô ÀûÇôÀÖ½É´Ï´õ.,È¯ÀÚ´Â ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD)À» ¾Î°í ÀÖ½É´Ï´õ.
+,¿À´Ã ±×ºÐÀº ÇÏµµ ±â¿îÀÌ ŸÁ¾î°¡ Ä§´ë¿¡¼­ ÀÏ³¯ ¼ö°¡ ŸÁ¾ú½É´Ï´õ.,±×ºÐÀº °ÈÁö¸¦ ¸óÇß½É´Ï´õ.
+,¿À´Ã ±×ºÐÀº ÇÏµµ ±â¿îÀÌ ŸÁ¾î°¡ Ä§´ë¿¡¼­ ¸ó ÀÏ³µ½É´Ï´õ.,±×ºÐÀº °ÉÀ» ¼ö ÀÖ½É´Ï´õ.
+,¿À´Ã ±×ºÐÀº ÇÏµµ ±â¿îÀÌ ŸÁ¾î°¡ Ä§´ë¿¡¼­ ¸ó ÀÏ³µ½É´Ï´õ.,±×ºÐÀº ÅäÇÏ°í ¼ÓÀÌ ¹Ì½Ã²¨¿î Áõ»óÀÌ ÀÖ½É´Ï´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 11376**]Àº »ó³ÉÇÑ 73¼¼ ÇÒ¸ÅÀÎµ¥, Àü±Ø ÀÖ´Â ½ÉÀå ¹ØÆÇÆÇ ´ëÃ¼ ¼ö¼úÇÏ°í °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼ú ¹ÞÀ»¶ó²¿ ¼ö¼ú Àü¿¡ ¿À¼Ì½É´Ï´õ.",È¯ÀÚ´Â °ü»óµ¿¸ÆÁúÈ¯(CAD)À» ¾Î°í ÀÖ½É´Ï´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 11376**]Àº »ó³ÉÇÑ 73¼¼ ÇÒ¸ÅÀÎµ¥, Àü±Ø ½á°¡ ´ëµ¿¸ÆÆÇ¸· ¹Ù²Ù´Â ¼ö¼úÀÌ¶û °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼ú ¹ÞÀ»¶ó²¿ ¼ö¼ú Àü¿¡ º´¿ø¿¡ ¿Ô½É´Ï´õ.",È¯ÀÚ´Â ¿¹Àü¿¡ ¼ö¼úÇÑ ÀûÀÌ ŸÁ½É´Ï´õ.
+,"[**È®ÀÎµÈ È¯ÀÚ ¼º 11376**]Àº ¾ï¼ö·Î »ó³ÉÇÑ 73¼¼ ÇÒ¸ÅÀÎµ¥, Àü±ØÀ¸·Î ½ÉÀå ¹ÌÆ®¶öÆÇ¸· ¹Ù²Ù´Â ¼ö¼úÀÌ¶û °ü»óµ¿¸Æ ¿ìÈ¸ ÀÌ½Ä ¼ö¼úÀ» °°ÀÌ ¹ÞÀ»¶ó²¿ ¼ö¼ú Àü¿¡ ¿À¼Ì½É´Ï´õ.",È¯ÀÚ´Â ¸»ÃÊµ¿¸ÆÁúÈ¯ÀÌ ÀÖ½É´Ï´õ.
+,"±× ¾ÆÁö¸Å ³²ÆíÀÌ ÇÏ·ç¿¡ ÃÖ¼Ò ÇÑ¹øÀº ÅäÇÏ´Â °É ºÃ´ÙÄ«´Âµ¥, ±×±â ÇÇÅäÀÎÁö´Â Àß ¸ð¸£°Ú´Ù Ä°µð´Ù.",±× ¾ç¹ÝÀº ¿ä»õ ÅäÇÏ°í ÀÖ½É´Ï´õ.
+,"±× ¾ÆÁö¸Å ³²ÆíÀÌ ÇÏ·ç¿¡ ÃÖ¼Ò ÇÑ¹øÀº ÅäÇß´Ù²¿ ¸»Çß´Âµ¥, ±×±â ÇÇÅäÀÎÁö´Â È®½ÇÇÏÁö´Â ¾Ê´Ù Ä°µð´Ù.",±× ¾ç¹ÝÀº ÅäÇÏ´Â Áõ»óÀº ŸÁ¾ú½É´Ï´õ.
+,"±× ¾ÆÁö¸Å ³²ÆíÀÌ ÇÏ·ç¿¡ ÃÖ¼Ò ÇÑ¹øÀº ÅäÇÏ´Â °É ºÃ´ÙÄ«´Âµ¥, ±×±â ÇÇÅäÀÎÁö´Â Àß ¸ð¸£°Ú´Ù Ä°µð´Ù.",±× ¾ç¹ÝÀº »óºÎ À§Àå°ü ÃâÇ÷À» °Þ°í ÀÖ½É´Ï´õ.
+,±×ºÐÀº ÀÌ¹ø¿¡ ½ÉÀåÀÌ ¸Ü±â Àü±îÁö´Â Àß Áö³»´Â °Í °°¾Ò½É´Ï´õ.,È¯ÀÚ°¡ ½ÉÀå¸¶ºñ°¡ ¿Ô¾ú½É´Ï´õ.
+,±×ºÐÀº ½ÉÀåÀÌ ¸Ü´Â ÀÏÀÌ ÀÖ±â Àü±îÁö´Â Àß Áö³»´Â °Í °°¾Ò½É´Ï´õ.,È¯ÀÚ´Â ½ÉÀå¸¶ºñ°¡ ¿Â ÀûÀÌ ŸÁ½É´Ï´õ.
+,±×ºÐÀº ½ÉÀåÀÌ ¸Ü´Â ÀÏÀÌ ÀÖ±â Àü±îÁö´Â Àß Áö³»´Â °Í °°¾Ò½É´Ï´õ.,È¯ÀÚ´Â ³ú»ê¼ÒºÎÁ·ÁõÀ¸·Î ³ú¼Õ»óÀ» ÀÔ¾ú½É´Ï´õ.
+,"±× ¾ç¹ÝÀº °¡½¿ ¾ÆÇÂ °Å, ¼û Âù °Å, ¿îµ¿ÇÒ ¶§ ¼û ¸·È÷´Â °Å³ª ±âÀýÇÏ´Â °Ç ŸÁ´Ù Ä°´Ï´õ.",È¯ÀÚ ROS(Review of Systems) °á°ú´Â À½¼ºÀÔ´Ï´õ.
+,"±× ¾ç¹ÝÀº °¡½¿ ¾ÆÇÂ °Å, ¼û Âù °Å, ¿îµ¿ÇÒ ¶§ ¼û ¸·È÷´Â °Å³ª ±âÀýÇÑ ÀûÀº ŸÁ´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Çù½ÉÁõÀ» ¾Î°í ÀÖ½É´Ï´õ.
+,"±× ¾ç¹ÝÀº °¡½¿ ¾ÆÇÂ °Å, ¼û Âù °Å, ¿îµ¿ÇÒ ¶§ ¼û ¸·È÷´Â °Å, ¾Æ´Ô ±âÀýÇÑ ÀûÀº ŸÁ´Ù Ä°´Ï´õ.",È¯ÀÚ ½ÅÃ¼ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"±× ¾ç¹ÝÀÌ ¶Ç ""¾îÁö·´´Ù""°íµµ Äº´Âµ¥, ±×°Ô ¾î¶»³Ä°í ÀÚ¼¼È÷ ¹°¾îº¸ÀÌ±î °¡²û¾¿ ±âÀýÇÒ °Í ¸ÍÅ°·Î ÇÎ µ¹¾Ò´Ù²¿ Äº½É´Ï´õ.",È¯ÀÚ´Â ¾îÁö·¯¿ü´Ù Ä°´Ï´õ.
+,"±× ¾ç¹ÝÀÌ ¶Ç ""¾îÁö·´´Ù""°íµµ Äº´Âµ¥, ÀÚ¼¼È÷ ¸»ÇØ´Þ¶óÄ«ÀÌ±î °¡²û¾¿ ±âÀýÇÒ °Í °°Àº ¾îÁö·³ÁõÀ» ´À²¼´Ù²¿ Äº½É´Ï´õ.",È¯ÀÚ´Â ¾îÁö·¯¿î °Ç ŸÁ´Ù Ä°´Ï´õ.
+,"±× ¾ç¹ÝÀÌ ¶Ç ""¾îÁö·´´Ù""°íµµ Äº´Âµ¥, ÀÚ¼¼È÷ ¸»ÇØ´Þ¶óÄ«ÀÌ±î °¡²û¾¿ ±âÀýÇÒ °Í °°Àº ¾îÁö·³ÁõÀ» ´À²¼´Ù²¿ Äº½É´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷´çÀÔ´Ï´õ.
+,"¾î¹«ÀÌ´Â ¼ö¼úÇÏ±â Àü±îÁö ¾Æ ³ºÀ»¶óÄ«´Â ³¦»õ³ª Áõ»ó, ¾ç¼ö ÅÍÁö°Å³ª ¹è ¹¶Ä¡´Â ±â ÇÏ³ªµµ ¾ø¾ú¾î¿¹.",¾î¹«ÀÌ´Â ¼ö¼úÇØ°¡ ¾Æ¸¦ ³º¾Ò¾î¿¹.
+,"¾î¹«ÀÌ´Â ¼ö¼ú Àü¿¡ ¾Æ ³ºÀ»¶óÄ«´Â ³¦»õ³ª Áõ»ó, ¾ç¼ö ÅÍÁö°Å³ª ¹è ¹¶Ä¡´Â ±â ÇÏ³ªµµ ¾ø¾ú¾î¿¹.",¾î¹«ÀÌ°¡ ¾Æ ³º´Â ÁßÀÌ¾ú¾î¿¹.
+,"¾î¹«ÀÌ´Â ¼ö¼ú Àü¿¡ ¾Æ¹«·± ¾Æ ³ºÀ»¶óÄ«´Â ³¦»õ³ª Áõ»ó, ¾ç¼ö ÅÍÁö°Å³ª ¹è ¹¶Ä¡´Â ±â ¾ø¾ú¾î¿¹.",±× ¾ÆÁö¸Å´Â ´Þ Ã¤¾Æ°¡ ¾Æ¸¦ ³º¾Ò¾î¿¹.
+,"È¯ÀÚ´Â Áö±Ý °ü »©°í ÁøÁ¤Á¦ ²÷Àº »óÅÂ°í, ´õ ÀÚ¼¼ÇÑ Á¤º¸¸¦ ¾Ë·ÁÁá¾î¿¹.",±× È¯ÀÚ´Â ¿¹Àü¿¡ ¼û ½¬´Â °Å µµ¿ÍÁÖ´Â±â ÇÊ¿äÇß¾î¿¹.
+,"È¯ÀÚ´Â Áö±Ý ¸ñ¿¡ ³¤ °ü »©°í ÁøÁ¤Á¦ ²÷Àº »óÅÂ°í, ´õ ÀÚ¼¼ÇÑ Á¤º¸¸¦ ¾Ë·ÁÁá¾î¿¹.",È¯ÀÚ´Â ÇÑ¹øµµ °ü ²ÅÀº ÀûÀÌ ¾ø¾î¿¹.
+,"È¯ÀÚ´Â Áö±Ý °ü »©°í ÁøÁ¤Á¦ ²÷Àº »óÅÂ°í, ´õ ÀÚ¼¼ÇÑ Á¤º¸¸¦ ¾Ë·ÁÁá¾î¿¹.",È¯ÀÚ°¡ ´ÙÃÆ¾î¿¹.
+,ÀÓ½ÅÀÌ ÇÑ 18ÁÖÂë µÆÀ» ¶§ ÇÑ ¾Æ °Ë»ç¿¡¼­ ³ú¼ö¸· ¾ø´Â °É ¾Ë°Ô µÇ°¡ ±î´Ù·Î¿öÁ³¾î¿¹.,¹î¼Ó ¾Æ Å©´Â±â Á¤»óÀÌ ¾Æ´Ï¾ú¾î¿¹.
+,ÀÓ½ÅÀÌ ÇÑ 18ÁÖÂë µÆÀ» ¶§ ¹î¼Ó ¾Æ°¡ ÅÂ¾î³¯ ¶§ºÎÅÍ ³ú½ÇÁúÀÌ ¾ø´Ù´Â Áø´ÜÀ» ¹Þ¾Æ°¡ ±î´Ù·Î¿öÁ³¾î¿¹.,ÀÓ½ÅÀº º°ÀÏ ¾ø¾ú¾î¿¹.
+,ÀÓ½ÅÀÌ ÇÑ 18ÁÖÂë µÆÀ» ¶§ ÇÑ ¾Æ °Ë»ç¿¡¼­ ³ú¼ö¸·ÀÌ ¸ðÀÚ¶õ ±â ¹ß°ßµÇ°¡ ±î´Ù·Î¿öÁ³¾î¿¹.,¹î¼Ó¿¡ ÀÖÀ» ¶§ µ¶¼Ò¿¡ ³ëÃâµÆÀ» °¡´É¼º.
+,"È¯ÀÚ´Â ¸µ°Å »©°í Ç÷°üÀ¸·Î ¶ó½Ä½º 10mgÂ¥¸® ÁÖ»ç ¼¼ ¹æ ¸Â°í, ¿ÀÁÜÀ» 500cc ´³¾î¿¹.",È¯ÀÚ ÄáÆÏÀº ¸ÖÂÄÇÕ´Ï´õ.
+,"È¯ÀÚ´Â ¸µ°Å »©°í Ç÷°üÀ¸·Î ¶ó½Ä½º 10mgÂ¥¸® ÁÖ»ç ¼¼ ¹æ ¸Â¾Ò°í, ±×·¡°¡ ¿ÀÁÜÀ» 500cc ´³¾î¿¹.",È¯ÀÚ ÄáÆÏÀÌ Á¦´ë·Î ÀÏÀ» ¾È ÇÕ´Ï´õ.
+,"È¯ÀÚ´Â ¸µ°Å »©°í Ç÷°ü ÁÖ»ç·Î ¶ó½Ä½º 10mgÂ¥¸® ¼¼ ¹æ ¸Â¾Ò°í, ±×·¡°¡ ¿ÀÁÜÀ» 500cc ´³¾î¿¹.",È¯ÀÚ°¡ ¸µ°Å¸¦ ³Ê¹« ¸¹ÀÌ ¸Â¾Ò¾î¿¹.
+,±×°Å´Â ¶Ç ¶¡ ¸¹ÀÌ ³ª´Â °Å¶û »ó°ü ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ¶¡À» Èê¸®°í ÀÖ¾î¿¹.
+,±×°Å´Â ¶Ç ¶¡ ¸¹ÀÌ ³ª´Â °Å¶û »ó°ü ÀÖ¾ú¾î¿¹.,È¯ÀÚ´Â ¶¡À» ¾Æ¿¹ ¾È Èê·Á¿¹.
+,±×°Å´Â ¶Ç ¶¡ ¸¹ÀÌ ³ª´Â °Å¶û »ó°ü ÀÖ¾ú¾î¿¹.,È¯ÀÚ°¡ ¿­ÀÌ ³ª°í ÀÖ¾î¿¹.
+,"È¯ÀÚ´Â [**1-31**] ³¯¿¡ ¼û Â÷°í, ¸¶¸¥±âÄ§ÇÏ°í, ¾É¾Æ¾ß ¼û ½¬±â ÆíÇÑ Áõ»óÀ¸·Î ´Ù¸¥ º´¿ø¿¡ ÀÔ¿øÇß¾î¿¹.",È¯ÀÚ°¡ Æó¿¡ ¹° Â÷´Â Áõ»óÀ» º¸ÀÌ°í ÀÖ¾î¿¹.
+,"È¯ÀÚ´Â [**1-31**] ³¯¿¡ ¼û Â÷°í, ¸¶¸¥±âÄ§ÇÏ°í, Àß ¶§ ¼û ¾È ½¬´Â Áõ»óÀ¸·Î ´Ù¸¥ º´¿ø¿¡ ÀÔ¿øÇß¾î¿¹.",È¯ÀÚ´Â Æó¿¡ ¹° Â÷´Â Áõ»óÀÌ ÇÏ³ªµµ ¾ø¾î¿¹.
+,"È¯ÀÚ´Â [**1-31**] ³¯¿¡ Èû ¾µ ¶§ ¼û Â÷°í, ¸¶¸¥±âÄ§ÇÏ°í, ¾É¾Æ¾ß ¼û ½¬±â ÆíÇÑ Áõ»óÀ¸·Î ´Ù¸¥ º´¿ø¿¡ ÀÔ¿øÇß¾î¿¹.",È¯ÀÚ´Â Æó¿¡ ¹°ÀÌ Ã¡¾î¿¹.
+,"±× ¿©ÀÚ´Â ½ÉÀå³»°ú [**Last Name (STitle) 295**] ¹Ú»çÇÑÅ×µµ Áø·á¸¦ ¹Þ¾Ò´Âµ¥, ±× ¹Ú»ç°¡ ½ÉÀå ½Â¸ðÆÇ ¹Ù²Ù´Â ¼ö¼úÀ» ¹ÞÀ¸¶ó°í Çß¾î¿¹.",È¯ÀÚÇÑÅ× ½Â¸ðÆÇ¿¡¼­ ÇÇ°¡ °Å²Ù·Î »õ°Å³ª Á¼¾ÆÁö´Â Áõ»óÀÌ º¸ÀÌ°í ÀÖ¾î¿¹.
+,"±× ¿©ÀÚ´Â ¶Ç ½ÉÀå³»°ú [**¼º (STitle) 295**] ¹Ú»çÇÑÅ×µµ Áø·á¸¦ ¹Þ¾Ò´Âµ¥, ±× ¹Ú»ç°¡ ½ÉÀå ¹Ù²Ù´Â ¼ö¼úÀ» ¹Þ¾Æ¾ß ÇÑ´Ù°í Çß¾î¿¹.",È¯ÀÚ´Â ¾Æ¹«·± Áõ»óµµ ¾ø¾î¿¹.
+,"±× ¿©ÀÚ´Â ½ÉÀå³»°ú [**¼º (STitle) 295**] ¹Ú»çÇÑÅ×µµ Áø·á¸¦ ¹Þ¾Ò´Âµ¥, ±× ÀÇ»ç°¡ ½ÉÀå Ä¡¾ÆÆÇ ´ëÃ¼ ¼ö¼úÀ» ¹Þ¾Æ¾ß ÇÑ´Ù²¿ Çß½É´õ.",È¯ÀÚ´Â ÆóºÎÁ¾ÀÌ ÀÖ½É´õ.
+,ÄÝ·Î½ºÅä¹Ì ÇÏ°í ³ª¼­ Áö±ÝÀº º¹¿øµÆ½É´õ.,È¯ÀÚ´Â ¿¹Àü¿¡ ´ëÀå·ç ¼ö¼ú ¹ÞÀº ÀûÀÌ ÀÖ½É´õ.
+,ÄÝ·Î½ºÅä¹Ì ÇÏ°í ³ª¼­ ÀÎÀÚ´Â º¹¿øµÆ½É´õ.,È¯ÀÚ´Â ¼ö¼úÇÑ ÀûÀÌ ¾ø½É´õ.
+,"ÄÝ·Î½ºÅä¹Ì ÇÏ°í ³ª¼­, ÀÎÀÚ´Â º¹¿øµÆÀ½.",È¯ÀÚ´Â ´ëÀå¾Ï ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"±× »ç¶÷ÀÌ ÀÚ±â ÁÖÄ¡ÀÇ º´¿ø¿¡ ÀüÈ­¸¦ Çß°í, °Å±â¼­ °Ë»ç¸¦ ¹Þ¾Æ º¸ÀÌ ÀÛÀºÃ¢ÀÚ°¡ ÅÍÁø±â ¹ß°ßµÆ½É´õ.",±× »ç¶÷Àº À§Àå°ü Ãµ°ø Áø´ÜÀ» ¹Þ¾Ò½É´õ.
+,"±× »ç¶÷ÀÌ ÀÚ±â ÁÖÄ¡ÀÇ º´¿ø¿¡ ÀüÈ­¸¦ Çß°í, °Å±â¼­ °Ë»ç¸¦ ¹Þ¾Ò´Âµ¥ ÀÛÀºÃ¢ÀÚ°¡ ÅÍÁø °É·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº ¼ÒÈ­±â ÂÊ¿¡´Â ¾Æ¹« ÀÌ»ó ¾ø´Â °É·Î È®ÀÎµÆ½É´õ.
+,"±× »ç¶÷ÀÌ ÀÚ±â ÁÖÄ¡ÀÇ º´¿ø¿¡ ÀüÈ­¸¦ Çß°í, °Å±â¼­ °Ë»ç¸¦ ¹Þ¾Æ º¸ÀÌ ÀÛÀºÃ¢ÀÚ°¡ ÅÍÁø °É·Î ³ª¿Ô½É´õ.",±× »ç¶÷Àº µð¹öÆ¼Å§¶óÀÌÆ¼½º¸¦ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"ºÐ¸¸ À¯µµ¸¦ ½ÃÀÛÇß°í, ºÐ¸¸Àº ÇÑ µÎ ½Ã°£ Àü¿¡ ¾ç¸·ÀÌ ÅÍÁö¸é¼­ Â÷Â÷ ÁøÇàµÆ½É´õ.",È¯ÀÚÇÑÅ× ºÐ¸¸ À¯µµ¸¦ Çß½É´õ.
+,"ºÐ¸¸ À¯µµ¸¦ ½ÃÀÛÇß°í, ÇÑ µÎ ½Ã°£ Àü¿¡ ¹è¶õ¸·ÀÌ ÅÍÁö°í ³ª¼­ ºÐ¸¸ÀÌ Â÷Â÷ ÁøÇàµÆ½É´õ.",È¯ÀÚ´Â Á¶»êÀ» Çß½É´õ.
+,"ºÐ¸¸ À¯µµ¸¦ ½ÃÀÛÇß°í, ÇÑ µÎ ½Ã°£ Àü¿¡ ¾ç¼ö°¡ ÅÍÁö¸é¼­ Â÷Â÷ ºÐ¸¸ÀÌ ÁøÇàµÆ½É´õ.",È¯ÀÚ´Â ÃÊ»êÀÌ¾ú½É´õ.
+,±× ¿©ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡´Â ÀÌ¼ÛÇÒ ¶§ 100Âë µÆ½É´õ.,È¯ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡°¡ Á¤»ó ¹üÀ§¿¡¼­ Á© ³·Àº ÂÊ¿¡ °ÉÃÄ ÀÖ½É´õ.
+,±× ¿©ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡´Â ÀÌ¼ÛÇÒ ¶§Âë 100 Á¤µµ µÆ½É´õ.,È¯ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡°¡ ¿Ã¶ú½É´õ.
+,±× ¿©ÀÚ Ç÷¼ÒÆÇ ¼öÄ¡´Â ÀÌ¼ÛÇÒ ¶§Âë 100 Á¤µµ µÆ½É´õ.,È¯ÀÚ´Â ÃâÇ÷ Àå¾Ö°¡ ÀÖ½É´õ.
+,"±× ¿©ÀÚ°¡ ±âÄ§ÇÏ°í ¸¶¸¥ ±¸¿ªÁúÀ» ÇÏ´õ´Ï, ±× µÚ·Î ¹è°¡ ¾öÃ» ¾ÆÇÁ±â ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ¹è°¡ ¾ï¼ö·Î ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"±× ¿©ÀÚ°¡ ±âÄ§ÇÏ°í ¸¶¸¥ ±¸¿ªÁúÀ» ÇÏ´õ´Ï, ±× µÚ·Î ¹è°¡ ¾öÃ» ¾ÆÇÁ±â ½ÃÀÛÇß½É´õ.",È¯ÀÚ´Â ¹è ¾È ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,"±× ¿©ÀÚ°¡ ±âÄ§À» ÇÏ°í ¸¶¸¥ ±¸¿ªÁúÀ» ÇÏ°í ³ª¼­, ¹è°¡ ¾ï¼ö·Î ¾ÆÇÁ±â ½ÃÀÛÇß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â Àå Æó»öÀÌ ÀÖ½É´õ.
+,CT Âï¾îº¸ÀÌ 4µî±Þ [** À§Ä¡ **] Âõ¾îÁø °Ô ÀÖ°í º¹°­ ÃâÇ÷ÀÌ »ý°å½É´õ.,È¯ÀÚ´Â º¹°­ ÃâÇ÷ÀÌ ÀÖ½É´õ.
+,CT °á°ú·Î´Â 4±â [** À§Ä¡ **]¿¡ Âõ¾îÁø »óÃ³¶û º¹°­ ÃâÇ÷ÀÌ º¸¿´½É´õ.,È¯ÀÚ CT °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,CT Âï¾îº¸ÀÌ 4µî±Þ [** À§Ä¡ **] Âõ¾îÁø °Ô ÀÖ°í º¹°­ ÃâÇ÷ÀÌ »ý°å½É´õ.,È¯ÀÚ´Â ±³Åë»ç°í°¡ ³µ½É´õ.
+,"±× ¿©ÀÚ Ç÷¾ÐÀº 191/120ÀÌ°í, ½É¹Ú¼ö´Â 102¿´½É´õ. ÀÏ¹Ý °ø±â¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 91%¿´´Âµ¥, 2¸®ÅÍ »ê¼Ò ¸¶½ºÅ©¸¦ ³¢ÀÌ 98%·Î ¿Ã¶ú½É´õ. ±×¸®°í ¿­Àº ¾ø¾ú½É´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´õ.
+,"±× È¯ÀÚ Ç÷¾ÐÀº 191/120ÀÌ¾ú°í, ½É¹Ú¼ö´Â 102¿´½É´õ. ·ë ¿¡¾î¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 91%¿´´Âµ¥, 2¸®ÅÍ »ê¼Ò Ä³´¼¶ó¸¦ ¾²´Ï±î 98%·Î ¿Ã¶ó°¬½É´õ. ±×¸®°í ¿­³ª´Â Áõ»óµµ ¾ø¾ú½É´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÔ´Ï´õ.
+,"±× È¯ÀÚ Ç÷¾ÐÀº 191/120ÀÌ¾ú°í, ½É¹Ú¼ö´Â 102¿´½É´õ. ·ë ¿¡¾î »óÅÂ¿¡¼­ »ê¼ÒÆ÷È­µµ´Â 91%¿´Áö¸¸, 2¸®ÅÍ »ê¼Ò ¸¶½ºÅ©¸¦ ³¢´Ï±î 98%·Î ¿Ã¶ó°¬½É´õ. ±×¸®°í ¿­³ª´Â Áõ»óÀº ¾ø¾ú½É´õ.",È¯ÀÚ´Â Æó ÁúÈ¯ÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ°¡ ÀÚ²Ù Á¹¾Æ¼­ º´·Â ÆÄ¾ÇÀÌ Á» Èûµçµ¥, ±× È¯ÀÚ ¸»·Î´Â ÇÑ 3ÀÏ Àü±îÁø ±¦Âú¾Ò´Ù°¡, Áý¾È ½ºÆ®·¹½º ¶«¿¡ ´Ù½Ã ¼ú ¸¶½Ã°í ÄÚÄ«ÀÎµµ ÇÏ±â ½ÃÀÛÇß´ÙÄ°´Ï´õ.",È¯ÀÚ°¡ ±â¿îÀÌ ÇÏ³ªµµ ¾ø´Â »óÅÂÀÔ´Ï´õ.
+,"È¯ÀÚ°¡ Á¹¾Æ¼­ º´·Â¿¡ ´ëÇÑ Á¤º¸°¡ Á» Á¦ÇÑÀûÀÎµ¥, ±× È¯ÀÚ ¸»·Î´Â ÇÑ 3ÀÏ Àü±îÁö´Â »óÅÂ°¡ ÁÁ¾Ò´ä´Ï´Ù. ±Ùµð Áý¾È ½ºÆ®·¹½º ¶«¿¡ ´Ù½Ã ¼ú ¹¬°í ÄÚÄ«ÀÎµµ ½ÃÀÛÇß´Ù Ä°´Ï´õ.",È¯ÀÚ´Â ¾àÀÌ³ª ¼ú ¾È Çß´Ù°í ÇÕ´Ï´õ.
+,"È¯ÀÚ°¡ Á¹¾Æ¼­ º´·Â ÆÄ¾ÇÀÌ Á» ¾î·ÆÁö¸¸, ±× È¯ÀÚ ¸»·Î´Â ÇÑ 3ÀÏ Àü±îÁø Àß Áö³»´Ù°¡ Áý¾È ½ºÆ®·¹½º ¶«¿¡ ´Ù½Ã ¼ú ¸¶½Ã°í ÄÚÄ«ÀÎµµ Çß´Ù°í ÇÕ´Ï´õ.",È¯ÀÚ°¡ Áßµ¶ »óÅÂÀÔ´Ï´õ.
+,"±× È¯ÀÚ´Â ÀÌÀü ÀÏµéÀº Àß ±â¾ï ¸óÇßÁö¸¸, °ü »Ì°í ³ª¼­´Â ÀÎÁö¶û ÁöÇâ·ÂÀÌ 3Á¡À¸·Î Æò°¡µÆ½É´õ.",±× È¯ÀÚ´Â ¿¹Àü¿¡ ÀÎ°øÈ£Èí ¶«¿¡ Æ©ºê¸¦ ³¢¿î ÀûÀÌ ÀÖ½É´õ.
+,"±× È¯ÀÚ´Â ÀÌÀü ÀÏ¿¡ ´ëÇØ ±â¾ïÀ» Àß ¸óÇßÁö¸¸, °ü »Ì°í ³ª¼­´Â °æ°¢¼ºÀÌ¶û Á¤-½Ã-Àå¼Ò Áö-ÀÎ½Ä(A&Ox3)Àº Á¤»óÀÌ¾ú½É´õ.",±× È¯ÀÚ´Â °ü »Ì°í ³ª¼­ Á¤½ÅÀ» ÀÒ¾ú½É´õ.
+,"±× È¯ÀÚ´Â ÀÌÀü ÀÏµéÀº Àß ±â¾ï ¸óÇßÁö¸¸, °ü »Ì°í ³ª¼­´Â ÀÎÁö¶û ÁöÇâ·ÂÀÌ 3Á¡À¸·Î Æò°¡µÆ½É´õ.",±× È¯ÀÚ´Â ¿¹Àü¿¡ Á¤½Å ÀÒÀº ÀûÀÌ ÀÖ½É´õ.
+,¸Ó¸® ´ÙÄ£ Àû ¾ø´Ù Ä¯.,¿¹Àü¿¡ ¸Ó¸® ´ÙÄ£ Àû ¾ø½É´õ.
+,¸Ó¸® ´ÙÄ£ Àû ¾ø´Ù Ä¯.,³úÁøÅÁ °ÞÀº Àû ÀÖÀ½.
+,¸Ó¸® ´ÙÄ£ Àû ¾ø´Ù°í ÇÕ´Ï´õ.,³Ñ¾îÁø Àû ¾øÀ½.
+,"°¨¿°¼º ÁúÈ¯: È¯ÀÚ º´ÀÌ ½É°¢ÇÏ°í ¾ö¸¶µµ ¿­ÀÌ ³µ¾ú°í, ÅÂ¸·¿°µµ °ÆÁ¤µÅ¼­, [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº ÆÐÇ÷ÁõÀ¸·Î º¸°í Ä¡·áÇß½É´õ.",È¯ÀÚ´Â Ç×»ýÁ¦·Î Ä¡·á¹Þ¾Ò½É´õ.
+,"°¨¿°¼º ÁúÈ¯: È¯ÀÚ º´ÀÌ ½É°¢ÇÏ°í ¾ö¸¶µµ ¿­ÀÌ ³µ¾ú°í, ÅÂ¸·¿°µµ °ÆÁ¤µÅ¼­, [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº ÆÐÇ÷ÁõÀ¸·Î º¸°í Ä¡·áÇß½É´õ.","""ÆÐÇ÷Áõ À§ÇèÀº ¾ø½É´õ."""
+,"°¨¿°¼º ÁúÈ¯: È¯ÀÚ º´ÀÌ ½É°¢ÇÏ°í ¾ö¸¶µµ ¿­ÀÌ ³µ¾ú°í, ÅÂ¸·¿°µµ °ÆÁ¤µÅ¼­, [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº ÆÐÇ÷ÁõÀ¸·Î º¸°í Ä¡·áÇß½É´õ.","""¾ö¸¶ÇÑÅ× °¨¿°ÀÌ ÀÖ¾ú½É´õ."""
+,±â°üÁö°æÀ¸·Î ÇÑ »ý°ËÀº Áø´Ü¿¡ µµ¿òÀÌ ¾È µÆ½É´õ.,È¯ÀÚÇÑÅ× ¹Ìµð¾î½ºÆ¼³Ñ Áú·®ÀÌ ÀÖ½É´õ.
+,±â°üÁö¸¦ ÅëÇØ ÇÑ »ý°ËÀº Áø´Ü¿¡ µµ¿òÀÌ ¾È µÆ½É´õ.,È¯ÀÚ CT °Ë»ç °á°ú´Â À½¼ºÀÔ´Ï´õ.
+,È¾´Ü±â°üÁö »ý°ËÀº Áø´Ü¿¡ µµ¿òÀÌ ¾È µÆ½É´õ.,È¯ÀÚÇÑÅ× Æó¿¡ È¤ÀÌ ÀÖ½É´õ.
+,±× È¯ÀÚ Æó ÁúÈ¯¸¸ °®°í´Â Áö±Ý °Þ°í ÀÖ´Â Áõ»óÀÌ ¾ó¸Å³ª ½ÉÇÑÁö ¼³¸íÇÏ±â ¾î·Æ´Ù°í ÆÇ´ÜµÆ½É´õ.,È¯ÀÚ°¡ ¼û½¬±â Èûµé¾î ÇÕ´Ï´õ.
+,±× È¯ÀÚ Æó ÁúÈ¯¸¸ °®°í´Â Áö±Ý °Þ°í ÀÖ´Â Áõ»óÀÌ ¾ó¸Å³ª ½ÉÇÑÁö ¼³¸íÇÏ±â ¾î·Æ´Ù°í ÆÇ´ÜµÆ½É´õ.,È¯ÀÚÇÑÅ×´Â ¿ø·¡ ¾Î´ø Æó ÁúÈ¯Àº ¾ø½É´õ.
+,±× È¯ÀÚ Æó ÁúÈ¯¸¸ °®°í´Â Áö±Ý °Þ°í ÀÖ´Â Áõ»óÀÌ ¾ó¸Å³ª ½ÉÇÑÁö ¼³¸íÇÏ±â ¾î·Æ´Ù°í ÆÇ´ÜµÆ½É´õ.,È¯ÀÚÇÑÅ× Æó»öÀüÁõÀÌ ÀÖ½É´õ.
+,"±× »ç¶÷Àº Àç¹ß¼º Çù½ÉÁõÇÏ°í ±àÁ¤ÀûÀÎ ¿îµ¿ºÎÇÏ °Ë»ç °á°ú ¶«¿¡ [**Month (only) 115**]¿¡ ´Ù½Ã ½ÉÀåÄ«Å×ÅÍ½Ç·Î ¿Å°ÜÁ³½É´õ. ÀÌ °Ë»ç¿¡¼­´Â 40-50%ÀÇ ÈÄ¹æÇÏ°­°ü, 30%ÀÇ ÁÂÃøÁÖ°ü, 60-70%ÀÇ ÁÂÀüÇÏ°­°ü, 50%ÀÇ ¼øÈ¯°ü, ±Û°í 60%ÀÇ ¸»ÃÊ¸·ºÎ µ¿¸Æ º´º¯ÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ´Â ´Ù¹ß¼º °ü»óµ¿¸Æ ÁúÈ¯À» °®°í ÀÖ½É´õ.
+,"±× »ç¶÷Àº Àç¹ß¼º Çù½ÉÁõÇÏ°í ±àÁ¤ÀûÀÎ ¿îµ¿ºÎÇÏ °Ë»ç ¶«¿¡ [**Month (only) 115**]¿¡ ´Ù½Ã ½ÉÀåÄ«Å×ÅÍ½Ç·Î ¿Å°ÜÁ³½É´õ. ÀÌ °Ë»ç¿¡¼­ 40-50%ÀÇ ÈÄ¹æÇÏ°­µ¿¸Æ(PDA), 30%ÀÇ ÁÂ½ÉÁÖµ¿¸Æ, 60-70%ÀÇ ÁÂÀüÇÏ°­µ¿¸Æ(LAD), 50%ÀÇ ¼øÈ¯µ¿¸Æ, ±Û°í 60%ÀÇ À¯¹®µ¿¸Æ(OM) º´º¯ÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ °ü»óµ¿¸ÆÀº Á¤»óÀÓ´Ï´õ.
+,"±× »ç¶÷Àº Àç¹ß¼º Çù½ÉÁõÇÏ°í ±àÁ¤ÀûÀÎ ¿îµ¿ºÎÇÏ °Ë»ç ¶«¿¡ [**Month (only) 115**]¿¡ ´Ù½Ã ½ÉÀå Ä«Å×ÅÍ½Ç·Î ¿Å°ÜÁ³½É´õ. ÀÌ °Ë»ç¿¡¼­ 40-50%ÀÇ ÈÄ´ëÇÏÇàµ¿¸Æ(PDA), 30%ÀÇ ÁÂ°ü»óµ¿¸Æ(main), 60-70%ÀÇ ÁÂÀüÇÏÇàµ¿¸Æ(LAD), 50%ÀÇ ¼øÈ¯µ¿¸Æ(circumflex), ±Û°í 60%ÀÇ À¯¹®µ¿¸Æ(OM) º´º¯ÀÌ ¹ß°ßµÆ½É´õ.",È¯ÀÚ ½ÉÀå Ãâ·ÂÀÌ °¨¼ÒÇß½É´õ.
+,"¿ì¿Í °°ÀÌ, ¸¸¼º ½ÅºÎÀüÁõ(CRI), À§½Äµµ ¿ª·ùÁúÈ¯(GERD), °íÇ÷¾Ð(HTN), °íÁöÇ÷Áõ, ½ÅÀå °á¼®(renal calculi)",È¯ÀÚ´Â ¿©·¯ ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½É´õ.
+,"¿ì¿Í °°ÀÌ, ¸¸¼º ½ÅºÎÀüÁõ(CRI), À§½Äµµ ¿ª·ù ÁúÈ¯(GERD), °íÇ÷¾Ð(HTN), °íÁöÇ÷Áõ, ½ÅÀå °á¼®(renal calculi)",È¯ÀÚ´Â º´·ÂÀÌ ¾ø½É´õ.
+,"¿ì¿Í °°ÀÌ, ¸¸¼º ½ÅºÎÀüÁõ(CRI), À§½Äµµ ¿ª·ùÁúÈ¯(GERD), °íÇ÷¾Ð(HTN), °íÁöÇ÷Áõ, ½ÅÀå °á¼®(renal calculi)",È¯ÀÚ°¡ Çã¸®°¡ ¾ÆÇÁ´Ù Ä¯´Ï´õ.
+,"ÀÌ È¯ÀÚ´Â ¿©µç¼¼ »ì ¿©¼ººÐÀÎµ¥, ¿ÞÂÊ ³»Ãø ¸»·¹¿Ã·ç½º¿¡ ¾È ³´´Â ±Ë¾çÀÌ ÀÖ½É´õ. Dr.[**Name (NI) 13252**] Å¬¸®´Ð ÅëÇØ¼­ ÀÔ¿øÇß°í¿¹, Ç÷°üÁ¶¿µ¼úÇÏ°í °¡´ÉÇÏ¸é Ç÷°ü¼ºÇü¼úÇÏ°í ½ºÅÙÆ® »ðÀÔ¼úÀ» °èÈ¹ÇÏ°í ÀÖ½É´õ.",È¯ÀÚ´Â ´Ù¸®¸¦ ´ÙÃÆ½É´õ.
+,"ÀÌ È¯ÀÚ´Â 83¼¼ ¿©¼ººÐÀÎµ¥, ¿ÞÂÊ ³»Ãø ¸»·¹¿Ã·ç½º¿¡ ¾È ³´´Â ±Ë¾çÀÌ ÀÖ½É´õ. Dr.[**Name (NI) 13252**] Å¬¸®´Ð ÅëÇØ¼­ ÀÔ¿øÇß°í¿¹, Ç÷°üÁ¶¿µ¼úÇÏ°í °¡´ÉÇÏ¸é Ç÷°ü¼ºÇü¼úÇÏ°í ½ºÅÙÆ® »ðÀÔÀÌ °èÈ¹µÅ ÀÖ½É´õ.",È¯ÀÚ´Â ½ÉÀå ÁúÈ¯ ¾ÎÀº ÀûÀÌ ¾ø½É´õ.
+,"ÀÌ È¯ÀÚ´Â 83¼¼ ¿©¼ººÐÀÎµ¥, ¿ÞÂÊ ³»Ãø ¸»·¹¿Ã·ç½º¿¡ ¾È ³´´Â ±Ë¾çÀÌ ÀÖ½É´õ. Dr.[**Name (NI) 13252**] Å¬¸®´Ð ÅëÇØ¼­ ÀÔ¿øÇß°í¿¹, Ç÷°üÁ¶¿µ¼úÇÏ°í °¡´ÉÇÏ¸é Ç÷°ü¼ºÇü¼úÇÏ°í ½ºÅÙÆ® »ðÀÔÀÌ °èÈ¹µÅ ÀÖ½É´õ.",È¯ÀÚ´Â ´ç´¢¸¦ ¾ÎÀº ÀûÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â ¸Þ·ÎÆä³Û, ¹ÝÄÚ¸¶ÀÌ½Å, ¾ÆÁîÆ®·¹¿À³²À» ÇÑ ºÐ Åõ¾à¹Þ¾Ò°í¿¹, Ãß°¡ Ä¡·á ¶«¿¡ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â ¿©·¯ °¡Áö Ç×»ýÁ¦¸¦ ¸Â¾Ò½É´õ.
+,"È¯ÀÚ´Â ¸Þ·ÎÆä³Û, ¹êÄÚ¸¶ÀÌ½Å, ¾ÆÁîÆ®·¹¿À³²À» ÇÑ ºÐ Åõ¾à¹Þ¾Ò°í¿¹, Ãß°¡ Ä¡·á ¶«¿¡ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â Ç×»ýÁ¦ ¸Â°í ³ª¼­ ÁýÀ¸·Î Åð¿øÇß½É´õ.
+,"È¯ÀÚ´Â ¸Þ·ÎÆä³Û, ¹ÝÄÚ¸¶ÀÌ½Å, ¾ÆÁîÆ®·¹¿À³²À» ÇÑ ºÐ Åõ¾à¹Þ¾Ò°í¿¹, Ãß°¡ Ä¡·á ¶«¿¡ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ.",È¯ÀÚ´Â ¸é¿ª±â´ÉÀÌ ¶³¾îÁ³½É´õ.
+,"ÇöÀç ÁúÈ¯ °ú°Å·Â: È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯, ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), °íÇ÷¾Ð, ³úÇ÷°ü »ç°í¸¦ ¾ÎÀº ÀûÀÌ ÀÖ´Â ÀÏÈç¾ÆÈ© »ì ¹éÀÎ ³²ÀÚºÐÀÓ´Ï´õ. ¸î ³â Àü¿¡ ³úÁ¹Áß ¾Î°í ³­ ÈÄ »óÅÂ¶ó Ä«´Â º¸°í°¡ ÀÖ¾ú½É´õ.",È¯ÀÚ´Â ¿©·¯ °¡Áö ÀÇ·á ¹®Á¦¸¦ °®°í ÀÖ½É´õ.
+,"ÇöÀç º´·Â: È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯, ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), °íÇ÷¾Ð, ³úÇ÷°ü »ç°í º´·ÂÀÌ ÀÖ´Â ÀÏÈç¾ÆÈ© »ì ¹éÀÎ ³²ÀÚºÐÀÌ°í¿¹, ¸î ³â Àü¿¡ ³úÁ¹Áß ¾Î°í ³­ ÈÄ »óÅÂ¶ó°í º¸°íÇß½É´õ.",È¯ÀÚ´Â ½ÉÀåÀÌ³ª Æó ÁúÈ¯Àº ¾ø½É´õ.
+,"ÇöÀç ÁúÈ¯ °ú°Å·Â: È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯, ¸¸¼ºÆó¼â¼ºÆóÁúÈ¯(COPD), °íÇ÷¾Ð, ³úÇ÷°ü »ç°í º´·ÂÀÌ ÀÖ´Â ÀÏÈç¾ÆÈ© »ì ¹éÀÎ ³²ÀÚºÐÀÓ´Ï´õ. ¸î ³â Àü¿¡ ³úÁ¹Áß ¾Î°í ³­ ÈÄ »óÅÂ¶ó Ä«´Â º¸°í°¡ ÀÖ½É´õ.",È¯ÀÚ´Â Áý¿¡¼­ »ê¼Ò Ä¡·á¸¦ ¹Þ°í ÀÖ½É´õ.
+,"ROS¿¡¼­, È¯ÀÚ°¡ ÃÖ±Ù ¸çÄ¥ µ¿¾È ¸î ºÐ ¼ÓÀÌ ¹Ì½»°Å¸®°í ÅäÇß´Ù²¿ º¸°íÇß½É´õ (ÇÇ´Â ¾øÀ½). HD¿¡ ¿ÀÇÑ Áõ»óÀÌ ÀÖ½É´õ.",È¯ÀÚ Ã¼¿ÂÀÌ ¿Ã¶ú½É´õ.
+,Æä¸®Ä«µð¾ó »ïÃâÀº ¾ø½É´õ.,Æä¸®Ä«µð¾ó °ø°£¿¡ ÀÌ»óÇÑ ¾×Ã¼°¡ ¸ðÀÎ °Ç ¾ø½É´õ.
+,Æä¸®Ä«µð¾ó »ïÃâÀº ¾ø½É´õ.,"¿µ»ó Áø´Ü °á°ú, ½É³¶ °­¿¡ À¯Ã¼°¡ ÀÖ´Â °É È®ÀÎÇß½É´õ."
+,Æä¸®Ä«µð¾ó »ïÃâÀº ¾ø½É´õ.,È¯ÀÚ´Â ¼û ½¬±â Èûµç °Ç ¾ø´Ù Ä¯´Ï´õ.
+,"³­¼Ò´Â Á¤»ó »óÅÂ -- Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸® ¹× PUD(Æíµµ¿°°ú À§±Ë¾ç) ¾ÎÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ AÇü °£¿° °É¸®°¡ º´¿ø Ä¡·á¹ÞÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ Æó·Å °É¸®°¡ º´¿ø Ä¡·á¹ÞÀº Àû ÀÖ½É´õ. -- Àü¿¡´Â ´ã¹è Æñ´Âµ¥, 30³â µ¿¾È ÇÇ´Ù°¡ [**2906**]³â¿¡ ²÷¾ú½É´õ.",È¯ÀÚ´Â ¿¹Àü¿¡ ´ã¹è¸¦ Æñ½É´õ.
+,"³­¼Ò´Â Á¤»óÀÌ°í¿¹. -- Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸®¶û ¼ÒÈ­¼º ±Ë¾ç ¾ÎÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ °£¿° A ¶«¿¡ ÀÔ¿øÇÑ Àû ÀÖ°í¿¹. -- Àþ¾úÀ» ¶§ Æó·Å ¶«¿¡ ÀÔ¿øÇÑ Àûµµ ÀÖ½É´õ. -- Àü¿¡´Â ´ã¹è Æñ´Âµ¥, 30ÆÑ³â Æñ°í [**2906**]³â¿¡ ²÷¾ú½É´õ.",È¯ÀÚ´Â ´ã¹è ÇÉ Àû ¾ø½É´õ.
+,"³­¼Ò´Â Á¤»óÀÌ°í¿¹. -- Çï¸®ÄÚ¹ÚÅÍ ÆÄÀÏ·Î¸®¶û À§±Ë¾ç ¾ÎÀº Àû ÀÖ½É´õ. -- Àþ¾úÀ» ¶§ °£¿° A ¶«¿¡ ÀÔ¿øÇÑ Àû ÀÖ°í¿¹. -- Àþ¾úÀ» ¶§ Æó·Å ¶«¿¡ ÀÔ¿øÇÑ Àûµµ ÀÖ½É´õ. -- Àü¿¡´Â ´ã¹è Æñ´Âµ¥, 30ÆÑ³âµ¿¾È Æñ°í [**2906**]³â¿¡ ²÷¾ú½É´õ.",È¯ÀÚ´Â Æó±âÁ¾¿¡ °É›½É´õ.
+,"¾Æ ½ÉÀå¹Úµ¿ º¸´Âµ¥¼­ ºÒ¾ÈÁ¤ÇÑ ÆÐÅÏÀÌ¶û º¯µ¿¼º °¨¼Ò, ±Û°í ÈÄ±â °¨¼ÓÀÌ º¸¿©°¡, »ê¸ð´Â ±ä±Þ Á¦¿ÕÀý°³ ¼ö¼ú·Î ¾Æ¸¦ ³º¾Ò½É´õ.",È¯ÀÚ´Â ¾Æ ½ÉÀå ¼Ò¸®°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
+,"¾Æ ½ÉÀå¹Úµ¿ º¸´Âµ¥¼­ ºÒ¾ÈÁ¤ÇÑ ÆÐÅÏÀÌ¶û º¯µ¿¼º °¨¼Ò, ±Û°í ´ÊÀº °¨¼ÓÀÌ ³ªÅ¸³ª°¡, ¾ö¸¶´Â ±ä±Þ Á¦¿ÕÀý°³ ¼ö¼ú·Î ¾Æ¸¦ ³º¾Ò½É´õ.",È¯ÀÚ´Â ¾Æ ½ÉÀå¹Úµ¿ ¼Ò¸®°¡ Á¤»óÀÔ´Ï´õ.
+,"¾Æ ½ÉÀå¹Úµ¿ º¸´Âµ¥¼­ ºÒ¾ÈÁ¤ÇÑ ÆÐÅÏÀÌ¶û º¯µ¿¼º °¨¼Ò, ±Û°í ÈÄ±â °¨¼ÓÀÌ º¸¿©°¡, ¾ö¸¶´Â ±ä±Þ Á¦¿ÕÀý°³ ¼ö¼ú·Î ¾Æ¸¦ ³º¾Ò½É´õ.",È¯ÀÚ´Â ´Þ ¸ø Ã¤¿ì°í ³ª¿Ô½É´õ.
+,"»êÀü ±â·Ï - ¸¸¼º °íÇ÷¾Ð ¶«¿¡ ÀÓ½ÅÀÌ ¼øÅºÂú¾Ò°í, ±ÛÄ³¼­ ¾Æ ³º±â 3ÀÏ Àü¿¡ ÀÔ¿øÇØ°¡, ±× µÚ¿¡ Á¦¿ÕÀý°³ ¼ö¼úÀ» ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ¾Æ °¡Á³À» ¶§ °íÇ÷¾ÐÀÌ ÀÖ¾ú½É´õ.
+,"»êÀü ±â·Ï - ¸¸¼º °íÇ÷¾Ð ¶«¿¡ ÀÓ½ÅÀÌ ¼øÅºÂú¾Ò´Âµ¥ ÀÓ½Å¼º °íÇ÷¾Ð±îÁö ½ÉÇØÁ®°¡, ¾Æ ³º±â 3ÀÏ Àü¿¡ ÀÔ¿øÇß°í ±× µÚ¿¡ Á¦¿ÕÀý°³ ¼ö¼úÀ» ¹Þ¾Ò½É´õ.",ÀÓ½ÅÀº º°ÀÏ ¾ø¾ú½É´õ.
+,"»êÀü ±â·Ï - ¸¸¼º °íÇ÷¾Ð ¶«¿¡ ÀÓ½ÅÀÌ ¼øÅºÂú¾Æ°¡ ¾Æ ³º±â 3ÀÏ Àü¿¡ ÀÔ¿øÇß°í, ¹Ù·Î Á¦¿ÕÀý°³ ¼ö¼úÀ» Çß½É´õ. ÀÓ½Å¼º °íÇ÷¾ÐÀÌ ½ÉÇØÁ³¾ú½É´õ.",È¯ÀÚ´Â ¾Æ °¡Á³À» ¶§ ´Ü¹é´¢°¡ ÀÖ¾ú½É´õ.
+,±× È¯ÀÚ´Â »óÅÂ ¾ÈÁ¤µÅ°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Å±â°í ÀÖ½É´õ.,È¯ÀÚ´Â ÁßÈ¯ÀÚ½Ç¿¡ ÀÖ¾ú½É´õ.
+,±× È¯ÀÚ´Â »óÅÂ ¾ÈÁ¤µÅ°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Å±â°í ÀÖ½É´õ.,È¯ÀÚ »óÅÂ°¡ ºÒ¾ÈÁ¤ÇÕ´Ï´õ.
+,±× È¯ÀÚ´Â »óÅÂ ¾ÈÁ¤µÅ°¡ ÀÏ¹Ý º´µ¿À¸·Î ¿Å±â°í ÀÖ½É´õ.,È¯ÀÚ´Â ÆÐÇ÷ÁõÀ» ¾Î°í ÀÖ¾ú½É´õ.
+,"±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡µµ ¼öÃà±â Ç÷¾ÐÀÌ °è¼Ó ³·¾Ò´Âµ¥, ÁýÀ¸·Î º¸³Â½É´õ.",½Ã¼ú µÚ¿¡ ¼öÃà±â Ç÷¾ÐÀÌ ³·¾Ò½É´õ.
+,"±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡µµ ¼öÃà±â Ç÷¾ÐÀÌ °è¼Ó ³·¾Ò´Âµ¥, ÁýÀ¸·Î º¸³Â½É´õ.",±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡ °íÇ÷¾ÐÀÌ¾ú½É´õ.
+,"±× È¯ÀÚ´Â ½Ã¼ú µÚ¿¡µµ ¼öÃà±â Ç÷¾ÐÀÌ °è¼Ó ³·¾Ò´Âµ¥, ÁýÀ¸·Î º¸³Â½É´õ.",È¯ÀÚ´Â ½Ã¼ú Áß¿¡ ÇÇ¸¦ Èê›½É´õ.
+,"È¯ÀÚ´Â Áö³­ 1³â µ¿¾È °ÉÀ½°ÉÀÌ°¡ Á¡Á¡ ºÒ¾ÈÁ¤ÇØÁ³°í, Á© ÃÖ±Ù¿¡´Â 3ÁÖ Àü¿¡ ³Ñ¾îÁø Àû ÀÖ½É´õ. »óÅÂ´Â º¯ÇÑ °Å ¾øÀÌ ¶È°°½É´õ.",È¯ÀÚ´Â ¿©·¯ ¹ø ³Ñ¾îÁø ÀûÀÌ ÀÖ½É´õ.
+,"È¯ÀÚ´Â Áö³­ 1³â µ¿¾È °ÉÀ½°ÉÀÌ°¡ Á¡Á¡ ºÒ¾ÈÁ¤ÇØÁ³°í, Á© ÃÖ±Ù¿¡´Â 3ÁÖ Àü¿¡ ³Ñ¾îÁø Àû ÀÖ½É´õ. »óÅÂ´Â º¯ÇÑ °Å ¾øÀÌ °è¼Ó ¶È°°½É´õ.",È¯ÀÚ °ÉÀ½°ÉÀÌ´Â Á¤»óÀÔ´Ï´õ.
+,"È¯ÀÚ´Â Áö³­ 1³â µ¿¾È °ÉÀ½°ÉÀÌ°¡ Á¡Á¡ ºÒ¾ÈÁ¤ÇØÁ³°í, 3ÁÖ Àü¿¡´Â ³Ñ¾îÁö±âµµ Çß½É´õ. »óÅÂ´Â Å©°Ô ³ª¾ÆÁø °Å ¾øÀÌ °è¼Ó ¶È°°½É´õ.",È¯ÀÚ´Â Á¤»ó¾Ð ¼öµÎÁõÀÌ ÀÖ½É´õ.
+,³ª) ½ÉÇ÷°ü: È¯ÀÚ Ç÷¾ÐÀº Á¤»ó ¹üÀ§¿¡¼­ ¾ÈÁ¤ÀûÀÌ¾ú½É´õ.,È¯ÀÚ´Â Á¤»ó Ç÷¾ÐÀ» À¯ÁöÇÏ°í ÀÖ½É´õ.
+,³ª) ½ÉÇ÷°ü: È¯ÀÚ Ç÷¾ÐÀº Á¤»ó ¹üÀ§¿¡¼­ ¾ÈÁ¤ÀûÀÌ¾ú½É´õ.,È¯ÀÚ´Â ÁöÄÑº¸´Â µ¿¾È ÀúÇ÷¾ÐÀÌ¾ú½É´õ.
+,³ª) ½ÉÇ÷°ü: È¯ÀÚ Ç÷¾ÐÀº Á¤»ó ¹üÀ§¿¡¼­ ¾ÈÁ¤ÀûÀ¸·Î À¯ÁöµÇ°í ÀÖ½É´õ.,È¯ÀÚ´Â Ç÷¾Ð ¿Ã¸®´Â ¾àÀº ¾È ¹¬°í ÀÖ½É´õ.
+,"[**State 53**]¿¡¼­ '³» °¡½É¿¡ Æ®·°ÀÌ ¾É¾ÆÀÖ´Â °Í °°´Ù'´Â ´À³¦ ¶«¿¡ ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß¾ú°í, Æ÷Å¸Ä³½º ³¡¿¡ ÇÇ¶±ÀÌ ¹ß°ßµÆ´Ù²¿ º¸°íµÆ½É´õ. ±× ¾ç¹ÝÀÌ ÀÌ°Å ¶«¿¡ ¾àÀ» ¹¬°í ÀÖ¾ú´Âµ¥, Áö±ÝÀº Ç×ÀÀ°íÁ¦´Â ¾È ¹¬°í ÀÖ½É´õ.",°¡½ÉÀÌ ¾ÆÇÁ´Ù²¿ Äº½É´õ.
+,"[**5-26**] ""[**State 53**]¿¡¼­ '³» °¡½É¿¡ Æ®·°ÀÌ ¾É¾ÆÀÖ´Â °Å °°´Ù'´Â ´À³¦ÀÌ¶û Æ÷Å¸Ä³½º ³¡¿¡ ÇÇ¶±ÀÌ ¹ß°ßµÅ°¡²¿ ÁßÈ¯ÀÚ½Ç·Î ÀÔ¿øÇß½É´õ. ÀÌ°Å ¶«¿¡ ¾àÀ» ¹¬°í ÀÖ¾ú´Âµ¥, Áö±ÝÀº Ç×ÀÀ°íÁ¦´Â ¾È ¹¬°í ÀÖ½É´õ.""",¾È ¾ÆÇÁ´Ù Ä¯.
+,"[**5-26**] ""[**State 53**]¿¡¼­ '³» °¡½É¿¡ Æ®·°ÀÌ ¾É¾ÆÀÖ´Â °Í °°´Ù'´Â ´À³¦ÀÌ¶û Æ÷Å¸Ä³½º ³¡¿¡ ÇÇ¶±ÀÌ ¹ß°ßµÅ°¡ ÁßÈ¯ÀÚ½Ç¿¡ ÀÔ¿øÇß½É´õ. ÀÌ°Å ¶«¿¡ ¾à¹° Ä¡·á¸¦ ¹Þ¾Ò´Âµ¥, Áö±ÝÀº Ç×ÀÀ°í Ä¡·á´Â ¾È ¹Þ°í ÀÖ½É´õ.""",¾Ï º´·ÂÀÌ ÀÖÀ½.
+,±×¶§ ±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´ëÅð°ñ°£ºÎ °ñÀý·Î Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚºÐÀÌ ´Ù¸®°¡ ¾ÆÇÁ´Ù Ä°´Ï´õ.
+,±×¶§ ±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´ëÅð°ñ°£ºÎ °ñÀý·Î Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚºÐÀº ¿¹Àü¿¡ »À »Ñ¶óÁø Àû ¾ø½É´õ.
+,±×¶§ ±× ¾ÆÁö¸Å´Â ¿ÞÂÊ ´ëÅð°ñ°£ºÎ °ñÀý·Î Áø´Ü¹Þ¾Ò½É´õ.,È¯ÀÚºÐ ¿µ»ó Áø´Ü °á°ú°¡ Á¤»óÀÌ ¾ÆÀÓ´Ï´õ.
+,"±× ¾ç¹ÝÀÌ ÇÏ·ç¿¡ ÃÖ´ë 5¹ø±îÁö ¹° °°Àº, ÇÇ ¾È ¼¯ÀÎ ¼³»ç¸¦ ÀÌ»ïÀÏ µ¿¾È Çß´Ù²¿ Ä°´Ï´õ.",È¯ÀÚºÐÀÌ ±Þ¼º Áõ»óÀ» º¸ÀÌ°í ÀÖ½É´õ.
+,±× ¾ç¹ÝÀÌ ÇÏ·ç¿¡ ÃÖ´ë 5¹ø±îÁö ¹° °°Àº ÇÇ ¾È ¼¯ÀÎ ¼³»ç¸¦ ÀÌ»ïÀÏ µ¿¾È Çß´Ù²¿ Ä°´Ï´õ.,È¯ÀÚºÐ ´ëÀå ±â´ÉÀº Á¤»óÀÔ´Ï´õ.
+,±× ¾ç¹ÝÀÌ ÇÏ·ç¿¡ ÃÖ´ë 5¹ø±îÁö ÀÌ»ïÀÏ µ¿¾È ¹±°í ÇÇ ¾È ¼¯ÀÎ ¼³»ç¸¦ ÇÑ´Ù²¿ Ä°´Ï´õ.,È¯ÀÚºÐÀÌ ´ëÀå¿°À» ¾Î°í ÀÖ½É´õ.
+,"±× µÚ·Î ±× ¾ç¹ÝÀÌ Çã¸®°¡ Á¡Á¡ ´õ ¾ÆÆÄ¿À´Âµ¥, °è´ÜÀ» ¿À¸£³»¸®°Å³ª µî ´ë°í ´©¿ì¸é ´õ ¾ÆÇÁ´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀÌ ½Å°æº´Áõ¼º ÅëÁõÀ» °Þ°í ÀÖ½É´õ.
+,"±× µÚ·Î ±× ¾ç¹ÝÀÌ Çã¸®°¡ Á¡Á¡ ´õ ¾ÆÆÄ¿À´Âµ¥, °è´ÜÀ» ¿À¸£³»¸®°Å³ª µî ´ë°í ´©¿ì´Â ±â ÅëÁõÀ» ´õ ½ÉÇÏ°Ô ÇÕ´Ï´õ.",È¯ÀÚºÐ ÅëÁõÀº °è´ÜÀ» ¿À¸£¸é ³ª¾ÆÁý´Ï´õ.
+,"±× µÚ·Î ±× ¾ç¹ÝÀÌ Çã¸®°¡ Á¡Á¡ ´õ ¾ÆÆÄ¿À´Âµ¥, °è´ÜÀ» ¿À¸£³»¸®°Å³ª µî ´ë°í ´©¿öÀÖÀ» ¶§ ´õ ¾ÆÇÁ´Ù Ä°´Ï´õ.",È¯ÀÚºÐÀÌ ¿äÃßºÎ¿¡ ÅðÇà¼º º¯È­¸¦ º¸ÀÌ°í ÀÖ½É´õ.
+,"ÁË¼ÛÇÕ´Ï´õ¸¸, ¹ø¿ªÇØ¾ß µÉ ¹®ÀåÀÌ ¾È µé¾î¿Ô´Âµ¥¿¹. ¹ø¿ªÇÒ ¹®ÀåÀ» ´Ù½Ã ÇÑ¹ø ¾Ë·ÁÁÖ½Ã¸é °í¸¿°Ú½É´õ.",½ÉÀåÀÌ ºÒ±ÔÄ¢ÇÏ°Ô ¶Ú´Ù²¿ Äº½É´õ.
+,"ÁË¼ÛÇÕ´Ï´õ¸¸, ¹ø¿ªÇÒ ¹®ÀåÀÌ ¾ø´Âµ¥¿¹. ´Ù½Ã ÇÑ¹ø ³Ö¾îÁÖ½Ã¸é °í¸¿°Ú½É´õ.",½ÉÀåÀÌ ºÒ±ÔÄ¢ÇÏ°Ô ¶Ù´Â °Å¿¡ ´ëÇØ ºÒ¸¸Àº ¾øÀ¸½Ã´Ù Ä°´Ï´õ.
+,"ÁË¼ÛÇÕ´Ï´õ¸¸, ¹ø¿ªÇÒ ¹®ÀåÀÌ ¾ø³×¿¹. ´Ù½Ã ÇÑ¹ø È®ÀÎÇØÁÖ½Ã¸é °í¸¿°Ú½É´õ.",½É¹æ¼¼µ¿ º´·ÂÀÌ ÀÖÀ½.
+,"¼ö¾×, ÀüÇØÁú ¹× ¿µ¾ç: [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº PE 30ÀÌ¶û ProMod PG·Î ¿ÏÀü ±Þ½ÄÀ» °è¼Ó Àß ¹Þ¾Æ¹¬°í ¸ö¹«°Ôµµ Àß ´Ã°í ÀÖ½É´õ.",È¯ÀÚºÐÀÌ ¿ÏÀü ±Þ½ÄÀ» Àß ¹Þ¾Æ¹¬°í ÀÖ½É´õ.
+,"¼ö¾×, ÀüÇØÁú ¹× ¿µ¾ç: [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº PE 30ÀÌ¶û ProMod PG¸¦ °°ÀÌ ½á°¡ ÀüÃ¼ ±Þ½ÄÀ» Àß ¹Þ¾Æ¹¬°í ¸ö¹«°Ôµµ Àß ´Ã°í ÀÖ½É´õ.",È¯ÀÚºÐ ¸ö¹«°Ô°¡ ÁÙ°í ÀÖ½É´õ.
+,"¼ö¾×, ÀüÇØÁú ¹× ¿µ¾ç: [**¾Ë·ÁÁø È¯ÀÚ ¼º**]Àº PE 30ÀÌ¶û ProMod PG¸¦ °°ÀÌ ½á°¡ ¿ÏÀü ±Þ½ÄÀ» °è¼Ó Àß ¹Þ¾Æ¹¬°í ¸ö¹«°Ôµµ Àß ´Ã°í ÀÖ½É´õ.",È¯ÀÚºÐÇÑÅ× G Æ©ºê°¡ ÀÖ½É´õ.
+,°ú°Å¿¡ ¼ÒÀå Æó»öÁõ(SBO)ÀÌ¶û ºÎºÐÀû ¼ÒÀå Æó»öÁõ ÀÌ·ÂÀÌ ÀÖÀ½.,¼ÒÀå Æó¼â °ú°Å·ÂÀÌ ÀÖÀ½.
+,°ú°Å¿¡ ¼ÒÀå Æó»öÁõ(SBO)ÀÌ¶û ºÎºÐÀû ¼ÒÀå Æó»öÁõÀÌ ÀÖ¾úÀ½.,¼ÒÀå ÁúÈ¯ °ú°Å·ÂÀº ¾ø½É´õ.
+,¿¹Àü¿¡ ¼ÒÀå Æó¼âÁõ(SBO)ÇÏ°í ºÎºÐÀûÀÎ ¼ÒÀå Æó¼âÁõÀÌ ÀÖ¾ú´ø º´·ÂÀÌ ÀÖ½É´Ï´õ.,¹è ¼ö¼úÇÑ ÀÌ·Â.
+,"±× ¿©ÀÚ°¡ ÀÔ¿øÇÑ ³¯, Ç÷¾ÐÀÌ ³·Àº °É ¾Ë°Ô µÆ½É´Ï´õ.",È¯ÀÚ´Â ÀúÇ÷¾ÐÀÌ ÀÖ½É´Ï´õ.
+,"±× ¿©ÀÚ°¡ ÀÔ¿øÇÑ ³¯, Ç÷¾ÐÀÌ ³·´Ù´Â »ç½ÇÀ» ¾Ë°Ô µÆ½É´Ï´õ.",È¯ÀÚ´Â °íÇ÷¾ÐÀÌ ÀÖ½É´Ï´õ.
+,"±× ¿©ÀÚ°¡ ÀÔ¿øÇÑ ³¯, Ç÷¾ÐÀÌ ³·Àº °É ¾Ë°Ô µÆ½É´Ï´õ.",È¯ÀÚ°¡ ¼îÅ© »óÅÂ¿¡ ºüÁ® ÀÖ½É´Ï´õ.
+,ÀÓ½ÅÀÌ ¿ä·Î °¨¿° µÎ ¹øÀÌ¶û Çì¸£Æä½º ´Ü¼ø¹ÙÀÌ·¯½º °¨¿°À¸·Î º¹ÀâÇØÁ³½É´Ï´õ.,±× ¿©ÀÚ´Â ÀÓ½ÅÇßÀ» ¶§ ¿ä·Î °¨¿°À» ¾Î¾Ò½É´Ï´õ.
+,ÀÓ½ÅÀÌ ¹æ±¤¿° µÎ ¹øÀÌ¶û Çì¸£Æä½º ¹ÙÀÌ·¯½º °¨¿°À¸·Î º¹ÀâÇØÁ³½É´Ï´õ.,ÀÓ½Å ±â°£ µ¿¾È¿¡ °¨¿°Àº ¾ø¾ú½É´Ï´õ.
+,ÀÓ½ÅÀÌ ¿ä·Î °¨¿° µÎ ¹øÀÌ¶û Çì¸£Æä½º ´Ü¼ø ¹ÙÀÌ·¯½º °¨¿° ¶«¿¡ º¹ÀâÇØÁ³½É´Ï´õ.,ºÐ¸¸Àº Á¦¿ÕÀý°³ ¼ö¼ú·Î Çß½É´Ï´õ.
+,"Æ¯ÀÌ»çÇ×Àº, ¸ð¸£ÇÉ gtt ¾²´Â µ¿¾È¿¡ ±× ¿©ÀÚ Ç÷¾ÐÀÌ 83/30À¸·Î ¶³¾îÁ³½É´Ï´õ.",È¯ÀÚ´Â ÅëÁõ °ü¸®°¡ ÇÊ¿äÇÕ´Ï´õ.
+,"Æ¯ÀÌ»çÇ×Àº, ¸ð¸£ÇÉ ÁÖÀÔ Áß¿¡ ±× ¿©ÀÚ Ç÷¾ÐÀÌ 83/30À¸·Î ¶³¾îÁ³´Ù´Â °Ì´Ï´õ.",È¯ÀÚÇÑÅ×´Â Á¤¸Æ ÁÖÀÔ °æ·Î°¡ ¾ø½É´Ï´õ.
+,"Æ¯ÀÌ»çÇ×Àº, ¸ð¸£ÇÉ gtt ¾²´Â µ¿¾È¿¡ ±× ¿©ÀÚ Ç÷¾ÐÀÌ 83/30À¸·Î ¶³¾îÁ³½É´Ï´õ.",¸ð¸£ÇÉÀÌ ÀúÇ÷¾ÐÀ» À¯¹ßÇß½É´Ï´õ.
+,È¯ÀÚ´Â ¿­ ³ª´Â ¿øÀÎ Ã£¾Æº¼¶ó°í º´µ¿ ¿À±â Àü¿¡ HD º´µ¿À¸·Î ¿Å°ÜÁ³½É´Ï´õ.,È¯ÀÚ Ã¼¿ÂÀÌ ¿Ã¶ú½É´Ï´õ.
+,È¯ÀÚ´Â ¿­ ³ª´Â ¿øÀÎ Ã£¾Æº¼¶ó°í º´µ¿À¸·Î ¿À±â Àü¿¡ HD º´µ¿À¸·Î ¿Å°ÜÁ³½É´Ï´õ.,È¯ÀÚ´Â ¿­ÀÌ ¾ø´Â »óÅÂÀÔ´Ï´õ.
+,È¯ÀÚ´Â ¹ß¿­ Áø´Ü ¶«¿¡ º´µ¿À¸·Î ¿À±â Àü¿¡ HD º´µ¿À¸·Î ¿Å°ÜÁ³½É´Ï´õ.,È¯ÀÚÇÑÅ× °¨¿°ÀÌ »ý°å½É´Ï´õ.
+,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ³²¾ÆÀÖ´Â ¿ÞÂÊ ¾àÈ­ Çö»ó 8.,È¯ÀÚ´Â ¿¹Àü¿¡ ³úÁ¹ÁßÀ» ¾Î¾Ò½É´Ï´õ.
+,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ¿ÞÂÊ ¾àÈ­ Áõ»óÀÌ ³²¾ÆÀÖÀ½.,È¯ÀÚ ¿îµ¿ ½Å°æ °Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ¿ÞÂÊ ÈûÀÌ ºüÁø »óÅÂ 8.,È¯ÀÚ´Â ¸¸¼º ÁúÈ¯À» ¾Î°í ÀÖ½É´Ï´õ.
+,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ¿ÞÂÊ ¾àÈ­ Áõ»óÀÌ ³²¾ÆÀÖÀ½.,È¯ÀÚ°¡ ³úÁ¹ÁßÀ» °Þ¾ú½É´Ï´õ.
+,[**2987**]³â¿¡ ¿Â ³úÁ¹Áß ¶«¿¡ ³²¾ÆÀÖ´Â ¿ÞÂÊ ¾àÈ­ Çö»óÀÌ ÀÖ½É´Ï´õ.,È¯ÀÚ ³ú MRI °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"[**2987**]³â¿¡ ³úÁ¹Áß(CVA)À» °Þ¾ú°í, ±×°Í ¶«¿¡ ¿ÞÂÊ ¾àÈ­ Áõ»óÀÌ 8Á¡À¸·Î ³²¾ÆÀÖ½É´Ï´õ.",È¯ÀÚ´Â °æµ¿¸Æ¿¡ µ¿¸Æ°æÈ­ÁõÀÌ ÀÖ½É´Ï´õ.
+,ÁÖº¯½Å°æº´Áõ ÀÌ·ÂÀÌ ÀÖÀ½.,È¯ÀÚ´Â ¸»´Ü ºÎÀ§ °¨°¢ÀÌ ¶³¾îÁ³½É´Ï´õ.
+,ÁÖº¯½Å°æº´Áõ·ÂÀÌ ÀÖÀ½.,È¯ÀÚ´Â »çÁö¿¡¼­ Á¤»óÀûÀÎ °¨°¢À» °¡Áö°í ÀÖ½À´Ï´Ù.
+,ÁÖº¯½Å°æº´Áõ·ÂÀÌ ÀÖÀ½.,È¯ÀÚ´Â ´ç´¢º´À» ¾Î°í ÀÖ½À´Ï´Ù.
+,"±×³à´Â ½Å±Ô ¹ßº´ ½É¹æ¼¼µ¿À» °¡Áö°í ÀÖ¾úÀ¸¸ç, ½É¹Ú¼ö´Â 120´ë¿¡¼­ 130´ë¿´½À´Ï´Ù. ¶ÇÇÑ Ãø¸é ST ÇÏ°­À» º¸¿´´Âµ¥, ÀÌ´Â ¿ä±¸¼º ÇãÇ÷°ú ÀÏÄ¡ÇÕ´Ï´Ù.",È¯ÀÚ´Â ºÒ±ÔÄ¢ÀûÀ¸·Î ºÒ±ÔÄ¢ÇÑ ½É¹Úµ¿À» °¡Áö°í ÀÖ½À´Ï´Ù.
+,"±×³à´Â ½Å±Ô ¹ßº´ ½É¹æ¼¼µ¿À» °¡Áö°í ÀÖ¾úÀ¸¸ç, ½É¹Ú¼ö´Â 120´ë¿¡¼­ 130´ë¿´½À´Ï´Ù. ¶ÇÇÑ Ãø¸é ST ÇÏ°­À» º¸¿© ¼ö¿ä¼º ÇãÇ÷À» ³ªÅ¸³Â½À´Ï´Ù.",È¯ÀÚ´Â ½ÉÀå ÇãÇ÷ÁõÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù.
+,"±×³à´Â ½Å±Ô ¹ßº´ ¾ÆÆ®¸®¾ó ÇÇºê¸±·¹ÀÌ¼ÇÀ» °¡Áö°í ÀÖÀ¸¸ç, ½É¹Ú¼ö´Â 120´ë¿¡¼­ 130´ë·Î È®ÀÎµÇ¾ú½À´Ï´Ù. ¶ÇÇÑ Ãø¸é ST ÇÏ°­À» º¸ÀÌ´Âµ¥, ÀÌ´Â ¼ö¿ä¼º ÇãÇ÷°ú ÀÏÄ¡ÇÕ´Ï´Ù.",È¯ÀÚ´Â °ü»óµ¿¸Æ ÁúÈ¯À» °¡Áö°í ÀÖ½À´Ï´Ù.
+,2Çü ´ç´¢º´,Ç÷´ç °íÁ¶ÀÇ °ú°Å·Â
+,2Çü ´ç´¢º´,´ç´¢º´·ÂÀÌ ¾øÀ½
+,2Çü ´ç´¢º´,ºñ¸¸·Â »çÇ×
+,"52¼¼ÀÇ È¯ÀÚ°¡ CÇü °£¿°°ú ESLD(ÃÖÁ¾´Ü°è °£ ÁúÈ¯)ÀÇ º´·ÂÀÌ ÀÖÀ¸¸ç, º¹ºÎ ÆØ¸¸Áõ Áõ°¡·Î [**Hospital3 36130**] ¼¾ÅÍ¿¡ ÀÔ¿øÇÏ¿´½À´Ï´Ù.",°£ ÁúÈ¯ÀÇ °ú°Å·Â
+,52¼¼ÀÇ È¯ÀÚ°¡ CÇü °£¿°°ú ESLD(ÃÖÁ¾´Ü°è °£ÁúÈ¯)ÀÇ º´·ÂÀÌ ÀÖÀ¸¸ç º¹ºÎ ÆØ¸¸Áõ Áõ°¡·Î [**Hospital3 36130**] ¼¾ÅÍ¿¡ ÀÔ¿øÇÏ¿´½À´Ï´Ù.,Á¤»óÀûÀÎ °£ ±â´É
+,52¼¼ÀÇ È¯ÀÚ·Î BÇü °£¿°°ú ESLD(ÃÖÁ¾´Ü°è °£ÁúÈ¯)ÀÇ º´·ÂÀÌ ÀÖ´Â È¯ÀÚ°¡ º¹ºÎ ÆØ¸¸Áõ Áõ°¡·Î [**Hospital3 36130**] ¼¾ÅÍ¿¡ ÀÔ¿øÇÏ¿´½À´Ï´Ù.,¾ËÄÚ¿Ã ³²¿ë·Â ÀÌ·Â
+,"±×³à´Â º¹ºÎ CT¸¦ ¹Þ¾ÒÀ¸¸ç, °á°ú´Â Á¤»óÀÌ¾ú½À´Ï´Ù.",È¯ÀÚÀÇ º¹ºÎ CT °á°ú´Â Á¤»óÀÔ´Ï´Ù.
+,"±×³à´Â º¹ºÎ CT¸¦ ¹Þ¾ÒÀ¸¸ç, °á°ú´Â Á¤»óÀÌ¾ú½À´Ï´Ù.",È¯ÀÚ¿¡°Ô ½ÅÀå°á¼®ÀÌ ÀÖ½À´Ï´Ù.
+,"±×³à´Â º¹ºÎ CT¸¦ ¹Þ¾Ò´Âµ¥, °á°ú´Â Á¤»óÀÌ¾ú½À´Ï´Ù.",È¯ÀÚ´Â º¹ÅëÀ» °Þ°í ÀÖ½À´Ï´Ù.
+,"È¯ÀÚÀÇ ÆÇ¸Å ¸éÀûÀº 0.8 cm2·Î °è»êµÇ¾úÀ¸¸ç, ´ëµ¿¸Æ ÆÇ¸Å¸¦ °¡·ÎÁú·¯ Æò±Õ ±×¶óµð¾ðÆ®´Â 35 mmHg¿´½À´Ï´Ù.",È¯ÀÚ´Â ´ëµ¿¸Æ ÇùÂøÁõÀ» ¾Î°í ÀÖ½À´Ï´Ù.
+,"È¯ÀÚÀÇ ÆÇ¸Å ¸éÀûÀº 0.8 cm2·Î °è»êµÇ¾úÀ¸¸ç, ´ëµ¿¸Æ ÆÇ¸Å¸¦ °¡·ÎÁú·¯ Æò±Õ °æ»ç´Â 35 mmHg¿´½À´Ï´Ù.",È¯ÀÚÀÇ ´ëµ¿¸Æ ÆÇ¸Å´Â Á¤»óÀÔ´Ï´Ù.
+,"È¯ÀÚÀÇ ÆÇ¸ÅºÎÀ§ ¸éÀûÀº 0.8 cm2·Î °è»êµÇ¾úÀ¸¸ç, ´ëµ¿¸Æ ÆÇ¸ÅºÎÀ§ÀÇ Æò±Õ °æ»ç´Â 35 mmHg¿´½À´Ï´Ù.",È¯ÀÚ´Â TAVR(°æÇÇÀû ´ëµ¿¸Æ ÆÇ¸· Ä¡È¯¼ú)À» ¹Þ°Ô µÉ °ÍÀÔ´Ï´Ù.
+,"ÀÔ¿ø 2ÀÏ Àü, È¯ÀÚ´Â [**Hospital1 18**] [**Location (un) 614**]¿¡ ÇÏº¹ÅëÀ» È£¼ÒÇÏ¸ç ¹æ¹®ÇÏ¿´½À´Ï´Ù. ±×´Â ÇÏº¹ºÎ¿¡ °ÉÃÄ ½ÉÇÑ ÅëÁõÀ» ´À²¼´Ù°í ¼³¸íÇÏ¿´À¸¸ç, ÀÌ´Â ±¸Åä, ¸Þ½º²¨¿ò, ±×¸®°í °ÇÁ¶ÇÑ ±¸Åä¿Í °ü·ÃÀÌ ÀÖ¾ú½À´Ï´Ù.",±×³à´Â ÀÔ¿ø Àü¿¡ º´¿¡ °É·ÈÀ¸¸ç ÅëÁõÀ» °Þ¾ú½À´Ï´Ù.
+,"ÀÔ¿ø 2ÀÏ Àü, È¯ÀÚ´Â [**Hospital1 18**] [**Location (un) 614**]¿¡ ¹æ¹®ÇÏ¿© ÇÏº¹ÅëÀ» È£¼ÒÇÏ¿´½À´Ï´Ù. ±×´Â ÇÏº¹ºÎ¿¡ °ÉÃÄ ³¯Ä«·Î¿î ÅëÁõÀ» ´À³¢¸ç, ÀÌ´Â ±¸Åä, ¸Þ½º²¨¿ò, ±×¸®°í °ÇÁ¶ÇÑ ±¸Åä°¨°ú ¿¬°üµÇ¾î ÀÖ¾ú½À´Ï´Ù.",±×³à´Â ±¸Åä¸¦ ºÎÀÎÇß½À´Ï´Ù.
+,"ÀÔ¿ø 2ÀÏ Àü, È¯ÀÚ´Â [**Hospital1 18**] [**Location (un) 614**]¿¡ ¹æ¹®ÇÏ¿© ÇÏº¹ºÎ ÅëÁõÀ» È£¼ÒÇÏ¿´½À´Ï´Ù. ±×´Â ÇÏº¹ºÎ¿¡ °ÉÃÄ ³¯Ä«·Î¿î ÅëÁõÀ» ´À³¢¸ç, ÀÌ´Â ±¸Åä, ¸Þ½º²¨¿ò ¹× ±¸¿ªÁú°ú ¿¬°üµÇ¾î ÀÖ¾ú½À´Ï´Ù.",±×³à´Â ¼³»ç Áõ»óÀ» ºÎÀÎÇß½À´Ï´Ù.
+,"°¼´Â ÇÇ¸¦ 500cc Èê›°í, ±× µÚ¿¡ ³óÃàÀûÇ÷±¸ 2 À¯´ÖÇÏ°í ½Å¼± µ¿°á Ç÷Àå 2 À¯´ÖÀ» ¼öÇ÷ ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ÀúÇ÷»ö¼ÒÁõ ¶§¹®¿¡ ÇÇ¸¦ ¼öÇ÷¹Þ¾Ò½É´õ.
+,"°¼´Â ÇÇ¸¦ 500cc Èê›°í, ±× µÚ¿¡ ÀûÇ÷±¸ ³óÃà¾× 2 À¯´ÖÇÏ°í ½Å¼± µ¿°á Ç÷Àå 2 À¯´ÖÀ» ¼öÇ÷ ¹Þ¾Ò½É´õ.",È¯ÀÚ´Â ÇÇ ¼öÇ÷ ¾È ¹Þ¾Ò½É´õ.
+,"°¼´Â ÇÇ¸¦ 500cc Èê›°í, ±× µÚ¿¡ ÀûÇ÷±¸ ³óÃà¾× 2 À¯´ÖÇÏ°í ½Å¼± µ¿°á Ç÷Àå 2 À¯´ÖÀ» ¼öÇ÷ ¹Þ¾Ò½É´õ.",È¯ÀÚ°¡ Áö±Ý ÇÇ¸¦ ½ÉÇÏ°Ô Èê¸®°í ÀÖ½É´õ.
+,¿ø·¡ È¯ÀÚ°¡ Á¤½ÅÀÌ Á» ¾ø´Â °É·Î µÇÀÖ¾ú½É´õ.,È¯ÀÚ Á¤½Å »óÅÂ°¡ ¹Ù…ó½É´õ.
+,¿ø·¡ È¯ÀÚ°¡ Á¤½ÅÀÌ Á» ¾ø´Â °É·Î µÇÀÖ¾ú½É´õ.,È¯ÀÚ´Â AAOx3 »óÅÂÀÔ´Ï´õ.
+,¿ø·¡ È¯ÀÚ°¡ Á¤½ÅÀÌ Á» ¾ø´Â °É·Î µÇÀÖ¾ú½É´õ.,È¯ÀÚ MMSE °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,"°¼´Â ¾îÁö·³Áõ, °¡½¿ ÅëÁõ, ½É°èÇ×Áø, ¼û °¡»Ý, ¶Ç´Â È°µ¿ ½Ã È£Èí°ï¶õÀº ¾ø´ÙÄ«Áö¸¸, ¿îµ¿À» °ÅÀÇ ¾È ÇØ¼­ ÀÌ°É È®ÀÎÇÏ±â´Â ¾î·Æ½Ê´Ï´õ. º´¿ø¿¡ ¿©·¯ ¹ø ÀÔ¿øÇØ°¡²¿ ¸öÀÌ ¸¶ÀÌ ¼è¾àÇØÁ®¼­ ´ëºÎºÐ ½Ã°£À» Ä§´ë¼­ º¸³»°Å³ª ¾È¾ÆÀÖ°Å³ª ÈÙÃ¼¾î¸¦ ÀÌ¿ëÇÕ´Ï´õ.",È¯ÀÚ´Â ÁÖ·Î ¾È¾Æ¼­ »ýÈ°ÇÕ´Ï´õ.
+,"°¼´Â ¾îÁö·³Áõ, °¡½¿ ÅëÁõ, ½É°èÇ×Áø, ¼û °¡»Ý, ¶Ç´Â ¿îµ¿ ½Ã È£Èí°ï¶õÀº ¾Æ´Ï¶óÄ«Áö¸¸, ¿îµ¿À» °ÅÀÇ ¾ÈÇØ¼­ È®ÀÎÇÏ±â ¾î·Æ´Ù´Â Á¡À» ¸»ÇØ¾ß ÇÕ´Ï´õ. º´¿ø¿¡ ¿©·¯ ¹ø ÀÔ¿øÇØ¼­ ½ÉÇÏ°Ô Ã¼·ÂÀÌ ¶³¾îÁ®°¡²¿ ´ëºÎºÐ ½Ã°£À» Ä§´ë¼­, ¾È¾Æ¼­, ¶Ç´Â ÈÙÃ¼¾î¿¡¼­ º¸³»°í ÀÖ½É´õ.",È¯ÀÚ°¡ °¡½¿ÀÌ ¾ÆÇÁ´ÙÄ°´Ï´õ.
+,"°¼´Â ¾îÁö·³Áõ, °¡½¿ ÅëÁõ, ½É°èÇ×Áø, ¼ûÂ÷±â, ¶Ç´Â ¿îµ¿ ½Ã È£Èí°ï¶õÀº ¾ø´ÙÄ«Áö¸¸, ¿îµ¿À» °ÅÀÇ ¾È ÇÏ°í º´¿ø¿¡ ¿©·¯ ¹ø ÀÔ¿øÇØ¼­ ½ÉÇÏ°Ô Ã¼·ÂÀÌ ¶³¾îÁ®°¡ ´ëºÎºÐ Ä§´ë¼­, ¾È¾Æ¼­, ¶Ç´Â ÈÙÃ¼¾î¿¡¼­ º¸³»´Â ÀÏÀÌ ¸¹´Ù´Â Á¡À» ¸»ÇØ¾ß ÇÕ´Ï´õ.",È¯ÀÚ´Â ºñ¸¸ÀÔ´Ï´õ.
+,Á¦ÇÑ¼º ÆóÁúÈ¯,È¯ÀÚ FEV1(°­Á¦È£Èí 1ÃÊ·®)ÀÌ ÁÙ¾ú½É´õ.
+,Á¦ÇÑ¼º Æó ÁúÈ¯,È¯ÀÚ Æó±â´É°Ë»ç °á°ú´Â Á¤»óÀÔ´Ï´õ.
+,Á¦ÇÑ¼º Æó ÁúÈ¯,È¯ÀÚ ÈäºÎ CT °á°ú°¡ Á¤»óÀÌ ¾ÆÀÔ´Ï´õ.
